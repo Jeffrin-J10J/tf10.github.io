@@ -141,7 +141,7 @@ var map = new jsVectorMap({
   markerStyle: {
     initial: {
       r: 7,
-      fill: "#F27B01",
+      fill: "#1e1e1e",
       fillOpacity: 1,
       stroke: "#FFF",
       strokeWidth: 5,
