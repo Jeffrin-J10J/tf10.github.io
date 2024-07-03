@@ -2146,7 +2146,7 @@ img {
   color: rgb(28 28 28 / 85%);
 }
 
-.how-we-do-area .how-we-do-right-content .how-we-do-items + .how-we-do-items {
+.how-we-do-area .how-we-do-right-content .how-we-do-items + .how-we-do-items  {
   margin-top: 80px;
 }
 .how-we-do-area
@@ -2263,6 +2263,7 @@ img {
   .line-shape {
   display: none;
 }
+
 
 /* Services */
 .service-area {
