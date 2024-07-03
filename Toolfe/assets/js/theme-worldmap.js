@@ -46,9 +46,9 @@
 //           '#D1FAE9'
 //         );
 
-//         // Enables map tooltip and sets settings for tooltip    
+//         // Enables map tooltip and sets settings for tooltip
 //         map
-//           .tooltip() 
+//           .tooltip()
 //           .useHtml(true)
 //           .padding([8, 13, 10, 13])
 //           .width(350)
@@ -95,80 +95,79 @@
 //     };
 //   }
 
-
 var markers = [
-	{
-		name: 'Palestine',
-		coords: [31.5, 34.8],
-	},
-	{
-		name: 'Russia',
-		coords: [61, 105],
-	},
-	{
-		name: 'Geenland',
-		coords: [72, -42],
-	},
-	{
-		name: 'Canada',
-		coords: [56, -106],
-	},
+  {
+    name: "Palestine",
+    coords: [31.5, 34.8],
+  },
+  {
+    name: "Russia",
+    coords: [61, 105],
+  },
+  {
+    name: "Geenland",
+    coords: [72, -42],
+  },
+  {
+    name: "Canada",
+    coords: [56, -106],
+  },
 ];
 
 var map = new jsVectorMap({
-	// world_merc, us_mill_en, us_merc_en,
-	// us_lcc_en, us_aea_en, spain
-	// russia, canada, iraq
-	map: 'world',
-	selector: '#map',
-	backgroundColor: 'tranparent',
-	draggable: true,
-	zoomButtons: false,
-	zoomOnScroll: false,
-	zoomOnScrollSpeed: 3,
-	labels: {
-		markers: {
-			render: function (index) {
-				// return markers[index].name;
-			}
-		}
-	},
-	markers: markers,
-	lineStyle: {
-		stroke: '#808080',
-		strokeWidth: 1,
-		strokeLinecap: 'round'
-	},
-	markerStyle: {
-		initial: {
-			r: 7,
-			fill: '#1351D8',
-			fillOpacity: 1,
-			stroke: '#FFF',
-			strokeWidth: 5,
-			strokeOpacity: .5
-		},
-		hover: {
-			fill: '#8ea8ed',
-			cursor: 'pointer'
-		},
-		selected: {
-			fill: 'blue'
-		},
-		selectedHover: {}
-	},
-	markerLabelStyle: {
-		initial: {
-			fontFamily: 'Verdana',
-			fontSize: 12,
-			fontWeight: 500,
-			cursor: 'default',
-			fill: '#bababa'
-		},
-		hover: {
-			cursor: 'pointer'
-		},
-		selected: {},
-		selectedHover: {}
-	}
-})
+  // world_merc, us_mill_en, us_merc_en,
+  // us_lcc_en, us_aea_en, spain
+  // russia, canada, iraq
+  map: "world",
+  selector: "#map",
+  backgroundColor: "tranparent",
+  draggable: true,
+  zoomButtons: false,
+  zoomOnScroll: false,
+  zoomOnScrollSpeed: 3,
+  labels: {
+    markers: {
+      render: function (index) {
+        // return markers[index].name;
+      },
+    },
+  },
+  markers: markers,
+  lineStyle: {
+    stroke: "#808080",
+    strokeWidth: 1,
+    strokeLinecap: "round",
+  },
+  markerStyle: {
+    initial: {
+      r: 7,
+      fill: "#F27B01",
+      fillOpacity: 1,
+      stroke: "#FFF",
+      strokeWidth: 5,
+      strokeOpacity: 0.5,
+    },
+    hover: {
+      fill: "#8ea8ed",
+      cursor: "pointer",
+    },
+    selected: {
+      fill: "blue",
+    },
+    selectedHover: {},
+  },
+  markerLabelStyle: {
+    initial: {
+      fontFamily: "Verdana",
+      fontSize: 12,
+      fontWeight: 500,
+      cursor: "default",
+      fill: "#bababa",
+    },
+    hover: {
+      cursor: "pointer",
+    },
+    selected: {},
+    selectedHover: {},
+  },
+});
