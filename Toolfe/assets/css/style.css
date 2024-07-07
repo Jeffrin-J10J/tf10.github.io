@@ -450,7 +450,7 @@ img {
   background: #ffffff;
 }
 .header-area.header-2 {
-  background: none;
+  /* background: none; */
 }
 .header-area .header-left {
   gap: 68px;
@@ -6969,4 +6969,5 @@ img {
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
+
 
