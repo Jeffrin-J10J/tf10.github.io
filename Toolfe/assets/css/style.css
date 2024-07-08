@@ -234,7 +234,7 @@ img {
   height: 100%;
 }
 .theme-btn2 {
-  background: #1e1e1e1a;
+  background: #e8f0ff;
   color: var(--primary_color);
 }
 .theme-btn2::after,
@@ -1635,7 +1635,7 @@ img {
   font-size: 16px;
   display: inline-block;
   border-radius: 30px;
-  background: rgba(216, 177, 19, 0.1);
+  background: #e8f0ff;
   padding: 11px 31px;
   text-transform: capitalize;
   font-family: var(--font_dm);
