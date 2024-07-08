@@ -2,7 +2,7 @@
   --dark1: #141414;
   --dark2: #454545;
   --light_white: #f9f9f9;
-  --primary_color: #FF4E00;
+  --primary_color: #ff4e00;
   --primary_color2: #ffffffb3;
   --primary_light: #f3f6fd;
   --primary_light2: rgb(19 81 216 / 10%);
@@ -889,7 +889,7 @@
   .faq-box .card-header button {
     text-align: left;
     font-size: 19px;
-    padding-top: 16px;
+    /* padding-top: 16px; */
   }
   .faq-style-2-area .faq-box {
     padding-left: 108px;
