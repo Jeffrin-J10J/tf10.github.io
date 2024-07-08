@@ -524,7 +524,7 @@ img {
 }
 .header-area .navbar-wrapper ul li a {
   color: var(--dark1);
-  font-size: 18px;  
+  font-size: 18px;
   font-weight: 500;
   position: relative;
   text-decoration: none;
@@ -2146,7 +2146,7 @@ img {
   color: rgb(28 28 28 / 85%);
 }
 
-.how-we-do-area .how-we-do-right-content .how-we-do-items + .how-we-do-items  {
+.how-we-do-area .how-we-do-right-content .how-we-do-items + .how-we-do-items {
   margin-top: 80px;
 }
 .how-we-do-area
@@ -2263,7 +2263,6 @@ img {
   .line-shape {
   display: none;
 }
-
 
 /* Services */
 .service-area {
@@ -6020,7 +6019,7 @@ img {
   border: none;
   width: 100%;
   background: none;
-  padding: 22px 0 0 0;
+  /* padding: 22px 0 0 0; */
   margin: 0;
   font-size: 26px;
   letter-spacing: -0.5px;

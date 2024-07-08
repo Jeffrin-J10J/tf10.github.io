@@ -6016,10 +6016,11 @@ img {
 .faq-box .card-header button {
   display: flex;
   align-items: center;
+  text-align: start;
   border: none;
   width: 100%;
   background: none;
-  padding: 22px 0 0 0;
+  /* padding: 22px 0 0 0; */
   margin: 0;
   font-size: 26px;
   letter-spacing: -0.5px;
@@ -6254,7 +6255,7 @@ img {
   box-shadow: none;
 }
 .contact-form .input-row .input-group.phone-number input {
-  padding-left: 66px;
+  padding-left: 12px;
 }
 .contact-form .input-row .input-group.input-checkbox {
   align-items: center;
@@ -6969,5 +6970,3 @@ img {
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
-
-

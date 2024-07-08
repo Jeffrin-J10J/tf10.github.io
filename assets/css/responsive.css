@@ -889,7 +889,7 @@
   .faq-box .card-header button {
     text-align: left;
     font-size: 19px;
-    padding-top: 16px;
+    /* padding-top: 16px; */
   }
   .faq-style-2-area .faq-box {
     padding-left: 108px;
