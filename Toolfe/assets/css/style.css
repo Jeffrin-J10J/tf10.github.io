@@ -4183,8 +4183,9 @@ img {
   margin-bottom: 0;
 }
 .project-item .project-item-inner h2 a {
-  color: var(--dark1);
+  color: white;
 }
+/* changed by Sathish */
 .project-item .project-item-inner img {
   display: block;
   width: 362px;
