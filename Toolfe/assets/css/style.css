@@ -135,6 +135,10 @@ button:focus {
   box-shadow: none;
 }
 
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+}
+
 /* ============================================================== 
     # Template Default Styles
 =================================================================== */
@@ -1661,9 +1665,8 @@ img {
   margin-bottom: 0;
 }
 .hero-service-about {
-  background: #f3f6fd;
   border-radius: 10px;
-  padding: 80px 80px 120px 80px;
+  /* padding: 80px 80px 120px 80px;   */
 }
 .hero-service-about .section-header {
   margin-bottom: 55px;
@@ -2165,6 +2168,8 @@ img {
   margin: 0;
   color: rgb(28 28 28 / 85%);
 }
+
+
 
 .how-we-do-area .how-we-do-right-content .how-we-do-items + .how-we-do-items {
   margin-top: 80px;
@@ -5137,8 +5142,9 @@ padding: 2px;
   .blog-details-header-content-body
   .section-header
   .section-subtitle {
-  color: var(--primary_color);
-  background: rgb(19 81 216 / 10%);
+  color: #F87708;
+  -webkit-text-fill-color : #F87708;
+  background: linear-gradient(93deg, #F877080e 4.1%, #FB4A550e 59.93%, #E620AF0e 98.17%);
   border-radius: 30px;
   letter-spacing: 0;
   font-size: 16px;
@@ -7019,3 +7025,6 @@ padding: 2px;
   border-bottom-left-radius: 5px;
 }
 
+.how-we-do-content .content {
+  border-bottom : 0px;
+}
