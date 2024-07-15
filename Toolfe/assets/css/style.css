@@ -4956,7 +4956,7 @@ padding: 2px;
   flex: 1;
 }
 .news2-card {
-  background: linear-gradient(180deg, #e7eeff 0%, #f3f6fd 100%);
+  background: #f6f6f6;
   border-radius: 10px;
   padding: 24px 24px 65px 24px;
   position: relative;
@@ -6085,8 +6085,8 @@ padding: 2px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: var(--primary_color);
-  background: rgb(19 81 216 / 10%);
+  color:#F87708 ;
+  background: linear-gradient(93deg, #F877083a 4.1%, #fb4a563a 59.93%, #E620AF3a 98.17%);
   position: absolute;
   left: 40px;
   top: 52px;
@@ -6107,7 +6107,7 @@ padding: 2px;
   padding: 220px 0;
 }
 .faq-style-2-area .faq-inner {
-  background: #f3f6fd;
+  background: #F6F6F6;
   border-radius: 10px;
   padding: 120px 128px 140px 128px;
 }
@@ -6226,7 +6226,7 @@ padding: 2px;
   gap: 24px;
 }
 .contact-area .contact-form-wrap {
-  background: var(--primary_light);
+  background: #f6f6f6;
   border-radius: 10px;
   padding: 104px 83px 83px 83px;
 }
@@ -6341,7 +6341,7 @@ padding: 2px;
 }
 
 .contact-area .contact-experience {
-  background: var(--primary_light);
+  background: #f6f6f6;
   border-radius: 10px;
   padding: 50px 104px;
   max-width: 399px;
@@ -6375,14 +6375,14 @@ padding: 2px;
 }
 .contact-area .contact-experience ul li p {
   font-size: 18px;
-  color: var(--primary_color);
+  color: #F87708;
   line-height: 1;
   margin: 0;
   font-weight: 300;
 }
 
 .contact-area .contact-infos {
-  background: var(--primary_light);
+  background: #f6f6f6;
   border-radius: 10px;
   padding: 50px 60px;
   max-width: 362px;
