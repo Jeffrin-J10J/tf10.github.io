@@ -513,7 +513,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingOne">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What sets automated solutions apart from manual processes?
                                     </button>
                                 </h5>
@@ -528,7 +528,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingTwo">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What comprehensive services do you provide for process automation implementation?
 
                                     </button>
@@ -544,7 +544,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingThree">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Are traditional manual methods still relevant in today's automated landscape?
 
                                     </button>
@@ -564,7 +564,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFour">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> How do you ensure data accuracy and integrity in automated processes?
 
                                     </button>
@@ -580,7 +580,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFive">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What factors should businesses consider when transitioning to automated processes?
 
                                     </button>
@@ -596,7 +596,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingSix">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Do you provide assistance with integrating automation tools with existing systems?
 
                                     </button>

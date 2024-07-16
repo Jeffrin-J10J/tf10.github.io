@@ -61,31 +61,30 @@
                       <div class="footer-links">
                           <h3>Industries</h3>
                           <ul>
-                              <li><a href="service-details.html">Healthcare</a></li>
-                              <li><a href="service-details.html">Finance and Banking</a></li>
-                              <li><a href="service-details.html">E-Commerce</a></li>
-                              <li><a href="service-details.html">Education<span class="new">Automate</span></a></li>
-                              <li><a href="service-details.html">Real Estate</a></li>
-                              <li><a href="service-details.html">Manufacturing</a></li>
-                              <li><a href="service-details.html">Hospitality and Travel</a></li>
-                              <li><a href="service-details.html">Logistics</a></li>
-                              <li><a href="service-details.html">Telecommunications</a></li>
-                              <li><a href="service-details.html">Energy and Utilities</a></li>
+                              <li><a href="../Industries/healthcare.php">Healthcare</a></li>
+                              <li><a href="../Industries/finance&banking.php">Finance and Banking</a></li>
+                              <li><a href="../Industries/ecommerce&retial.php">E-Commerce</a></li>
+                              <li><a href="../Industries/education.php">Education<span class="new">Automate</span></a></li>
+                              <li><a href="../Industries/realestate.php">Real Estate</a></li>
+                              <li><a href="../Industries/Manufacturing.php">Manufacturing</a></li>
+                              <li><a href="../Industries/media&entertinment.php"></a></li>Media and Entertinment
+                              <li><a href="../Industries/logistics-transportation.php">Logistics</a></li>
+                              <li><a href="../Industries/telecommunication.php">Telecommunications</a></li>
+                              <li><a href="../Industries/energy&utilities.php">Energy and Utilities</a></li>
                           </ul>
                       </div>
                       <div class="footer-links">
                           <h3>Services</h3>
                           <ul>
-                              <li><a href="blog.html">Process Automation</a></li>
-                              <li><a href="about.html">Generative AI & ML</a></li>
-                              <li><a href="partner.html">Data Analytics</a></li>
-                              <li><a href="career.html">Market Research</a></li>
-                              <li><a href="event.html">Cloud Solutions</a></li>
-                              <li><a href="team.html">Web Application Development</a></li>
-                              <li><a href="team.html">Website Development</a></li>
-                              <li><a href="team.html">User Experience Design UX/UI</a></li>
-                              <li><a href="team.html">Software Development</a></li>
-                              <li><a href="team.html">15 Hour Spark Tasks</a></li>
+                              <li><a href="../services/ProcessAutomation.php">Process Automation</a></li>
+                              <li><a href="../services/AIMLPage.php">Generative AI & ML</a></li>
+                              <li><a href="../services/DataAnalytics.php">Data Analytics</a></li>
+                              <li><a href="../services/MarketResearch.php">Market Research</a></li>
+                              <li><a href="../services/Cloud.php">Cloud Solutions</a></li>
+                              <li><a href="../services/SoftwareDevelopment.php">Web Application Development</a></li>
+                              <li><a href="../services/WebDevelopment.php">Website Development</a></li>
+                              <li><a href="../services/UXUI.php">User Experience Design UX/UI</a></li>
+                              <li><a href="https://hourspark.com/">15 Hour Spark Tasks</a></li>
                           </ul>
                       </div>
 
@@ -93,14 +92,14 @@
 
                           <h3>Quick Links</h3>
                           <ul>
-                              <li><a href="case-studie.html">About us</a></li>
-                              <li><a href="feature.html">Blogs</a></li>
-                              <li><a href="our-field-details.html">Career</a></li>
-                              <li><a href="our-field-details.html">Case Study</a></li>
-                              <li><a href="our-field-details.html">Contact us</a></li>
-                              <li><a href="our-field-details.html">Client Login</a></li>
-                              <li><a href="our-field-details.html">Hourspark x Toolfe</a></li>
-                              <li><a href="our-field-details.html">Book a free consultation</a></li>
+                              <li><a href="../about/about.php">About us</a></li>
+                              <li><a href="https://blog.toolfe.com/">Blogs</a></li>
+                              <li><a href="../career/index.php">Career</a></li>
+                              <li><a href="../case-study/index.php">Case Study</a></li>
+                              <li><a href="../contact/index.php">Contact us</a></li>
+                              <li><a href="https://www.toolfe.org/public/login">Client Login</a></li>
+                              <li><a href="https://hourspark.com/">Hourspark x Toolfe</a></li>
+                              <li><a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/">Book a free consultation</a></li>
                           </ul>
                       </div>
                       <div class="footer-links">
@@ -138,16 +137,8 @@
           <div class="custom-container">
               <div class="custom-row d-flex align-items-center justify-content-between">
                   <ul class="social-links d-flex align-items-center">
-                      <li><a href="#">
-                              <i class="iconoir-dribbble"></i>
-                          </a></li>
-                      <li><a href="#">
-                              <i class="iconoir-twitter"></i>
-                          </a></li>
-                      <li><a href="#">
-                              <i class="iconoir-instagram"></i>
-                          </a></li>
-                      <li><a href="#">
+
+                      <li><a href="https://in.linkedin.com/company/toolfe">
                               <i class="iconoir-linkedin"></i>
                           </a></li>
                   </ul>

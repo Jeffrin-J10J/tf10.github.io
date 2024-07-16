@@ -644,7 +644,6 @@
               </h1>
               <p>Save time and money with<br>
                 our powerful method.
-
               </p>
             </div>
             <a href="how-we-do.html" class="theme-simple-btn" >
@@ -657,7 +656,6 @@
               <div class="how-we-do-card">
                 <div class="circle-shape"></div>
                 <div class="line-shape"></div>
-
                 <div class="how-we-do-icon">
                   <h3 class="">1</h3>
                 </div>
@@ -790,7 +788,7 @@
 
                   <div class="case-studio-contents service-card ">
 
-                    <img src="assets/imgs/service-icon-1.svg" alt="ICON" />
+                    <img src="assets/imgs/Home/ourSolution/solution_icon1.svg" alt="ICON" />
 
                     <h3>Process Automation</h3>
                     <p>Manual processes hinder business growth and waste resources. Toolfe's custom automation workflows
@@ -808,133 +806,144 @@
                     </a>
                     <h3>Benefits</h3>
                     <ul>
-                      <li><i class="las la-check"></i> Unparalleled Client Satisfaction</li>
-                      <li><i class="las la-check"></i> Customized Automation</li>
-                      <li><i class="las la-check"></i> Robotic Innovation</li>
-                      <li><i class="las la-check"></i> Integrated Automation</li>
-                      <li><i class="las la-check"></i> Automation Scalability</li>
-                      <li><i class="las la-check"></i> Automated Support Systems</li>
+                      <li><i class="las la-check"></i> Hyper Automation</li>
+                      <li><i class="las la-check"></i> Robotic Process Automation</li>
+                      <li><i class="las la-check"></i> Automation Audition</li>
+                      <li><i class="las la-check"></i> Process Mining</li>
+                      <li><i class="las la-check"></i> Business Process Automation</li>
                     </ul>
                   </div>
                 </div>
               </div>
             </div>
             <div class="tab-pane fade" id="woo_commerce" role="tabpanel" aria-labelledby="woo_commerce-tab">
-              <div class="case-studio-body d-flex">
+            <div class="case-studio-body d-flex">
                 <div class="left d-flex flex-1">
-                  <div class="case-studio-img-card simple-shadow">
-                    <a href="#" class="case-studio-cat">IDP</a>
-                    <img src="assets/imgs/case-studio-3.jpg" alt="Case Studio" />
-                  </div>
-                  <div class="case-studio-img-card simple-shadow">
-                    <a href="#" class="case-studio-cat">OCR</a>
-                    <img src="assets/imgs/case-studio-4.jpg" alt="Case Studio" />
+
+                  <div class="case-studio-contents service-card ">
+
+                    <img src="assets/imgs/Home/ourSolution/solution_icon2.svg" alt="ICON" />
+
+                    <h3>Generative AI/ML </h3>
+                    <p>We specialize in Artificial Intelligence and Machine Learning technology, developing smart systems that learn, adapt, and perform tasks, revolutionizing efficiency and decision-making processes.
+                    </p>
+
                   </div>
                 </div>
                 <div class="right">
                   <div class="case-studio-contents service-card card-h">
-                    <img src="assets/imgs/service-icon-2.svg" alt="ICON" />
-                    <h3>Enhanced Knowledge Management</h3>
-                    <p>
-                      By integrating intelligent document processing, we transformed knowledge management for a
-                      prominent client. Our solution automated data extraction and classification, significantly
-                      reducing manual effort and enabling faster access to critical information, thereby boosting
-                      productivity and decision-making capabilities.
-
-                    </p>
+                    <!-- <img src="assets/imgs/service-icon-1.svg" alt="ICON" /> -->
                     <a href="#" class="theme-btn">
                       <i class="iconoir-arrow-up-right"></i>
                     </a>
+                    <h3>Benefits</h3>
+                    <ul>
+                      <li><i class="las la-check"></i> Predictive Analytics</li>
+                      <li><i class="las la-check"></i> Customized Automation</li>
+                      <li><i class="las la-check"></i> AI Strategy Consulting</li>
+                      <li><i class="las la-check"></i> Data Mining</li>
+                      <li><i class="las la-check"></i> Machine Learning Solutions</li>
+                      <li><i class="las la-check"></i> Automated Decision Making</li>
+                    </ul>
                   </div>
                 </div>
               </div>
             </div>
             <div class="tab-pane fade" id="crm_solutions" role="tabpanel" aria-labelledby="crm_solutions-tab">
-              <div class="case-studio-body d-flex">
+            <div class="case-studio-body d-flex">
                 <div class="left d-flex flex-1">
-                  <div class="case-studio-img-card simple-shadow">
-                    <a href="#" class="case-studio-cat">Computer Vision</a>
-                    <img src="assets/imgs/case-studio-5.jpg" alt="Case Studio" />
-                  </div>
-                  <div class="case-studio-img-card simple-shadow">
-                    <a href="#" class="case-studio-cat">Visualization</a>
-                    <img src="assets/imgs/case-studio-6.jpg" alt="Case Studio" />
+
+                  <div class="case-studio-contents service-card ">
+
+                    <img src="assets/imgs/Home/ourSolution/solution_icon3.svg" alt="ICON" />
+
+                    <h3>Data Analytics</h3>
+                    <p>Unlock actionable insights with our advanced data analytics solutions tailored to your business needs. Drive growth and efficiency by harnessing the power of data.
+                    </p>
+
                   </div>
                 </div>
                 <div class="right">
                   <div class="case-studio-contents service-card card-h">
-                    <img src="assets/imgs/service-icon-3.svg" alt="ICON" />
-                    <h3>Precision in Agriculture</h3>
-                    <p>
-                      Leveraging computer vision technology, we enabled precise fruit ripeness detection for
-                      agricultural applications. This innovation empowered farmers to optimize harvest times, minimize
-                      waste, and maximize crop yield, marking a significant advancement in agricultural automation and
-                      sustainability.
-
-                    </p>
+                    <!-- <img src="assets/imgs/service-icon-1.svg" alt="ICON" /> -->
                     <a href="#" class="theme-btn">
                       <i class="iconoir-arrow-up-right"></i>
                     </a>
+                    <h3>Benefits</h3>
+                    <ul>
+                      <li><i class="las la-check"></i> Data Collection</li>
+                      <li><i class="las la-check"></i> Data Cleaning</li>
+                      <li><i class="las la-check"></i> Data Analysis</li>
+                      <li><i class="las la-check"></i> Data Visualization</li>
+                      <li><i class="las la-check"></i> Predictive Modeling</li>
+                      <li><i class="las la-check"></i> Insights and Recommendations</li>
+                    </ul>
                   </div>
                 </div>
               </div>
             </div>
             <div class="tab-pane fade" id="web_designing" role="tabpanel" aria-labelledby="web_designing-tab">
-              <div class="case-studio-body d-flex">
+            <div class="case-studio-body d-flex">
                 <div class="left d-flex flex-1">
-                  <div class="case-studio-img-card simple-shadow">
-                    <a href="#" class="case-studio-cat">AWS</a>
-                    <img src="assets/imgs/case-studio-7.jpg" alt="Case Studio" />
-                  </div>
-                  <div class="case-studio-img-card simple-shadow">
-                    <a href="#" class="case-studio-cat">Lambda</a>
-                    <img src="assets/imgs/case-studio-8.jpg" alt="Case Studio" />
+
+                  <div class="case-studio-contents service-card ">
+
+                    <img src="assets/imgs/Home/ourSolution/solution_icon7.svg" alt="ICON" />
+
+                    <h3>Web Development</h3>
+                    <p>Enhance your business with personalized web solutions. Unlock growth opportunities and succeed online with ease.
+                    </p>
+
                   </div>
                 </div>
                 <div class="right">
                   <div class="case-studio-contents service-card card-h">
-                    <img src="assets/imgs/service-icon-4.svg" alt="ICON" />
-                    <h3>Streamlined Cloud Deploymen</h3>
-                    <p>
-                      Facilitating seamless workflow management, our automated cloud deployment solution simplified the
-                      process for a leading software provider. By automating deployment tasks, we enhanced scalability,
-                      reduced downtime, and improved overall operational efficiency, enabling our client to focus more
-                      on innovation and growth.
-
-                    </p>
+                    <!-- <img src="assets/imgs/service-icon-1.svg" alt="ICON" /> -->
                     <a href="#" class="theme-btn">
                       <i class="iconoir-arrow-up-right"></i>
                     </a>
+                    <h3>Benefits</h3>
+                    <ul>
+                      <li><i class="las la-check"></i> Responsive Design</li>
+                      <li><i class="las la-check"></i> E-commerce Integration</li>
+                      <li><i class="las la-check"></i> SEO Optimization</li>
+                      <li><i class="las la-check"></i> Content Management Systems</li>
+                      <li><i class="las la-check"></i> Custom Web Applications</li>
+                      <li><i class="las la-check"></i> Performance Optimization</li>
+                    </ul>
                   </div>
                 </div>
               </div>
             </div>
             <div class="tab-pane fade" id="it_support" role="tabpanel" aria-labelledby="it_support-tab">
-              <div class="case-studio-body d-flex">
+            <div class="case-studio-body d-flex">
                 <div class="left d-flex flex-1">
-                  <div class="case-studio-img-card simple-shadow">
-                    <a href="#" class="case-studio-cat">BPA</a>
-                    <img src="assets/imgs/case-studio-9.jpg" alt="Case Studio" />
-                  </div>
-                  <div class="case-studio-img-card simple-shadow">
-                    <a href="#" class="case-studio-cat">Digital Transformation</a>
-                    <img src="assets/imgs/case-studio-10.jpg" alt="Case Studio" />
+
+                  <div class="case-studio-contents service-card ">
+
+                    <img src="assets/imgs/Home/ourSolution/solution_icon4.svg" alt="ICON" />
+
+                    <h3>Market Research</h3>
+                    <p>Market research informs strategic IT decisions by analyzing trends, competitors, and customer preferences, crucial for product launches, expansions, and optimizations.
+                    </p>
+
                   </div>
                 </div>
                 <div class="right">
                   <div class="case-studio-contents service-card card-h">
-                    <img src="assets/imgs/service-icon-5.svg" alt="ICON" />
-                    <h3>Digital Transformation in Interiors</h3>
-                    <p>
-                      Partnering with an constructioncompany, we spearheaded a comprehensive digital transformation
-                      initiative. By integrating cutting-edge technologies and enhancing digital capabilities, we
-                      modernized their operations, improved customer engagement, and positioned them as industry leaders
-                      in interior design innovation.
-
-                    </p>
+                    <!-- <img src="assets/imgs/service-icon-1.svg" alt="ICON" /> -->
                     <a href="#" class="theme-btn">
                       <i class="iconoir-arrow-up-right"></i>
                     </a>
+                    <h3>Benefits</h3>
+                    <ul>
+                      <li><i class="las la-check"></i> Qualitative and quantitative research</li>
+                      <li><i class="las la-check"></i> Risk Analysis and Mitigation plans</li>
+                      <li><i class="las la-check"></i> Market entry strategy</li>
+                      <li><i class="las la-check"></i> Competitor Analysis</li>
+                      <li><i class="las la-check"></i> Pricing Strategy</li>
+                      <li><i class="las la-check"></i> Market Segmentation</li>
+                    </ul>
                   </div>
                 </div>
               </div>

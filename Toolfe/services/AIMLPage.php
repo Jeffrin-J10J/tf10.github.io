@@ -521,7 +521,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingOne">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                        <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What sets AI/ML solutions apart from manual methods?
 
                                     </button>
@@ -538,7 +538,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingTwo">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                        <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What do you do to help with AI/ML implementation?
 
                                     </button>
@@ -555,7 +555,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingThree">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Do people still need to do things the old-fashioned way with AI/ML
                                         around?
 
@@ -577,7 +577,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFour">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> How do you verify the integrity of AI/ML datasets?
 
                                     </button>
@@ -594,7 +594,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFive">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What should businesses think about when starting to use AI/ML?
 
                                     </button>
@@ -611,7 +611,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingSix">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Can you help put AI/ML tools together with what a business already
                                         uses?
 
