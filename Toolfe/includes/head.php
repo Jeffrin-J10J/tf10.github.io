@@ -1,335 +1,391 @@
 <div class="header-bar">
-            <div class="custom-container">
-                <div class="header-bar-body d-flex align-items-center justify-content-between">
-                    <div class="left">
-                        <select class="country-select" name="country" id="country">
-                            <option value="en">EN</option>
-                            <option value="uk">UK</option>
-                            <option value="dz">DZ</option>
-                        </select>
+    <div class="custom-container">
+        <div class="header-bar-body d-flex align-items-center justify-content-between">
+            <div class="left">
+                <select class="country-select" name="country" id="country">
+                    <option value="en">EN</option>
+                    <option value="uk">UK</option>
+                    <option value="dz">DZ</option>
+                </select>
+            </div>
+            <div class="right">
+                <p>
+                    Level up your business with <a href="about.html" data-word="SYNCK." id="dataWord">SYNCK.</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<header class="header-area header-2">
+
+    <div class="custom-container">
+        <div class="custom-row align-items-center justify-content-between">
+            <div class="header-left d-flex align-items-center">
+                <a href="../index.php" class="logo">
+                    <img src="https://toolfe.com/assets/test2.png" alt="Logo" />
+                </a>
+
+                <div class="header-left-right">
+                    <a href="contact.php" class="theme-btn">Contact Us</a>
+                    <span class="menu-bar">
+                        <i class="las la-bars"></i>
+                    </span>
+                </div>
+                <nav class="navbar-wrapper d-flex align-items-center">
+                    <span class="close-menu-bar">
+                        <i class="las la-times"></i>
+                    </span>
+                    <ul>
+                        <li class="dropdown-menu-item">
+                            <a href="#">Who we are</a>
+                            <span class="dropdown-menu-item-icon">
+                                <i class="las la-angle-down"></i>
+                            </span>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="../about/about.php">about us</a>
+                                </li>
+                                <li>
+                                    <a href="https://blog.toolfe.com/">Blog</a>
+                                </li>
+                                <!-- <li>
+                                    <a href="home2.html">Why choose us</a>
+                                </li> -->
+                            </ul>
+                        </li>
+                        <li class="mega-menu-item">
+                            <a href="#">Services</a>
+                            <span class="dropdown-menu-item-icon">
+                                <i class="las la-angle-down"></i>
+                            </span>
+                            <div class="mega-menu">
+                                <div class="mega-menu-inner">
+                                    <div class="custom-container d-flex">
+                                        <div class="left">
+                                            <div class="mega-menu-link-wrap d-flex align-items-start justify-content-between">
+                                                <div class="mega-menu-service-cards align-items-start">
+                                                    <div class="mega-menu-service-card">
+                                                        <span class="icon">
+                                                            <img src="../assets/imgs/hwd-icon-1.svg" alt="Service" />
+                                                        </span>
+                                                        <div class="content">
+                                                            <h2>
+                                                                <a href="../services/ProcessAutomation.php">Automation</a>
+                                                            </h2>
+                                                            <p>Effortless</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="mega-menu-service-card">
+                                                        <span class="icon">
+                                                            <img src="../assets/imgs/hwd-icon-4.svg" alt="Service" />
+                                                        </span>
+                                                        <div class="content">
+                                                            <h2>
+                                                                <a href="../services/">AI Solutions</a>
+                                                            </h2>
+                                                            <p>Proximity</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="mega-menu-service-card">
+                                                        <span class="icon">
+                                                            <img src="../assets/imgs/hwd-icon-2.svg" alt="Service" />
+                                                        </span>
+                                                        <div class="content">
+                                                            <h2>
+                                                                <a href="../services/a">Computer Vision</a>
+                                                            </h2>
+                                                            <p>Visual Insights</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="mega-menu-service-card">
+                                                        <span class="icon">
+                                                            <img src="../assets/imgs/hwd-icon-3.svg" alt="Service" />
+                                                        </span>
+                                                        <div class="content">
+                                                            <h2>
+                                                                <a href="../services/a">Front-End</a>
+                                                            </h2>
+                                                            <p>Development</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="mega-menu-links d-flex">
+                                                    <div class="mega-menu-link">
+                                                        <!-- <h3>Services</h3> -->
+                                                        <ul>
+                                                            <li>
+                                                                <a href="../services/ProcessAutomation.php">Process Automation</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../services/AIMLPage.php">Generative Ai & ML</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../services/DataAnalytics.php">Data Analytics</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../services/Cloud.php">Cloud Solutions</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../services/SoftwareDevelopment.php">Web Applications Development</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="mega-menu-link">
+                                                        <!-- <h3>Our Fields</h3> -->
+                                                        <ul>
+                                                            <li>
+                                                                <a href="../services/WebDevelopment.php">Website Development</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../services/UXUI.php">User Experience Design UI/UX</a>
+                                                            </li>
+
+                                                            <li>
+                                                                <a href="../services/MobileAppDevelopment.php">Mobile App Development</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../services/MarketResearch.php">Market Research</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://hourspark.com/">15 Hour Spark Tasks</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="mega-meu-footer d-flex align-items-center justify-content-between w-full">
+                                                <ul class="mega-menu-social d-flex align-items-center">
+                                                    <li>
+                                                        <a href="#"><i class="iconoir-dribbble"></i></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#"><i class="iconoir-twitter"></i></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#"><i class="iconoir-instagram"></i></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#"><i class="iconoir-linkedin"></i></a>
+                                                    </li>
+                                                </ul>
+
+                                                <p>
+                                                    Discover your future
+                                                    <a href="career.html">We're hiring</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="right">
+                                            <div class="mega-menu-ads">
+                                                <img src="../assets/imgs/ipad.jpg" alt="iPad" />
+                                                <h2>Our product hits</h2>
+                                                <p>
+                                                    Our new best IT product of the <br />year 2023.
+                                                </p>
+                                                <a href="case-studie-single.html">View more</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="mega-menu-item">
+                            <a href="#">Industries</a>
+                            <span class="dropdown-menu-item-icon">
+                                <i class="las la-angle-down"></i>
+                            </span>
+                            <div class="mega-menu">
+                                <div class="mega-menu-inner">
+                                    <div class="custom-container d-flex">
+                                        <div class="left">
+                                            <div class="mega-menu-link-wrap d-flex align-items-start justify-content-between">
+                                                <div class="mega-menu-service-cards align-items-start">
+                                                    <div class="mega-menu-service-card">
+                                                        <div class="mega-menu-portfolio-card">
+                                                            <div class="img-box">
+                                                                <img src="../assets/imgs/portfolio-mega-menu-1.jpg" alt="Portfolio" />
+                                                            </div>
+
+                                                            <!-- <div class="content-box">
+                                          <h3>
+                                          <a href="portfolio-details.html">RPA</a>
+                                          </h3>
+                                          <p>
+                                          Automating Email Assignment for a
+                                          Security Department NLP
+                                          </p>
+                                      </div> -->
+                                                        </div>
+                                                        <!-- <span class="icon">
+                                      <img
+                                          src="../assets/imgs/hwd-icon-1.svg"
+                                          alt="Service"
+                                      />
+                                      </span> -->
+                                                        <!-- <div class="content">
+                                      <h2>
+                                          <a href="../services/a"
+                                          >Brainstroming</a
+                                          >
+                                      </h2>
+                                      <p>Ideas</p>
+                                      </div> -->
+                                                    </div>
+                                                    <!-- <div class="mega-menu-service-card">
+                                      <span class="icon">
+                                      <img
+                                          src="../assets/imgs/hwd-icon-4.svg"
+                                          alt="Service"
+                                      />
+                                      </span>
+                                      <div class="content">
+                                      <h2>
+                                          <a href="../services/a"
+                                          >Product</a
+                                          >
+                                      </h2>
+                                      <p>Design</p>
+                                      </div>
+                                  </div>
+                                  <div class="mega-menu-service-card">
+                                      <span class="icon">
+                                      <img
+                                          src="../assets/imgs/hwd-icon-2.svg"
+                                          alt="Service"
+                                      />
+                                      </span>
+                                      <div class="content">
+                                      <h2>
+                                          <a href="../services/a">SEO</a>
+                                      </h2>
+                                      <p>Optimization</p>
+                                      </div>
+                                  </div>
+                                  <div class="mega-menu-service-card">
+                                      <span class="icon">
+                                      <img
+                                          src="../assets/imgs/hwd-icon-3.svg"
+                                          alt="Service"
+                                      />
+                                      </span>
+                                      <div class="content">
+                                      <h2>
+                                          <a href="../services/a"
+                                          >Front-End</a
+                                          >
+                                      </h2>
+                                      <p>Development</p>
+                                      </div>
+                                  </div> -->
+                                                </div>
+
+                                                <div class="mega-menu-links d-flex">
+                                                    <div class="mega-menu-link">
+                                                        <!-- <h3>Services</h3> -->
+                                                        <ul>
+                                                            <li>
+                                                                <a href="../Industries/healthcare.php">Healthcare</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../Industries/finance&banking.php">Finance and Banking</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../Industries/ecommerce&retial.php">E-Commerce</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../Industries/education.php">Education</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../Industries/realestate.php">Real Estate</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="mega-menu-link">
+                                                        <!-- <h3>Our Fields</h3> -->
+                                                        <ul>
+                                                            <li>
+                                                                <a href="../Industries/Manufacturing.php">Manufacturing</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../Industries/media&entertinment.php">Media and Entertainment</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../Industries/logistics-transportation.php">Logistics and Transportation</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../Industries/telecommunication.php">Telecommunications</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="../Industries/energy&utilities.php">Energy and Utilities</a>
+                                                            </li>
+                                                            <li></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="mega-meu-footer d-flex align-items-center justify-content-between w-full">
+                                                <ul class="mega-menu-social d-flex align-items-center">
+                                                    <li>
+                                                        <a href="#"><i class="iconoir-dribbble"></i></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#"><i class="iconoir-twitter"></i></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#"><i class="iconoir-instagram"></i></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#"><i class="iconoir-linkedin"></i></a>
+                                                    </li>
+                                                </ul>
+
+                                                <p>
+                                                    Discover your future
+                                                    <a href="career.html">We're hiring</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="right">
+                                            <div class="mega-menu-ads">
+                                                <img src="../assets/imgs/ipad.jpg" alt="iPad" />
+                                                <h2>Our product hits</h2>
+                                                <p>
+                                                    Our new best IT product of the <br />year 2023.
+                                                </p>
+                                                <a href="case-studie-single.html">View more</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a href="../case-study/index.php">case studies</a>
+                        </li>
+                        <li>
+                            <a href="../career/index.php">Careers</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="header-right">
+                <div class="header-contact-info d-flex align-items-center">
+                    <div class="phone-number">
+                        <a href="https://www.toolfe.org/public/login">
+                            Client Login
+                            <i class="iconoir-arrow-up-right"></i>
+                        </a>
+                        <!-- +1-938-740-7555 -->
                     </div>
-                   <div class="right">
-                        <p>
-                            Level up your business with <a href="about.html" data-word="SYNCK." id="dataWord">SYNCK.</a>
-                        </p>
-                    </div>
+                    <a href="../contact/index.php" class="theme-btn2">Contact Us</a>
                 </div>
             </div>
         </div>
+    </div>
 
-        <!-- Header -->
-        <header class="header-area header-2">
-
-            <div class="custom-container">
-                <div class="custom-row align-items-center justify-content-between">
-                    <div class="header-left d-flex align-items-center">
-                        <a href="index.html" class="logo">
-                            <img src="https://toolfe.com/assets/test2.png" alt="Logo" />
-                        </a>
-
-                        <div class="header-left-right">
-                            <a href="contact.html" class="theme-btn">Contact Us</a>
-                            <span class="menu-bar">
-                                <i class="las la-bars"></i>
-                            </span>
-                        </div>
-                        <nav class="navbar-wrapper d-flex align-items-center">
-                            <span class="close-menu-bar">
-                                <i class="las la-times"></i>
-                            </span>
-                            <ul>
-                                <li class="dropdown-menu-item">
-                                    <a href="index.html">Home</a>
-                                    <span class="dropdown-menu-item-icon">
-                                        <i class="las la-angle-down"></i>
-                                    </span>
-                                    <ul class="dropdown-menu">
-                                        <li>
-                                            <a href="index.html">IT Services</a>
-                                        </li>
-                                        <li>
-                                            <a href="home2.html">Business Consulting</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="mega-menu-item">
-                                    <a href="company.html">About</a>
-                                    <span class="dropdown-menu-item-icon">
-                                        <i class="las la-angle-down"></i>
-                                    </span>
-                                    <div class="mega-menu mega-menu-company">
-                                        <div class="mega-menu-inner">
-                                            <div class="custom-container d-flex">
-                                                <div class="left">
-                                                    <div class="mega-menu-link-wrap d-flex justify-content-between">
-                                                        <div class="mega-menu-link">
-                                                            <h3>Get Started</h3>
-                                                            <ul>
-                                                                <li><a href="#">Setup 101</a></li>
-                                                                <li><a href="#">Adding users</a></li>
-                                                                <li><a href="#">Video tutorials</a></li>
-                                                                <li><a href="#">Libraries and SDKs</a></li>
-                                                                <li><a href="#">Plugins</a></li>
-                                                                <li><a href="#">Templates</a></li>
-                                                            </ul>
-                                                        </div>
-
-                                                        <div class="mega-menu-links d-flex">
-                                                            <div class="mega-menu-link">
-                                                                <h3>Company</h3>
-                                                                <ul>
-                                                                    <li><a href="about.html">About Us</a></li>
-                                                                    <li><a href="partner.html">Partners</a></li>
-                                                                    <li><a href="career.html">Careers</a></li>
-                                                                    <li><a href="event.html">Events</a></li>
-                                                                    <li><a href="team.html">Team</a></li>
-                                                                     <li><a href="blog.html">Blog</a></li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="mega-menu-link">
-                                                                <h3>Product</h3>
-                                                                <ul>
-                                                                    <li><a href="overview.html">Overview</a></li>
-                                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                                    <li><a href="feature.html">Features</a></li>
-                                                                    <li><a href="case-studie.html">Case Studies</a></li>
-                                                                    <li><a href="new-release.html">New Releases</a></li>
-                                                                    <li><a href="solution.html">Solutions</a></li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="mega-menu-link">
-                                                                <h3>Legal</h3>
-                                                                <ul>
-                                                                    <li><a href="#">Licenses</a></li>
-                                                                    <li><a href="#">Settings</a></li>
-                                                                    <li><a href="#">Cookies</a></li>
-                                                                    <li><a href="#">Document</a></li>
-                                                                    <li><a href="#">Terms</a></li>
-                                                                    <li><a href="#">Privacy</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div
-                                                        class="mega-meu-footer d-flex align-items-center justify-content-between w-full">
-                                                        <ul class="mega-menu-social d-flex align-items-center">
-                                                            <li><a href="#"><i class="iconoir-dribbble"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-twitter"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-instagram"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-linkedin"></i></a></li>
-                                                        </ul>
-
-                                                        <p>Looking for new career? <a href="career.html">We're hiring</a></p>
-                                                    </div>
-                                                </div>
-                                                <div class="right">
-                                                    <div class="mega-menu-ads">
-                                                        <img src="../assets/imgs/iphone-13-1.jpg" alt="Iphone" />
-                                                        <h2>Solution in your hand</h2>
-                                                        <p>Develop IT solutions based on the<br> analysis phase.</p>
-                                                        <a href="case-studie-single.html">View more</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="mega-menu-item">
-                                    <a href="company.html">Company</a>
-                                    <span class="dropdown-menu-item-icon">
-                                        <i class="las la-angle-down"></i>
-                                    </span>
-                                    <div class="mega-menu mega-menu-company">
-                                        <div class="mega-menu-inner">
-                                            <div class="custom-container d-flex">
-                                                <div class="left">
-                                                    <div class="mega-menu-link-wrap d-flex justify-content-between">
-                                                        <div class="mega-menu-link">
-                                                            <h3>Get Started</h3>
-                                                            <ul>
-                                                                <li><a href="#">Setup 101</a></li>
-                                                                <li><a href="#">Adding users</a></li>
-                                                                <li><a href="#">Video tutorials</a></li>
-                                                                <li><a href="#">Libraries and SDKs</a></li>
-                                                                <li><a href="#">Plugins</a></li>
-                                                                <li><a href="#">Templates</a></li>
-                                                            </ul>
-                                                        </div>
-
-                                                        <div class="mega-menu-links d-flex">
-                                                            <div class="mega-menu-link">
-                                                                <h3>Company</h3>
-                                                                <ul>
-                                                                    <li><a href="about.html">About Us</a></li>
-                                                                    <li><a href="partner.html">Partners</a></li>
-                                                                    <li><a href="career.html">Careers</a></li>
-                                                                    <li><a href="event.html">Events</a></li>
-                                                                    <li><a href="team.html">Team</a></li>
-                                                                     <li><a href="blog.html">Blog</a></li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="mega-menu-link">
-                                                                <h3>Product</h3>
-                                                                <ul>
-                                                                    <li><a href="overview.html">Overview</a></li>
-                                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                                    <li><a href="feature.html">Features</a></li>
-                                                                    <li><a href="case-studie.html">Case Studies</a></li>
-                                                                    <li><a href="new-release.html">New Releases</a></li>
-                                                                    <li><a href="solution.html">Solutions</a></li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="mega-menu-link">
-                                                                <h3>Legal</h3>
-                                                                <ul>
-                                                                    <li><a href="#">Licenses</a></li>
-                                                                    <li><a href="#">Settings</a></li>
-                                                                    <li><a href="#">Cookies</a></li>
-                                                                    <li><a href="#">Document</a></li>
-                                                                    <li><a href="#">Terms</a></li>
-                                                                    <li><a href="#">Privacy</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div
-                                                        class="mega-meu-footer d-flex align-items-center justify-content-between w-full">
-                                                        <ul class="mega-menu-social d-flex align-items-center">
-                                                            <li><a href="#"><i class="iconoir-dribbble"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-twitter"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-instagram"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-linkedin"></i></a></li>
-                                                        </ul>
-
-                                                        <p>Looking for new career? <a href="career.html">We're hiring</a></p>
-                                                    </div>
-                                                </div>
-                                                <div class="right">
-                                                    <div class="mega-menu-ads">
-                                                        <img src="../assets/imgs/iphone-13-1.jpg" alt="Iphone" />
-                                                        <h2>Solution in your hand</h2>
-                                                        <p>Develop IT solutions based on the<br> analysis phase.</p>
-                                                        <a href="case-studie-single.html">View more</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="mega-menu-item">
-                                    <a href="portfolio.html">Portfolio</a>
-                                    <span class="dropdown-menu-item-icon">
-                                        <i class="las la-angle-down"></i>
-                                    </span>
-                                    <div class="mega-menu mega-menu-portfolio">
-                                        <div class="mega-menu-inner">
-                                            <div class="custom-container d-flex">
-                                                <div class="left">
-                                                    <div
-                                                        class="mega-menu-link-wrap d-flex align-items-start justify-content-between">
-                                                        <div class="mega-menu-portfolio-card">
-                                                            <div class="img-box">
-                                                                <img src="../assets/imgs/portfolio-mega-menu-1.jpg"
-                                                                    alt="Portfolio" />
-                                                            </div>
-                                                            <div class="content-box">
-                                                                <h3><a href="portfolio-details.html">E-commerce</a></h3>
-                                                                <p>we undertook a project to <br>migrate their existing.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mega-menu-portfolio-card">
-                                                            <div class="img-box">
-                                                                <img src="../assets/imgs/portfolio-mega-menu-2.jpg"
-                                                                    alt="Portfolio" />
-                                                            </div>
-                                                            <div class="content-box">
-                                                                <h3><a href="portfolio-details.html">App Development</a></h3>
-                                                                <p>The mobile application has <br>significantly
-                                                                    improved.</p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mega-menu-portfolio-card">
-                                                            <div class="img-box">
-                                                                <img src="../assets/imgs/portfolio-mega-menu-3.jpg"
-                                                                    alt="Portfolio" />
-                                                            </div>
-                                                            <div class="content-box">
-                                                                <h3><a href="portfolio-details.html">SAAS Integration</a></h3>
-                                                                <p>We partnered with DEF to <br>upgrade their outdated
-                                                                    IT.</p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="mega-menu-portfolio-card">
-                                                            <div class="img-box">
-                                                                <img src="../assets/imgs/portfolio-mega-menu-4.jpg"
-                                                                    alt="Portfolio" />
-                                                            </div>
-                                                            <div class="content-box">
-                                                                <h3><a href="portfolio-details.html">Virtual Reality</a></h3>
-                                                                <p>Enter into the virtual reality <br>
-                                                                    world for real experience.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div
-                                                        class="mega-meu-footer d-flex align-items-center justify-content-between w-full">
-                                                        <ul class="mega-menu-social d-flex align-items-center">
-                                                            <li><a href="#"><i class="iconoir-dribbble"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-twitter"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-instagram"></i></a></li>
-                                                            <li><a href="#"><i class="iconoir-linkedin"></i></a></li>
-                                                        </ul>
-
-                                                        <p>
-                                                            <a href="portfolio.html">View Portfolio 
-                                                                <i class="iconoir-arrow-up-right"></i></a>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="right">
-                                                    <div class="mega-menu-ads">
-                                                        <img src="../assets/imgs/macbook.jpg" alt="iPad" />
-                                                        <h2>Mobile app for a new era</h2>
-                                                        <p>Download slack in your mobile for <br>
-                                                            your daily usage.</p>
-                                                        <a href="case-studie-single.html">View more</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <a href="blog.html">Blog</a>
-                                </li>
-                                <li>
-                                    <a href="pricing.html">Pricing</a>
-                                </li>
-                            </ul>
-                            <select class="country-select" name="country" id="country">
-                                <option value="en">EN</option>
-                                <option value="uk">UK</option>
-                                <option value="dz">DZ</option>
-                            </select>
-                        </nav>
-                    </div>
-                    <div class="header-right">
-                        <div class="header-contact-info d-flex align-items-center">
-                            <div class="phone-number">
-                                <a href="tel:+1-938-740-7555">
-                                    Call Us 
-                                    <i class="iconoir-arrow-up-right"></i>   
-                                </a>
-                                +1-938-740-7555
-                            </div>
-                            <a href="contact.html" class="theme-btn">Contact Us</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </header>
+</header>

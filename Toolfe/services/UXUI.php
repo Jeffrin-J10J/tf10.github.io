@@ -7,17 +7,17 @@ include '../includes/header.php'
     <!-- Header Bar -->
     <?php include '../includes/head.php'; ?>
 
-
     <!-- Hero -->
     <section class="hero-section-wrap hero-home2">
         <div class="hero-section-content-wrap">
-            <img class="bg-shape slide-left" src="../assets/imgs/bg-shape-6.svg" alt="Shape" />
-            <img class="bg-shape2 slide-right" src="../assets/imgs/bg-shape-5.svg" alt="Shape" />
+            <img class="bg-shape slide-left" src="../../assets/imgs/bg-shape-6.svg" alt="Shape" />
+            <img class="bg-shape2 slide-right" src="../../assets/imgs/bg-shape-5.svg" alt="Shape" />
             <div class="custom-container">
                 <div class="hero-section-content text-center">
-                    <h5 class="section-subtitle">Strategy Redefined, Design Excellence, Solution Development</h5>
-                    <h1 class="section-title fade-in">Mobile App Development</h1>
-                    <p>We're experts at creating tailored apps that perfectly fit your business needs.</p>
+                    <h5 class="section-subtitle">Design, Experience, Innovation</h5>
+                    <h1 class="section-title fade-in">UXUI &
+                        Graphics</h1>
+                    <p>Creating immersive digital experiences, our services ensure seamless interactions with innovative technology and industry-leading practices.</p>
                     <a href="#" class="theme-btn2">
                         Let’s talk to our team
                         <i class="iconoir-arrow-up-right"></i>
@@ -36,44 +36,42 @@ include '../includes/header.php'
 
                 <div class="section-header d-flex align-items-center justify-content-between">
                     <div class="left">
-                        <h5 class="section-subtitle">what we do</h5>
-                        <h1 class="section-title">Mobile Development</h1>
-                        <p style="max-width: 100%;">Start your transformative journey with our app development services, where advanced technology delivers exceptional digital experiences tailored to your brand's vision.
-
-                            Selecting us means accessing seasoned developers who prioritize your project's success. With transparent communication and post-launch support, we're here for the long haul.</p>
+                        <h5 class="section-subtitle">What we do</h5>
+                        <h1 class="section-title">UXUI Design</h1>
+                        <p style="max-width: 100%;">Explore our UX/UI web services, where we craft, design, and maintain websites with seamless experiences, intuitive interfaces, and captivating designs across all platforms.</p>
                     </div>
                 </div>
 
                 <ul class="nav nav-tabs about2-tabs" role="tablist">
                     <li class="nav-item">
                         <button class="nav-link" id="business_strategy-tab" href="#business_strategy" role="tab" aria-controls="business_strategy">
-                            <span class="icon">1</span> Hybrid App
+                            <span class="icon">1</span> User Research and Analysis
 
                         </button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" id="market_analysis-tab" href="#market_analysis" role="tab" aria-controls="market_analysis" aria-selected="false">
-                            <span class="icon">2</span> Progressive Web App
+                            <span class="icon">2</span> UI Design
                         </button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" id="process_optimation-tab" href="#process_optimation" role="tab" aria-controls="process_optimation" aria-selected="false">
-                            <span class="icon">3</span> App Testing and Quality Assurance
+                            <span class="icon">3</span> Responsive Design
                         </button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" id="performance_improvement-tab" href="#performance_improvement" role="tab" aria-controls="performance_improvement" aria-selected="false">
-                            <span class="icon">4</span> Native App Development
+                            <span class="icon">4</span> Information Architecture (IA)
                         </button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance" role="tab" aria-controls="entrepreneurial_guidance" aria-selected="false">
-                            <span class="icon">5</span> Custom App Development
+                            <span class="icon">5</span> Wireframing and Prototyping
                         </button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance" role="tab" aria-controls="entrepreneurial_guidance" aria-selected="false">
-                            <span class="icon">6</span> App Migration and Upgradation
+                            <span class="icon">6</span> Usability Testing
                         </button>
                     </li>
                 </ul>
@@ -86,15 +84,15 @@ include '../includes/header.php'
 
     <!-- Portfolio -->
     <section class="portoflio-area">
-        <img src="../assets/imgs/bg-shape-9.svg" alt="Shape" class="bg-shape" />
+        <img src="../../assets/imgs/bg-shape-9.svg" alt="Shape" class="bg-shape" />
         <div class="custom-container">
             <div class="section-header d-flex align-items-end justify-content-between">
                 <div class="left">
                     <h5 class="section-subtitle">Why us</h5>
-                    <h1 class="section-title">Advanced App Development</h1>
+                    <h1 class="section-title">Creative UIUX <br>Solutions</h1>
                 </div>
 
-                <p>Enhance your digital presence with Toolfe's tailored app development services. Work with us to uncover a wide range of opportunities in the digital landscape.</p>
+                <p>Explore our UX/UI web services, where we craft, design, and maintain websites with seamless experiences, intuitive interfaces, and captivating designs across all platforms.</p>
             </div>
 
             <div class="portfolio-lists d-flex w-full gap-24">
@@ -102,25 +100,25 @@ include '../includes/header.php'
 
                     <div class="portfolio-card portfolio-card-1 card-h">
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/Mobileappbento/1.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/uiuxbento/1.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
-                            <h2>API <br>
-                                Integration</a></h2>
-                            <p>Tailored API solutions to meet specific app requirements.</p>
+                            <h2>Increase <br>
+                                Participation</a></h2>
+                            <p>We create designs that make users want to interact more.</p>
 
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-2 card-h">
                         <div class="portfolio-body">
-                            <h2>Scalability and<br>
-                                Flexibility <br>
+                            <h2>Effortless<br>
+                                Interaction <br>
                                 </a></h2>
-                            <p>We design apps that grow with your business.</p>
+                            <p>Our goal is to create interfaces that users love to use.</p>
 
                         </div>
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/Mobileappbento/2.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/uiuxbento/2.png" alt="Portfolio" />
                         </div>
                     </div>
 
@@ -129,23 +127,24 @@ include '../includes/header.php'
 
                     <div class="portfolio-card portfolio-card-2 card-h">
                         <div class="portfolio-body">
-                            <h2>User Authentication<br>
-                                and Authorization <br></a></h2>
-                            <p>We have a best team for your branding studio.</p>
+                            <h2>Aesthetic<br>
+                                Appealing <br></a></h2>
+                            <p>Our designs prioritize visual appeal to foster user satisfaction.</p>
 
                         </div>
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/Mobileappbento/3.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/uiuxbento/3.png" alt="Portfolio" />
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-1 card-h">
-                        <div class="portfolio-img" style="height:232px;">
-                            <img src="../assets/imgs/services/Mobileappbento/4.png" alt="Portfolio" />
+                        <div class="portfolio-img">
+                            <img src="../assets/imgs/services/uiuxbento/4.png" alt="Portfolio" />
                         </div>
-                        <div class="portfolio-body">
-                            <h2>Multi-platform <br>
-                                Compatibility</a></h2>
-                            <p>Compatible with a wide range of operating systems.</p>
+                        <div class="portfolio-body" style="height:210px;">
+                            <h2>Customer <br>
+                                Continuation</a></h2>
+                            <p>We optimize interfaces to ensure smooth user experiences. <br>
+                            </p>
 
                         </div>
                     </div>
@@ -155,25 +154,26 @@ include '../includes/header.php'
 
                     <div class="portfolio-card portfolio-card-1 card-h">
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/Mobileappbento/5.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/uiuxbento/5.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
-                            <h2>Wearable Device <br>
-                                Compatibility</a></h2>
-                            <p>Our apps work smoothly across various wearable devices..</p>
+                            <h2>User-Centered <br>
+                                Design</a></h2>
+                            <p>We prioritize understanding user requirements to deliver optimal interactions.<br>
+                            </p>
 
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-2 card-h">
                         <div class="portfolio-body">
-                            <h2>High Security <br>
-                                Standards <br>
+                            <h2>Reduced <br>
+                                Complexity <br>
                                 </a></h2>
-                            <p></p>We offer advanced security solutions for secure app development.</p>
+                            <p>We optimize user journeys for effortless interaction.</p>
 
                         </div>
-                        <div class="portfolio-img" style="height: 244px;">
-                            <img src="../assets/imgs/services/Mobileappbento/6.png" alt="Portfolio" />
+                        <div class="portfolio-img" style="height:270px;">
+                            <img src="../assets/imgs/services/uiuxbento/6.png" alt="Portfolio" />
                         </div>
                     </div>
 
@@ -186,7 +186,13 @@ include '../includes/header.php'
                     <div class="our-expert-team-box-inner d-flex align-items-center">
 
                         <p>
-                            Let’s discuss your App development needs!
+                            We're
+                            thrilled
+                            to
+                            explore
+                            your UI
+                            UX
+                            needs!, Let's Talk!!
                         </p>
                     </div>
                 </div>
@@ -211,7 +217,7 @@ include '../includes/header.php'
                     <div class="top">
                         <h5 class="section-subtitle">Our Workflow</h5>
                         <h1 class="section-title">How we do</h1>
-                        <p>Our Strategy for App Development</p>
+                        <p>Expertly deliver using our proven UI/UX design method</p>
                     </div>
                     <!-- <a href="how-we-do.html" class="theme-btn">
                         Learn More
@@ -224,12 +230,11 @@ include '../includes/header.php'
                         <div class="how-we-do-card">
                             <div class="circle-shape"></div>
                             <div class="line-shape"></div>
-
                             <div class="how-we-do-icon">
                                 <h3 class="">1</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Conceptualization <br>& Planning</h4>
+                                <h4>Research and <br> Discovery</h4>
                             </div>
                         </div>
 
@@ -241,7 +246,7 @@ include '../includes/header.php'
                                 <h3 class="">2</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Design</h4>
+                                <h4>Information <br> Architecture</h4>
                             </div>
                         </div>
 
@@ -253,7 +258,7 @@ include '../includes/header.php'
                                 <h3 class="">3</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Development</h4>
+                                <h4>Wireframing</h4>
                             </div>
                         </div>
 
@@ -268,19 +273,18 @@ include '../includes/header.php'
                                 <h3 class="">4</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Testing</h4>
+                                <h4>Prototyping</h4>
                             </div>
                         </div>
 
                         <div class="how-we-do-card">
                             <div class="circle-shape"></div>
                             <div class="line-shape"></div>
-
                             <div class="how-we-do-icon">
                                 <h3 class="">5</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Deployment</h4>
+                                <h4>UI Design</h4>
                                 <p></p>
                             </div>
                         </div>
@@ -296,7 +300,7 @@ include '../includes/header.php'
                                 <h3 class="">6</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Maintenance and Updates</h4>
+                                <h4>Testing and <br> Iteration</h4>
                                 <p></p>
                             </div>
                         </div>
@@ -307,30 +311,29 @@ include '../includes/header.php'
         </div>
     </section>
 
-
     <section class="our-team-area">
 
 
         <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
+                <h1>75%</h1>
+                <h3>Improved User Engagement</h3>
+                <p>Increased user engagement through improved interface designs.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
+                <h1>90%</h1>
+                <h3>Conversion Rates</h3>
+                <p> The postive feedback received from users on redesigned interfaces.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
+                <h1>68%</h1>
+                <h3>Conversion Rates</h3>
+                <p>Boosted conversion rates by optimized user interfaces.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
                 <h1>98%</h1>
-                <h3>Support Response</h3>
-                <p>Achieved higher customer satisfaction by support responses.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>30%</h1>
-                <h3>Accuracy Improvement</h3>
-                <p>Boosted AI-driven case assignment accuracy in mobile app development</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>App Launch Succes</h3>
-                <p>Successful app launches that meet both timeline and quality standards.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>Feature satisfaction</h3>
-                <p> Users highly satisfied with the latest app feature updates.</p>
+                <h3>Customer Satisfaction</h3>
+                <p>Higher user satisfaction achieved with our intuitive designs.</p>
             </div>
         </div>
 
@@ -343,14 +346,13 @@ include '../includes/header.php'
             <div class="custom-row align-items-center">
                 <div class="partner-left-content">
                     <h5 class="section-subtitle">Expertise</h5>
-                    <h1 class="section-title">Crafting solutions with modern technologies</h1>
-                    <p>We are eager to make your digital services top-of-the-line
-                        and highly competitive by introducing advanced
-                        technologies.</p>
+                    <h1 class="section-title">Our Expertise in the Latest Technologies</h1>
+                    <p>Utilizing the latest technologies, we create intuitive and captivating interfaces that engage your
+                        audience like never before, redefining your digital presence and propelling your business forward.</p>
                 </div>
                 <div class="right">
                     <div class="img-box">
-                        <img src="../assets/imgs/services/Mobile app.png" alt="About" />
+                        <img src="../assets/imgs/services/UIUX.png" alt="About" />
                     </div>
                 </div>
             </div>
@@ -430,7 +432,6 @@ include '../includes/header.php'
 
 
 
-
     <!-- Testimonial Section -->
     <section class="testimonial-area">
         <div class="custom-container">
@@ -491,7 +492,6 @@ include '../includes/header.php'
 
         </div>
     </section>
-
     <!-- Faq -->
     <section class="faq-area  faq-style-2-area">
         <div class="custom-container">
@@ -507,8 +507,9 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingOne">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> What types of app development services do you offer?
+                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                        </div> What is UX/UI design?
+
 
 
 
@@ -519,7 +520,7 @@ include '../includes/header.php'
 
                                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                                     <div class="card-body">
-                                        We provide a range of app development services, including iOS, Android, cross-platform, and custom app solutions tailored to your business needs.
+                                        UX (User Experience) design focuses on the overall feel of the user experience, while UI (User Interface) design deals with the specific look and interactive elements of the product.
                                     </div>
                                 </div>
                             </div>
@@ -527,8 +528,9 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingTwo">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> How long does it take to develop an app?
+                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                        </div> Why is UX/UI design important for my business?
+
 
 
 
@@ -540,7 +542,7 @@ include '../includes/header.php'
 
                                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                     <div class="card-body">
-                                        App development timelines vary depending on factors like complexity and features. Generally, it can take from a few weeks to several months to complete.
+                                        Good UX/UI design enhances user satisfaction, increases engagement, and can significantly boost conversion rates, leading to better business outcomes.
                                     </div>
                                 </div>
                             </div>
@@ -548,8 +550,9 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingThree">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> What technologies do you use for app development?
+                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                        </div> What does the UX/UI design process involve?
+
 
 
 
@@ -561,7 +564,7 @@ include '../includes/header.php'
 
                                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                     <div class="card-body">
-                                        Our expertise spans various technologies and frameworks, including Swift, Kotlin, React Native, Flutter, and Xamarin, allowing us to deliver high-quality and feature-rich mobile applications.
+                                        The process typically includes research, wireframing, prototyping, user testing, and iterative design based on feedback to ensure the final product meets user needs and expectations.
                                     </div>
                                 </div>
                             </div>
@@ -573,8 +576,9 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFour">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> Do you provide ongoing support and maintenance for apps?
+                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                        </div> How do you track UI/UX trends?
+
 
 
 
@@ -586,7 +590,7 @@ include '../includes/header.php'
 
                                 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion2">
                                     <div class="card-body">
-                                        Yes, we offer comprehensive support and maintenance services to ensure your app remains up-to-date, secure, and optimized for performance post-launch.
+                                        Stay connected through online communities, blogs, conferences, and continuous learning platforms like courses and workshops.
                                     </div>
                                 </div>
                             </div>
@@ -594,8 +598,9 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFive">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> Can you assist with app monetization?
+                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                        </div> How do you ensure your designs meet our needs?
+
 
 
 
@@ -607,7 +612,7 @@ include '../includes/header.php'
 
                                 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion2">
                                     <div class="card-body">
-                                        Absolutely. We can help implement effective monetization strategies such as in-app purchases, subscriptions, and advertising, tailored to maximize revenue generation from your app.
+                                        We start with a thorough discovery phase to understand your business goals and user needs. We involve stakeholders throughout the process and use iterative testing to refine designs.
                                     </div>
                                 </div>
                             </div>
@@ -615,8 +620,9 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingSix">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> How do you ensure app security and data privacy?
+                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                        </div> Can you redesign an existing app or website?
+
 
 
 
@@ -628,7 +634,7 @@ include '../includes/header.php'
 
                                 <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
                                     <div class="card-body">
-                                        Ensuring app security and data privacy is paramount to us. We follow industry best practices, including secure coding standards, encryption, user authentication, and compliance with regulations such as GDPR.
+                                        Yes, we can analyze your current product, identify areas for improvement, and provide a complete redesign to enhance user experience and interface.
                                     </div>
                                 </div>
                             </div>
@@ -657,8 +663,8 @@ include '../includes/header.php'
 
                     </div>
 
-                    <h5 class="section-subtitle text-center">contact us</h5><br>
-                    <h1 class="section-title text-center">Start Your App Revolution</h1> <br><br>
+                    <h5 class="section-subtitle text-center">Contact us</h5><br>
+                    <h1 class="section-title text-center">UX Magic. UI Wow</h1> <br><br>
 
                     <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
                         <p>You can reach us anytime via <a href="mailto:bluebase@mail.com">bluebase@mail.com</a></p>
@@ -666,7 +672,7 @@ include '../includes/header.php'
                         <a href="#" class="our-expert-team-box d-flex align-items-center">
                             <div class="our-expert-team-box-inner d-flex align-items-center">
                                 <div class="imgs d-flex align-items-center">
-                                    <img src="../assets/imgs/small-img-4.png" alt="team" />
+                                    <img src="../../assets/imgs/small-img-4.png" alt="team" />
                                 </div>
                                 <p><span>We will reachout to you in less than</span> 15 Hours</p>
                             </div>
@@ -674,7 +680,7 @@ include '../includes/header.php'
                     </div>
 
                     <div class="hero-contact-form">
-                        <form action="https://wpriverthemes.com/HTML/synck/assets/mail/contact2.php" method="POST" class="contact-form d-flex">
+                        <form action="https://wpriverthemes.com/HTML/synck/../assets/mail/contact2.php" method="POST" class="contact-form d-flex">
                             <div class="input-main-row">
                                 <div class="input-row">
                                     <div class="input-group">
@@ -819,7 +825,6 @@ include '../includes/header.php'
             </div>
         </div>
     </section>
-
 
     <!-- Footer -->
     <?php include '../includes/foot.php';  ?>

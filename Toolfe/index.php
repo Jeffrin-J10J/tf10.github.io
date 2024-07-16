@@ -59,7 +59,6 @@
 
     <!-- Header -->
     <header class="header-area header-2">
-
       <div class="custom-container">
         <div class="custom-row align-items-center justify-content-between">
           <div class="header-left d-flex align-items-center">
@@ -68,7 +67,7 @@
             </a>
 
             <div class="header-left-right">
-              <a href="contact.html" class="theme-btn">Contact Us</a>
+              <a href="contact.php" class="theme-btn">Contact Us</a>
               <span class="menu-bar">
                 <i class="las la-bars"></i>
               </span>
@@ -524,7 +523,7 @@
                 </a>
                 <!-- +1-938-740-7555 -->
               </div>
-              <a href="contact.html" class="theme-btn2">Contact Us</a>
+              <a href="contact.php" class="theme-btn2">Contact Us</a>
             </div>
           </div>
         </div>
@@ -548,7 +547,7 @@
             </p>
             <div class="btns-group d-flex">
               <a href="#" class="theme-btn"> Discover More</a>
-              <a href="contact.html" class="theme-btn2">Let's Connect
+              <a href="contact.php" class="theme-btn2">Let's Connect
 
                 <i class="iconoir-arrow-up-right"></i>
               </a>
@@ -958,14 +957,16 @@
           <div class="tab-content case-studio-tab-content">
             <div class="tab-pane fade show active" id="development" role="tabpanel" aria-labelledby="development-tab">
               <div class="case-studio-body d-flex">
-                <div class="left d-flex flex-1" >
+                <div class="left d-flex flex-1">
 
                   <div class="case-studio-contents service-card ">
 
                     <img src="assets/imgs/service-icon-1.svg" alt="ICON" />
 
                     <h3>Process Automation</h3>
-                    <p>Manual processes hinder business growth and waste resources. Toolfe's custom automation workflows streamline repetitive tasks, boosting efficiency and freeing your team for higher-value activities.
+                    <p>Manual processes hinder business growth and waste resources. Toolfe's custom automation workflows
+                      streamline repetitive tasks, boosting efficiency and freeing your team for higher-value
+                      activities.
                     </p>
 
                   </div>
@@ -1133,40 +1134,43 @@
           </div>
 
           <div class="project-right-slider">
-            
+
             <div class="project-right-slider-inner">
               <div class="swiper project-slider">
                 <div class="swiper-wrapper">
-                  
+
                   <div class="swiper-slide project-item">
-                    
+
                     <div class="project-item-inner">
                       <h2>
-                        <a href="./case-study/automating_cloud_deployment.html">Automating Cloud Deployment for Workflow Management</a>
+                        <a href="./case-study/automating_cloud_deployment.html">Automating Cloud Deployment for Workflow
+                          Management</a>
                       </h2>
                       <a href="./case-study/automating_cloud_deployment.html">
-                      <img src="assets/imgs/casestudy/cs1_hero.png" alt="Project" />
+                        <img src="assets/imgs/casestudy/cs1_hero.png" alt="Project" />
                       </a>
                     </div>
                   </div>
                   <div class="swiper-slide project-item">
                     <div class="project-item-inner">
                       <h2>
-                        <a href="./case-study/implementing_computer_vision.html">Developing Advanced CV Models for Fruit Ripeness Detection</a>
+                        <a href="./case-study/implementing_computer_vision.html">Developing Advanced CV Models for Fruit
+                          Ripeness Detection</a>
                       </h2>
                       <a href="./case-study/implementing_computer_vision.html">
-                      <img src="assets/imgs/casestudy/cs4_hero1.png " alt="Project" />
+                        <img src="assets/imgs/casestudy/cs4_hero1.png " alt="Project" />
                       </a>
                     </div>
                   </div>
                   <div class="swiper-slide project-item">
                     <div class="project-item-inner">
                       <h2>
-                        <a href="./case-study/digital_transformation_initiative.html">Digital Transformation Initiative for an construction Company
+                        <a href="./case-study/digital_transformation_initiative.html">Digital Transformation Initiative
+                          for an construction Company
                       </h2>
                       <a href="./case-study/digital_transformation_initiative.html">
-                      <img src="assets/imgs/casestudy/cs3_hero3.png" alt="Project" />
-                    </a>
+                        <img src="assets/imgs/casestudy/cs3_hero3.png" alt="Project" />
+                      </a>
                     </div>
                   </div>
 
@@ -1505,238 +1509,127 @@
       </div>
       </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <section class="faq-area  faq-style-2-area">
-      <div class="custom-container">
-        <div class="faq-inner">
-
-          <h5 class="section-subtitle">FAQ SECTION</h5>
-          <h1 class="section-title">Frequently asked questions</h1>
-
-          <div class="faq-items-box">
-            <div class="faq-col">
-              <div id="accordion">
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingOne">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
-                      aria-controls="collapseOne">
-                      <div class="icon">
-                        <i class="iconoir-chat-bubble-check"></i>
-                      </div> What are the benefits of process automation for my business?
-                    </button>
-                  </h5>
-
-                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Process automation enhances efficiency, reduces errors, and allows resources to focus on strategic
-                      tasks
+      <section class="faq-area  faq-style-2-area">
+        <div class="custom-container">
+          <div class="faq-inner">
+
+            <h5 class="section-subtitle">FAQ SECTION</h5>
+            <h1 class="section-title">Frequently asked questions</h1>
+
+            <div class="faq-items-box">
+              <div class="faq-col">
+                <div id="accordion">
+                  <div class="faq-box">
+                    <h5 class="card-header" id="headingOne">
+                      <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
+                        aria-controls="collapseOne">
+                        <div class="icon">
+                          <i class="iconoir-chat-bubble-check"></i>
+                        </div> What are the benefits of process automation for my business?
+                      </button>
+                    </h5>
+
+                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                      <div class="card-body">
+                        Process automation enhances efficiency, reduces errors, and allows resources to focus on
+                        strategic
+                        tasks
+                      </div>
+                    </div>
+                  </div>
+                  <div class="faq-box">
+                    <h5 class="card-header" id="headingTwo">
+                      <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
+                        aria-controls="collapseTwo">
+                        <div class="icon">
+                          <i class="iconoir-chat-bubble-check"></i>
+                        </div>Which industries do you serve with your automation solutions?
+                      </button>
+                    </h5>
+
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                      <div class="card-body">
+                        Our solutions are tailored for manufacturing, healthcare, finance, and logistics sectors. </div>
+                    </div>
+                  </div>
+                  <div class="faq-box">
+                    <h5 class="card-header" id="headingThree">
+                      <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
+                        aria-controls="collapseThree">
+                        <div class="icon">
+                          <i class="iconoir-chat-bubble-check"></i>
+                        </div> What types of software development services do you offer?
+                      </button>
+                    </h5>
+
+                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                      <div class="card-body">
+                        We provide custom application development, integration solutions, and legacy system
+                        modernization.
+                      </div>
                     </div>
                   </div>
                 </div>
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingTwo">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
-                      aria-controls="collapseTwo">
-                      <div class="icon">
-                        <i class="iconoir-chat-bubble-check"></i>
-                      </div>Which industries do you serve with your automation solutions?
-                    </button>
-                  </h5>
+              </div>
+              <div class="faq-col">
+                <div id="accordion2">
+                  <div class="faq-box">
+                    <h5 class="card-header" id="headingFour">
+                      <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true"
+                        aria-controls="collapseFour">
+                        <div class="icon">
+                          <i class="iconoir-chat-bubble-check"></i>
+                        </div>How can your company improve our business processes?
+                      </button>
+                    </h5>
 
-                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                    <div class="card-body">
-                      Our solutions are tailored for manufacturing, healthcare, finance, and logistics sectors. </div>
+                    <div id="collapseFour" class="collapse show" aria-labelledby="headingFour"
+                      data-parent="#accordion2">
+                      <div class="card-body">
+                        We specialize in custom solutions to optimize workflows and drive growth across various
+                        industries. </div>
+                    </div>
                   </div>
-                </div>
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingThree">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
-                      aria-controls="collapseThree">
-                      <div class="icon">
-                        <i class="iconoir-chat-bubble-check"></i>
-                      </div> What types of software development services do you offer?
-                    </button>
-                  </h5>
+                  <div class="faq-box">
+                    <h5 class="card-header" id="headingFive">
+                      <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
+                        aria-controls="collapseFive">
+                        <div class="icon">
+                          <i class="iconoir-chat-bubble-check"></i>
+                        </div> How does automation benefit our web development projects?
+                      </button>
+                    </h5>
 
-                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                    <div class="card-body">
-                      We provide custom application development, integration solutions, and legacy system modernization.
+                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion2">
+                      <div class="card-body">
+                        It speeds up timelines, improves code quality, and ensures smooth deployment and maintenance.
+                      </div>
+                    </div>
+                  </div>
+                  <div class="faq-box">
+                    <h5 class="card-header" id="headingSix">
+                      <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
+                        aria-controls="collapseSix">
+                        <div class="icon">
+                          <i class="iconoir-chat-bubble-check"></i>
+                        </div>How does automation benefit our web development projects?
+                      </button>
+                    </h5>
+
+                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
+                      <div class="card-body">
+                        It speeds up timelines, improves code quality, and ensures smooth deployment and maintenance.
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="faq-col">
-              <div id="accordion2">
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingFour">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true"
-                      aria-controls="collapseFour">
-                      <div class="icon">
-                        <i class="iconoir-chat-bubble-check"></i>
-                      </div>How can your company improve our business processes?
-                    </button>
-                  </h5>
 
-                  <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordion2">
-                    <div class="card-body">
-                      We specialize in custom solutions to optimize workflows and drive growth across various
-                      industries. </div>
-                  </div>
-                </div>
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingFive">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
-                      aria-controls="collapseFive">
-                      <div class="icon">
-                        <i class="iconoir-chat-bubble-check"></i>
-                      </div> How does automation benefit our web development projects?
-                    </button>
-                  </h5>
-
-                  <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion2">
-                    <div class="card-body">
-                      It speeds up timelines, improves code quality, and ensures smooth deployment and maintenance.
-                    </div>
-                  </div>
-                </div>
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingSix">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
-                      aria-controls="collapseSix">
-                      <div class="icon">
-                        <i class="iconoir-chat-bubble-check"></i>
-                      </div>How does automation benefit our web development projects?
-                    </button>
-                  </h5>
-
-                  <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
-                    <div class="card-body">
-                      It speeds up timelines, improves code quality, and ensures smooth deployment and maintenance.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
-
         </div>
-      </div>
-    </section>    </section>
+      </section>
+    </section>
     <!-- Contact -->
     <section class="contact-area">
       <div class="custom-container">
@@ -1924,7 +1817,7 @@
                   <br />
                   and providing valuable insights tailored to your business.
                 </p>
-                <a href="contact.html" class="theme-btn">Get an appointment now</a>
+                <a href="contact.php" class="theme-btn">Get an appointment now</a>
 
                 <div class="footer-experience d-flex align-items-center">
                   <div class="footer-experience-item">
@@ -2068,7 +1961,7 @@
 
   <!-- jQuery Frameworks
     ============================================= -->
-    <script src="assets/js/jquery-3.7.0.min.js"></script>
+  <script src="assets/js/jquery-3.7.0.min.js"></script>
   <script src="assets/js/bootstrap.bundle.min.js"></script>
   <script src="assets/js/gsap.min.js"></script>
   <script src="assets/js/Draggable.min.js"></script>

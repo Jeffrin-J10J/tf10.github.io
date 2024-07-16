@@ -7,17 +7,16 @@ include '../includes/header.php'
     <!-- Header Bar -->
     <?php include '../includes/head.php'; ?>
 
-
     <!-- Hero -->
     <section class="hero-section-wrap hero-home2">
         <div class="hero-section-content-wrap">
-            <img class="bg-shape slide-left" src="../assets/imgs/bg-shape-6.svg" alt="Shape" />
-            <img class="bg-shape2 slide-right" src="../assets/imgs/bg-shape-5.svg" alt="Shape" />
+            <img class="bg-shape slide-left" src="../../assets//imgs/bg-shape-6.svg" alt="Shape" />
+            <img class="bg-shape2 slide-right" src="../../assets//imgs/bg-shape-5.svg" alt="Shape" />
             <div class="custom-container">
                 <div class="hero-section-content text-center">
-                    <h5 class="section-subtitle">Strategy Redefined, Design Excellence, Solution Development</h5>
-                    <h1 class="section-title fade-in">Mobile App Development</h1>
-                    <p>We're experts at creating tailored apps that perfectly fit your business needs.</p>
+                    <h5 class="section-subtitle">Software Strategy, Design Mastery, Development Success</h5>
+                    <h1 class="section-title fade-in">Software development</h1>
+                    <p>We offer full-stack web development services, utilizing the latest technologies and best practices to build responsive, scalable, and secure websites.</p>
                     <a href="#" class="theme-btn2">
                         Let’s talk to our team
                         <i class="iconoir-arrow-up-right"></i>
@@ -37,45 +36,41 @@ include '../includes/header.php'
                 <div class="section-header d-flex align-items-center justify-content-between">
                     <div class="left">
                         <h5 class="section-subtitle">what we do</h5>
-                        <h1 class="section-title">Mobile Development</h1>
-                        <p style="max-width: 100%;">Start your transformative journey with our app development services, where advanced technology delivers exceptional digital experiences tailored to your brand's vision.
+                        <h1 class="section-title">Software development</h1>
+                        <p style="max-width: 100%;">Transform your ideas into reality with our top-tier software development services. We specialize in creating custom, scalable, and user-friendly solutions tailored to your unique business needs.
 
-                            Selecting us means accessing seasoned developers who prioritize your project's success. With transparent communication and post-launch support, we're here for the long haul.</p>
+                            Ready to bring your idea to life? Let's build something amazing together.</p>
                     </div>
                 </div>
 
                 <ul class="nav nav-tabs about2-tabs" role="tablist">
                     <li class="nav-item">
                         <button class="nav-link" id="business_strategy-tab" href="#business_strategy" role="tab" aria-controls="business_strategy">
-                            <span class="icon">1</span> Hybrid App
+                            <span class="icon">1</span> Enterprise Web Apps
 
                         </button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" id="market_analysis-tab" href="#market_analysis" role="tab" aria-controls="market_analysis" aria-selected="false">
-                            <span class="icon">2</span> Progressive Web App
+                            <span class="icon">2</span> Custom Web Apps
                         </button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" id="process_optimation-tab" href="#process_optimation" role="tab" aria-controls="process_optimation" aria-selected="false">
-                            <span class="icon">3</span> App Testing and Quality Assurance
+                            <span class="icon">3</span> Legacy Software Modernization
                         </button>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" id="performance_improvement-tab" href="#performance_improvement" role="tab" aria-controls="performance_improvement" aria-selected="false">
-                            <span class="icon">4</span> Native App Development
+                            <span class="icon">4</span> Web Portal
                         </button>
                     </li>
-                    <li class="nav-item">
-                        <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance" role="tab" aria-controls="entrepreneurial_guidance" aria-selected="false">
-                            <span class="icon">5</span> Custom App Development
-                        </button>
-                    </li>
-                    <li class="nav-item">
-                        <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance" role="tab" aria-controls="entrepreneurial_guidance" aria-selected="false">
-                            <span class="icon">6</span> App Migration and Upgradation
-                        </button>
-                    </li>
+                    <!-- <li class="nav-item">
+                            <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance" role="tab"
+                                aria-controls="entrepreneurial_guidance" aria-selected="false">
+                                <span class="icon">5</span> E-commerce
+                            </button>
+                        </li> -->
                 </ul>
 
             </div>
@@ -86,15 +81,16 @@ include '../includes/header.php'
 
     <!-- Portfolio -->
     <section class="portoflio-area">
-        <img src="../assets/imgs/bg-shape-9.svg" alt="Shape" class="bg-shape" />
+        <img src="../../assets//imgs/bg-shape-9.svg" alt="Shape" class="bg-shape" />
         <div class="custom-container">
             <div class="section-header d-flex align-items-end justify-content-between">
                 <div class="left">
                     <h5 class="section-subtitle">Why us</h5>
-                    <h1 class="section-title">Advanced App Development</h1>
+                    <h1 class="section-title">Craft dynamic <br>
+                        software systems</h1>
                 </div>
 
-                <p>Enhance your digital presence with Toolfe's tailored app development services. Work with us to uncover a wide range of opportunities in the digital landscape.</p>
+                <p>Transform your ideas into reality with our top-tier software development services. We specialize in creating custom, scalable, and user-friendly solutions tailored to your unique business needs.</p>
             </div>
 
             <div class="portfolio-lists d-flex w-full gap-24">
@@ -102,25 +98,25 @@ include '../includes/header.php'
 
                     <div class="portfolio-card portfolio-card-1 card-h">
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/Mobileappbento/1.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/software devbento/1.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
-                            <h2>API <br>
-                                Integration</a></h2>
-                            <p>Tailored API solutions to meet specific app requirements.</p>
+                            <h2><a href="#">Agile <br>
+                                    Methods</a></h2>
+                            <p>We have an expert team for iterative software delivery.</p>
 
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-2 card-h">
                         <div class="portfolio-body">
-                            <h2>Scalability and<br>
-                                Flexibility <br>
+                            <h2><a href="#">Custom<br>
+                                    Solutions <br>
                                 </a></h2>
-                            <p>We design apps that grow with your business.</p>
+                            <p>Delivering custom-built software solutions that align with your goals.</p>
 
                         </div>
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/Mobileappbento/2.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/software devbento/2.png" alt="Portfolio" />
                         </div>
                     </div>
 
@@ -129,23 +125,23 @@ include '../includes/header.php'
 
                     <div class="portfolio-card portfolio-card-2 card-h">
                         <div class="portfolio-body">
-                            <h2>User Authentication<br>
-                                and Authorization <br></a></h2>
-                            <p>We have a best team for your branding studio.</p>
+                            <h2><a href="#">Feasibility and<br>
+                                    Prototyping <br></a></h2>
+                            <p>We assess project viability with detailed feasibility studies.</p>
 
                         </div>
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/Mobileappbento/3.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/software devbento/3.png" alt="Portfolio" />
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-1 card-h">
-                        <div class="portfolio-img" style="height:232px;">
-                            <img src="../assets/imgs/services/Mobileappbento/4.png" alt="Portfolio" />
+                        <div class="portfolio-img" style="height: 280px" ;>
+                            <img src="../assets/imgs/services/software devbento/4.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
-                            <h2>Multi-platform <br>
-                                Compatibility</a></h2>
-                            <p>Compatible with a wide range of operating systems.</p>
+                            <h2><a href="#">API <br>
+                                    Integration</a></h2>
+                            <p>Tailored API integrations to meet your specific software needs.</p>
 
                         </div>
                     </div>
@@ -155,25 +151,25 @@ include '../includes/header.php'
 
                     <div class="portfolio-card portfolio-card-1 card-h">
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/Mobileappbento/5.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/software devbento/5.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
-                            <h2>Wearable Device <br>
-                                Compatibility</a></h2>
-                            <p>Our apps work smoothly across various wearable devices..</p>
+                            <h2><a href="#">Post Launch <br>
+                                    Support</a></h2>
+                            <p>We're here to assist beyond the initial launch phase.</p>
 
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-2 card-h">
                         <div class="portfolio-body">
-                            <h2>High Security <br>
-                                Standards <br>
+                            <h2><a href="#">Data <br>
+                                    Security <br>
                                 </a></h2>
-                            <p></p>We offer advanced security solutions for secure app development.</p>
+                            <p>Our methods ensure safe and efficient data management.</p>
 
                         </div>
-                        <div class="portfolio-img" style="height: 244px;">
-                            <img src="../assets/imgs/services/Mobileappbento/6.png" alt="Portfolio" />
+                        <div class="portfolio-img" style="height: 292px;">
+                            <img src="../assets/imgs/services/software devbento/6.png" alt="Portfolio" />
                         </div>
                     </div>
 
@@ -186,7 +182,7 @@ include '../includes/header.php'
                     <div class="our-expert-team-box-inner d-flex align-items-center">
 
                         <p>
-                            Let’s discuss your App development needs!
+                            Let’s discuss your software development needs!
                         </p>
                     </div>
                 </div>
@@ -206,17 +202,17 @@ include '../includes/header.php'
     <section class="how-we-do-area">
         <div class="custom-container" style="margin-top: 100px;">
             <div class="custom-row">
-                <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left how-we-do-bg" />
+                <img src="../assets//imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left how-we-do-bg" />
                 <div class="how-we-do-left-content">
                     <div class="top">
                         <h5 class="section-subtitle">Our Workflow</h5>
                         <h1 class="section-title">How we do</h1>
-                        <p>Our Strategy for App Development</p>
+                        <p>Achieve excellence with our proven software development method.</p>
                     </div>
                     <!-- <a href="how-we-do.html" class="theme-btn">
-                        Learn More
-                        <i class="iconoir-arrow-up-right"></i>
-                    </a> -->
+                            Learn More
+                            <i class="iconoir-arrow-up-right"></i>
+                        </a> -->
                 </div>
                 <div class="how-we-do-right-content">
                     <div class="how-we-do-items d-flex align-items-center justify-content-center">
@@ -229,7 +225,7 @@ include '../includes/header.php'
                                 <h3 class="">1</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Conceptualization <br>& Planning</h4>
+                                <h4>Requirement Gathering</h4>
                             </div>
                         </div>
 
@@ -241,7 +237,7 @@ include '../includes/header.php'
                                 <h3 class="">2</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Design</h4>
+                                <h4>Planning</h4>
                             </div>
                         </div>
 
@@ -253,7 +249,7 @@ include '../includes/header.php'
                                 <h3 class="">3</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Development</h4>
+                                <h4>Design</h4>
                             </div>
                         </div>
 
@@ -280,7 +276,7 @@ include '../includes/header.php'
                                 <h3 class="">5</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Deployment</h4>
+                                <h4>Development</h4>
                                 <p></p>
                             </div>
                         </div>
@@ -296,7 +292,7 @@ include '../includes/header.php'
                                 <h3 class="">6</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Maintenance and Updates</h4>
+                                <h4>Deployment</h4>
                                 <p></p>
                             </div>
                         </div>
@@ -313,24 +309,24 @@ include '../includes/header.php'
 
         <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>98%</h1>
-                <h3>Support Response</h3>
-                <p>Achieved higher customer satisfaction by support responses.</p>
+                <h1>93%</h1>
+                <h3>Project Success Rate</h3>
+                <p>Delivered software solutions with a 93% project success rate.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>30%</h1>
-                <h3>Accuracy Improvement</h3>
-                <p>Boosted AI-driven case assignment accuracy in mobile app development</p>
+                <h1>99.9%</h1>
+                <h3>Uptime Guarantee</h3>
+                <p>Ensuring reliable performance and availability of your software applications.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>App Launch Succes</h3>
-                <p>Successful app launches that meet both timeline and quality standards.</p>
+                <h1>95% </h1>
+                <h3>Bug-Free Releases</h3>
+                <p>Rigorous testing ensuring reliable performance and minimal post-release issues.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>Feature satisfaction</h3>
-                <p> Users highly satisfied with the latest app feature updates.</p>
+                <h1>97%</h1>
+                <h3>Customer Retention</h3>
+                <p>Ensuring high satisfaction and loyalty among our client base.</p>
             </div>
         </div>
 
@@ -343,20 +339,17 @@ include '../includes/header.php'
             <div class="custom-row align-items-center">
                 <div class="partner-left-content">
                     <h5 class="section-subtitle">Expertise</h5>
-                    <h1 class="section-title">Crafting solutions with modern technologies</h1>
-                    <p>We are eager to make your digital services top-of-the-line
-                        and highly competitive by introducing advanced
-                        technologies.</p>
+                    <h1 class="section-title">Advanced technology powering our solutions</h1>
+                    <p>Empower your software with our robust tech stack. Streamline management with our intuitive features.</p>
                 </div>
                 <div class="right">
                     <div class="img-box">
-                        <img src="../assets/imgs/services/Mobile app.png" alt="About" />
+                        <img src="../assets/imgs/services/software dev techstack.png" alt="About" />
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
 
 
     <!-- blogs -->
@@ -492,6 +485,7 @@ include '../includes/header.php'
         </div>
     </section>
 
+
     <!-- Faq -->
     <section class="faq-area  faq-style-2-area">
         <div class="custom-container">
@@ -507,9 +501,8 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingOne">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> What types of app development services do you offer?
-
+                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                        </div> What types of software development services do you offer?
 
 
 
@@ -519,7 +512,7 @@ include '../includes/header.php'
 
                                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                                     <div class="card-body">
-                                        We provide a range of app development services, including iOS, Android, cross-platform, and custom app solutions tailored to your business needs.
+                                        We offer custom software development, web and mobile application development, enterprise solutions, software integration, and ongoing maintenance and support.
                                     </div>
                                 </div>
                             </div>
@@ -527,9 +520,8 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingTwo">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> How long does it take to develop an app?
-
+                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                        </div> How do you handle changes or updates to the software after it's launched?
 
 
 
@@ -540,7 +532,7 @@ include '../includes/header.php'
 
                                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                     <div class="card-body">
-                                        App development timelines vary depending on factors like complexity and features. Generally, it can take from a few weeks to several months to complete.
+                                        We have a flexible approach to accommodate changes or updates post-launch. Our team conducts thorough testing and validation to minimize risks and ensure smooth implementation of updates without disrupting your operations.
                                     </div>
                                 </div>
                             </div>
@@ -548,9 +540,8 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingThree">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> What technologies do you use for app development?
-
+                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                        </div> Can you develop software tailored to my specific needs?
 
 
 
@@ -561,7 +552,7 @@ include '../includes/header.php'
 
                                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                     <div class="card-body">
-                                        Our expertise spans various technologies and frameworks, including Swift, Kotlin, React Native, Flutter, and Xamarin, allowing us to deliver high-quality and feature-rich mobile applications.
+                                        Yes, we specialize in custom software solutions tailored to your unique business requirements.
                                     </div>
                                 </div>
                             </div>
@@ -573,20 +564,14 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFour">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> Do you provide ongoing support and maintenance for apps?
-
-
-
-
-
-
+                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                        </div>How much does custom software development cost?
                                     </button>
                                 </h5>
 
                                 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion2">
                                     <div class="card-body">
-                                        Yes, we offer comprehensive support and maintenance services to ensure your app remains up-to-date, secure, and optimized for performance post-launch.
+                                        Costs vary based on project requirements. We provide a detailed proposal with estimated costs after the initial consultation.
                                     </div>
                                 </div>
                             </div>
@@ -594,9 +579,8 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFive">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> Can you assist with app monetization?
-
+                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                        </div> How do you handle data security and privacy?
 
 
 
@@ -607,7 +591,7 @@ include '../includes/header.php'
 
                                 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion2">
                                     <div class="card-body">
-                                        Absolutely. We can help implement effective monetization strategies such as in-app purchases, subscriptions, and advertising, tailored to maximize revenue generation from your app.
+                                        We implement industry best practices, including encryption, secure coding, regular security audits, and compliance with regulations like GDPR.
                                     </div>
                                 </div>
                             </div>
@@ -615,9 +599,8 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingSix">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> How do you ensure app security and data privacy?
-
+                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                        </div> Can you integrate new software with my existing systems?
 
 
 
@@ -628,7 +611,7 @@ include '../includes/header.php'
 
                                 <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
                                     <div class="card-body">
-                                        Ensuring app security and data privacy is paramount to us. We follow industry best practices, including secure coding standards, encryption, user authentication, and compliance with regulations such as GDPR.
+                                        Our process includes requirement analysis, planning, design, development, testing, deployment, and maintenance, following agile methodologies.
                                     </div>
                                 </div>
                             </div>
@@ -657,16 +640,16 @@ include '../includes/header.php'
 
                     </div>
 
-                    <h5 class="section-subtitle text-center">contact us</h5><br>
-                    <h1 class="section-title text-center">Start Your App Revolution</h1> <br><br>
+                    <h5 class="section-subtitle text-center">Contact us</h5><br>
+                    <h1 class="section-title text-center">We Code Your Dreams</h1> <br><br>
 
                     <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
-                        <p>You can reach us anytime via <a href="mailto:bluebase@mail.com">bluebase@mail.com</a></p>
+                        <p>You can reach us anytime via <a href="mailto:bluebase@mail.com">support@toolfe.com</a></p>
 
                         <a href="#" class="our-expert-team-box d-flex align-items-center">
                             <div class="our-expert-team-box-inner d-flex align-items-center">
                                 <div class="imgs d-flex align-items-center">
-                                    <img src="../assets/imgs/small-img-4.png" alt="team" />
+                                    <img src="../../assets//imgs/small-img-4.png" alt="team" />
                                 </div>
                                 <p><span>We will reachout to you in less than</span> 15 Hours</p>
                             </div>
@@ -674,7 +657,7 @@ include '../includes/header.php'
                     </div>
 
                     <div class="hero-contact-form">
-                        <form action="https://wpriverthemes.com/HTML/synck/assets/mail/contact2.php" method="POST" class="contact-form d-flex">
+                        <form action="https://wpriverthemes.com/HTML/synck/../assets//mail/contact2.php" method="POST" class="contact-form d-flex">
                             <div class="input-main-row">
                                 <div class="input-row">
                                     <div class="input-group">
@@ -821,6 +804,7 @@ include '../includes/header.php'
     </section>
 
 
+    <!-- Footer -->
     <!-- Footer -->
     <?php include '../includes/foot.php';  ?>
 
