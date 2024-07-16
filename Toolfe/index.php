@@ -647,7 +647,7 @@
 
               </p>
             </div>
-            <a href="how-we-do.html" class="theme-btn" style="background-color: #fff;color:#000;">
+            <a href="how-we-do.html" class="theme-simple-btn" >
               Learn More
               <i class="iconoir-arrow-up-right"></i>
             </a>
@@ -1214,7 +1214,7 @@
           <h2>Need any further assitance?</h2>
           <p>Feel free to reach out for any inquiries or assistance.</p>
           <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
-            class="theme-btn" style="background-color: #fff;color:#000;">Book an appointment now</a>
+            class="theme-simple-btn">Book an appointment now</a>
         </div>
       </div>
     </section>
@@ -1493,7 +1493,7 @@
                 class="subscribe-form">
                 <div class="subscribe-box d-flex">
                   <input type="email" id="email" name="email" placeholder="Enter Your Email" />
-                  <button id="submit2" class="theme-btn">Get Started</button>
+                  <button id="submit2" class="theme-btn" style="background-color:#fff; color: #000;">Get Started</button>
                 </div>
                 <!-- Alert Message -->
                 <div class="input-row">
@@ -1526,7 +1526,7 @@
                   <br />
                   and providing valuable insights tailored to your business.
                 </p>
-                <a href="contact.php" class="theme-btn">Get an appointment now</a>
+                <a href="contact.php" class="theme-btn" style="background-color:#fff; color: #000;">Get an appointment now</a>
 
                 <div class="footer-experience d-flex align-items-center">
                   <div class="footer-experience-item">

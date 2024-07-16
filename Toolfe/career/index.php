@@ -14,7 +14,7 @@ include '../includes/header.php'
             <h5 class="section-subtitle">Career</h5>
             <h1 class="section-title fade-in">Join Our Innovative Team</h1>
             <p>Discover Exciting Career Opportunities</p>
-            <a href="contact.php" class="theme-btn">Join us</a>
+            <a href="contact.php" class="theme-btn" style="background-color:#fff; color: #000;">Join us</a>
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@ include '../includes/header.php'
             </p>
           </div>
 
-          <a href="service.html" class="theme-btn">
+          <a href="service.html" class="theme-btn" style="background-color:#fff; color: #000;">
             Join Us
             <i class="iconoir-arrow-up-right"></i>
           </a>
