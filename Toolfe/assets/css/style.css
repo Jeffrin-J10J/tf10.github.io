@@ -1659,7 +1659,12 @@ img {
   font-size: 16px;
   display: inline-block;
   border-radius: 30px;
-  background: linear-gradient(93deg, #f877083a 4.1%, #fb4a563a 59.93%, #e620af3a 98.17%);
+  background: linear-gradient(
+    93deg,
+    #f877083a 4.1%,
+    #fb4a563a 59.93%,
+    #e620af3a 98.17%
+  );
   padding: 11px 31px;
   text-transform: capitalize;
   font-family: var(--font_dm);
@@ -1987,7 +1992,12 @@ img {
   right: 30px;
   border-radius: 10px;
   color: #f87708;
-  background: linear-gradient(93deg, #f877083a 4.1%, #fb4a563a 59.93%, #e620af3a 98.17%);
+  background: linear-gradient(
+    93deg,
+    #f877083a 4.1%,
+    #fb4a563a 59.93%,
+    #e620af3a 98.17%
+  );
   padding: 9px 20px;
   line-height: 1;
 }
@@ -3030,7 +3040,12 @@ img {
   border-radius: 50%;
   text-align: center;
   line-height: 20px;
-  background: linear-gradient(93deg, #f87708 4.1%, #fb4a55 59.93%, #e620af 98.17%);
+  background: linear-gradient(
+    93deg,
+    #f87708 4.1%,
+    #fb4a55 59.93%,
+    #e620af 98.17%
+  );
   color: #ffffff;
   font-size: 14px;
 }
@@ -3049,7 +3064,7 @@ img {
   border-radius: 10px;
 }
 
-.about-timeline-item:hover::after{
+.about-timeline-item:hover::after {
   inset: 2px;
 }
 
@@ -3144,7 +3159,12 @@ img {
 }
 .about-timeline .about-timeline-item .number {
   position: absolute;
-  background: linear-gradient(93deg, #f877083a 4.1%, #fb4a563a 59.93%, #e620af3a 98.17%);
+  background: linear-gradient(
+    93deg,
+    #f877083a 4.1%,
+    #fb4a563a 59.93%,
+    #e620af3a 98.17%
+  );
   width: 53px;
   height: 53px;
   line-height: 53px;
@@ -3410,7 +3430,12 @@ img {
   font-size: 14px;
   color: #fff;
   text-align: center;
-  background: linear-gradient(93deg, #f87708 4.1%, #fb4a55 59.93%, #e620af 98.17%);
+  background: linear-gradient(
+    93deg,
+    #f87708 4.1%,
+    #fb4a55 59.93%,
+    #e620af 98.17%
+  );
   border-radius: 50%;
 }
 .about-service3-style-2 {
@@ -5068,7 +5093,12 @@ img {
 .news2-card .meta > * {
   display: block;
   border-radius: 10px;
-  background: linear-gradient(93deg, #f877080f 4.1%, #fb4a5614 59.93%, #e620af17 98.17%);
+  background: linear-gradient(
+    93deg,
+    #f877080f 4.1%,
+    #fb4a5614 59.93%,
+    #e620af17 98.17%
+  );
   color: #f87708;
   font-size: 14px;
   font-weight: 500;
@@ -6055,7 +6085,12 @@ img {
   width: 19px;
   height: 19px;
   border-radius: 50%;
-  background: linear-gradient(93deg, #f87708 4.1%, #fb4a56 59.93%, #e620af 98.17%);
+  background: linear-gradient(
+    93deg,
+    #f87708 4.1%,
+    #fb4a56 59.93%,
+    #e620af 98.17%
+  );
   color: #fff;
   text-align: center;
   line-height: 19px;
@@ -6220,33 +6255,38 @@ img {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  left: 20%;
+  left: 12%;
   top: 30%;
 }
+/* US */
 #map .map-location-item:nth-child(2) {
   left: 44%;
   top: 20%;
 }
+/* Oman */
 #map .map-location-item:nth-child(3) {
-  left: auto;
-  right: 13%;
-  top: 32%;
+  left: 62%;
+  top: 43%;
+  bottom: auto;
 }
+/* India */
 #map .map-location-item:nth-child(4) {
   left: auto;
   right: 29%;
   top: 47%;
 }
+/* arab */
 #map .map-location-item:nth-child(5) {
-  left: 52%;
-  top: auto;
-  bottom: 31%;
+  left: 58%;
+  top: 40%;
+  bottom: auto;
 }
+/* Singapore*/
 #map .map-location-item:nth-child(6) {
   left: auto;
   top: auto;
-  bottom: 19%;
-  right: 13%;
+  bottom: 42%;
+  right: 22%;
 }
 .map-location-item .map-location-item-inner {
   position: absolute;
@@ -7115,5 +7155,4 @@ img {
 }
 
 .theme-btn {
-  
 }
