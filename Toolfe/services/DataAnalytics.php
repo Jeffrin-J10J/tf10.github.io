@@ -515,7 +515,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingOne">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What is data analytics?
 
 
@@ -532,7 +532,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingTwo">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Why is data analytics important for my business?
 
 
@@ -550,7 +550,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingThree">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> How do you ensure data quality and accuracy?
 
 
@@ -572,7 +572,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFour">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Can you handle large volumes of data?
 
 
@@ -590,7 +590,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFive">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> How do you customize your services for different industries?
 
 
@@ -608,7 +608,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingSix">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What are the benefits of predictive analytics?
 
 

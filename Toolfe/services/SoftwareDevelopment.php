@@ -501,7 +501,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingOne">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <div class="icon">
-                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What types of software development services do you offer?
 
 
@@ -520,7 +520,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingTwo">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <div class="icon">
-                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> How do you handle changes or updates to the software after it's launched?
 
 
@@ -540,7 +540,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingThree">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
-                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Can you develop software tailored to my specific needs?
 
 
@@ -564,7 +564,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFour">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                         <div class="icon">
-                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div>How much does custom software development cost?
                                     </button>
                                 </h5>
@@ -579,7 +579,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFive">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                         <div class="icon">
-                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> How do you handle data security and privacy?
 
 
@@ -599,7 +599,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingSix">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
-                                            <img src="../../assets//imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Can you integrate new software with my existing systems?
 
 

@@ -507,7 +507,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingOne">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What types of app development services do you offer?
 
 
@@ -527,7 +527,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingTwo">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> How long does it take to develop an app?
 
 
@@ -548,7 +548,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingThree">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> What technologies do you use for app development?
 
 
@@ -573,7 +573,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFour">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Do you provide ongoing support and maintenance for apps?
 
 
@@ -594,7 +594,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingFive">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> Can you assist with app monetization?
 
 
@@ -615,7 +615,7 @@ include '../includes/header.php'
                                 <h5 class="card-header" id="headingSix">
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
-                                            <img src="../assets/imgs/question-icon.svg" alt="Icon" />
+                                             <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
                                         </div> How do you ensure app security and data privacy?
 
 
