@@ -396,16 +396,11 @@
       <div class="custom-container">
         <div class="custom-row justify-content-between align-items-center">
           <div class="left-content">
-            <h5 class="section-subtitle">CONSULTING EXCELLENCE</h5>
+            <h5 class="section-subtitle">ABOUT US</h5>
             <h1 class="section-title">
-              About us
+              Your Partner in <br> Expert <br> Solutions
             </h1>
-            <p>
-              Realizing the tech adoption gap, we noticed many companies target large markets, leaving SMEs underserved.
-              Freelancers and startups fill this space but lack research acumen. Driven by our passion for helping
-              others, we created Toolfe, providing SMEs with affordable, efficient, and effective information and
-              technology solutions for the future.
-            </p>
+            <p>At Toolfe, our journey started with a vision to empower businesses through digital transformation.  Founded by passionate innovators, we've become a trusted partner worldwide. Our story is one of turning challenges into opportunities with cutting-edge IT and automation solutions. We're not just adapting to the digital age  - we're defining it , helping businesses unlock their full potential and achieve lasting growth . Join us as we continue to inspire and lead in technology.</p>
 
           </div>
 
@@ -415,9 +410,9 @@
                 <div class="about-timeline-item-inner">
                   <img src="../assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
                   <span class="number">01</span>
-                  <h3>A lightbulb moment happened</h3>
+                  <h3>Smoother Operations</h3>
                   <p>
-                    When the Idea Was Given Name and Life
+                    We automate tasks with the latest technology, making your operations faster and smoother.
                   </p>
                 </div>
               </div>
@@ -425,9 +420,9 @@
                 <div class="about-timeline-item-inner">
                   <img src="../assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
                   <span class="number">02</span>
-                  <h3>First Milestone</h3>
+                  <h3>Expert Hands</h3>
                   <p>
-                    In 2022, we inked our debut project and cashed in our first paycheck.
+                    Our team's deep knowledge lets us craft unique solutions to fit your specific needs.
                   </p>
                 </div>
               </div>
@@ -436,9 +431,9 @@
                 <div class="about-timeline-item-inner">
                   <img src="../assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
                   <span class="number">03</span>
-                  <h3>Our continuous acheivement</h3>
+                  <h3>Our Continuous acheivement</h3>
                   <p>
-                    We will continuously achieve content excellence and client satisfaction.
+                    We understand your challenges and build lasting partnerships by prioritizing your success. 
                   </p>
                 </div>
               </div>
@@ -470,7 +465,7 @@
         <div class="services-list d-flex">
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon1.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="service-details.html">Process Automation </a></h3>
+            <h3><a href="services/ProcessAutomation.php">Process Automation </a></h3>
             <p>
               Revolutionize your workflows with our end-to-end automation
               solutions, enhancing productivity and reducing operational
@@ -479,7 +474,7 @@
           </div>
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon2.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="service-details.html">Generative AI & ML </a></h3>
+            <h3><a href="services/AIMLPage.php"> AI/ML </a></h3>
             <p>
               Leverage the power of artificial intelligence to uncover
               insights, predict trends, and automate decision-making
@@ -488,7 +483,7 @@
           </div>
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon3.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="service-details.html">Data Analytics </a></h3>
+            <h3><a href="services/DataAnalytics.php">Data Analytics </a></h3>
             <p>
               Transform your data into actionable intelligence with our
               advanced analytics services, driving informed business
@@ -497,7 +492,7 @@
           </div>
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon4.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="service-details.html">Market Research </a></h3>
+            <h3><a href="services/MarketResearch.php">Market Research </a></h3>
             <p>
               Gain a competitive edge with our comprehensive market research
               solutions, tailored to your industry and business needs.
@@ -506,7 +501,7 @@
           <div class="service-card simple-shadow">
 
             <img src="assets/imgs/Home/ourSolution/solution_icon5.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="service-details.html">Cloud Solutions </a></h3>
+            <h3><a href="services/Cloud.php">Cloud Solutions </a></h3>
             <p>
               Embrace the future with our secure and scalable cloud solutions,
               designed to enhance flexibility and efficiency.
@@ -518,7 +513,7 @@
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon6.svg" alt="Service Icon" class="service-icon" />
             <h3>
-              <a href="service-details.html">Web Application Development </a>
+              <a href="services/SoftwareDevelopment.php">Web Application Development </a>
             </h3>
             <p>
               Create dynamic and responsive web applications that deliver
@@ -527,7 +522,7 @@
           </div>
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon7.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="service-details.html"> Website Development </a></h3>
+            <h3><a href="services/WebDevelopment.php"> Website Development </a></h3>
             <p>
               Develop stunning, high-performance websites that captivate your
               audience and drive engagement.
@@ -536,7 +531,7 @@
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon8.svg" alt="Service Icon" class="service-icon" />
             <h3>
-              <a href="service-details.html">UX/UI </a>
+              <a href="services/UXUI.php">UX/UI </a>
             </h3>
             <p>
               Enhance user satisfaction with intuitive and visually appealing
@@ -545,7 +540,7 @@
           </div>
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon9.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="service-details.html">Software Development </a></h3>
+            <h3><a href="services/MarketResearch.php">Software Development </a></h3>
             <p>
               Build robust and scalable software solutions tailored to your
               unique business requirements, ensuring long-term success.
@@ -554,7 +549,7 @@
           <div class="service-card simple-shadow">
 
             <img src="assets/imgs/Home/ourSolution/solution_icon10.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="service-details.html">15 Hour Spark Tasks </a></h3>
+            <h3><a href="https://hourspark.com/">15 Hour Spark Tasks </a></h3>
             <p>
               Achieve quick wins with our specialized 15-hour tasks, designed
               to address immediate needs and deliver fast results.
@@ -761,7 +756,7 @@
             <li class="nav-item">
               <button class="nav-link" id="woo_commerce-tab" data-bs-toggle="tab" href="#woo_commerce" role="tab"
                 aria-controls="woo_commerce" aria-selected="false">
-                Generative AI/ML
+                AI/ML
               </button>
             </li>
             <li class="nav-item">
@@ -1149,10 +1144,10 @@
             <div class="news2-card-body">
               <div class="meta">
                 <span class="date">Jun 24, 2024</span>
-                <a href="blog-details.html" class="category">#AWS</a>
+                <span class="category">#AWS</span>
               </div>
-              <h2><a href="blog-details.html">How to Connect to an EC2 Instance Without Errors: A Step-by-Step Guide(For
-                  Linux and MacOS)</a></h2>
+              <h2><span>How to Connect to an EC2 Instance Without Errors: A Step-by-Step Guide(For
+                  Linux and MacOS)</span></h2>
               <p>Learn to connect flawlessly to EC2 instances on Linux and macOS with this straightforward guide.</p>
               <a href="https://blog.toolfe.com/index.php/2024/06/24/how-to-connect-to-an-ec2-instance-without-errors-a-step-by-step-guidefor-linux-and-macos/"
                 class="theme-btn">
@@ -1165,10 +1160,10 @@
             <div class="news2-card-body">
               <div class="meta">
                 <span class="date">May 22, 2024</span>
-                <a href="" class="category">#Blockchain Technology</a>
+                <span class="category">#Blockchain Technology</span>
               </div>
-              <h2><a href="blog-details.html">Essential Blockchain Testing Techniques: Ensuring Integrity and Security
-                  in Networks</a></h2>
+              <h2><span href="blog-details.html">Essential Blockchain Testing Techniques: Ensuring Integrity and Security
+                  in Networks</span></h2>
               <p>Blockchain testing is crucial to ensure that networks are secure and data integrity is maintained.</p>
               <a href="https://blog.toolfe.com/index.php/2024/05/22/essential-blockchain-testing-techniques-ensuring-integrity-and-security-in-networks/"
                 class="theme-btn">
@@ -1182,9 +1177,9 @@
             <div class="news2-card-body">
               <div class="meta">
                 <span class="date">May 15, 2024</span>
-                <a href="blog-details.html" class="category">#UX Research</a>
+                <span class="category">#UX Research</span>
               </div>
-              <h2><a href="blog-details.html">Best ux research methods and when to use them</a></h2>
+              <h2><span>Best ux research methods and when to use them</span></h2>
               <p>Discover effective UX research methods like interviews and usability tests to enhance product
                 understanding and usability.</p>
               <a href="https://blog.toolfe.com/index.php/2024/05/15/best-ux-research-methods-and-when-to-use-them/"
@@ -1217,127 +1212,6 @@
             class="theme-simple-btn">Book an appointment now</a>
         </div>
       </div>
-    </section>
-
-    <!-- Faq -->
-    <section class="faq-area  faq-style-2-area mb-0">
-      <div class="custom-container">
-        <div class="faq-inner">
-
-          <h5 class="section-subtitle">FAQ SECTION</h5>
-          <h1 class="section-title">Frequently asked questions</h1>
-
-          <div class="faq-items-box">
-            <div class="faq-col">
-              <div id="accordion">
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingOne">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
-                      aria-controls="collapseOne">
-                      <div class="icon">
-                        <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
-                      </div> What are the benefits of process automation for my business?
-                    </button>
-                  </h5>
-
-                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="card-body">
-                      Process automation enhances efficiency, reduces errors, and allows resources to focus on strategic
-                      tasks
-                    </div>
-                  </div>
-                </div>
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingTwo">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
-                      aria-controls="collapseTwo">
-                      <div class="icon">
-                        <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
-                      </div>Which industries do you serve with your automation solutions?
-                    </button>
-                  </h5>
-
-                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                    <div class="card-body">
-                      Our solutions are tailored for manufacturing, healthcare, finance, and logistics sectors. </div>
-                  </div>
-                </div>
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingThree">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
-                      aria-controls="collapseThree">
-                      <div class="icon">
-                        <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
-                      </div> What types of software development services do you offer?
-                    </button>
-                  </h5>
-
-                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                    <div class="card-body">
-                      We provide custom application development, integration solutions, and legacy system modernization.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="faq-col">
-              <div id="accordion2">
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingFour">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true"
-                      aria-controls="collapseFour">
-                      <div class="icon">
-                        <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
-                      </div>How can your company improve our business processes?
-                    </button>
-                  </h5>
-
-                  <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordion2">
-                    <div class="card-body">
-                      We specialize in custom solutions to optimize workflows and drive growth across various
-                      industries. </div>
-                  </div>
-                </div>
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingFive">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false"
-                      aria-controls="collapseFive">
-                      <div class="icon">
-                        <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
-                      </div> How does automation benefit our web development projects?
-                    </button>
-                  </h5>
-
-                  <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion2">
-                    <div class="card-body">
-                      It speeds up timelines, improves code quality, and ensures smooth deployment and maintenance.
-                    </div>
-                  </div>
-                </div>
-                <div class="faq-box">
-                  <h5 class="card-header" id="headingSix">
-                    <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false"
-                      aria-controls="collapseSix">
-                      <div class="icon">
-                        <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
-                      </div>How does automation benefit our web development projects?
-                    </button>
-                  </h5>
-
-                  <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
-                    <div class="card-body">
-                      It speeds up timelines, improves code quality, and ensures smooth deployment and maintenance.
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-      </div>
-
     </section>
     <!-- Contact -->
     <section class="contact-area mt-0">
