@@ -23,7 +23,7 @@ include '../includes/header.php'
                     <p>Elevate your enterprise’s efficiency with Toolfe’s Process Automation, where strategic digital
                         transformation meets purpose-driven innovation</p>
                     <a href="#" class="theme-btn2">
-                        Let’s talk to our team
+                        Let’s talk
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
                 </div>
@@ -277,18 +277,6 @@ include '../includes/header.php'
                             <div class="line-shape"></div>
 
                             <div class="how-we-do-icon">
-                                <h3 class="">4</h3>
-                            </div>
-                            <div class="how-we-do-content">
-                                <h4>Select Automation <br> Tools</h4>
-                            </div>
-                        </div>
-
-                        <div class="how-we-do-card">
-                            <div class="circle-shape"></div>
-                            <div class="line-shape"></div>
-
-                            <div class="how-we-do-icon">
                                 <h3 class="">5</h3>
                             </div>
                             <div class="how-we-do-content">
@@ -296,6 +284,19 @@ include '../includes/header.php'
                                 <p></p>
                             </div>
                         </div>
+                        <div class="how-we-do-card">
+                            <div class="circle-shape"></div>
+                            <div class="line-shape"></div>
+
+                            <div class="how-we-do-icon">
+                                <h3 class="">4</h3>
+                            </div>
+                            <div class="how-we-do-content">
+                                <h4>Select Automation <br> Tools</h4>
+                            </div>
+                        </div>
+
+
                     </div>
 
                     <div class="how-we-do-items d-flex align-items-center justify-content-center">
@@ -320,28 +321,31 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-        <div class="hero-company-boxes">
+<div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>50%</h1>
+                <h1 class="mb-5" >50%</h1>
                 <h3>Efficiency Boost</h3>
                 <p>Automate repetitive tasks to save time and resources.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>30%</h1>
+                <h1 class="mb-5" >30%</h1>
                 <h3>Cost Reduction</h3>
                 <p>Improved efficiency by reducing email processing time.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
+                <h1 class="mb-5" >95%</h1>
                 <h3>Error Reduction</h3>
                 <p>Minimize human errors with automated processes.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>24/7</h1>
+                <h1 class="mb-5" >24/7</h1>
                 <h3>Operations</h3>
                 <p>Ensure round-the-clock productivity with automation.</p>
             </div>
         </div>
+</div>
+
 
     </section>
 

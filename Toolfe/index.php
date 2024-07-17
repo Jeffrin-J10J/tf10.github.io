@@ -365,7 +365,7 @@
       <div class="custom-container">
         <div class="custom-row align-items-center mt-5">
           <div class="hero-empowerment-left-content">
-            <h5 class="section-subtitle">INNOVATION</h5>
+            <h5 class="section-subtitle">Autopilot your business</h5>
             <h1 class="section-title fade-in">
               Transform Your Business with Cutting-Edge Automation
             </h1>
@@ -531,7 +531,7 @@
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon8.svg" alt="Service Icon" class="service-icon" />
             <h3>
-              <a href="services/UXUI.php">UX/UI </a>
+              <a href="services/UXUI.php">User Experience and User Interface</a>
             </h3>
             <p>
               Enhance user satisfaction with intuitive and visually appealing
@@ -540,16 +540,13 @@
           </div>
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon9.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="services/MarketResearch.php">Software Development </a></h3>
-            <p>
-              Build robust and scalable software solutions tailored to your
-              unique business requirements, ensuring long-term success.
-            </p>
+            <h3><a href="services/MobileAppDevelopment.php">Mobile Application Development </a></h3>
+            <p>Develop high-quality, user-friendly mobile apps for optimal performance and satisfaction through innovation.</p>
           </div>
           <div class="service-card simple-shadow">
 
             <img src="assets/imgs/Home/ourSolution/solution_icon10.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="https://hourspark.com/">15 Hour Spark Tasks </a></h3>
+            <h3><a href="https://hourspark.com/">15 Hour Spark <br> Tasks </a></h3>
             <p>
               Achieve quick wins with our specialized 15-hour tasks, designed
               to address immediate needs and deliver fast results.
@@ -569,7 +566,7 @@
               <h1 class="section-title">
                 Leading Digital Transformation with Toolfe.
               </h1>
-              <p>Contact us today to begin your journey</p>
+              <p>Drive Your business forward with Toolfe's cutting-edge digital transformation solutions.</p>
             </div>
             <a href="./contact/index.html" class="theme-btn">Contact Us</a>
           </div>
@@ -599,28 +596,27 @@
           </div>
         </div>
         <div class="hero-company-boxes" style="margin-top: 20px;">
-          <div class="hero-company-box simple-shadow">
-            <h1>100+</h1>
+          <div class="hero-company-box simple-shadow ">
+            <h1 class="">100+</h1>
             <h3>Projects</h3>
             <p>
-              We are spread around
-              the world.
+              Managed 100+ IT projects , driving innovation and efficiency.
             </p>
           </div>
-          <div class="hero-company-box simple-shadow">
-            <h1>500K +</h1>
-            <h3>Hours Our Clients Saved</h3>
-            <p>Our automation solutions have significantly reduced the time our clients spend on tasks.</p>
+          <div class="hero-company-box simple-shadow ">
+            <h1 class="">50K+</h1>
+            <h3>Hours Saved</h3>
+            <p>Saved client hours with automation and dedication.</p>
           </div>
-          <div class="hero-company-box simple-shadow">
-            <h1>80%</h1>
+          <div class="hero-company-box simple-shadow ">
+            <h1 class="">80%</h1>
             <h3>Retention Rate</h3>
-            <p>Most clients choose to stay with us long-term due to our excellent service and support.</p>
+            <p>Exceptional service and support ensure lasting client relationships.</p>
           </div>
-          <div class="hero-company-box simple-shadow">
-            <h1>99%</h1>
+          <div class="hero-company-box simple-shadow ">
+            <h1 class="">100%</h1>
             <h3>Client Satisfaction</h3>
-            <p>Our clients are highly satisfied, with a remarkable approval rate.</p>
+            <p>Ensured satisfaction exceeded expectations with exceptinal service.</p>
           </div>
         </div>
       </div>
@@ -637,14 +633,9 @@
               </h5>
               <h1 class="section-title">How we do
               </h1>
-              <p>Save time and money with<br>
-                our powerful method.
+              <p>Our company's workflow ensures smooth and organized operations.
               </p>
             </div>
-            <a href="how-we-do.html" class="theme-simple-btn" >
-              Learn More
-              <i class="iconoir-arrow-up-right"></i>
-            </a>
           </div>
           <div class="how-we-do-right-content">
             <div class="how-we-do-items d-flex align-items-center justify-content-center">
@@ -739,8 +730,8 @@
     <section class="case-studio-area">
       <div class="custom-container">
         <div class="case-studio-header text-center">
-          <h5 class="section-subtitle">CASE STUDIES</h5>
-          <h1 class="section-title">Detailing of our products</h1>
+          <h5 class="section-subtitle">Benefits</h5>
+          <h1 class="section-title">Your Strategic Advantage</h1>
         </div>
 
         <div class="case-studio">
@@ -786,9 +777,7 @@
                     <img src="assets/imgs/Home/ourSolution/solution_icon1.svg" alt="ICON" />
 
                     <h3>Process Automation</h3>
-                    <p>Manual processes hinder business growth and waste resources. Toolfe's custom automation workflows
-                      streamline repetitive tasks, boosting efficiency and freeing your team for higher-value
-                      activities.
+                    <p>Manual processes not only slow down business progress but also consume valuable resources unnecessarily. Toolfe's tailored automation workflows are designed to simplify repetitive tasks, enhancing productivity significantly. By automating these routine operations, your team can focus more on strategic initiatives that drive growth and innovation. This efficiency boost not only saves time but also reduces errors, ensuring smoother operations across your organization. Embrace automation with Toolfe and unlock your team's potential for greater achievements.
                     </p>
 
                   </div>
@@ -801,11 +790,12 @@
                     </a>
                     <h3>Benefits</h3>
                     <ul>
-                      <li><i class="las la-check"></i> Hyper Automation</li>
-                      <li><i class="las la-check"></i> Robotic Process Automation</li>
-                      <li><i class="las la-check"></i> Automation Audition</li>
-                      <li><i class="las la-check"></i> Process Mining</li>
-                      <li><i class="las la-check"></i> Business Process Automation</li>
+                      <li><i class="las la-check"></i> Automated Proficiency</li>
+                      <li><i class="las la-check"></i> Customized Automation</li>
+                      <li><i class="las la-check"></i> Robotic Innovation</li>
+                      <li><i class="las la-check"></i> Integrated Automation</li>
+                      <li><i class="las la-check"></i> Automation Scalability</li>
+                      <li><i class="las la-check"></i> Automated Support Systems</li>
                     </ul>
                   </div>
                 </div>
@@ -819,8 +809,8 @@
 
                     <img src="assets/imgs/Home/ourSolution/solution_icon2.svg" alt="ICON" />
 
-                    <h3>Generative AI/ML </h3>
-                    <p>We specialize in Artificial Intelligence and Machine Learning technology, developing smart systems that learn, adapt, and perform tasks, revolutionizing efficiency and decision-making processes.
+                    <h3> AI/ML </h3>
+                    <p>We specialize in Artificial Intelligence and Machine Learning technology, developing smart systems that learn, adapt, and perform tasks. Our innovations are reshaping how businesses operate by boosting efficiency and enhancing decision-making processes. By harnessing advanced algorithms, we create solutions that continuously improve and adjust to new data, ensuring optimal performance in dynamic environments. Our goal is to empower organizations with cutting-edge technology that not only automates routine tasks but also delivers actionable insights for strategic growth. With our expertise, we're paving the way for smarter, more agile operations across industries.
                     </p>
 
                   </div>
@@ -833,12 +823,12 @@
                     </a>
                     <h3>Benefits</h3>
                     <ul>
-                      <li><i class="las la-check"></i> Predictive Analytics</li>
-                      <li><i class="las la-check"></i> Customized Automation</li>
-                      <li><i class="las la-check"></i> AI Strategy Consulting</li>
-                      <li><i class="las la-check"></i> Data Mining</li>
-                      <li><i class="las la-check"></i> Machine Learning Solutions</li>
-                      <li><i class="las la-check"></i> Automated Decision Making</li>
+                      <li><i class="las la-check"></i> Boosting Intelligence</li>
+                      <li><i class="las la-check"></i> Tailoring Solutions</li>
+                      <li><i class="las la-check"></i> Leading Robotics Innovation</li>
+                      <li><i class="las la-check"></i> Seamless Integration</li>
+                      <li><i class="las la-check"></i> Scaling Automation</li>
+                      <li><i class="las la-check"></i> Empowering Support Systems</li>
                     </ul>
                   </div>
                 </div>
@@ -853,8 +843,7 @@
                     <img src="assets/imgs/Home/ourSolution/solution_icon3.svg" alt="ICON" />
 
                     <h3>Data Analytics</h3>
-                    <p>Unlock actionable insights with our advanced data analytics solutions tailored to your business needs. Drive growth and efficiency by harnessing the power of data.
-                    </p>
+                    <p>Unlock actionable insights with our advanced data analytics solutions tailored specifically to meet the unique needs of your business. Our expertise empowers you to drive growth and streamline operations by harnessing the full potential of your data. Whether you're aiming to optimize resource allocation, enhance customer experiences, or improve decision-making processes, our solutions provide the clarity and strategic direction you need. Trust our proven methodologies to transform complex data into actionable strategies that propel your business forward with confidence and efficiency. Partner with us to unlock the true value of your data-driven initiatives today.</p>
 
                   </div>
                 </div>
@@ -866,12 +855,12 @@
                     </a>
                     <h3>Benefits</h3>
                     <ul>
-                      <li><i class="las la-check"></i> Data Collection</li>
-                      <li><i class="las la-check"></i> Data Cleaning</li>
-                      <li><i class="las la-check"></i> Data Analysis</li>
-                      <li><i class="las la-check"></i> Data Visualization</li>
-                      <li><i class="las la-check"></i> Predictive Modeling</li>
-                      <li><i class="las la-check"></i> Insights and Recommendations</li>
+                      <li><i class="las la-check"></i> Data driven insight</li>
+                      <li><i class="las la-check"></i> Predictive Analysis</li>
+                      <li><i class="las la-check"></i> Process Optimisation</li>
+                      <li><i class="las la-check"></i> Risk Assessment</li>
+                      <li><i class="las la-check"></i> Performance Analysis</li>
+                      <li><i class="las la-check"></i> Resource Managment</li>
                     </ul>
                   </div>
                 </div>
@@ -886,8 +875,7 @@
                     <img src="assets/imgs/Home/ourSolution/solution_icon7.svg" alt="ICON" />
 
                     <h3>Web Development</h3>
-                    <p>Enhance your business with personalized web solutions. Unlock growth opportunities and succeed online with ease.
-                    </p>
+                    <p>Enhance your business with personalized web solutions. Whether you're looking to revamp your website, optimize user experience, or integrate powerful e-commerce capabilities, our tailored solutions are designed to propel your online success. From responsive designs that engage customers across all devices to seamless content management systems, we ensure your business stays ahead in the digital landscape. Partner with us to unlock growth opportunities and achieve your goals effortlessly, backed by our expertise in creating impactful online experiences.</p>
 
                   </div>
                 </div>
@@ -899,12 +887,12 @@
                     </a>
                     <h3>Benefits</h3>
                     <ul>
-                      <li><i class="las la-check"></i> Responsive Design</li>
-                      <li><i class="las la-check"></i> E-commerce Integration</li>
-                      <li><i class="las la-check"></i> SEO Optimization</li>
-                      <li><i class="las la-check"></i> Content Management Systems</li>
-                      <li><i class="las la-check"></i> Custom Web Applications</li>
-                      <li><i class="las la-check"></i> Performance Optimization</li>
+                      <li><i class="las la-check"></i> Visual appeal</li>
+                      <li><i class="las la-check"></i> Responsive website</li>
+                      <li><i class="las la-check"></i> Fast-paced development</li>
+                      <li><i class="las la-check"></i> Innovative technologies</li>
+                      <li><i class="las la-check"></i> Enhanced functionality</li>
+                      <li><i class="las la-check"></i> Continous support</li>
                     </ul>
                   </div>
                 </div>
@@ -919,8 +907,7 @@
                     <img src="assets/imgs/Home/ourSolution/solution_icon4.svg" alt="ICON" />
 
                     <h3>Market Research</h3>
-                    <p>Market research informs strategic IT decisions by analyzing trends, competitors, and customer preferences, crucial for product launches, expansions, and optimizations.
-                    </p>
+                    <p>Market research plays a vital role in guiding strategic IT decisions. By examining trends, competitors, and customer preferences, it provides essential insights necessary for launching new products, expanding into new markets, and optimizing existing offerings. Understanding these factors helps businesses align their IT strategies with current market demands and anticipate future needs. This proactive approach not only enhances decision-making but also increases the likelihood of success in a competitive business landscape.</p>
 
                   </div>
                 </div>
@@ -932,12 +919,12 @@
                     </a>
                     <h3>Benefits</h3>
                     <ul>
-                      <li><i class="las la-check"></i> Qualitative and quantitative research</li>
-                      <li><i class="las la-check"></i> Risk Analysis and Mitigation plans</li>
-                      <li><i class="las la-check"></i> Market entry strategy</li>
-                      <li><i class="las la-check"></i> Competitor Analysis</li>
-                      <li><i class="las la-check"></i> Pricing Strategy</li>
-                      <li><i class="las la-check"></i> Market Segmentation</li>
+                      <li><i class="las la-check"></i> Sales Optimization</li>
+                      <li><i class="las la-check"></i> Brand Perception</li>
+                      <li><i class="las la-check"></i> Comprehensive Data Collection</li>
+                      <li><i class="las la-check"></i> Advanced Analytics</li>
+                      <li><i class="las la-check"></i> Competitive Benchmarking</li>
+                      <li><i class="las la-check"></i> Trend Forecasting</li>
                     </ul>
                   </div>
                 </div>
@@ -1020,10 +1007,9 @@
     <section class="testimonial-area">
       <div class="custom-container">
         <div class="case-studio-header text-center">
-          <h5 class="section-subtitle">Testimonial</h5>
+          <h5 class="section-subtitle mb-2">Testimonial</h5>
           <h1 class="section-title">Here's what our clients are saying about us</h1>
-          <p>Their dedication to our success and their professional approach <br>were apparent every step of the way.
-          </p>
+          
           <br>
         </div>
         <div class="testimonial-slider-wrap">
@@ -1207,12 +1193,7 @@
           <img src="assets/imgs/bg-shape-11.svg" alt="Shape" class="animation-slide-left bg-shape" />
           <div class="our-expert-team-box">
             <div class="our-expert-team-box-inner d-flex align-items-center">
-              <div class="imgs d-flex align-items-center">
-                <img src="assets/imgs/small-img-4.png" alt="team" />
-                <img src="assets/imgs/small-img-3.png" alt="team" />
-                <img src="assets/imgs/small-img-2.png" alt="team" />
-                <img src="assets/imgs/small-img-1.png" alt="team" />
-              </div>
+             
             </div>
           </div>
           <h2>Need any further assitance?</h2>

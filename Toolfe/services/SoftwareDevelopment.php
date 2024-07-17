@@ -306,29 +306,31 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-
-        <div class="hero-company-boxes">
+<div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>93%</h1>
-                <h3>Project Success Rate</h3>
-                <p>Delivered software solutions with a 93% project success rate.</p>
+                <h1>50%</h1>
+                <h3>Efficiency Boost</h3>
+                <p>Automate repetitive tasks to save time and resources.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>99.9%</h1>
-                <h3>Uptime Guarantee</h3>
-                <p>Ensuring reliable performance and availability of your software applications.</p>
+                <h1>30%</h1>
+                <h3>Cost Reduction</h3>
+                <p>Improved efficiency by reducing email processing time.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95% </h1>
-                <h3>Bug-Free Releases</h3>
-                <p>Rigorous testing ensuring reliable performance and minimal post-release issues.</p>
+                <h1>95%</h1>
+                <h3>Error Reduction</h3>
+                <p>Minimize human errors with automated processes.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>97%</h1>
-                <h3>Customer Retention</h3>
-                <p>Ensuring high satisfaction and loyalty among our client base.</p>
+                <h1>24/7</h1>
+                <h3>Operations</h3>
+                <p>Ensure round-the-clock productivity with automation.</p>
             </div>
         </div>
+</div>
+
 
     </section>
 

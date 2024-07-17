@@ -322,29 +322,31 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-
-        <div class="hero-company-boxes">
+<div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>25%</h1>
+                <h1>50%</h1>
+                <h3>Efficiency Boost</h3>
+                <p>Automate repetitive tasks to save time and resources.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
+                <h1>30%</h1>
                 <h3>Cost Reduction</h3>
-                <p>Reduced operational costs significantly through optimized cloud management.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>40%</h1>
-                <h3>Performance Increase</h3>
-                <p>Increased performance efficiency with scalable cloud computing resources.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>97%</h1>
-                <h3>Customer retention</h3>
-                <p>Enhanced operational accuracy in assigning cases.</p>
+                <p>Improved efficiency by reducing email processing time.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1>95%</h1>
-                <h3>On Time Delivery</h3>
-                <p>Enhanced scalability handling increased email volumes without more staff.</p>
+                <h3>Error Reduction</h3>
+                <p>Minimize human errors with automated processes.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
+                <h1>24/7</h1>
+                <h3>Operations</h3>
+                <p>Ensure round-the-clock productivity with automation.</p>
             </div>
         </div>
+</div>
+
 
     </section>
 

@@ -310,29 +310,31 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-
-        <div class="hero-company-boxes">
+<div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>98%</h1>
-                <h3>Support Response</h3>
-                <p>Achieved higher customer satisfaction by support responses.</p>
+                <h1>50%</h1>
+                <h3>Efficiency Boost</h3>
+                <p>Automate repetitive tasks to save time and resources.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1>30%</h1>
-                <h3>Accuracy Improvement</h3>
-                <p>Boosted AI-driven case assignment accuracy in mobile app development</p>
+                <h3>Cost Reduction</h3>
+                <p>Improved efficiency by reducing email processing time.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1>95%</h1>
-                <h3>App Launch Succes</h3>
-                <p>Successful app launches that meet both timeline and quality standards.</p>
+                <h3>Error Reduction</h3>
+                <p>Minimize human errors with automated processes.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>Feature satisfaction</h3>
-                <p> Users highly satisfied with the latest app feature updates.</p>
+                <h1>24/7</h1>
+                <h3>Operations</h3>
+                <p>Ensure round-the-clock productivity with automation.</p>
             </div>
         </div>
+</div>
+
 
     </section>
 

@@ -319,29 +319,31 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-
-        <div class="hero-company-boxes">
+<div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>97%</h1>
-                <h3>Customer Retention</h3>
-                <p>Achieved customer retention with advanced data analytics strategies.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>40%</h1>
-                <h3>Happy customers</h3>
-                <p>Improved efficiency by reducing email processing time.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>98%</h1>
-                <h3>Conversion Rate Optimization</h3>
-                <p> Increased conversion rates using data-driven insights.</p>
+                <h1>50%</h1>
+                <h3>Efficiency Boost</h3>
+                <p>Automate repetitive tasks to save time and resources.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1>30%</h1>
-                <h3>Time Savingsy</h3>
-                <p>in data processing with automated analytics tools.</p>
+                <h3>Cost Reduction</h3>
+                <p>Improved efficiency by reducing email processing time.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
+                <h1>95%</h1>
+                <h3>Error Reduction</h3>
+                <p>Minimize human errors with automated processes.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
+                <h1>24/7</h1>
+                <h3>Operations</h3>
+                <p>Ensure round-the-clock productivity with automation.</p>
             </div>
         </div>
+</div>
+
 
     </section>
 

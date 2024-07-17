@@ -315,30 +315,31 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-
-        <div class="hero-company-boxes">
-            <div class="hero-company-box simple-shadow">
-                <h1>80%</h1>
-                <h3>Accuracy improvement</h3>
-                <p>Our AI-driven solutions have significantly boosted accuracy in case assignments.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>45%</h1>
-                <h3>Data Quality Enhancement</h3>
-                <p>We prioritize rigorous validation to ensure high-quality, reliable data.
-                </p>
-            </div>
+<div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
                 <h1>50%</h1>
-                <h3>Response Rate Increase</h3>
-                <p>Our targeted methodologies ensure a higher response rate from surveys.</p>
+                <h3>Efficiency Boost</h3>
+                <p>Automate repetitive tasks to save time and resources.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>20%</h1>
-                <h3>Forecasting Accuracy Improvement</h3>
-                <p>Advanced analytics improve the accuracy of our forecasting capabilities.</p>
+                <h1>30%</h1>
+                <h3>Cost Reduction</h3>
+                <p>Improved efficiency by reducing email processing time.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
+                <h1>95%</h1>
+                <h3>Error Reduction</h3>
+                <p>Minimize human errors with automated processes.</p>
+            </div>
+            <div class="hero-company-box simple-shadow">
+                <h1>24/7</h1>
+                <h3>Operations</h3>
+                <p>Ensure round-the-clock productivity with automation.</p>
             </div>
         </div>
+</div>
+
 
     </section>
 

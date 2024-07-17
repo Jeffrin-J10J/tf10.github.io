@@ -3786,7 +3786,7 @@ img {
   width: 58px;
   height: 58px;
   border-radius: 50%;
-  background: rgb(19 81 216 / 5%);
+  background: #f6f6f6;
   color: var(--primary_color);
   font-size: 25px;
   transition: 0.3s;

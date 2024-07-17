@@ -193,7 +193,7 @@ include '../includes/header.php'
   </section>
 
   <!-- Service -->
-  <section class="company-service-area">
+  <section class="company-service-area" style="padding-bottom: 0px;">
     <div class="custom-container">
       <div class="hero-service-about">
         <div class="section-header d-flex align-items-center justify-content-between w-full">
@@ -228,7 +228,7 @@ include '../includes/header.php'
   </section>
 
   <!-- Our Team -->
-  <section class="our-team-4-area">
+  <section class="our-team-4-area" style="padding-top: 100px;">
     <div class="custom-container">
       <div class="section-header">
         <h5 class="section-subtitle">Our Team</h5>
@@ -330,7 +330,7 @@ include '../includes/header.php'
               <div class="testimonial-item-body">
                 <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
                 <!-- <span class="platform-name">
-                                        <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
+                                        <img src="../assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                     </span> -->
                 <h1>
                   We sincerely appreciate Toolfe for outstanding digital
@@ -341,7 +341,7 @@ include '../includes/header.php'
                   improved our productivity.
                 </h1>
                 <div class="author-box d-flex align-items-center">
-                  <!-- <img src="assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
+                  <!-- <img src="../assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
                   <div class="author-box-content">
                     <!-- <h4>Wadi Oddai</h4> -->
                     <p>Vijaykumar, CEO, Oman</p>
@@ -358,7 +358,7 @@ include '../includes/header.php'
               <div class="testimonial-item-body" style="margin-bottom: 35px">
                 <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
                 <!-- <span class="platform-name">
-                                        <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
+                                        <img src="../assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                     </span> -->
                 <h1>
                   Toolfe deserves our utmost gratitude for their exceptional
@@ -369,7 +369,7 @@ include '../includes/header.php'
                   go-to solution for you.
                 </h1>
                 <div class="author-box d-flex align-items-center">
-                  <!-- <img src="assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
+                  <!-- <img src="../assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
                   <div class="author-box-content">
                     <!-- <h4>Animal Cafe</h4> -->
                     <p>Pradeep, MD, Chennai</p>
@@ -386,7 +386,7 @@ include '../includes/header.php'
               <div class="testimonial-item-body">
                 <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
                 <!-- <span class="platform-name">
-                                        <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
+                                        <img src="../assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                     </span> -->
                 <h1>
                   We sincerely appreciate Toolfe for outstanding digital
@@ -397,7 +397,7 @@ include '../includes/header.php'
                   improved our productivity.
                 </h1>
                 <div class="author-box d-flex align-items-center">
-                  <!-- <img src="assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
+                  <!-- <img src="../assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
                   <div class="author-box-content">
                     <!-- <h4>Jesus Industrials</h4> -->
                     <p>Justin, Owner, Chennai</p>
@@ -480,6 +480,23 @@ include '../includes/header.php'
       </div>
     </div>
   </section>
+
+  <section class="cta-area">
+      <div class="custom-container">
+        <div class="cta-body text-center">
+          <img src="../assets/imgs/bg-shape-11.svg" alt="Shape" class="animation-slide-left bg-shape" />
+          <div class="our-expert-team-box">
+            <div class="our-expert-team-box-inner d-flex align-items-center">
+             
+            </div>
+          </div>
+          <h2>Need any further assitance?</h2>
+          <p>Feel free to reach out for any inquiries or assistance.</p>
+          <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
+            class="theme-simple-btn">Book an appointment now</a>
+        </div>
+      </div>
+    </section>
 
 
   <!-- Footer -->

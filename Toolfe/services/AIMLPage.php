@@ -315,30 +315,31 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-        <div class="hero-company-boxes">
+<div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>$1</h1>
-                <h3>Million Cost Savings</h3>
-                <p>Enabled through optimized processes and automation with AI and ML technologies.</p>
-
+                <h1>50%</h1>
+                <h3>Efficiency Boost</h3>
+                <p>Automate repetitive tasks to save time and resources.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1>30%</h1>
-                <h3>Boost in Accuracy</h3>
-                <p>Achieved in AI-driven case assignments, enhancing operational efficiency and effectiveness.</p>
-
+                <h3>Cost Reduction</h3>
+                <p>Improved efficiency by reducing email processing time.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>97%</h1>
-                <h3>Customer retention</h3>
-                <p>Ensuring long-term satisfaction and loyalty through our AI and ML solutions.</p>
+                <h1>95%</h1>
+                <h3>Error Reduction</h3>
+                <p>Minimize human errors with automated processes.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>25%</h1>
-                <h3>Boost in Accuracy</h3>
-                <p>Achieved in AI-driven case assignments, enhancing operational efficiency and effectiveness.</p>
+                <h1>24/7</h1>
+                <h3>Operations</h3>
+                <p>Ensure round-the-clock productivity with automation.</p>
             </div>
         </div>
+</div>
+
 
     </section>
 
