@@ -1785,9 +1785,9 @@
   .news-item .news-item-body ul li i,
   .feature-area .feature-content ul li i,
   .sticky-news .news-content ul li i {
-    width: 14px;
-    height: 14px;
-    line-height: 14px;
+    width: 18px;
+    height: 18px;
+    line-height: 20px;
     font-size: 10px;
   }
   .sticky-news .news-content p {

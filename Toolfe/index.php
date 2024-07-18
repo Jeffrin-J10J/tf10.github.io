@@ -584,13 +584,19 @@
             </p>
             <ul class="mb-5">
               <li>
-                <i class="las la-check"></i> Unparalleled Client Satisfaction
+                <i class="las la-check"></i> Advanced Technology
               </li>
               <li>
-                <i class="las la-check"></i> Passionate and Innovative Team
+                <i class="las la-check"></i> Proven Reliability
+
               </li>
               <li>
-                <i class="las la-check"></i>Tailored, Transparent Solutions
+                <i class="las la-check"></i>Efficient Processes
+
+              </li>
+              <li>
+                <i class="las la-check"></i>Expert Team
+
               </li>
             </ul>
           </div>
