@@ -20,7 +20,7 @@ include '../includes/header.php'
                         systems that learn, adapt, and perform tasks, revolutionizing efficiency and decision-making
                         processes.</p>
                     <a href="#" class="theme-btn2">
-                        Let’s talk to our team
+                        Let’s talk
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
                 </div>
@@ -271,18 +271,6 @@ include '../includes/header.php'
                             <div class="line-shape"></div>
 
                             <div class="how-we-do-icon">
-                                <h3 class="">4</h3>
-                            </div>
-                            <div class="how-we-do-content">
-                                <h4>Deployment</h4>
-                            </div>
-                        </div>
-
-                        <div class="how-we-do-card">
-                            <div class="circle-shape"></div>
-                            <div class="line-shape"></div>
-
-                            <div class="how-we-do-icon">
                                 <h3 class="">5</h3>
                             </div>
                             <div class="how-we-do-content">
@@ -290,6 +278,19 @@ include '../includes/header.php'
                                 <p></p>
                             </div>
                         </div>
+                        <div class="how-we-do-card">
+                            <div class="circle-shape"></div>
+                            <div class="line-shape"></div>
+
+                            <div class="how-we-do-icon">
+                                <h3 class="">4</h3>
+                            </div>
+                            <div class="how-we-do-content">
+                                <h4>Deployment</h4>
+                            </div>
+                        </div>
+
+
                     </div>
 
                     <div class="how-we-do-items d-flex align-items-center justify-content-center">
@@ -318,24 +319,24 @@ include '../includes/header.php'
 <div class="custom-container">
 <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>50%</h1>
-                <h3>Efficiency Boost</h3>
-                <p>Automate repetitive tasks to save time and resources.</p>
+                <h1>40%</h1>
+                <h3>Increased Efficiency</h3>
+                <p>Businesses leveraging AI can significantly boost productivity.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1>30%</h1>
-                <h3>Cost Reduction</h3>
-                <p>Improved efficiency by reducing email processing time.</p>
+                <h3>Effective Cost Savings</h3>
+                <p>Implementing AI and Automation can reduce operational costs.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1>95%</h1>
-                <h3>Error Reduction</h3>
-                <p>Minimize human errors with automated processes.</p>
+                <h3>Fraud Detection</h3>
+                <p>AI-powered fraud detection systems can increase detection.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>24/7</h1>
-                <h3>Operations</h3>
-                <p>Ensure round-the-clock productivity with automation.</p>
+                <h1>50%</h1>
+                <h3>User Engagement</h3>
+                <p>AI enhancements in user interfaces can boost user engagement.</p>
             </div>
         </div>
 </div>
@@ -557,16 +558,15 @@ include '../includes/header.php'
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
                                              <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
-                                        </div> Do people still need to do things the old-fashioned way with AI/ML
-                                        around?
+                                        </div> How do AI algorithms handle natural 
+language processing tasks?
 
                                     </button>
                                 </h5>
 
                                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                     <div class="card-body">
-                                        While AI/ML is great for many things, some tasks still need a human touch,
-                                        especially those that need creativity or special skills.
+                                    AI algorithms handle natural language processing tasks by using models to understand, interpret, and generate human language for various applications.
                                     </div>
                                 </div>
                             </div>
@@ -613,16 +613,14 @@ include '../includes/header.php'
                                     <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
                                              <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-chat-bubble-check"></i>
-                                        </div> Can you help put AI/ML tools together with what a business already
-                                        uses?
+                                        </div> How can small businesses benefit from AI and machine learning?
 
                                     </button>
                                 </h5>
 
                                 <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
                                     <div class="card-body">
-                                        Yes, we make sure all the computer programs work well together, so
-                                        everything runs smoothly.
+                                    Small businesses benefit from AI and machine learning by automating tasks, enhancing customer experiences, improving decision-making, and increasing efficiency.
                                     </div>
                                 </div>
                             </div>

@@ -17,9 +17,8 @@ include '../includes/header.php'
             <img class="bg-shape2 slide-right" src="../assets/imgs/bg-shape-5.svg" alt="Shape" />
             <div class="custom-container">
                 <div class="hero-section-content text-center">
-                    <h5 class="section-subtitle">PROCESS AUTOMATION</h5>
-                    <h1 class="section-title fade-in">Empowering business with
-                        modern rules and insights</h1>
+                    <h5 class="section-subtitle">Plan, Create, Automation</h5>
+                    <h1 class="section-title fade-in">Process Automation</h1>
                     <p>Elevate your enterprise’s efficiency with Toolfe’s Process Automation, where strategic digital
                         transformation meets purpose-driven innovation</p>
                     <a href="#" class="theme-btn2">
@@ -39,13 +38,8 @@ include '../includes/header.php'
                 <div class="section-header d-flex align-items-center justify-content-between">
                     <div class="left">
                         <h5 class="section-subtitle">What we do</h5>
-                        <h1 class="section-title">Streamline Efficiency
-                            with Toolfe</h1>
-                        <p style="max-width: 100%;">Manual processes hinder business growth and waste resources.
-                            Toolfe's custom automation workflows streamline repetitive tasks, boosting efficiency and
-                            freeing your team for higher-value activities.
-                            Toolfe analyzes your business and competitors before crafting a unique selling proposition
-                            and detailed software requirements, ensuring efficient automation with a strong ROI.</p>
+                        <h1 class="section-title">Revolutionize Your Business With Toolfe Automation</h1>
+                        <p style="max-width: 100%;">Manual processes hinder business growth and drain resources.  Toolfe's tailored automation workflows optimize repetitive tasks, enhancing efficiency and freeing your team for high value activities.  Toolfe conducts thorough audits and seamlessly automates operations, ensuring streamlined workflows and significant ROI</p>
                     </div>
                 </div>
 
@@ -192,24 +186,22 @@ include '../includes/header.php'
 
                 </div>
             </div>
-
             <div class="portfolio-footer d-flex align-items-center justify-content-between w-full">
 
-                <div class="our-expert-team-box d-flex align-items-center">
-                    <div class="our-expert-team-box-inner d-flex align-items-center">
+<div class="our-expert-team-box d-flex align-items-center">
+    <div class="our-expert-team-box-inner d-flex align-items-center">
+        <p>
+            Slack is used by over 60,000+ companies across the world
+        </p>
+    </div>
+</div>
 
-                        <p>
-                            We are excited to discuss your process automation needs!
-                        </p>
-                    </div>
-                </div>
+<div class="slide-btn" id="slide-btn">
+    <div id="slide-ball" class="ui-draggable ui-draggable-handle"></div>
+    <h4>Slide to book an appointment</h4>
+</div>
 
-                <div class="slide-btn" id="slide-btn">
-                    <div id="slide-ball"></div>
-                    <h4>Slide to book an appointment</h4>
-                </div>
-
-            </div>
+</div>
         </div>
     </section>
 

@@ -215,7 +215,7 @@ img {
   text-decoration: none !important;
   gap: 10px;
 }
-.theme-btn2::after,
+/* .theme-btn2::after,
 .theme-btn2::before,
 .theme-btn::after,
 .theme-btn::before {
@@ -229,24 +229,24 @@ img {
   left: 0;
   z-index: -1;
   transition: 0.3s;
-}
-.theme-btn2::after,
+} */
+/* .theme-btn2::after,
 .theme-btn::after {
   top: auto;
   left: auto;
   bottom: 0;
   right: 0;
   border-radius: 0 30px 30px 0;
-}
+} */
 .theme-btn2:hover,
 .theme-btn:hover {
   color: var(--light_white);
 }
-.theme-btn2:hover::after,
-.theme-btn2:hover::before,
-.theme-btn:hover::after,
-.theme-btn:hover::before {
-  height: 100%;
+.theme-btn2:hover,
+.theme-btn2:hover,
+.theme-btn:hover,
+.theme-btn:hover {
+ background: #000;
 }
 .theme-btn2 {
   background: transparent;

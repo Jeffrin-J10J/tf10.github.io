@@ -367,12 +367,10 @@
           <div class="hero-empowerment-left-content">
             <h5 class="section-subtitle">Autopilot your business</h5>
             <h1 class="section-title fade-in">
-              Transform Your Business with Cutting-Edge Automation
+            When AI Starts, <br>AI and Automation Perfects
             </h1>
             <p>
-              Our expertise in IT and process automation drives your business
-              forward, enabling seamless digital transformation and sustained
-              growth.
+            From AI-driven insights to automated processes, we enhance efficiency and empower businesses to excel in a digital-first world.
             </p>
             <div class="btns-group d-flex">
               <a href="#" class="theme-btn"> Discover More</a>
@@ -384,8 +382,10 @@
           </div>
 
           <div class="hero-empowerment-right-content">
-            <spline-viewer url="https://prod.spline.design/4FnmpHXq168eKgqy/scene.splinecode"></spline-viewer>
-            <!-- <spline-viewer width="500px" url="https://prod.spline.design/4FnmpHXq168eKgqy/scene.splinecode"></spline-viewer> -->
+          <div class="top-content">
+                            <img class=" fade-in ms-auto" src="./assets/imgs/bg-1.png" alt="Empowerment" style="max-width: 600px;">
+                            <!-- <img class="mobile" src="./assets/imgs/bg-1.png" alt="Empowerment"> -->
+                        </div>
           </div>
         </div>
       </div>
@@ -408,7 +408,7 @@
             <div class="about-timeline">
               <div class="about-timeline-item">
                 <div class="about-timeline-item-inner">
-                  <img src="../assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
+                  <img src="./assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
                   <span class="number">01</span>
                   <h3>Smoother Operations</h3>
                   <p>
@@ -418,7 +418,7 @@
               </div>
               <div class="about-timeline-item">
                 <div class="about-timeline-item-inner">
-                  <img src="../assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
+                  <img src="./assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
                   <span class="number">02</span>
                   <h3>Expert Hands</h3>
                   <p>
@@ -429,7 +429,7 @@
 
               <div class="about-timeline-item">
                 <div class="about-timeline-item-inner">
-                  <img src="../assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
+                  <img src="./assets/imgs/bg-shape-2.svg" alt="Shape" class="line-shape" />
                   <span class="number">03</span>
                   <h3>Our Continuous acheivement</h3>
                   <p>
@@ -1022,7 +1022,7 @@
                   </h5>
                 </div>
                 <div class="testimonial-item-body">
-                  <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
+                  <img class="animation-slide-right bg-shape" src="./assets/imgs/bg-shape-3.svg" alt="Shape" />
                   <!-- <span class="platform-name">
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->
@@ -1050,7 +1050,7 @@
                   </h5>
                 </div>
                 <div class="testimonial-item-body" style="margin-bottom: 35px">
-                  <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
+                  <img class="animation-slide-right bg-shape" src="./assets/imgs/bg-shape-3.svg" alt="Shape" />
                   <!-- <span class="platform-name">
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->
@@ -1078,7 +1078,7 @@
                   </h5>
                 </div>
                 <div class="testimonial-item-body">
-                  <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
+                  <img class="animation-slide-right bg-shape" src="./assets/imgs/bg-shape-3.svg" alt="Shape" />
                   <!-- <span class="platform-name">
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->
@@ -1341,195 +1341,154 @@
 
     <!-- Footer -->
     <footer class="footer-area">
-      <img src="assets/imgs/bg-shape-4.svg" alt="Shape" class="animation-slide-right bg-shape" />
+      <img src="./assets/imgs/bg-shape-4.svg" alt="Shape" class="animation-slide-right bg-shape" />
       <div class="footer-top">
-        <div class="custom-container">
-          <div class="custom-row align-items-end justify-content-between">
-            <div class="left-content">
-              <a href="index.html" class="logo">
-                <img src="assets/imgs/logo-white.svg" alt="Logo" />
-              </a>
-              <p>
-                We provide the expertise and support to <br />
-                propel your business forward.
-              </p>
-              <form action="https://wpriverthemes.com/HTML/synck/assets/mail/subscribe.php" method="POST"
-                class="subscribe-form">
-                <div class="subscribe-box d-flex">
-                  <input type="email" id="email" name="email" placeholder="Enter Your Email" />
-                  <button id="submit2" class="theme-btn" style="background-color:#fff; color: #000;">Get Started</button>
-                </div>
-                <!-- Alert Message -->
-                <div class="input-row">
-                  <div class="input-group alert-notification">
-                    <div id="alert-message-subscribe" class="alert-msg"></div>
-                  </div>
-                </div>
-              </form>
-              <div class="footer-clients d-flex align-items-center">
-                <div class="footer-client-img">
-                  <img src="assets/imgs/youtube.svg" alt="Youtube" />
-                </div>
-                <div class="footer-client-img">
-                  <img src="assets/imgs/webflow.svg" alt="webflow" />
-                </div>
-                <div class="footer-client-img">
-                  <img src="assets/imgs/upwork.svg" alt="upwork" />
-                </div>
-                <div class="footer-client-img">
-                  <img src="assets/imgs/shopify.svg" alt="shopify" />
-                </div>
-              </div>
-            </div>
+          <div class="custom-container">
+              <div class="custom-row align-items-end justify-content-between">
+                  <div class="left-content">
+                      <a href="index.html" class="logo">
+                          <img src="https://toolfe.com/assets/white-toolfe.png" alt="Logo" />
+                      </a>
+                      <p>We provide the expertise and support to <br>
+                          propel your business forward.</p>
+                      <form action="" method="POST" class="subscribe-form">
+                          <div class="subscribe-box d-flex">
+                              <input type="email" id="email" name="email" placeholder="Enter Your Email" />
+                              <button id="submit2" class="theme-btn" style="background-color:#fff; color: #000;">Get Started</button>
+                          </div>
+                          <!-- Alert Message -->
+                          <div class="input-row">
+                              <div class="input-group alert-notification">
+                                  <div id="alert-message-subscribe" class="alert-msg"></div>
+                              </div>
+                          </div>
+                      </form>
 
-            <div class="right-content">
-              <div class="right-content-inner">
-                <h2>Let’s get started on something great</h2>
-                <p>
-                  Our team of IT experts looks forward to meeting with you
-                  <br />
-                  and providing valuable insights tailored to your business.
-                </p>
-                <a href="contact.php" class="theme-btn" style="background-color:#fff; color: #000;">Get an appointment now</a>
+                  </div>
 
-                <div class="footer-experience d-flex align-items-center">
-                  <div class="footer-experience-item">
-                    <h1>2 <span>Mins</span></h1>
-                    <p>Response Time</p>
+                  <div class="right-content">
+                      <div class="right-content-inner">
+                          <h2>Let’s get started on something great</h2>
+                          <p>Our team of IT experts looks forward to meeting with you <br>
+                              and providing valuable insights tailored to your business.</p>
+                          <a href="contact.html" class="theme-simple-btn" style="">Get an appointment now</a>
+
+                          <div class="footer-experience d-flex align-items-center">
+
+                              <div class="footer-experience-item">
+                                  <h1>15 <span>Mins</span></h1>
+                                  <p>Response Time</p>
+                              </div>
+                              <div class="footer-experience-item">
+                                  <h1>100%</h1>
+                                  <p>Client Satisfaction</p>
+                              </div>
+                              <div class="footer-experience-item">
+                                  <h1>70% <span></span></h1>
+                                  <p>Customer retention</p>
+                              </div>
+
+                          </div>
+                      </div>
                   </div>
-                  <div class="footer-experience-item">
-                    <h1>99%</h1>
-                    <p>Client Satisfaction</p>
-                  </div>
-                  <div class="footer-experience-item">
-                    <h1>22+ <span>Years</span></h1>
-                    <p>Field Experience</p>
-                  </div>
-                </div>
               </div>
-            </div>
           </div>
-        </div>
       </div>
 
       <div class="footer-bottom">
-        <div class="custom-container">
-          <div class="custom-row">
-            <div class="footer-all-links-wrap justify-content-between d-flex">
-              <div class="footer-links">
-                <h3>Services</h3>
-                <ul>
-                  <li><a href="service-details.html">IT Support</a></li>
-                  <li><a href="service-details.html">Web Design</a></li>
-                  <li><a href="service-details.html">Development</a></li>
-                  <li>
-                    <a href="service-details.html">Cloud Things <span class="new">New</span></a>
-                  </li>
-                  <li><a href="service-details.html">E-Commerce</a></li>
-                  <li><a href="service-details.html">CRM Solutions</a></li>
-                </ul>
-              </div>
-              <div class="footer-links">
-                <h3>Company</h3>
-                <ul>
-                  <li><a href="blog.html">Blog</a></li>
-                  <li><a href="about.html">About Us</a></li>
-                  <li><a href="partner.html">Partners</a></li>
-                  <li><a href="career.html">Careers</a></li>
-                  <li><a href="event.html">Events</a></li>
-                  <li><a href="team.html">Team</a></li>
-                </ul>
-              </div>
-              <div class="footer-links">
-                <h3>Product</h3>
-                <ul>
-                  <li><a href="case-studie.html">Case Studies </a></li>
-                  <li><a href="pricing.html">Our Pricing</a></li>
-                  <li><a href="feature.html">Features</a></li>
-                  <li><a href="overview.html">Overview</a></li>
-                  <li><a href="new-release.html">New Releases</a></li>
-                  <li><a href="solution.html">Solutions</a></li>
-                </ul>
-              </div>
-              <div class="footer-links">
-                <h3>Our Fields</h3>
-                <ul>
-                  <li><a href="our-field-details.html">Healthcare</a></li>
-                  <li><a href="our-field-details.html">Banks</a></li>
-                  <li><a href="our-field-details.html">Logistics</a></li>
-                  <li><a href="our-field-details.html">Supermarkets</a></li>
-                  <li><a href="our-field-details.html">Industries</a></li>
-                  <li><a href="our-field-details.html">Hotels</a></li>
-                </ul>
-              </div>
-              <div class="footer-links">
-                <h3>Legal</h3>
-                <ul>
-                  <li><a href="#">Licenses</a></li>
-                  <li><a href="#">Settings</a></li>
-                  <li><a href="#">Cookies</a></li>
-                  <li><a href="#">Document</a></li>
-                  <li><a href="#">Terms</a></li>
-                  <li><a href="#">Privacy</a></li>
-                </ul>
-              </div>
-            </div>
+          <div class="custom-container">
+              <div class="custom-row">
+                  <div class="footer-all-links-wrap justify-content-between d-flex">
+                      <div class="footer-links">
+                          <h3>Industries</h3>
+                          <ul>
+                              <li><a href="Industries/healthcare.php">Healthcare</a></li>
+                              <li><a href="Industries/finance&banking.php">Finance and Banking</a></li>
+                              <li><a href="Industries/ecommerce&retial.php">E-Commerce</a></li>
+                              <li><a href="Industries/education.php">Education<span class="new">Automate</span></a></li>
+                              <li><a href="Industries/realestate.php">Real Estate</a></li>
+                              <li><a href="Industries/Manufacturing.php">Manufacturing</a></li>
+                              <li><a href="Industries/media&entertinment.php">Media and Entertinment</a></li>
+                              <li><a href="Industries/logistics-transportation.php">Logistics</a></li>
+                              <li><a href="Industries/telecommunication.php">Telecommunications</a></li>
+                              <li><a href="Industries/energy&utilities.php">Energy and Utilities</a></li>
+                          </ul>
+                      </div>
+                      <div class="footer-links">
+                          <h3>Services</h3>
+                          <ul>
+                              <li><a href="services/ProcessAutomation.php">Process Automation</a></li>
+                              <li><a href="services/AIMLPage.php">Generative AI & ML</a></li>
+                              <li><a href="services/DataAnalytics.php">Data Analytics</a></li>
+                              <li><a href="services/MarketResearch.php">Market Research</a></li>
+                              <li><a href="services/Cloud.php">Cloud Solutions</a></li>
+                              <li><a href="services/SoftwareDevelopment.php">Web Application Development</a></li>
+                              <li><a href="services/WebDevelopment.php">Website Development</a></li>
+                              <li><a href="services/UXUI.php">User Experience Design UX/UI</a></li>
+                              <li><a href="https://hourspark.com/">15 Hour Spark Tasks</a></li>
+                          </ul>
+                      </div>
 
-            <div class="footer-contact-info">
-              <div class="footer-contact-info-item">
-                <h4>Phone</h4>
-                <p>
-                  <a href="tel:+1-455-1482-236">+1-455-1482-236</a> <br />
-                  <a href="tel:+1-938-740-75556">+1-938-740-7555</a>
-                </p>
+                      <div class="footer-links">
+
+                          <h3>Quick Links</h3>
+                          <ul>
+                              <li><a href="../about/about.php">About us</a></li>
+                              <li><a href="https://blog.toolfe.com/">Blogs</a></li>
+                              <li><a href="../career/index.php">Career</a></li>
+                              <li><a href="../case-study/index.php">Case Study</a></li>
+                              <li><a href="../contact/index.php">Contact us</a></li>
+                              <li><a href="https://www.toolfe.org/public/login">Client Login</a></li>
+                              <li><a href="https://hourspark.com/">Hourspark x Toolfe</a></li>
+                              <li><a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/">Book a free consultation</a></li>
+                          </ul>
+                      </div>
+                      <div class="footer-links">
+                          <h3>Trust Center</h3>
+                          <ul>
+                              <li><a href="#">Terms and Conditions</a></li>
+                              <li><a href="#">Privacy Policy</a></li>
+                              <li><a href="#">Cookie Policy</a></li>
+                          </ul>
+                      </div>
+
+                  </div>
+
+                  <div class="footer-contact-info">
+                      <div class="footer-contact-info-item">
+                          <h4>Phone</h4>
+                          <p>
+                              <a href="tel:8217460923">+91-821-746-0923</a> <br>
+                              <a href="tel:+1-938-740-75556">+1-938-740-7555</a>
+                          </p>
+                      </div>
+                      <div class="footer-contact-info-item">
+                          <h4>Mail</h4>
+                          <p>
+                              <a href="mailto:bluebase@mail.com">support@toolfe.com</a> <br>
+                              <!-- <a href="mailto:mandrodio@mail.com">mandrodio@mail.com</a> -->
+                          </p>
+                      </div>
+                  </div>
               </div>
-              <div class="footer-contact-info-item">
-                <h4>Mail</h4>
-                <p>
-                  <a href="mailto:bluebase@mail.com">bluebase@mail.com</a>
-                  <br />
-                  <a href="mailto:mandrodio@mail.com">mandrodio@mail.com</a>
-                </p>
-              </div>
-            </div>
           </div>
-        </div>
       </div>
 
       <div class="copyright-area">
-        <div class="custom-container">
-          <div class="custom-row d-flex align-items-center justify-content-between">
-            <ul class="social-links d-flex align-items-center">
-              <li>
-                <a href="#">
-                  <i class="iconoir-dribbble"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i class="iconoir-twitter"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i class="iconoir-instagram"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i class="iconoir-linkedin"></i>
-                </a>
-              </li>
-            </ul>
+          <div class="custom-container">
+              <div class="custom-row d-flex align-items-center justify-content-between">
+                  <ul class="social-links d-flex align-items-center">
 
-            <p>
-              &copy; 2023 All rights reserved by
-              <a href="https://themeforest.net/user/wordpressriver/portfolio">WordpressRiver</a>
-            </p>
+                      <li><a href="https://in.linkedin.com/company/toolfe">
+                              <i class="iconoir-linkedin"></i>
+                          </a></li>
+                  </ul>
+
+                  <p>&copy; 2024 Toolfe All rights reserved by <a href="#">Zotork Private Limited</a></p>
+              </div>
           </div>
-        </div>
       </div>
-    </footer>
+  </footer>
   </main>
 
   <!-- jQuery Frameworks

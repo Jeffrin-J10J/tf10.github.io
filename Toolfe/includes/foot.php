@@ -30,7 +30,7 @@
                           <h2>Let’s get started on something great</h2>
                           <p>Our team of IT experts looks forward to meeting with you <br>
                               and providing valuable insights tailored to your business.</p>
-                          <a href="contact.html" class="theme-btn" style="background-color:#fff; color: #000;">Get an appointment now</a>
+                              <a href="contact.html" class="theme-simple-btn" style="">Get an appointment now</a>
 
                           <div class="footer-experience d-flex align-items-center">
 
@@ -67,7 +67,7 @@
                               <li><a href="../Industries/education.php">Education<span class="new">Automate</span></a></li>
                               <li><a href="../Industries/realestate.php">Real Estate</a></li>
                               <li><a href="../Industries/Manufacturing.php">Manufacturing</a></li>
-                              <li><a href="../Industries/media&entertinment.php"></a></li>Media and Entertinment
+                              <li><a href="../Industries/media&entertinment.php">Media and Entertinment</a></li>
                               <li><a href="../Industries/logistics-transportation.php">Logistics</a></li>
                               <li><a href="../Industries/telecommunication.php">Telecommunications</a></li>
                               <li><a href="../Industries/energy&utilities.php">Energy and Utilities</a></li>

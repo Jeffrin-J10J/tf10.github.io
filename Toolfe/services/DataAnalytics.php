@@ -19,7 +19,7 @@ include '../includes/header.php'
                         Analytics</h1>
                     <p>Transform your business with customized data analytics solutions. Uncover growth opportunities and streamline operations for maximum efficiency.</p>
                     <a href="#" class="theme-btn2">
-                        Let’s talk to our team
+                        Let’s talk 
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
                 </div>
@@ -37,10 +37,8 @@ include '../includes/header.php'
                 <div class="section-header d-flex align-items-center justify-content-between">
                     <div class="left">
                         <h5 class="section-subtitle">What we do</h5>
-                        <h1 class="section-title">Streamline Your Data</h1>
-                        <p style="max-width: 100%;">The core operations of our service involve a robust framework that transforms raw data into actionable insights.
-
-                            Unlock actionable insights with our advanced data analytics solutions tailored to your business needs. Drive growth and efficiency by harnessing the power of data.</p>
+                        <h1 class="section-title">Turning data into strategic decisions</h1>
+                        <p style="max-width: 100%;">Harnessing advanced analytics, we convert raw data into actionable insights, unlocking your business's potential.  Our robust framework ensures efficient transformation, driving growth and maximizing efficiency through the power of data</p>
                     </div>
                 </div>
 
@@ -99,10 +97,12 @@ include '../includes/header.php'
             <div class="section-header d-flex align-items-end justify-content-between">
                 <div class="left">
                     <h5 class="section-subtitle">Why us</h5>
-                    <h1 class="section-title">Streamline Your Data</h1>
+                    <h1 class="section-title">Data-Driven Decisions</h1>
                 </div>
 
-                <p>Unlock actionable insights with our advanced data analytics solutions tailored to your business needs. Drive growth and efficiency by harnessing the power of data.</p>
+                <p>
+Access valuable insights with our tailored data analytics solutions, empowering informed decisions and maximizing operational efficiency and sustainable growth strategies
+ </p>
             </div>
 
             <div class="portfolio-lists d-flex w-full gap-24">
@@ -153,8 +153,8 @@ include '../includes/header.php'
                         <div class="portfolio-body">
                             <h2>Risk <br>
                                 Assessment</a></h2>
-                            <p>We have a best team for <br>
-                                your consulting service.</p>
+                            <p>Identifies and effectively <br>
+                            manages risks, guides strategy.</p>
 
                         </div>
                     </div>
@@ -167,9 +167,10 @@ include '../includes/header.php'
                             <img src="../assets/imgs/services/datanalyticsbento/5.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
-                            <h2>Resource <br>
-                                Managment</a></h2>
-                            <p>Cost-effective project delivery through strategic resource allocation.</p>
+                            <h2>Sentiment <br>
+                             Analysis</a></h2>
+                            <p>Sentiment Analysis
+Informs decisions through sentiment and feedback analysis.</p>
 
                         </div>
                     </div>
@@ -178,7 +179,7 @@ include '../includes/header.php'
                             <h2>Performance <br>
                                 Analysis <br>
                                 </a></h2>
-                            <p>We have best photographers in our digital studio.</p>
+                            <p>Deep dive into strategy optimization to drive growth.</p>
 
                         </div>
                         <div class="portfolio-img" style="height: 300px;">
@@ -269,7 +270,19 @@ include '../includes/header.php'
                     </div>
 
                     <div class="how-we-do-items d-flex align-items-center justify-content-center">
-                        <div class="how-we-do-card">
+                    <div class="how-we-do-card">
+                            <div class="circle-shape"></div>
+                            <div class="line-shape"></div>
+
+                            <div class="how-we-do-icon">
+                                <h3 class="">5</h3>
+                            </div>
+                            <div class="how-we-do-content">
+                                <h4>Market Segmentation</h4>
+                                <p></p>
+                            </div>
+                        </div>    
+                    <div class="how-we-do-card">
                             <div class="circle-shape"></div>
                             <div class="line-shape"></div>
 
@@ -281,18 +294,7 @@ include '../includes/header.php'
                             </div>
                         </div>
 
-                        <div class="how-we-do-card">
-                            <div class="circle-shape"></div>
-                            <div class="line-shape"></div>
 
-                            <div class="how-we-do-icon">
-                                <h3 class="">5</h3>
-                            </div>
-                            <div class="how-we-do-content">
-                                <h4>Market Segmentation</h4>
-                                <p></p>
-                            </div>
-                        </div>
                     </div>
 
                     <div class="how-we-do-items d-flex align-items-center justify-content-center">
