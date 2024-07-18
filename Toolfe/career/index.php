@@ -14,7 +14,76 @@ include '../includes/header.php'
             <h5 class="section-subtitle">Career</h5>
             <h1 class="section-title fade-in">Join Our Innovative Team</h1>
             <p>Discover Exciting Career Opportunities</p>
-            <a href="contact.php" class="theme-btn" style="background-color:#fff; color: #000;">Join us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Career -->
+  <section class="career-area">
+    <div class="custom-container">
+      <div class="career-body d-flex">
+        <div class="career-left">
+          <h5 class="section-subtitle">We’re Hiring!</h5>
+          <h1 class="section-title">Job openings and career opportunities</h1>
+        </div>
+
+        <div class="career-lists">
+          <div class="career-box">
+            <span class="location">Remote</span>
+            <a href="#">
+              <h2>RPA Developer - <span>Automation</span></h2>
+            </a>
+            <p>Develop RPA solutions</p>
+            <div class="career-time">
+              <span><i class="las la-clock"></i> 3 to 5 Years</span>
+              <span><i class="las la-users"></i> 1 Open Positions </span>
+              <span><i class="las la-calendar-week"></i> Valid till 10-08-2024
+              </span>
+            </div>
+          </div>
+
+          <div class="career-box">
+            <span class="location">Remote</span>
+            <a href="#">
+              <h2>Data Scientist - <span>Data Analytics</span></h2>
+            </a>
+            <p>Analyze and interpret data</p>
+            <div class="career-time">
+              <span><i class="las la-clock"></i> 1 to 3 Year</span>
+              <span><i class="las la-users"></i> 1 Open Positions </span>
+              <span><i class="las la-calendar-week"></i> Valid till 10-08-2024
+              </span>
+            </div>
+          </div>
+
+          <div class="career-box">
+            <span class="location">Remote</span>
+            <a href="#">
+              <h2>MERN Stack Developer - <span>Web Development</span></h2>
+            </a>
+            <p>Build and maintain web apps</p>
+            <div class="career-time">
+              <span><i class="las la-clock"></i> 2 to 4 Year</span>
+              <span><i class="las la-users"></i> 1 Open Positions </span>
+              <span><i class="las la-calendar-week"></i> Valid till 10-08-2024
+              </span>
+            </div>
+          </div>
+
+          <div class="career-box">
+            <span class="location">Remote</span>
+            <a href="#">
+              <h2>SEO Intern - <span>Marketing</span></h2>
+            </a>
+            <p>Enhance search rankings</p>
+            <div class="career-time">
+              <span><i class="las la-clock"></i> 0 to 1 Year</span>
+              <span><i class="las la-users"></i> 1 Open Positions </span>
+              <span><i class="las la-calendar-week"></i> Valid till 10-08-2024
+              </span>
+            </div>
           </div>
         </div>
       </div>
@@ -39,123 +108,55 @@ include '../includes/header.php'
             <li><i class="las la-check"></i> Dynamic Work Environment</li>
             <li><i class="las la-check"></i> Career Growth</li>
             <li><i class="las la-check"></i> Inclusive Culture</li>
+            <li><i class="las la-check"></i> Health and Wellness</li>
           </ul>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Services -->
-  <section class="service2-area">
-    <img class="bg-shape" src="../assets/imgs/bg-shape-7.svg" alt="Shape" />
+  <!-- Service Area -->
+  <section class="service4-area service-area">
     <div class="custom-container">
-      <div class="custom-row">
-        <div class="service2-header d-flex align-items-center justify-content-between w-full">
-          <div class="left">
-            <!-- <h5 class="section-subtitle"></h5> -->
-            <h1 class="section-title">WHY TOOLFE?</h1>
-            <p>
-              At Toolfe, we thrive on collective creativity and cutting-edge
-              technology to solve business challenges. Join a diverse team
-              dedicated to collaboration, innovation, and excellence, and be
-              part of our journey of continuous growth and success.
-            </p>
-          </div>
-
-          <a href="service.html" class="theme-btn" style="background-color:#fff; color: #000;">
-            Join Us
-            <i class="iconoir-arrow-up-right"></i>
-          </a>
+      <div class="service-section-header section-header d-flex align-items-end justify-content-between">
+        <div class="left">
+          <h5 class="section-subtitle">Why Join Toolfe</h5>
+          <h1 class="section-title">
+            Discover the Benefits of a<br> Career with Us
+          </h1>
         </div>
+        <p>
+          At Toolfe, we thrive on collective creativity and cutting-edge
+          technology to solve business challenges. Join a diverse team
+          dedicated to collaboration, innovation, and excellence, and be
+          part of our journey of continuous growth and success.
+        </p>
       </div>
 
       <div class="service2-items d-flex w-full">
         <div class="service2-card card-h">
           <img src="../assets/imgs/service-1.png" alt="Service" />
-          <h2>Dynamic Work Environment:</h2>
-          <p>Work with experts in a dynamic <br />supportive environment.</p>
+          <h2>Professional Growth</h2>
+          <p>
+            Access continuous learning to<br> advance your career.
+          </p>
         </div>
         <div class="service2-card card-h">
           <img src="../assets/imgs/service-2.png" alt="Service" />
-          <h2>Career Growth</h2>
-          <p>Continuous learning and <br />career growth opportunities.</p>
+          <h2> Innovative Projects</h2>
+          <p>Work on cutting-edge projects in <br>technology and innovation.</p>
         </div>
         <div class="service2-card card-h">
           <img src="../assets/imgs/service-3.png" alt="Service" />
-          <h2>Innovation at Heart</h2>
-          <p>Join innovative projects <br />that redefine industries.</p>
+          <h2>Collaborative Environment</h2>
+          <p>Thrive in a supportive workplace that <br> values teamwork.</p>
         </div>
         <div class="service2-card card-h">
           <img src="../assets/imgs/service-4.png" alt="Service" />
-          <h2>Inclusive Culture</h2>
-          <p>Be part of an inclusive team <br />where every voice is valued.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Career -->
-  <section class="career-area">
-    <div class="custom-container">
-      <div class="career-body d-flex">
-        <div class="career-left">
-          <h5 class="section-subtitle">We’re Hiring!</h5>
-          <h1 class="section-title">Job openings and career opportunities</h1>
-        </div>
-
-        <div class="career-lists">
-          <div class="career-box">
-            <span class="location">Remote</span>
-            <a href="#">
-              <h2>RPA Developer - <span>Automation</span></h2>
-            </a>
-            <p>Develop RPA solutions</p>
-            <div class="career-time">
-              <span><i class="las la-clock"></i> 3 to 5 Years</span>
-              <span><i class="las la-dollar-sign"></i> 1 Open Positions </span>
-              <span><i class="las la-dollar-sign"></i> Valid till 10-08-2024
-              </span>
-            </div>
-          </div>
-
-          <div class="career-box">
-            <span class="location">Remote</span>
-            <a href="#">
-              <h2>Data Scientist - <span>Data Analytics</span></h2>
-            </a>
-            <p>Analyze and interpret data</p>
-            <div class="career-time">
-              <span><i class="las la-clock"></i> 1 to 3 Year</span>
-              <span><i class="las la-dollar-sign"></i> 1 Open Positions</span>
-              <span><i class="las la-dollar-sign"></i> Valid till 20-08-2024</span>
-            </div>
-          </div>
-
-          <div class="career-box">
-            <span class="location">Remote</span>
-            <a href="#">
-              <h2>MERN Stack Developer - <span>Web Development</span></h2>
-            </a>
-            <p>Build and maintain web apps</p>
-            <div class="career-time">
-              <span><i class="las la-clock"></i> 2 to 4 Year</span>
-              <span><i class="las la-dollar-sign"></i> 2 Open Positions</span>
-              <span><i class="las la-dollar-sign"></i> Valid till 20-08-2024</span>
-            </div>
-          </div>
-
-          <div class="career-box">
-            <span class="location">Remote</span>
-            <a href="#">
-              <h2>SEO Intern - <span>Marketing</span></h2>
-            </a>
-            <p>Enhance search rankings</p>
-            <div class="career-time">
-              <span><i class="las la-clock"></i> 0 to 1 Year</span>
-              <span><i class="las la-dollar-sign"></i> 2 Open Positions</span>
-              <span><i class="las la-dollar-sign"></i> Valid till 10-08-2024</span>
-            </div>
-          </div>
+          <h2>Work-Life Balance</h2>
+          <p>
+            Enjoy a flexible environment that <br>promotes a healthy balance.
+          </p>
         </div>
       </div>
     </div>
@@ -169,7 +170,7 @@ include '../includes/header.php'
 
         <h2>Need any further assitance?</h2>
         <p>Feel free to reach out for any inquiries or assistance.</p>
-        <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/" class="theme-btn">Book an appointment now</a>
+        <a href="mailto:hr@toolfe.com" class="theme-btn">Book an appointment now</a>
       </div>
     </div>
   </section>

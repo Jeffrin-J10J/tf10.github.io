@@ -127,8 +127,8 @@ include '../includes/header.php'
             <div class="contact-info">
               <img src="../assets/imgs/contact_us/contact.svg" alt="Support" />
               <h3>Contact Info</h3>
-              <p><span style="color: #0659f7;">India</span><br> +91 8217 460 923</p><br><br>
-              <p><span style="color: #0659f7;">United States</span><br> +1 232 212 233</p>
+              <p><span class="contact-text">India</span><br> +91 8217 460 923</p><br><br>
+              <p><span class="contact-text">United States</span><br> +1 232 212 233</p>
             </div>
             <div class="contact-office-info contact-info">
               <img src="../assets/imgs/contact_us/location.svg" alt="Map" />
@@ -322,21 +322,42 @@ include '../includes/header.php'
     </div>
   </section>
 
-  <!-- CTA -->
-  <section class="cta-area cta-area2">
-    <div class="custom-container">
-      <div class="cta-body text-center d-flex align-items-center justify-content-between">
-        <img src="../assets/imgs/bg-shape-12.png" alt="Shape" class="animation-slide-right bg-shape" />
-        <div class="left">
 
-          <h2>Want to discuss your project in detail?</h2>
-          <p>Schedule a free consultation with our experts.</p>
+
+
+        <!-- CTA -->
+        <section class="cta-area cta-area2 cta-area2-white">
+        <div class="custom-container">
+          <div
+            class="cta-body text-center d-flex align-items-center justify-content-between"
+          >
+            <img
+              src="../assets/imgs/bg-shape-cta.svg"
+              alt="Shape"
+              class="animation-slide-left bg-shape"
+            />
+            <div class="left">
+              <div class="our-expert-team-box">
+                <div
+                  class="our-expert-team-box-inner d-flex align-items-center"
+                >
+                 
+                </div>
+              </div>
+              <h2>Ready to Transform Your Business?</h2>
+              <p>
+                Discover how our advanced technology solutions can drive your
+                success. Contact us today to learn more.
+              </p>
+            </div>
+            <a
+              href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
+              class="theme-btn"
+              >Book an appointment now</a
+            >
+          </div>
         </div>
-        <a href="contact.php" class="theme-btn">Schedule Now</a>
-
-      </div>
-    </div>
-  </section>
+      </section>
 
   <!-- Footer -->
   <?php include '../includes/foot.php';  ?>
