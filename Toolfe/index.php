@@ -177,7 +177,7 @@
                                                     <!-- <h3>Our Fields</h3> -->
                                                     <ul>
                                                         <li>
-                                                            <a href="./services/WebDevelopment.php">Website Development</a>
+                                                            <a href="./services/WebDevelopment.php">Website<br/> Development</a>
                                                         </li>
                                                         <li>
                                                             <a href="./services/UXUI.php">User Experience Design UI/UX</a>
@@ -690,12 +690,12 @@
                 <div class="line-shape"></div>
 
                 <div class="how-we-do-icon">
-                  <h3 class="">4</h3>
+                  <h3 class="">5</h3>
                 </div>
                 <div class="how-we-do-content">
-                  <h4>Refine</h4>
-                  <p>Validate
-                  </p>
+                <h4>Launch</h4>
+                <p>Deploy</p>
+                 
                 </div>
               </div>
 
@@ -704,11 +704,12 @@
                 <div class="line-shape"></div>
 
                 <div class="how-we-do-icon">
-                  <h3 class="">5</h3>
+                  <h3 class="">4</h3>
                 </div>
                 <div class="how-we-do-content">
-                  <h4>Launch</h4>
-                  <p>Deploy</p>
+                <h4>Refine</h4>
+                  <p>Validate
+                  </p>
                 </div>
               </div>
             </div>

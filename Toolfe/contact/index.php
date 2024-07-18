@@ -34,7 +34,7 @@ include '../includes/header.php'
             <h5 class="section-subtitle">Contact</h5>
             <h1 class="fw-bold mb-2">Supercharge Your Business?</h1>
             <p>
-            Get the Results You Deserve. Contact Us Today. <br>
+              Get the Results You Deserve. Contact Us Today. <br>
               <a class="section-subtitle" href="mailto:support@toolfe.com">support@toolfe.com</a>
             </p>
             <form action="" method="POST" class="contact-form">
@@ -70,7 +70,7 @@ include '../includes/header.php'
                   <label for="country">Country</label>
                   <input type="text" id="homeland" name="country" placeholder="Your Country" />
                 </div>
-              </div>  
+              </div>
               <div class="input-row">
                 <div class="input-group">
                   <label for="message">Message</label>
@@ -104,7 +104,7 @@ include '../includes/header.php'
           <ul>
 
             <li>
-              <h1>Client  <span>Portal</span></h1>
+              <h1>Client <span>Portal</span></h1>
               <p><a href="mailto:support@toolfe.com">support@toolfe.com</a></p>
             </li>
             <li>
@@ -127,21 +127,21 @@ include '../includes/header.php'
         <div class="contact-infos">
           <div class="contact-infos-inner">
             <div class="contact-info mb-0 border-0">
-            <img src="../assets/imgs/contact_us/location.svg" alt="Map" />
+              <img src="../assets/imgs/contact_us/location.svg" alt="Map" />
               <h3>Contact Info</h3>
             </div>
             <div class="contact-office-info contact-info mb-0 border-0">
               <!-- <img src="../assets/imgs/contact_us/location.svg" alt="Map" /> -->
               <h5 class="contact-text text-uppercase">INDIA</h5>
               <p>
-12, HP Complex , Habibullah Road, T-Nagar, Chennai-600017, India.
-+91 8217 460 923 </p><br>
+                12, HP Complex , Habibullah Road, T-Nagar, Chennai-600017, India.
+                +91 8217 460 923 </p><br>
               <h5 class="contact-text text-uppercase">United States</h5>
               <p>
-270 E 1st Ave,
-Vancouver, BC V5T
-1A6, Canada, USA.
-+1 232 212 233</p>
+                270 E 1st Ave,
+                Vancouver, BC V5T
+                1A6, Canada, USA.
+                +1 232 212 233</p>
             </div>
 
             <ul class="contact-social-links">
@@ -328,42 +328,28 @@ Vancouver, BC V5T
     </div>
   </section>
 
+  <!-- CTA -->
+  <section class="cta-area cta-area2 cta-area2-white">
+    <div class="custom-container">
+      <div class="cta-body text-center d-flex align-items-center justify-content-between">
+        <img src="../assets/imgs/bg-shape-cta.svg" alt="Shape" class="animation-slide-left bg-shape" />
+        <div class="left">
+          <div class="our-expert-team-box">
+            <div class="our-expert-team-box-inner d-flex align-items-center">
 
-
-
-        <!-- CTA -->
-        <section class="cta-area cta-area2 cta-area2-white">
-        <div class="custom-container">
-          <div
-            class="cta-body text-center d-flex align-items-center justify-content-between"
-          >
-            <img
-              src="../assets/imgs/bg-shape-cta.svg"
-              alt="Shape"
-              class="animation-slide-left bg-shape"
-            />
-            <div class="left">
-              <div class="our-expert-team-box">
-                <div
-                  class="our-expert-team-box-inner d-flex align-items-center"
-                >
-                 
-                </div>
-              </div>
-              <h2>Ready to Transform Your Business?</h2>
-              <p>
-                Discover how our advanced technology solutions can drive your
-                success. Contact us today to learn more.
-              </p>
             </div>
-            <a
-              href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
-              class="theme-btn"
-              >Book an appointment now</a
-            >
           </div>
+          <h2>Ready to Transform Your Business?</h2>
+          <p>
+            Discover how our advanced technology solutions can drive your
+            success. Contact us today to learn more.
+          </p>
         </div>
-      </section>
+        <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
+          class="theme-btn">Book an appointment now</a>
+      </div>
+    </div>
+  </section>
 
   <!-- Footer -->
   <?php include '../includes/foot.php';  ?>

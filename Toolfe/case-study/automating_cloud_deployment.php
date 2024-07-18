@@ -23,7 +23,7 @@ include '../includes/header.php'
                     color: #141542;
                     text-decoration: underline;
                     font-weight: bolder;
-                  ">Challenges:</span>The Workflow Management Company faced inefficiencies in their
+                  ">Challenges: </span>The Workflow Management Company faced inefficiencies in their
             cloud deployment process, with each deployment taking 3 to 6
             hours. This manual approach caused delays and strained
             resources, hindering operational efficiency.
@@ -108,6 +108,7 @@ include '../includes/header.php'
             <div class="our-team-body-inner our-team-bio">
               <div class="our-team-bio">
                 <h3>Automated Deployment System</h3>
+                <br />
 
                 <p>
                   To address the inefficiencies in manual cloud deployment
