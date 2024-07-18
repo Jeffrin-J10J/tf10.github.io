@@ -32,7 +32,7 @@ include '../includes/header.php'
         <div class="career-lists">
           <div class="career-box">
             <span class="location">Remote</span>
-            <a href="#">
+            <a href="RPA-developer.php">
               <h2>RPA Developer - <span>Automation</span></h2>
             </a>
             <p>Develop RPA solutions</p>
@@ -46,7 +46,7 @@ include '../includes/header.php'
 
           <div class="career-box">
             <span class="location">Remote</span>
-            <a href="#">
+            <a href="Data-analytics.php">
               <h2>Data Scientist - <span>Data Analytics</span></h2>
             </a>
             <p>Analyze and interpret data</p>
@@ -60,7 +60,7 @@ include '../includes/header.php'
 
           <div class="career-box">
             <span class="location">Remote</span>
-            <a href="#">
+            <a href="MERN_developer.php">
               <h2>MERN Stack Developer - <span>Web Development</span></h2>
             </a>
             <p>Build and maintain web apps</p>
@@ -74,7 +74,7 @@ include '../includes/header.php'
 
           <div class="career-box">
             <span class="location">Remote</span>
-            <a href="#">
+            <a href="SEO-intern.php">
               <h2>SEO Intern - <span>Marketing</span></h2>
             </a>
             <p>Enhance search rankings</p>

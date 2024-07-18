@@ -28,7 +28,7 @@ include '../includes/header.php'
   <!-- Service Section -->
   <section class="news-area">
     <div class="custom-container">
-      <div class="section-header d-flex align-items-end justify-content-between">
+      <div class="section-header d-flex align-items-start justify-content-between">
         <div class="news-content">
           <h1 class="section-title">RPA Developer</h1>
           <div class="custom-container">
@@ -76,66 +76,96 @@ include '../includes/header.php'
           <div class="left">
             <h2>Job Overview</h2>
             <p style="color: #141414">
-              We are seeking a skilled and motivated RPA Developer to join our
-              team. The ideal candidate will have 3 to 4 years of experience in
-              Robotic Process Automation (RPA) development and will play a key
-              role in designing, developing, and implementing RPA solutions to
-              optimize business processes. This full-time position requires
-              candidates to have their own laptop and a strong background in RPA
-              tools and programming languages.
+              Seeking an RPA Developer to design, develop, and implement automation solutions using RPA technologies. Must have a strong background in software development and process analysis, with experience in tools like UiPath, Blue Prism, or Automation Anywhere.
             </p>
             <br />
             <h2>Responsibilities</h2>
+            <br />
             <ul style="list-style-type: disc">
               <li>
-                Develop, test, and implement RPA solutions using tools such as
-                UiPath, Blue Prism, or Automation Anywhere.
+                Design, develop, and deploy RPA solutions. 
               </li>
               <li>
-                Analyze business processes to identify opportunities for
-                automation.
+              Collaborate with business analysts to understand process requirements. 
               </li>
               <li>
-                Collaborate with cross-functional teams to understand project
-                requirements and deliver efficient automation solutions.
+              Develop and maintain RPA workflows using RPA tools. 
               </li>
               <li>
-                Monitor and maintain deployed RPA bots to ensure smooth
-                operation and performance.
+              Perform unit testing, integration testing, and UAT. 
               </li>
               <li>
-                Troubleshoot and resolve issues related to RPA bots and
-                workflows.
+              Monitor and maintain RPA solutions for performance and reliability. 
               </li>
               <li>
-                Document automation processes and provide training to end-users
-                as needed.
+              Provide technical support for RPA-related issues. 
+              </li>
+              <li>
+              Document RPA solutions and create user guides. 
+              </li>
+              <li>
+              Stay current with RPA trends and best practices. 
+              </li>
+              <li>
+              Train and mentor junior developers. 
               </li>
             </ul>
             <br />
             <h2>Qualifications</h2>
+            <br />
             <ul style="list-style-type: disc">
               <li>
-                Bachelor's degree in Computer Science, Information Technology,
-                or related field.
+              Bachelor’s degree in Computer Science, IT, or related field. 
               </li>
               <li>
-                Proven experience with RPA tools (UiPath, Blue Prism, Automation
-                Anywhere).
+              Experience as an RPA Developer or similar role. 
               </li>
               <li>
-                Strong programming skills in languages such as C#, Python, or
-                VB.NET.
+              Proficiency in RPA tools like UiPath, Blue Prism, or Automation Anywhere. 
               </li>
-              <li>Excellent problem-solving and analytical skills.</li>
-              <li>Ability to work independently and as part of a team.</li>
+              <li>Programming skills in C#, Python, or Java. </li>
+              <li>Experience with process analysis and optimization. </li>
               <li>
-                Strong communication skills to effectively interact with
-                stakeholders and team members.
+              Knowledge of database management and SQL. 
+              </li>
+              <li>
+              Strong problem-solving skills and attention to detail.  
+              </li>
+              <li>
+              Excellent communication and collaboration skills. 
+              </li>
+            </ul>
+            <br />
+            <h2>Preferred Qualifications</h2>
+            <br />
+            <ul style="list-style-type: disc">
+              <li>
+              RPA certification (e.g., UiPath Certified RPA Developer). 
+              </li>
+              <li>
+              Experience with AI and machine learning. 
+              </li>
+              <li>
+              Familiarity with Agile and Scrum methodologies. 
+              </li>
+            </ul>
+            <br />
+            <h2>Benefits</h2>
+            <br />
+            <ul style="list-style-type: disc">
+              <li>
+                Professional development opportunities.  
+              </li>
+              <li>
+                Flexible working hours . 
+              </li>
+              <li>
+                Collaborative and inclusive work environment. 
               </li>
             </ul>
           </div>
         </div>
+        <button id="#" class="theme-btn" style="background-color:#fff; color: #000;">Apply Now</button>
       </div>
     </div>
   </section>
