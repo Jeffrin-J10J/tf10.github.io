@@ -18,7 +18,7 @@ include '../includes/header.php'
             Unlocking Success with Innovative Solutions
           </h1>
           <p>
-            Explore case studies of transformative technology solutions.
+            Dive into our case studies to learn how Toolfe's solutions have transformed operations and boosted efficiency for our clients. Witness the power of digital excellence in action.
           </p>
           <a href="../contact/index.php" class="theme-btn2">
             Connect with Us
@@ -166,6 +166,23 @@ include '../includes/header.php'
       </div>
     </div>
   </section>
+
+  <section class="cta-area">
+    <div class="custom-container">
+      <div class="cta-body text-center">
+        <img src="../assets/imgs/bg-shape-11.svg" alt="Shape" class="animation-slide-left bg-shape" />
+        <div class="our-expert-team-box">
+          <div class="our-expert-team-box-inner d-flex align-items-center">
+
+          </div>
+        </div>
+        <h2>Need any further assitance?</h2>
+        <p>Feel free to reach out for any inquiries or assistance.</p>
+        <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/" class="theme-simple-btn">Book an appointment now</a>
+      </div>
+    </div>
+  </section>
+
 
   <!-- Contact -->
   <section class="contact-area">
