@@ -186,22 +186,24 @@ include '../includes/header.php'
 
                 </div>
             </div>
+
             <div class="portfolio-footer d-flex align-items-center justify-content-between w-full">
 
-<div class="our-expert-team-box d-flex align-items-center">
-    <div class="our-expert-team-box-inner d-flex align-items-center">
-        <p>
-            Slack is used by over 60,000+ companies across the world
-        </p>
-    </div>
-</div>
+                <div class="our-expert-team-box d-flex align-items-center">
+                    <div class="our-expert-team-box-inner d-flex align-items-center">
 
-<div class="slide-btn" id="slide-btn">
-    <div id="slide-ball" class="ui-draggable ui-draggable-handle"></div>
-    <h4>Slide to book an appointment</h4>
-</div>
+                        <p>
+                            We are excited to discuss your process automation needs!
+                        </p>
+                    </div>
+                </div>
 
-</div>
+                <div class="slide-btn" id="slide-btn">
+                        <div id="slide-ball" class="ui-draggable ui-draggable-handle"></div>
+                        <h4>Slide to book an appointment</h4>
+                    </div>
+
+            </div>
         </div>
     </section>
 
@@ -316,13 +318,14 @@ include '../includes/header.php'
 <div class="custom-container">
 <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1 class="mb-5" >50%</h1>
-                <h3>Efficiency Boost</h3>
-                <p>Automate repetitive tasks to save time and resources.</p>
+                <h1 class="mb-5">30%</h1>
+                <h3>Time <br> Saving</h3>
+                <p>Automate repetitive tasks to save time and
+                     boosts productivity.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1 class="mb-5" >30%</h1>
-                <h3>Cost Reduction</h3>
+                <h1 class="mb-5" >50%</h1>
+                <h3>Cost <br> Reduction</h3>
                 <p>Improved efficiency by reducing email processing time.</p>
             </div>
             <div class="hero-company-box simple-shadow">

@@ -32,10 +32,10 @@ include '../includes/header.php'
         <div class="contact-form-wrap">
           <div class="contact-form-body">
             <h5 class="section-subtitle">Contact</h5>
-            <h1 class="section-title">Lets get in touch</h1>
+            <h1 class="fw-bold mb-2">Supercharge Your Business?</h1>
             <p>
-              You can reach us anytime via
-              <a class="section-subtitle" href="mailto:bluebase@mail.com">support@toolfe.com</a>
+            Get the Results You Deserve. Contact Us Today. <br>
+              <a class="section-subtitle" href="mailto:support@toolfe.com">support@toolfe.com</a>
             </p>
             <form action="" method="POST" class="contact-form">
               <div class="input-row">
@@ -47,29 +47,30 @@ include '../includes/header.php'
                 </div>
               </div>
               <div class="input-row">
-                <div class="input-group">
+                <div class="input-group ">
+
                   <label for="email">Email</label>
-                  <input type="email" id="email" name="email" placeholder="Enter Your Email" />
+                  <input id="email" type="text" name="email" placeholder="Enter Your Email" />
+                </div>
+
+                <div class="input-group ">
+
+                  <label for="phone_number">Phone Number</label>
+                  <input id="phone_number" type="text" name="phone_number" placeholder="Eg: +91 1233****" />
                 </div>
               </div>
               <div class="input-row">
                 <div class="input-group ">
 
-                  <label for="phone_number">Phone Number</label>
-                  <input id="phone_number" type="text" name="phone_number" placeholder="Eg: +91 1233****" />
+                  <label for="organization">Organization Name</label>
+                  <input id="organization" type="text" name="organization" placeholder="Enter organization name" />
                 </div>
 
                 <div class="input-group">
                   <label for="country">Country</label>
                   <input type="text" id="homeland" name="country" placeholder="Your Country" />
                 </div>
-              </div>
-              <div class="input-row">
-                <div class="input-group">
-                  <label for="email">Organization Name</label>
-                  <input type="text" id="email" name="email" placeholder="Enter organization name" />
-                </div>
-              </div>
+              </div>  
               <div class="input-row">
                 <div class="input-group">
                   <label for="message">Message</label>
@@ -103,12 +104,8 @@ include '../includes/header.php'
           <ul>
 
             <li>
-              <h1>Email <span>Support</span></h1>
-              <p>support@toolfe.com</p>
-            </li>
-            <li>
-              <h1>Client <span>Portal</span></h1>
-              <p><a href="https://toolfe.org">www.toolfe.org</a></p>
+              <h1>Client  <span>Portal</span></h1>
+              <p><a href="mailto:support@toolfe.com">support@toolfe.com</a></p>
             </li>
             <li>
               <h1>15 <span>Mins</span></h1>
@@ -120,22 +117,31 @@ include '../includes/header.php'
               <p>Consultation</p>
             </li>
 
+            <li>
+              <h1>15 <span>Hour Task Delivery</span></h1>
+              <p><a href="https://www.hourspark.com">www.hourspark.com</a></p>
+            </li>
+
           </ul>
         </div>
         <div class="contact-infos">
           <div class="contact-infos-inner">
-            <div class="contact-info">
-              <img src="../assets/imgs/contact_us/contact.svg" alt="Support" />
+            <div class="contact-info mb-0 border-0">
+            <img src="../assets/imgs/contact_us/location.svg" alt="Map" />
               <h3>Contact Info</h3>
-              <p><span class="contact-text">India</span><br> +91 8217 460 923</p><br><br>
-              <p><span class="contact-text">United States</span><br> +1 232 212 233</p>
             </div>
-            <div class="contact-office-info contact-info">
-              <img src="../assets/imgs/contact_us/location.svg" alt="Map" />
-              <h3>India</h3>
-              <p>12, HP Complex , Habibullah Road, T Nagar, Chennai - 600017, India </p><br>
-              <h3>USA</h3>
-              <p>270 E 1st Ave, Vancouver, BC V5T 1A6, Canada, USA</p>
+            <div class="contact-office-info contact-info mb-0 border-0">
+              <!-- <img src="../assets/imgs/contact_us/location.svg" alt="Map" /> -->
+              <h5 class="contact-text text-uppercase">INDIA</h5>
+              <p>
+12, HP Complex , Habibullah Road, T-Nagar, Chennai-600017, India.
++91 8217 460 923 </p><br>
+              <h5 class="contact-text text-uppercase">United States</h5>
+              <p>
+270 E 1st Ave,
+Vancouver, BC V5T
+1A6, Canada, USA.
++1 232 212 233</p>
             </div>
 
             <ul class="contact-social-links">

@@ -7165,3 +7165,9 @@ img {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.theme-btn:hover{
+  background: #fff;
+  color : #000 !important;
+  border: 1px solid #000 !important;
+}

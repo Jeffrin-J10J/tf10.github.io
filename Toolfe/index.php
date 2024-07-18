@@ -367,7 +367,7 @@
           <div class="hero-empowerment-left-content">
             <h5 class="section-subtitle">Autopilot your business</h5>
             <h1 class="section-title fade-in">
-            When AI Starts, <br>AI and Automation Perfects
+            What AI Starts, <br>AI and Automation Perfects
             </h1>
             <p>
             From AI-driven insights to automated processes, we enhance efficiency and empower businesses to excel in a digital-first world.
