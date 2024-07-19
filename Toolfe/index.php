@@ -50,7 +50,7 @@
             <div class="right">
               <p>
                 Level up your business with
-                <a href="about.html" data-word="SYNCK." id="dataWord">SYNCK.</a>
+                <a href="about.php" data-word="SYNCK." id="dataWord">SYNCK.</a>
               </p>
             </div>
           </div>
@@ -91,7 +91,7 @@
                                 <a href="https://blog.toolfe.com/">Blog</a>
                             </li>
                             <!-- <li>
-                                <a href="home2.html">Why choose us</a>
+                                <a href="home2.php">Why choose us</a>
                             </li> -->
                         </ul>
                     </li>
@@ -215,7 +215,7 @@
 
                                             <p>
                                                 Discover your future
-                                                <a href="career.html">We're hiring</a>
+                                                <a href="career.php">We're hiring</a>
                                             </p>
                                         </div>
                                     </div>
@@ -226,7 +226,7 @@
                                             <p>
                                                 Our new best IT product of the <br />year 2023.
                                             </p>
-                                            <a href="case-studie-single.html">View more</a>
+                                            <a href="case-studie-single.php">View more</a>
                                         </div>
                                     </div>
                                 </div>
@@ -315,7 +315,7 @@
 
                                             <p>
                                                 Discover your future
-                                                <a href="career.html">We're hiring</a>
+                                                <a href="career.php">We're hiring</a>
                                             </p>
                                         </div>
                                     </div>
@@ -326,7 +326,7 @@
                                             <p>
                                                 Our new best IT product of the <br />year 2023.
                                             </p>
-                                            <a href="case-studie-single.html">View more</a>
+                                            <a href="case-studie-single.php">View more</a>
                                         </div>
                                     </div>
                                 </div>
@@ -568,7 +568,7 @@
               </h1>
               <p>Drive Your business forward with Toolfe's cutting-edge digital transformation solutions.</p>
             </div>
-            <a href="./contact/index.html" class="theme-btn">Contact Us</a>
+            <a href="./contact/index.php" class="theme-btn">Contact Us</a>
           </div>
 
           <img src="assets/imgs/Home/home_why_choose.png" alt="Service About" />
@@ -953,7 +953,7 @@
               Explore a gallery of our proven successes through our recognized case studies. Each story showcases our
               expertise, innovative solutions, and the tangible results we deliver.
             </p>
-            <a href="./case-study/index.html" class="theme-btn">
+            <a href="./case-study/index.php" class="theme-btn">
               Explore More
               <i class="iconoir-arrow-up-right"></i>
             </a>
@@ -970,10 +970,10 @@
 
                     <div class="project-item-inner">
                       <h2>
-                        <a href="./case-study/automating_cloud_deployment.html">Automating Cloud Deployment for Workflow
+                        <a href="./case-study/automating_cloud_deployment.php">Automating Cloud Deployment for Workflow
                           Management</a>
                       </h2>
-                      <a href="./case-study/automating_cloud_deployment.html">
+                      <a href="./case-study/automating_cloud_deployment.php">
                         <img src="assets/imgs/casestudy/cs1_hero.png" alt="Project" />
                       </a>
                     </div>
@@ -981,10 +981,10 @@
                   <div class="swiper-slide project-item">
                     <div class="project-item-inner">
                       <h2>
-                        <a href="./case-study/implementing_computer_vision.html">Developing Advanced CV Models for Fruit
+                        <a href="./case-study/implementing_computer_vision.php">Developing Advanced CV Models for Fruit
                           Ripeness Detection</a>
                       </h2>
-                      <a href="./case-study/implementing_computer_vision.html">
+                      <a href="./case-study/implementing_computer_vision.php">
                         <img src="assets/imgs/casestudy/cs4_hero1.png " alt="Project" />
                       </a>
                     </div>
@@ -992,10 +992,10 @@
                   <div class="swiper-slide project-item">
                     <div class="project-item-inner">
                       <h2>
-                        <a href="./case-study/digital_transformation_initiative.html">Digital Transformation Initiative
+                        <a href="./case-study/digital_transformation_initiative.php">Digital Transformation Initiative
                           for an construction Company
                       </h2>
-                      <a href="./case-study/digital_transformation_initiative.html">
+                      <a href="./case-study/digital_transformation_initiative.php">
                         <img src="assets/imgs/casestudy/cs3_hero3.png" alt="Project" />
                       </a>
                     </div>
@@ -1164,7 +1164,7 @@
                 <span class="date">May 22, 2024</span>
                 <span class="category">#Blockchain Technology</span>
               </div>
-              <h2><span href="blog-details.html">Essential Blockchain Testing Techniques: Ensuring Integrity and Security
+              <h2><span href="blog-details.php">Essential Blockchain Testing Techniques: Ensuring Integrity and Security
                   in Networks</span></h2>
               <p>Blockchain testing is crucial to ensure that networks are secure and data integrity is maintained.</p>
               <a href="https://blog.toolfe.com/index.php/2024/05/22/essential-blockchain-testing-techniques-ensuring-integrity-and-security-in-networks/"
@@ -1353,7 +1353,7 @@
           <div class="custom-container">
               <div class="custom-row align-items-end justify-content-between">
                   <div class="left-content">
-                      <a href="index.html" class="logo">
+                      <a href="index.php" class="logo">
                           <img src="https://toolfe.com/assets/white-toolfe.png" alt="Logo" />
                       </a>
                       <p>We provide the expertise and support to <br>
@@ -1378,7 +1378,7 @@
                           <h2>Let’s get started on something great</h2>
                           <p>Our team of IT experts looks forward to meeting with you <br>
                               and providing valuable insights tailored to your business.</p>
-                          <a href="contact.html" class="theme-simple-btn" style="">Get an appointment now</a>
+                          <a href="contact.php" class="theme-simple-btn" style="">Get an appointment now</a>
 
                           <div class="footer-experience d-flex align-items-center">
 
@@ -1512,6 +1512,6 @@
   <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.0/build/spline-viewer.js"></script>
 </body>
 
-<!-- Mirrored from wpriverthemes.com/HTML/synck/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Jul 2024 19:00:29 GMT -->
+<!-- Mirrored from wpriverthemes.com/HTML/synck/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Jul 2024 19:00:29 GMT -->
 
 </html>

@@ -257,7 +257,7 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/ProcessAutomation.html">Process Automation</a>
+                <a href="../services/ProcessAutomation.php">Process Automation</a>
               </h3>
               <p>
                 Streamline operations with advanced automation techniques to
@@ -267,7 +267,7 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/AIMLPage.html"> Generative AI & ML</a>
+                <a href="../services/AIMLPage.php"> Generative AI & ML</a>
               </h3>
               <p>
                 Leverage AI and machine learning to create innovative
@@ -277,7 +277,7 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/DataAnalytics.html">Data Analytics</a>
+                <a href="../services/DataAnalytics.php">Data Analytics</a>
               </h3>
               <p>
                 Transform data into actionable insights with our
@@ -286,7 +286,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3><a href="../services/Cloud.html">Cloud Solutions</a></h3>
+              <h3><a href="../services/Cloud.php">Cloud Solutions</a></h3>
               <p>
                 Enhance flexibility and scalability with our secure and
                 reliable cloud services.
@@ -321,7 +321,7 @@ include '../includes/header.php'
           <p>
             Enhancing audience engagement <br />through cutting-edge tech.
           </p>
-          <a href="../Industries/finance&banking.html" class="theme-btn">
+          <a href="../Industries/finance&banking.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -332,7 +332,7 @@ include '../includes/header.php'
             Optimizing production with<br />
             digital innovation.
           </p>
-          <a href="../Industries/Manufacturing .html" class="theme-btn">
+          <a href="../Industries/Manufacturing .php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -340,7 +340,7 @@ include '../includes/header.php'
           <img src="../assets/imgs/industry/thumbnail/energy_thumbnail.png" alt="Service" />
           <h2>Energy & Utilities</h2>
           <p>Efficiently managing resources <br />with digital tools.</p>
-          <a href="../Industries/energy&utilities.html" class="theme-btn">
+          <a href="../Industries/energy&utilities.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -348,7 +348,7 @@ include '../includes/header.php'
           <img src="../assets/imgs/industry/thumbnail/realestate_thumbnail.png" alt="Service" />
           <h2>Real Estate</h2>
           <p>Smart solutions for property management and sales.</p>
-          <a href="../Industries/healthcare.html" class="theme-btn">
+          <a href="../Industries/healthcare.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>

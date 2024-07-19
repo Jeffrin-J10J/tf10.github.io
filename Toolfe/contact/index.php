@@ -81,7 +81,7 @@ include '../includes/header.php'
                 <div class="input-group input-checkbox">
                   <input type="checkbox" id="privacy_policy_accept" />
                   <label for="privacy_policy_accept">You agree to our
-                    <a href="../trust-center/terms.html" target="_blank">terms and conditions.</a></label>
+                    <a href="../trust-center/terms.php" target="_blank">terms and conditions.</a></label>
                 </div>
               </div>
 

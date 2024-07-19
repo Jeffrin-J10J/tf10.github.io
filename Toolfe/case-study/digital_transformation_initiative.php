@@ -256,21 +256,21 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/ProcessAutomation.html">Process Automation</a>
+                <a href="../services/ProcessAutomation.php">Process Automation</a>
               </h3>
               <p>Automate workflows to enhance productivity.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/AIMLPage.html"> Generative AI & ML</a>
+                <a href="../services/AIMLPage.php"> Generative AI & ML</a>
               </h3>
               <p>Drive innovation with AI and ML technologies.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/MarketResearch.html">Market Research</a>
+                <a href="../services/MarketResearch.php">Market Research</a>
               </h3>
               <p>
                 Gain valuable market insights to make informed business
@@ -280,7 +280,7 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/UXUI.html">User Experience Design UI/UX
+                <a href="../services/UXUI.php">User Experience Design UI/UX
                 </a>
               </h3>
               <p>
@@ -319,7 +319,7 @@ include '../includes/header.php'
             Boosting online sales with<br />
             smart technology.
           </p>
-          <a href="../Industries/ecommerce&retial.html" class="theme-btn">
+          <a href="../Industries/ecommerce&retial.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -329,7 +329,7 @@ include '../includes/header.php'
           <p>
             Enhancing audience engagement <br />through cutting-edge tech.
           </p>
-          <a href="../Industries/media&entertinment.html" class="theme-btn">
+          <a href="../Industries/media&entertinment.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -340,7 +340,7 @@ include '../includes/header.php'
             Smart solutions for property<br />
             management and sales.
           </p>
-          <a href="../Industries/realestate.html" class="theme-btn">
+          <a href="../Industries/realestate.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -348,7 +348,7 @@ include '../includes/header.php'
           <img src="../assets/imgs/industry/thumbnail/education_thumbnail.png" alt="Service" />
           <h2>Education</h2>
           <p>Enhancing learning with <br />innovative tech tools.</p>
-          <a href="../Industries/education.html" class="theme-btn">
+          <a href="../Industries/education.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>

@@ -5,7 +5,7 @@
         <div class="custom-container">
             <div class="custom-row align-items-end justify-content-between">
                 <div class="left-content">
-                    <a href="index.html" class="logo">
+                    <a href="index.php" class="logo">
                         <img src="https://toolfe.com/assets/white-toolfe.png" alt="Logo" />
                     </a>
                     <p>We provide the expertise and support to <br>
@@ -61,31 +61,31 @@
                     <div class="footer-links">
                         <h3>Industries</h3>
                         <ul>
-                            <li><a href="service-details.html">Healthcare</a></li>
-                            <li><a href="service-details.html">Finance and Banking</a></li>
-                            <li><a href="service-details.html">E-Commerce</a></li>
-                            <li><a href="service-details.html">Education<span class="new">Automate</span></a></li>
-                            <li><a href="service-details.html">Real Estate</a></li>
-                            <li><a href="service-details.html">Manufacturing</a></li>
-                            <li><a href="service-details.html">Hospitality and Travel</a></li>
-                            <li><a href="service-details.html">Logistics</a></li>
-                            <li><a href="service-details.html">Telecommunications</a></li>
-                            <li><a href="service-details.html">Energy and Utilities</a></li>
+                            <li><a href="service-details.php">Healthcare</a></li>
+                            <li><a href="service-details.php">Finance and Banking</a></li>
+                            <li><a href="service-details.php">E-Commerce</a></li>
+                            <li><a href="service-details.php">Education<span class="new">Automate</span></a></li>
+                            <li><a href="service-details.php">Real Estate</a></li>
+                            <li><a href="service-details.php">Manufacturing</a></li>
+                            <li><a href="service-details.php">Hospitality and Travel</a></li>
+                            <li><a href="service-details.php">Logistics</a></li>
+                            <li><a href="service-details.php">Telecommunications</a></li>
+                            <li><a href="service-details.php">Energy and Utilities</a></li>
                         </ul>
                     </div>
                     <div class="footer-links">
                         <h3>Services</h3>
                         <ul>
-                            <li><a href="blog.html">Process Automation</a></li>
-                            <li><a href="about.html">Generative AI & ML</a></li>
-                            <li><a href="partner.html">Data Analytics</a></li>
-                            <li><a href="career.html">Market Research</a></li>
-                            <li><a href="event.html">Cloud Solutions</a></li>
-                            <li><a href="team.html">Web Application Development</a></li>
-                            <li><a href="team.html">Website Development</a></li>
-                            <li><a href="team.html">User Experience Design UX/UI</a></li>
-                            <li><a href="team.html">Software Development</a></li>
-                            <li><a href="team.html">15 Hour Spark Tasks</a></li>
+                            <li><a href="blog.php">Process Automation</a></li>
+                            <li><a href="about.php">Generative AI & ML</a></li>
+                            <li><a href="partner.php">Data Analytics</a></li>
+                            <li><a href="career.php">Market Research</a></li>
+                            <li><a href="event.php">Cloud Solutions</a></li>
+                            <li><a href="team.php">Web Application Development</a></li>
+                            <li><a href="team.php">Website Development</a></li>
+                            <li><a href="team.php">User Experience Design UX/UI</a></li>
+                            <li><a href="team.php">Software Development</a></li>
+                            <li><a href="team.php">15 Hour Spark Tasks</a></li>
                         </ul>
                     </div>
 
@@ -93,14 +93,14 @@
 
                         <h3>Quick Links</h3>
                         <ul>
-                            <li><a href="case-studie.html">About us</a></li>
-                            <li><a href="feature.html">Blogs</a></li>
-                            <li><a href="our-field-details.html">Career</a></li>
-                            <li><a href="our-field-details.html">Case Study</a></li>
-                            <li><a href="our-field-details.html">Contact us</a></li>
-                            <li><a href="our-field-details.html">Client Login</a></li>
-                            <li><a href="our-field-details.html">Hourspark x Toolfe</a></li>
-                            <li><a href="our-field-details.html">Book a free consultation</a></li>
+                            <li><a href="case-studie.php">About us</a></li>
+                            <li><a href="feature.php">Blogs</a></li>
+                            <li><a href="our-field-details.php">Career</a></li>
+                            <li><a href="our-field-details.php">Case Study</a></li>
+                            <li><a href="our-field-details.php">Contact us</a></li>
+                            <li><a href="our-field-details.php">Client Login</a></li>
+                            <li><a href="our-field-details.php">Hourspark x Toolfe</a></li>
+                            <li><a href="our-field-details.php">Book a free consultation</a></li>
                         </ul>
                     </div>
                     <div class="footer-links">

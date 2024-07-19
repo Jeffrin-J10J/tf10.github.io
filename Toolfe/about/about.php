@@ -202,7 +202,7 @@ include '../includes/header.php'
             <h1 class="section-title">What Makes Toolfe Your Best Choice</h1>
             <p>We tailor innovative solutions to drive results for your unique business needs.</p>
           </div>
-          <a href="../contact/index.html" class="theme-btn">Contact Us</a>
+          <a href="../contact/index.php" class="theme-btn">Contact Us</a>
         </div>
 
         <img src="../assets/imgs/about_us/about_us_why_choose.png" alt="Service About" />
@@ -482,21 +482,20 @@ include '../includes/header.php'
   </section>
 
   <section class="cta-area">
-      <div class="custom-container">
-        <div class="cta-body text-center">
-          <img src="../assets/imgs/bg-shape-11.svg" alt="Shape" class="animation-slide-left bg-shape" />
-          <div class="our-expert-team-box">
-            <div class="our-expert-team-box-inner d-flex align-items-center">
-             
-            </div>
+    <div class="custom-container">
+      <div class="cta-body text-center">
+        <img src="../assets/imgs/bg-shape-11.svg" alt="Shape" class="animation-slide-left bg-shape" />
+        <div class="our-expert-team-box">
+          <div class="our-expert-team-box-inner d-flex align-items-center">
+
           </div>
-          <h2>Need any further assitance?</h2>
-          <p>Feel free to reach out for any inquiries or assistance.</p>
-          <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
-            class="theme-simple-btn">Book an appointment now</a>
         </div>
+        <h2>Need any further assitance?</h2>
+        <p>Feel free to reach out for any inquiries or assistance.</p>
+        <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/" class="theme-simple-btn">Book an appointment now</a>
       </div>
-    </section>
+    </div>
+  </section>
 
 
   <!-- Footer -->

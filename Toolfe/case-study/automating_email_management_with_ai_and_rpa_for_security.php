@@ -1,4 +1,4 @@
-<?php 
+<?php
 include '../includes/header.php'
 ?>
 
@@ -17,14 +17,11 @@ include '../includes/header.php'
             Automating Email Management for a Security Department
           </h1>
           <p>
-            <span
-              style="
+            <span style="
                 color: #141414;
                 text-decoration: underline;
                 font-weight: bolder;
-              "
-              >Challenges:</span
-            >
+              ">Challenges:</span>
             The Security Department's five FTEs were inundated by hundreds of
             daily emails, requiring manual processing, causing inefficiencies
             and delays due to workload and human errors.
@@ -39,11 +36,7 @@ include '../includes/header.php'
 
   <!-- About -->
   <section class="about-service3-area about-service3-style-2">
-    <img
-      src="../assets/imgs/bg-shape-3.svg"
-      alt="Shape"
-      class="animation-slide-right bg-shape"
-    />
+    <img src="../assets/imgs/bg-shape-3.svg" alt="Shape" class="animation-slide-right bg-shape" />
     <div class="custom-container">
       <div class="custom-row align-items-center">
         <div class="img-box">
@@ -72,9 +65,7 @@ include '../includes/header.php'
   <!-- Our Team -->
   <section class="our-team-area">
     <div class="custom-container">
-      <div
-        class="section-header d-flex align-items-end justify-content-between w-full"
-      >
+      <div class="section-header d-flex align-items-end justify-content-between w-full">
         <div class="left">
           <h5 class="section-subtitle">Solution</h5>
           <h1 class="section-title">
@@ -95,9 +86,7 @@ include '../includes/header.php'
             <img src="../assets/imgs/casestudy/cs2_solution1.png" alt="Team" />
           </div>
           <div class="our-team-body card-h">
-            <div
-              class="mac-btns-wrap d-flex align-items-center justify-content-between"
-            >
+            <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
               <div class="mac-buttons d-flex align-items-center">
                 <span></span>
                 <span></span>
@@ -135,9 +124,7 @@ include '../includes/header.php'
             <img src="../assets/imgs/casestudy/cs2_solution2.png" alt="Team" />
           </div>
           <div class="our-team-body card-h">
-            <div
-              class="mac-btns-wrap d-flex align-items-center justify-content-between"
-            >
+            <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
               <div class="mac-buttons d-flex align-items-center">
                 <span></span>
                 <span></span>
@@ -190,10 +177,7 @@ include '../includes/header.php'
         </div>
         <div class="right">
           <div class="img-box">
-            <img
-              src="../assets/imgs/casestudy/cs2_tech_stack.png"
-              alt="About"
-            />
+            <img src="../assets/imgs/casestudy/cs2_tech_stack.png" alt="About" />
           </div>
         </div>
       </div>
@@ -202,9 +186,7 @@ include '../includes/header.php'
 
   <section class="our-team-area">
     <div class="custom-container">
-      <div
-        class="section-header d-flex align-items-end justify-content-between w-full"
-      >
+      <div class="section-header d-flex align-items-end justify-content-between w-full">
         <div class="left">
           <h5 class="section-subtitle">RESULTS</h5>
           <h1 class="section-title">
@@ -248,11 +230,7 @@ include '../includes/header.php'
   </section>
 
   <section class="feature3-area">
-    <img
-      src="../assets/imgs/bg-shape-1.svg"
-      alt="Shape"
-      class="animation-slide-left bg-shape"
-    />
+    <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" />
     <div class="custom-container">
       <div class="custom-row align-items-center">
         <div class="section-header">
@@ -269,9 +247,7 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/ProcessAutomation.html"
-                  >Process Automation</a
-                >
+                <a href="../services/ProcessAutomation.php">Process Automation</a>
               </h3>
               <p>
                 Streamline operations with advanced automation techniques to
@@ -281,7 +257,7 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/AIMLPage.html"> Generative AI & ML</a>
+                <a href="../services/AIMLPage.php"> Generative AI & ML</a>
               </h3>
               <p>
                 Leverage AI and machine learning to create innovative solutions
@@ -291,7 +267,7 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/DataAnalytics.html">Data Analytics</a>
+                <a href="../services/DataAnalytics.php">Data Analytics</a>
               </h3>
               <p>
                 Transform data into actionable insights with our comprehensive
@@ -300,7 +276,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3><a href="../services/Cloud.html">Cloud Solutions</a></h3>
+              <h3><a href="../services/Cloud.php">Cloud Solutions</a></h3>
               <p>
                 Enhance flexibility and scalability with our secure and reliable
                 cloud services.
@@ -316,9 +292,7 @@ include '../includes/header.php'
     <img class="bg-shape" src="../assets/imgs/bg-shape-7.svg" alt="Shape" />
     <div class="custom-container">
       <div class="custom-row">
-        <div
-          class="service2-header d-flex align-items-center justify-content-between w-full"
-        >
+        <div class="service2-header d-flex align-items-center justify-content-between w-full">
           <div class="left">
             <h5 class="section-subtitle">Our Industry Expertise</h5>
             <h1 class="section-title">Industries We Empower</h1>
@@ -332,58 +306,43 @@ include '../includes/header.php'
 
       <div class="service2-items d-flex w-full">
         <div class="service2-card card-h">
-          <img
-            src="../assets/imgs/industry/thumbnail/healthcare_thumbnail.png"
-            alt="Service"
-          />
+          <img src="../assets/imgs/industry/thumbnail/healthcare_thumbnail.png" alt="Service" />
           <h2>Healthcare</h2>
           <p>Advanced IT solutions for <br />better patient care.</p>
-          <a href="../Industries/healthcare.html" class="theme-btn">
+          <a href="../Industries/healthcare.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
         <div class="service2-card card-h">
-          <img
-            src="../assets/imgs/industry/thumbnail/logistic_thumbnail.png"
-            alt="Service"
-          />
+          <img src="../assets/imgs/industry/thumbnail/logistic_thumbnail.png" alt="Service" />
           <h2>Logistics & Supply Chain</h2>
           <p>
             Streamlining operations with<br />
             smart logistics technology.
           </p>
-          <a
-            href="../Industries/logistics-transportation.html"
-            class="theme-btn"
-          >
+          <a href="../Industries/logistics-transportation.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
         <div class="service2-card card-h">
-          <img
-            src="../assets/imgs/industry/thumbnail/manufactureing_thumbnail.png"
-            alt="Service"
-          />
+          <img src="../assets/imgs/industry/thumbnail/manufactureing_thumbnail.png" alt="Service" />
           <h2>Manufacturing</h2>
           <p>
             Optimizing production with<br />
             digital innovation.
           </p>
-          <a href="../Industries/Manufacturing.html" class="theme-btn">
+          <a href="../Industries/Manufacturing.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
         <div class="service2-card card-h">
-          <img
-            src="../assets/imgs/industry/thumbnail/energy_thumbnail.png"
-            alt="Service"
-          />
+          <img src="../assets/imgs/industry/thumbnail/energy_thumbnail.png" alt="Service" />
           <h2>Energy & Utilities</h2>
           <p>
             Efficiently managing resources<br />
             with digital tools
           </p>
-          <a href="../Industries/energy&utilities.html" class="theme-btn">
+          <a href="../Industries/energy&utilities.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -394,14 +353,8 @@ include '../includes/header.php'
   <!-- CTA -->
   <section class="cta-area cta-area2">
     <div class="custom-container">
-      <div
-        class="cta-body text-center d-flex align-items-center justify-content-between"
-      >
-        <img
-          src="../assets/imgs/bg-shape-12.png"
-          alt="Shape"
-          class="animation-slide-right bg-shape"
-        />
+      <div class="cta-body text-center d-flex align-items-center justify-content-between">
+        <img src="../assets/imgs/bg-shape-12.png" alt="Shape" class="animation-slide-right bg-shape" />
         <div class="left">
           <div class="our-expert-team-box"></div>
           <h2>Ready to Transform Your Business?</h2>
@@ -410,11 +363,7 @@ include '../includes/header.php'
             success. Contact us today to learn more.
           </p>
         </div>
-        <a
-          href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
-          class="theme-btn"
-          >Book an appointment now</a
-        >
+        <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/" class="theme-btn">Book an appointment now</a>
       </div>
     </div>
   </section>
@@ -422,6 +371,6 @@ include '../includes/header.php'
   <!-- Footer -->
   <?php include '../includes/foot.php';  ?>
 </main>
-<?php 
+<?php
 include '../includes/footer.php'
 ?>
