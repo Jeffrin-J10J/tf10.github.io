@@ -10,7 +10,7 @@
             </div>
             <div class="right">
                 <p>
-                    Level up your business with <a href="about.html" data-word="SYNCK." id="dataWord">SYNCK.</a>
+                    Level up your business with <a href="about.php" data-word="SYNCK." id="dataWord">SYNCK.</a>
                 </p>
             </div>
         </div>
@@ -50,7 +50,7 @@
                                     <a href="https://blog.toolfe.com/">Blog</a>
                                 </li>
                                 <!-- <li>
-                                    <a href="home2.html">Why choose us</a>
+                                    <a href="home2.php">Why choose us</a>
                                 </li> -->
                             </ul>
                         </li>
@@ -174,7 +174,7 @@
 
                                                 <p>
                                                     Discover your future
-                                                    <a href="career.html">We're hiring</a>
+                                                    <a href="career.php">We're hiring</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -185,7 +185,7 @@
                                                 <p>
                                                     Our new best IT product of the <br />year 2023.
                                                 </p>
-                                                <a href="case-studie-single.html">View more</a>
+                                                <a href="case-studie-single.php">View more</a>
                                             </div>
                                         </div>
                                     </div>
@@ -211,7 +211,7 @@
 
                                                             <!-- <div class="content-box">
                                           <h3>
-                                          <a href="portfolio-details.html">RPA</a>
+                                          <a href="portfolio-details.php">RPA</a>
                                           </h3>
                                           <p>
                                           Automating Email Assignment for a
@@ -345,7 +345,7 @@
 
                                                 <p>
                                                     Discover your future
-                                                    <a href="career.html">We're hiring</a>
+                                                    <a href="career.php">We're hiring</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -356,7 +356,7 @@
                                                 <p>
                                                     Our new best IT product of the <br />year 2023.
                                                 </p>
-                                                <a href="case-studie-single.html">View more</a>
+                                                <a href="case-studie-single.php">View more</a>
                                             </div>
                                         </div>
                                     </div>

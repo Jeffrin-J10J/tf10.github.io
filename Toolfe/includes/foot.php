@@ -5,7 +5,7 @@
           <div class="custom-container">
               <div class="custom-row align-items-end justify-content-between">
                   <div class="left-content">
-                      <a href="index.html" class="logo">
+                      <a href="index.php" class="logo">
                           <img src="https://toolfe.com/assets/white-toolfe.png" alt="Logo" />
                       </a>
                       <p>We provide the expertise and support to <br>

@@ -27,7 +27,7 @@ include '../includes/header.php'
                   Enhancing Efficiency, Security, and Customer Experience
                   through Advanced Technology
                 </p>
-                <a href="../contact/index.html" class="theme-simple-btn">
+                <a href="../contact/index.php" class="theme-simple-btn">
                   Contact Us Today
                 </a>
               </div>
@@ -93,7 +93,7 @@ include '../includes/header.php'
                 Finance & Banking
               </h5>
               <h1 class="section-title">
-                <a href="blog-details.html"> Digital Banking Solutions</a>
+                <a href="blog-details.php"> Digital Banking Solutions</a>
               </h1>
               <p>
                 Seamless Banking, Secure Platforms, Integrating Financial
@@ -122,7 +122,7 @@ include '../includes/header.php'
                 Finance & Banking
               </h5>
               <h1 class="section-title">
-                <a href="blog-details.html">Fraud Detection and Prevention</a>
+                <a href="blog-details.php">Fraud Detection and Prevention</a>
               </h1>
               <p>
                 Advanced AI for Real-Time Detection, Enhanced Security,
@@ -158,7 +158,7 @@ include '../includes/header.php'
                 Finance & Banking
               </h5>
               <h1 class="section-title">
-                <a href="blog-details.html"
+                <a href="blog-details.php"
                   >Data Analytics for Financial Insights</a
                 >
               </h1>
@@ -189,7 +189,7 @@ include '../includes/header.php'
                 Finance & Banking
               </h5>
               <h1 class="section-title">
-                <a href="blog-details.html">AI-Powered Financial Advisory</a>
+                <a href="blog-details.php">AI-Powered Financial Advisory</a>
               </h1>
               <p>
                 Personalized Financial Advice, Improved Engagement, Efficient
@@ -224,7 +224,7 @@ include '../includes/header.php'
                 Finance & Banking
               </h5>
               <h1 class="section-title">
-                <a href="blog-details.html">Cloud Solutions for Finance</a>
+                <a href="blog-details.php">Cloud Solutions for Finance</a>
               </h1>
               <p>
                 Secure Cloud Storage, Scalable Infrastructure, Enhanced
@@ -260,7 +260,7 @@ include '../includes/header.php'
                 <div class="news-content">
                     <h5 class="section-subtitle">MOBILE DEVELOPMENT</h5>
                     <h1 class="section-title">
-                        <a href="case-studie-single.html">New software development for online
+                        <a href="case-studie-single.php">New software development for online
                             E-commerce website</a>
                     </h1>
                     <p>The makers of AI have announced the company will be dedicating 20% of its compute processing power over the next four years</p>
@@ -272,7 +272,7 @@ include '../includes/header.php'
                             <i class="las la-check"></i> Smart Reminders
                         </li>
                     </ul>
-                    <a href="case-studie-single.html" class="theme-btn">
+                    <a href="case-studie-single.php" class="theme-btn">
                         <i class="icon-right iconoir-arrow-up-right"></i>
                     </a>
                 </div>
@@ -287,7 +287,7 @@ include '../includes/header.php'
                     <div class="news-item-body">
                         <h5 class="section-subtitle">CLOUD COMPUTING</h5>
                         <h1 class="section-title">
-                            <a href="case-studie-single.html">Our cloud services are familiar in all ways 
+                            <a href="case-studie-single.php">Our cloud services are familiar in all ways 
                                 and we provide everywhere</a>
                         </h1>
                         <p>Small UK merchants, businesses, and other enterprises can now use  Tap to Pay on service to replace payment terminals at point of sale.</p>
@@ -305,7 +305,7 @@ include '../includes/header.php'
                                 <i class="las la-check"></i> Task Management
                             </li>
                         </ul>
-                        <a href="case-studie-single.html" class="theme-btn">
+                        <a href="case-studie-single.php" class="theme-btn">
                             <i class="icon-right iconoir-arrow-up-right"></i>
                         </a>
                     </div>
@@ -317,7 +317,7 @@ include '../includes/header.php'
                     <div class="news-item-body">
                         <h5 class="section-subtitle">APP DEVELOPMENT</h5>
                         <h1 class="section-title">
-                            <a href="case-studie-single.html">A new app for a samsung galaxy mobiles
+                            <a href="case-studie-single.php">A new app for a samsung galaxy mobiles
                                 by bluebase</a>
                         </h1>
                         <p>Small UK merchants, businesses, and other enterprises can now use  Tap to Pay on service to replace payment terminals at point of sale.</p>
@@ -332,7 +332,7 @@ include '../includes/header.php'
                                 <i class="las la-check"></i> Requirement
                             </li>
                         </ul>
-                        <a href="case-studie-single.html" class="theme-btn">
+                        <a href="case-studie-single.php" class="theme-btn">
                             <i class="icon-right iconoir-arrow-up-right"></i>
                         </a>
                     </div>
@@ -344,7 +344,7 @@ include '../includes/header.php'
                     <div class="news-item-body">
                         <h5 class="section-subtitle">WEB DEVELOPMENT</h5>
                         <h1 class="section-title">
-                            <a href="case-studie-single.html">Bluebase launches Tap to Pay on smartphone for international and domestic business</a>
+                            <a href="case-studie-single.php">Bluebase launches Tap to Pay on smartphone for international and domestic business</a>
                         </h1>
                         <p>But employees say whether the layoffs are fresh or previously announced, they’re still losing their jobs.</p>
                         <ul>
@@ -361,7 +361,7 @@ include '../includes/header.php'
                                 <i class="las la-check"></i> Task Management
                             </li>
                         </ul>
-                        <a href="case-studie-single.html" class="theme-btn">
+                        <a href="case-studie-single.php" class="theme-btn">
                             <i class="icon-right iconoir-arrow-up-right"></i>
                         </a>
                     </div>
@@ -373,7 +373,7 @@ include '../includes/header.php'
                     <div class="news-item-body">
                         <h5 class="section-subtitle">SAAS SOLUTIONS</h5>
                         <h1 class="section-title">
-                            <a href="case-studie-single.html">Google Bard launches in EU, overcoming data privacy concerns in the region</a>
+                            <a href="case-studie-single.php">Google Bard launches in EU, overcoming data privacy concerns in the region</a>
                         </h1>
                         <p>The UN Security Council met with two artificial intelligence experts this week to debate the benefit</p>
                         <ul>
@@ -387,7 +387,7 @@ include '../includes/header.php'
                                 <i class="las la-check"></i> Requirement
                             </li>
                         </ul>
-                        <a href="case-studie-single.html" class="theme-btn">
+                        <a href="case-studie-single.php" class="theme-btn">
                             <i class="icon-right iconoir-arrow-up-right"></i>
                         </a>
                     </div>
@@ -399,7 +399,7 @@ include '../includes/header.php'
                     <div class="news-item-body">
                         <h5 class="section-subtitle">VR DEVELOPMENT</h5>
                         <h1 class="section-title">
-                            <a href="case-studie-single.html">Virtual reality development for a worldwide
+                            <a href="case-studie-single.php">Virtual reality development for a worldwide
                                 platform by studio nine</a>
                         </h1>
                         <p>Small UK merchants, businesses, and other enterprises can now use  Tap to Pay on service to replace payment terminals at point of sale.</p>
@@ -417,7 +417,7 @@ include '../includes/header.php'
                                 <i class="las la-check"></i> Task Management
                             </li>
                         </ul>
-                        <a href="case-studie-single.html" class="theme-btn">
+                        <a href="case-studie-single.php" class="theme-btn">
                             <i class="icon-right iconoir-arrow-up-right"></i>
                         </a>
                     </div>
@@ -429,7 +429,7 @@ include '../includes/header.php'
                     <div class="news-item-body">
                         <h5 class="section-subtitle">MOBILE APP DEVELOPMENT</h5>
                         <h1 class="section-title">
-                            <a href="case-studie-single.html">We launches a new software service for a 
+                            <a href="case-studie-single.php">We launches a new software service for a 
                                 mobile app development</a>
                         </h1>
                         <p>Five months after Google announced it was launching its own chatbot, the company has addressed the data issues had previously made.</p>
@@ -444,7 +444,7 @@ include '../includes/header.php'
                                 <i class="las la-check"></i> Requirement
                             </li>
                         </ul>
-                        <a href="case-studie-single.html" class="theme-btn">
+                        <a href="case-studie-single.php" class="theme-btn">
                             <i class="icon-right las iconoir-arrow-up-right"></i>
                         </a>
                     </div>
@@ -649,7 +649,7 @@ include '../includes/header.php'
                             <h5 class="section-subtitle">Security</h5>
                             <br />
       
-                            <h3><a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.html">
+                            <h3><a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.php">
                               Automating Email Management for a Security Department
                             </h3></a>
                             <p>
@@ -660,7 +660,7 @@ include '../includes/header.php'
                               ensuring faster incident resolution and improved
                               resource allocation.
                             </p>
-                            <a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.html" class="theme-btn">
+                            <a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -685,7 +685,7 @@ include '../includes/header.php'
                             <br />
       
                             <h3>
-                              <a href="../case-study/implementing_computer_vision.html">
+                              <a href="../case-study/implementing_computer_vision.php">
                               Developing Advanced CV Models for Fruit Ripeness
                               Detection<a/>
                             </h3>
@@ -698,7 +698,7 @@ include '../includes/header.php'
                               crop yield, marking a significant advancement in
                               agricultural automation and sustainability.
                             </p>
-                            <a href="../case-study/implementing_computer_vision.html" class="theme-btn">
+                            <a href="../case-study/implementing_computer_vision.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -722,7 +722,7 @@ include '../includes/header.php'
                             <h5 class="section-subtitle">Information Technology</h5>
                             <br />
                             <h3>
-                              <a href="../case-study/automating_cloud_deployment.html">
+                              <a href="../case-study/automating_cloud_deployment.php">
                               Automating Cloud Deployment for Workflow Management
                               </a>
                             </h3>
@@ -735,7 +735,7 @@ include '../includes/header.php'
                               improved overall operational efficiency, enabling our
                               client to focus more on innovation and growth.
                             </p>
-                            <a href="../case-study/automating_cloud_deployment.html" class="theme-btn">
+                            <a href="../case-study/automating_cloud_deployment.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -760,7 +760,7 @@ include '../includes/header.php'
                             <h5 class="section-subtitle">Construction</h5>
                             <br />
                             <h3>
-                              <a href="../case-study/digital_transformation_initiative.html"></a>
+                              <a href="../case-study/digital_transformation_initiative.php"></a>
                               Digital Transformation Initiative for an construction
                               Company
                             </h3>
@@ -772,7 +772,7 @@ include '../includes/header.php'
                               improved customer engagement, and positioned them as
                               industry leaders in interior design innovation.
                             </p>
-                            <a href="../case-study/digital_transformation_initiative.html" class="theme-btn">
+                            <a href="../case-study/digital_transformation_initiative.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -796,7 +796,7 @@ include '../includes/header.php'
                             <h5 class="section-subtitle">Knowledge Management</h5>
                             <br />
                             <h3 class="section-title"><a
-                              href="../case-study/intelligent_document_processing.html"
+                              href="../case-study/intelligent_document_processing.php"
                               >Smart Document Processing for Knowledge Management<a/></h3>
                             <p>
                               By integrating intelligent document processing, we
@@ -806,7 +806,7 @@ include '../includes/header.php'
                               enabling faster access to critical information, thereby
                               boosting productivity and decision-making capabilities.
                             </p>
-                            <a href="../case-study/intelligent_document_processing.html" class="theme-btn">
+                            <a href="../case-study/intelligent_document_processing.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -832,23 +832,23 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.html">Process Automation</a></h3>
+                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Automate complex processes to increase efficiency.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.html"> Generative AI & ML</a></h3>
+                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Implement AI and ML technologies for innovation.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/MobileAppDevelopment.html">Mobile Development</a></h3>
+                                  <h3><a href="../services/MobileAppDevelopment.php">Mobile Development</a></h3>
                                   <p>Develop high-quality mobile apps to engage your audience on the go.
                                   </p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/MarketResearch.html">Market Research
+                                  <h3><a href="../services/MarketResearch.php">Market Research
                                   </a></h3>
                                   <p> Gain insights to make informed strategic decisions.
                                   </p>

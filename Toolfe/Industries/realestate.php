@@ -87,7 +87,7 @@ include '../includes/header.php'
             <div class="news-content">
               <h5 class="section-subtitle section-subtitle1">Real Estate</h5>
               <h1 class="section-title">
-                <a href="blog-details.html">AI-Powered Property Analytics</a>
+                <a href="blog-details.php">AI-Powered Property Analytics</a>
               </h1>
               <p>
                 Data-Driven Insights for Informed Real Estate Decision-Making
@@ -113,7 +113,7 @@ include '../includes/header.php'
             <div class="news-content">
               <h5 class="section-subtitle section-subtitle1">Real Estate</h5>
               <h1 class="section-title">
-                <a href="blog-details.html"
+                <a href="blog-details.php"
                   >Automated Asset Management Solutions
                 </a>
               </h1>
@@ -146,7 +146,7 @@ include '../includes/header.php'
             <div class="news-content">
               <h5 class="section-subtitle section-subtitle1">Real Estate</h5>
               <h1 class="section-title">
-                <a href="blog-details.html">Automated Tenant Management</a>
+                <a href="blog-details.php">Automated Tenant Management</a>
               </h1>
               <p>Streamlining Tenant Relations with Advanced Automation</p>
               <ul>
@@ -171,7 +171,7 @@ include '../includes/header.php'
             <div class="news-content">
               <h5 class="section-subtitle section-subtitle1">Real Estate</h5>
               <h1 class="section-title">
-                <a href="blog-details.html">Smart Building Solutions</a>
+                <a href="blog-details.php">Smart Building Solutions</a>
               </h1>
               <p>Optimizing Efficiency and Comfort through Automation</p>
               <ul>
@@ -202,7 +202,7 @@ include '../includes/header.php'
             <div class="news-content">
               <h5 class="section-subtitle section-subtitle1">Real Estate</h5>
               <h1 class="section-title">
-                <a href="blog-details.html">
+                <a href="blog-details.php">
                   AI for Sustainable Real Estate Practices
                 </a>
               </h1>
@@ -414,7 +414,7 @@ include '../includes/header.php'
                             <h5 class="section-subtitle">Security</h5>
                             <br />
       
-                            <h3><a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.html">
+                            <h3><a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.php">
                               Automating Email Management for a Security Department
                             </h3></a>
                             <p>
@@ -425,7 +425,7 @@ include '../includes/header.php'
                               ensuring faster incident resolution and improved
                               resource allocation.
                             </p>
-                            <a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.html" class="theme-btn">
+                            <a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -450,7 +450,7 @@ include '../includes/header.php'
                             <br />
       
                             <h3>
-                              <a href="../case-study/implementing_computer_vision.html">
+                              <a href="../case-study/implementing_computer_vision.php">
                               Developing Advanced CV Models for Fruit Ripeness
                               Detection<a/>
                             </h3>
@@ -463,7 +463,7 @@ include '../includes/header.php'
                               crop yield, marking a significant advancement in
                               agricultural automation and sustainability.
                             </p>
-                            <a href="../case-study/implementing_computer_vision.html" class="theme-btn">
+                            <a href="../case-study/implementing_computer_vision.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -487,7 +487,7 @@ include '../includes/header.php'
                             <h5 class="section-subtitle">Information Technology</h5>
                             <br />
                             <h3>
-                              <a href="../case-study/automating_cloud_deployment.html">
+                              <a href="../case-study/automating_cloud_deployment.php">
                               Automating Cloud Deployment for Workflow Management
                               </a>
                             </h3>
@@ -500,7 +500,7 @@ include '../includes/header.php'
                               improved overall operational efficiency, enabling our
                               client to focus more on innovation and growth.
                             </p>
-                            <a href="../case-study/automating_cloud_deployment.html" class="theme-btn">
+                            <a href="../case-study/automating_cloud_deployment.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -525,7 +525,7 @@ include '../includes/header.php'
                             <h5 class="section-subtitle">Construction</h5>
                             <br />
                             <h3>
-                              <a href="../case-study/digital_transformation_initiative.html"></a>
+                              <a href="../case-study/digital_transformation_initiative.php"></a>
                               Digital Transformation Initiative for an construction
                               Company
                             </h3>
@@ -537,7 +537,7 @@ include '../includes/header.php'
                               improved customer engagement, and positioned them as
                               industry leaders in interior design innovation.
                             </p>
-                            <a href="../case-study/digital_transformation_initiative.html" class="theme-btn">
+                            <a href="../case-study/digital_transformation_initiative.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -561,7 +561,7 @@ include '../includes/header.php'
                             <h5 class="section-subtitle">Knowledge Management</h5>
                             <br />
                             <h3 class="section-title"><a
-                              href="../case-study/intelligent_document_processing.html"
+                              href="../case-study/intelligent_document_processing.php"
                               >Smart Document Processing for Knowledge Management<a/></h3>
                             <p>
                               By integrating intelligent document processing, we
@@ -571,7 +571,7 @@ include '../includes/header.php'
                               enabling faster access to critical information, thereby
                               boosting productivity and decision-making capabilities.
                             </p>
-                            <a href="../case-study/intelligent_document_processing.html" class="theme-btn">
+                            <a href="../case-study/intelligent_document_processing.php" class="theme-btn">
                               <i class="iconoir-arrow-up-right"></i>
                             </a>
                           </div>
@@ -598,22 +598,22 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.html">Process Automation</a></h3>
+                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Automate complex processes to increase efficiency and accuracy.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.html"> Generative AI & ML</a></h3>
+                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Utilize advanced AI and ML technologies to innovate and excel.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/SoftwareDevelopment.html">Software development</a></h3>
+                                  <h3><a href="../services/SoftwareDevelopment.php">Software development</a></h3>
                                   <p>Develop robust and scalable web applications tailored to your business requirements.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/WebDevelopment.html">Website Development
+                                  <h3><a href="../services/WebDevelopment.php">Website Development
                                   </a></h3>
                                   <p> Create stunning and functional websites that engage your audience and drive conversions.
                                   </p>

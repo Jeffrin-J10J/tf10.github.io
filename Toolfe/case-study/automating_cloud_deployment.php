@@ -107,27 +107,25 @@ include '../includes/header.php'
 
             <div class="our-team-body-inner our-team-bio">
               <div class="our-team-bio">
-                <h3>Automated Deployment System</h3>
+                <h2>Automated Deployment System</h2>
+                <br />
+                <h6 class="contact-text">Streamlining Deployment Processes</h6>
+
+                <p>To address the inefficiencies in manual cloud deployment processes, we developed an advanced
+                  automated system. This system automates the entire deployment process, from provisioning resources to
+                  configuring applications.</p>
+                <br>
+                <h6 class="contact-text">Utilizing Containerization and Orchestration</h6>
+                <p>It uses innovative technologies such as containerization and orchestration tools to ensure swift and
+                  consistent deployments without the need for manual intervention. By automating routine tasks such as
+                  feature deployment, environment setup, and user credential management, we significantly reduce
+                  deployment times, typically cutting down the process from 3 to 6 hours to just minutes.</p>
                 <br />
 
-                <p>
-                  To address the inefficiencies in manual cloud deployment
-                  processes, we developed an advanced automated system. This
-                  system automates the entire deployment process, from
-                  provisioning resources to configuring applications.
-                  <br /><br />
-                  It leverages cutting-edge technologies such as
-                  containerization and orchestration tools to ensure swift
-                  and consistent deployments without the need for manual
-                  intervention. By automating routine tasks such as feature
-                  deployment, environment setup, and user credential
-                  management, we significantly reduce deployment times,
-                  typically cutting down the process from 3 to 6 hours to
-                  just minutes. <br /><br />Our solution integrates
-                  seamlessly with existing infrastructure, providing
-                  scalability and flexibility to meet evolving business
-                  needs.
-                </p>
+                <h6 class="contact-text">Ensuring Scalability and Flexibility</h6>
+                <p>Our solution integrates seamlessly with existing infrastructure, providing scalability and
+                  flexibility to meet evolving business needs.</p>
+
               </div>
             </div>
           </div>
@@ -154,23 +152,20 @@ include '../includes/header.php'
 
             <div class="our-team-body-inner our-team-bio">
               <div class="our-team-bio">
-                <h3>User and Admin Portals</h3>
-
+                <h2>User and Admin Portals</h2>
+                <br>
+                <h6 class="contact-text">Real-Time Deployment Tracking </h6>
+                <p>We designed user-friendly portals for both clients and administrators. The client portal allows users
+                  to easily submit deployment requests, specify their requirements, and track the progress of their
+                  deployments in real-time. It features intuitive interfaces and automated notifications to keep clients
+                  informed throughout the deployment lifecycle.</p>
+                <br>
+                <h6 class="contact-text">Efficient Management and Monitoring</h6>
                 <p>
-                  We designed user-friendly portals tailored to both clients
-                  and administrators. The client portal allows users to
-                  easily submit deployment requests, specify their
-                  requirements, and track the progress of their deployments
-                  in real-time. <br /><br />It features intuitive interfaces
-                  and automated notifications to keep clients informed
-                  throughout the deployment lifecycle. On the other hand,
-                  the admin portal provides administrators with
-                  comprehensive tools to manage and monitor deployment
-                  activities efficiently. <br /><br />Admins can oversee
-                  deployment statuses, troubleshoot issues promptly using
-                  detailed logs and analytics, and scale resources as
-                  needed, ensuring seamless service delivery and enhancing
-                  overall operational efficiency.
+                  On the other hand, the admin portal provides administrators with comprehensive tools to manage and
+                  monitor deployment activities efficiently. Admins can oversee deployment statuses, troubleshoot issues
+                  promptly using detailed logs and analytics, and scale resources as needed, ensuring seamless service
+                  delivery and enhancing overall operational efficiency.
                 </p>
               </div>
             </div>
@@ -225,7 +220,7 @@ include '../includes/header.php'
       <div class="hero-company-boxes">
         <div class="hero-company-box simple-shadow">
           <h1>80%</h1>
-          <h3>Reduction in Deployment Time</h3>
+          <h3><br>Reduction in Deployment Time</h3>
           <p>
             Achieved significant accuracy enhancement in fruit ripeness
             detection.
@@ -233,17 +228,17 @@ include '../includes/header.php'
         </div>
         <div class="hero-company-box simple-shadow">
           <h1>30%</h1>
-          <h3>Cost Savings</h3>
+          <h3><br>Cost Savings</h3>
           <p>Reduces operational costs related to deployment activities.</p>
         </div>
         <div class="hero-company-box simple-shadow">
           <h1>40%</h1>
-          <h3>Enhanced Productivity</h3>
+          <h3><br>Enhanced Productivity</h3>
           <p>reduction in time spent on routine deployment tasks</p>
         </div>
         <div class="hero-company-box simple-shadow">
           <h1>99%</h1>
-          <h3>Accuracy in Deployment</h3>
+          <h3><br>Accuracy in Deployment</h3>
           <p>Ensures consistent and error-free deployments.</p>
         </div>
       </div>
@@ -271,21 +266,21 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/ProcessAutomation.html">Process Automation</a>
+                <a href="../services/ProcessAutomation.php">Process Automation</a>
               </h3>
               <p>Automate complex processes to increase efficiency.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/AIMLPage.html"> Generative AI & ML</a>
+                <a href="../services/AIMLPage.php"> Generative AI & ML</a>
               </h3>
               <p>Implement AI and ML technologies for innovation.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/UXUI.html">User Experience Design UI/UX</a>
+                <a href="../services/UXUI.php">User Experience Design UI/UX</a>
               </h3>
               <p>
                 Develop and Enhance user interaction with our UI/UX designs.
@@ -294,7 +289,7 @@ include '../includes/header.php'
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
               <h3>
-                <a href="../services/MobileAppDevelopment.html">Mobile Development
+                <a href="../services/MobileAppDevelopment.php">Mobile Development
                 </a>
               </h3>
               <p>Build intuitive and user-friendly mobile applications.</p>
@@ -330,7 +325,7 @@ include '../includes/header.php'
             Smart solutions for property<br />
             management and sales.
           </p>
-          <a href="../Industries/realestate.html" class="theme-btn">
+          <a href="../Industries/realestate.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -341,7 +336,7 @@ include '../includes/header.php'
             Enhancing learning with<br />
             innovative tech tools.
           </p>
-          <a href="../Industries/education.html" class="theme-btn">
+          <a href="../Industries/education.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -351,7 +346,7 @@ include '../includes/header.php'
           <p>
             Securing transactions with <br />advanced digital solutions.
           </p>
-          <a href="../Industries/finance&banking.html" class="theme-btn">
+          <a href="../Industries/finance&banking.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
@@ -362,7 +357,7 @@ include '../includes/header.php'
             Improving connectivity with<br />
             cutting-edge technology
           </p>
-          <a href="../Industries/telecommunication.html" class="theme-btn">
+          <a href="../Industries/telecommunication.php" class="theme-btn">
             <i class="iconoir-arrow-up-right"></i>
           </a>
         </div>
