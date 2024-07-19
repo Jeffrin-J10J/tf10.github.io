@@ -373,8 +373,8 @@
             From AI-driven insights to automated processes, we enhance efficiency and empower businesses to excel in a digital-first world.
             </p>
             <div class="btns-group d-flex">
-              <a href="#" class="theme-btn"> Discover More</a>
-              <a href="contact.php" class="theme-btn2">Let's Connect
+              <a href="./contact/index.php" class="theme-btn"> Discover More</a>
+              <a href="./contact/index.php" class="theme-btn2">Let's Connect
 
                 <i class="iconoir-arrow-up-right"></i>
               </a>
@@ -604,24 +604,24 @@
         <div class="hero-company-boxes" style="margin-top: 20px;">
           <div class="hero-company-box simple-shadow ">
             <h1 class="">100+</h1>
-            <h3>Projects</h3>
+            <h3><br>Projects</h3>
             <p>
               Managed 100+ IT projects , driving innovation and efficiency.
             </p>
           </div>
           <div class="hero-company-box simple-shadow ">
             <h1 class="">50K+</h1>
-            <h3>Hours Saved</h3>
+            <h3><br>Hours Saved</h3>
             <p>Saved client hours with automation and dedication.</p>
           </div>
           <div class="hero-company-box simple-shadow ">
             <h1 class="">80%</h1>
-            <h3>Retention Rate</h3>
+            <h3><br>Retention Rate</h3>
             <p>Exceptional service and support ensure lasting client relationships.</p>
           </div>
           <div class="hero-company-box simple-shadow ">
             <h1 class="">100%</h1>
-            <h3>Client Satisfaction</h3>
+            <h3><br>Client Satisfaction</h3>
             <p>Ensured satisfaction exceeded expectations with exceptinal service.</p>
           </div>
         </div>
@@ -974,18 +974,17 @@
                           Management</a>
                       </h2>
                       <a href="./case-study/automating_cloud_deployment.php">
-                        <img src="assets/imgs/casestudy/cs1_hero.png" alt="Project" />
+                        <img src="assets/imgs/casestudy/cloud_thumbnail_home.png" alt="Project" />
                       </a>
                     </div>
                   </div>
                   <div class="swiper-slide project-item">
                     <div class="project-item-inner">
                       <h2>
-                        <a href="./case-study/implementing_computer_vision.php">Developing Advanced CV Models for Fruit
-                          Ripeness Detection</a>
+                        <a href="./case-study/automating_email_management_with_ai_and_rpa_for_security.php">Automating Email Management for a Security Department</a>
                       </h2>
                       <a href="./case-study/implementing_computer_vision.php">
-                        <img src="assets/imgs/casestudy/cs4_hero1.png " alt="Project" />
+                        <img src="assets/imgs/casestudy/email_thumbnail_home.png " alt="Project" />
                       </a>
                     </div>
                   </div>
@@ -996,7 +995,7 @@
                           for an construction Company
                       </h2>
                       <a href="./case-study/digital_transformation_initiative.php">
-                        <img src="assets/imgs/casestudy/cs3_hero3.png" alt="Project" />
+                        <img src="assets/imgs/casestudy/digital_thumbnail_home.png" alt="Project" />
                       </a>
                     </div>
                   </div>
