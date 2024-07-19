@@ -647,7 +647,7 @@ Intelligent                 </button>
                 <div class="case-studio-body d-flex">
                   <div class="left d-flex flex-1">
                     <div class="img-box">
-                      <img src="../assets/imgs/casestudy/cs_section1.png" alt="About" />
+                      <img src="../assets/imgs/casestudy/email_thumbnail_index.png" alt="About" />
                     </div>
                   </div>
                   <div class="right">

@@ -27,7 +27,7 @@ include '../includes/header.php'
           </p>
         </div>
         <div class="img-box">
-          <img src="../assets/imgs/casestudy/cs5_hero5.png" alt="Blog" />
+          <img src="../assets/imgs/casestudy/idp_thumbanail_hero.png" alt="Blog" />
         </div>
       </div>
     </div>
@@ -103,18 +103,19 @@ include '../includes/header.php'
                 <h3>
                   Automated Document Processing and Knowledge Integration
                 </h3>
+                <br>
+                <h6 class="contact-text">Intelligent Document Training</h6>
 
                 <p>
-                  We developed an Intelligent Document Processing (IDP)
-                  application leveraging Natural Language Processing
-                  (NLP)<br /><br />This solution automatically trains on
-                  newly uploaded documents within SharePoint, understanding
-                  their content and context. It seamlessly integrates with
-                  the company’s internal knowledge base, processing policies
-                  and public documents uploaded to SharePoint folders.
-                  <br /><br />This integration ensures up-to-date
-                  information retrieval and management.
+                  We developed an Intelligent Document Processing (IDP) application leveraging Natural Language
+                  Processing (NLP). This solution automatically trains on newly uploaded documents within SharePoint,
+                  understanding their content and context. It seamlessly integrates with the company’s internal
+                  knowledge base, processing policies and public documents uploaded to SharePoint folders.
                 </p>
+                <br>
+                <h6 class="contact-text"> Seamless Integration</h6>
+                <p>This integration ensures up-to-date information retrieval and management, providing employees with
+                  the latest document updates and reducing the time spent searching for relevant information.</p>
               </div>
             </div>
           </div>
@@ -142,19 +143,20 @@ include '../includes/header.php'
             <div class="our-team-body-inner our-team-bio">
               <div class="our-team-bio">
                 <h3>Efficient Query Response System</h3>
+                <br>
+                <h6 class="contact-text">Instant, Accurate Responses</h6>
 
                 <p>
-                  Our IDP solution includes a robust query response system.
-                  Employees can now ask questions and receive instant,
-                  accurate responses based on the latest document
-                  updates.<br /><br />By utilizing trained data, the system
-                  minimizes the need for manual support, enhancing
-                  operational efficiency and reducing response time.<br /><br />Additionally,
-                  the system ensures compliance with updated document
-                  versions, maintaining accuracy and reliability across
-                  operations.
+                  Our IDP solution includes a robust query response system. Employees can now ask questions and receive
+                  instant, accurate responses based on the latest document updates. By utilizing trained data, the
+                  system minimizes the need for manual support, enhancing operational efficiency and reducing response
+                  time.
                 </p>
                 <br />
+                <h6 class="contact-text">Compliance and Reliability</h6>
+                <p>Additionally, the system ensures compliance with updated document versions, maintaining accuracy and
+                  reliability across operations. This approach enhances overall productivity and reduces the risk of
+                  outdated or incorrect information being used.</p>
               </div>
             </div>
           </div>
@@ -178,7 +180,7 @@ include '../includes/header.php'
         </div>
         <div class="right">
           <div class="img-box">
-            <img src="../assets/imgs/casestudy/cs5_tech_stack.png" alt="About" />
+            <img src="../assets/imgs/casestudy/techStack/idp.png" alt="About" />
           </div>
         </div>
       </div>
@@ -256,7 +258,7 @@ include '../includes/header.php'
           <div class="feature3-lists">
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/ProcessAutomation.php">Process Automation</a>
               </h3>
               <p>
@@ -266,7 +268,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/AIMLPage.php"> Generative AI & ML</a>
               </h3>
               <p>
@@ -276,7 +278,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/DataAnalytics.php">Data Analytics</a>
               </h3>
               <p>
@@ -286,7 +288,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3><a href="../services/Cloud.php">Cloud Solutions</a></h3>
+              <h3 class="contact-text"><a href="../services/Cloud.php">Cloud Solutions</a></h3>
               <p>
                 Enhance flexibility and scalability with our secure and
                 reliable cloud services.
@@ -373,7 +375,6 @@ include '../includes/header.php'
       </div>
     </div>
   </section>
-
 
   <!-- Footer -->
   <?php include '../includes/foot.php';  ?>

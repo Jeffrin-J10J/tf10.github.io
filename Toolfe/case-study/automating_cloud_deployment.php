@@ -30,7 +30,7 @@ include '../includes/header.php'
           </p>
         </div>
         <div class="img-box">
-          <img src="../assets/imgs/casestudy/cs1_hero.png" alt="Blog" />
+          <img src="../assets/imgs/casestudy/cloud_thumbnail_hero.png" alt="Blog" />
         </div>
       </div>
     </div>
@@ -192,7 +192,7 @@ include '../includes/header.php'
         </div>
         <div class="right">
           <div class="img-box">
-            <img src="../assets/imgs/casestudy/cs1_tech_stack.png" alt="About" />
+            <img src="../assets/imgs/casestudy/techStack/cloud.png" alt="About" />
           </div>
         </div>
       </div>
@@ -265,21 +265,21 @@ include '../includes/header.php'
           <div class="feature3-lists">
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/ProcessAutomation.php">Process Automation</a>
               </h3>
               <p>Automate complex processes to increase efficiency.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
-                <a href="../services/AIMLPage.php"> Generative AI & ML</a>
+              <h3 class="contact-text">
+                <a href=" ../services/AIMLPage.php"> Generative AI & ML</a>
               </h3>
               <p>Implement AI and ML technologies for innovation.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/UXUI.php">User Experience Design UI/UX</a>
               </h3>
               <p>
@@ -288,7 +288,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/MobileAppDevelopment.php">Mobile Development
                 </a>
               </h3>

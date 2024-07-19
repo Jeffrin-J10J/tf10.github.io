@@ -28,7 +28,7 @@ include '../includes/header.php'
           </p>
         </div>
         <div class="img-box">
-          <img src="../assets/imgs/casestudy/cs3_hero3.png" alt="Blog" />
+          <img src="../assets/imgs/casestudy/digital_thumbnail_hero.png" alt="Blog" />
         </div>
       </div>
     </div>
@@ -107,23 +107,23 @@ include '../includes/header.php'
             <div class="our-team-body-inner our-team-bio">
               <div class="our-team-bio">
                 <h3>Enhanced Digital Branding and Online Presence</h3>
-
+                <br>
+                <h6 class="contact-text">Modernizing Brand Identity</h6>
+                <p>Revamped the company’s identity with a modern logo, detailed brand guidelines, and digital assets.
+                  The new branding strategy aimed to resonate with the target audience and reflect the company's values
+                  effectively.</p>
+                <br>
+                <h6 class="contact-text">Responsive Website and SEO Integration</h6>
+                <p>Created a responsive website showcasing services, portfolios, and case studies, ensuring optimal user
+                  experience across devices. Integrated SEO strategies to enhance online visibility and attract organic
+                  traffic. Implemented user-friendly navigation and interactive elements to engage visitors and
+                  encourage conversions.</p>
+                <br>
+                <h6 class="contact-text">Analytics and Content Management</h6>
                 <p>
-                  Revamped the company’s identity with a modern logo,
-                  detailed brand guidelines, and digital assets. The new
-                  branding strategy aimed to resonate with the target
-                  audience and reflect the company's values effectively.
-                  <br /><br />Created a responsive website showcasing
-                  services, portfolios, and case studies, ensuring optimal
-                  user experience across devices. Integrated SEO strategies
-                  to enhance online visibility and attract organic traffic.
-                  Implemented user-friendly navigation and interactive
-                  elements to engage visitors and encourage conversions.
-                  <br /><br />
-                  Utilized analytics tools to monitor website performance
-                  and optimize content for improved search engine rankings.
-                  Deployed effective content management systems to
-                  streamline updates and maintain a dynamic online presence.
+                  Utilized analytics tools to monitor website performance and optimize content for improved search
+                  engine rankings. Deployed effective content management systems to streamline updates and maintain a
+                  dynamic online presence.
                 </p>
               </div>
             </div>
@@ -154,13 +154,20 @@ include '../includes/header.php'
                 <h3>
                   Streamlined Customer Interaction with Advanced Portal
                 </h3>
+                <br>
+                <h6 class="contact-text">Comprehensive Customer Portal Implementation</h6>
 
                 <p>
-                  Achieved through comprehensive digital branding,
-                  responsive website development, customer portal
-                  implementation, targeted digital campaigns, and automated
-                  invoice processing, optimizing operations and enhancing
-                  customer satisfaction.
+                  Developed an advanced customer portal to streamline client interactions, providing a centralized
+                  platform for communication, project updates, and document sharing. The portal improved client
+                  engagement and satisfaction by offering easy access to essential information.
+                </p>
+                <br>
+                <h6 class="contact-text">Optimized Operations with Digital Solutions</h6>
+                <p>Achieved operational efficiency through targeted digital campaigns and automated invoice processing.
+                  These solutions not only enhanced customer satisfaction but also reduced administrative burdens,
+                  allowing the company to scale its operations effectively.
+
                 </p>
               </div>
             </div>
@@ -185,7 +192,7 @@ include '../includes/header.php'
         </div>
         <div class="right">
           <div class="img-box">
-            <img src="../assets/imgs/casestudy/cs3_tech_stack.png" alt="About" />
+            <img src="../assets/imgs/casestudy/techStack/digital.png" alt="About" />
           </div>
         </div>
       </div>
@@ -373,7 +380,6 @@ include '../includes/header.php'
       </div>
     </div>
   </section>
-
 
   <!-- Footer -->
   <?php include '../includes/foot.php';  ?>

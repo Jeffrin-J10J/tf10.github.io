@@ -28,7 +28,7 @@ include '../includes/header.php'
           </p>
         </div>
         <div class="img-box">
-          <img src="../assets/imgs/casestudy/cs2_hero2.png" alt="Blog" />
+          <img src="../assets/imgs/casestudy/email_thumbnail_hero.png" alt="Blog" />
         </div>
       </div>
     </div>
@@ -102,18 +102,19 @@ include '../includes/header.php'
 
             <div class="our-team-body-inner our-team-bio">
               <div class="our-team-bio">
-                <h3>AI Model Development for Intelligent Email Management</h3>
+                <h3> AI Model Development for Intelligent Email Management</h3>
+                <br>
+                <h6 class="contact-text">Real-Time Content Interpretation</h6>
+                <p>Our team engineered a sophisticated AI model tailored for email management, proficient in real-time
+                  content interpretation. By training the model to identify and classify case-relevant keywords and
+                  contextual cues, we automated the initial triage process with precision.</p>
+                <br>
 
-                <p>
-                  Our team engineered a sophisticated AI model tailored for
-                  email management, proficient in real-time content
-                  interpretation. <br /><br />By training the model to identify
-                  and classify case-relevant keywords and contextual cues, we
-                  automated the initial triage process with precision.
-                  <br /><br />This approach not only expedited case assignment
-                  but also minimized manual intervention, ensuring swift and
-                  accurate decision-making.
-                </p>
+                <h6 class="contact-text">Minimizing Manual Intervention</h6>
+                <p>This approach not only expedited case assignment but also minimized manual intervention, ensuring
+                  swift and accurate decision-making. The model's precision in identifying key information enhanced the
+                  overall efficiency of email processing.</p>
+
               </div>
             </div>
           </div>
@@ -141,18 +142,18 @@ include '../includes/header.php'
             <div class="our-team-body-inner our-team-bio">
               <div class="our-team-bio">
                 <h3>Automated Response System Integration</h3>
+                <br>
+                <h6 class="contact-text">Seamless RPA Integration</h6>
+                <p>Integrating Robotic Process Automation (RPA), we designed a scalable solution to automate email
+                  responses seamlessly. Once our AI model identified case specifics, our RPA system autonomously
+                  generated and dispatched tailored responses to designated departments.</p>
 
-                <p>
-                  Integrating Robotic Process Automation (RPA), we designed a
-                  scalable solution to automate email responses seamlessly.
-                  <br /><br />Once our AI model identified case specifics, our
-                  RPA system autonomously generated and dispatched tailored
-                  responses to designated departments. <br /><br />This
-                  synchronized approach enhanced communication efficiency,
-                  reduced response times, and mitigated the risk of oversight,
-                  thereby optimizing operational throughput and client
-                  satisfaction.
-                </p>
+                <br>
+                <h6 class="contact-text">Enhancing Communication Efficiency</h6>
+                <br>
+                <p>This synchronized approach enhanced communication efficiency, reduced response times, and mitigated
+                  the risk of oversight, thereby optimizing operational throughput and client satisfaction. The
+                  automation of routine tasks allowed the department to focus on more critical activities.</p>
                 <br />
               </div>
             </div>
@@ -177,7 +178,7 @@ include '../includes/header.php'
         </div>
         <div class="right">
           <div class="img-box">
-            <img src="../assets/imgs/casestudy/cs2_tech_stack.png" alt="About" />
+            <img src="../assets/imgs/casestudy/techStack/email.png" alt="About" />
           </div>
         </div>
       </div>
@@ -246,7 +247,7 @@ include '../includes/header.php'
           <div class="feature3-lists">
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/ProcessAutomation.php">Process Automation</a>
               </h3>
               <p>
@@ -256,7 +257,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/AIMLPage.php"> Generative AI & ML</a>
               </h3>
               <p>
@@ -266,7 +267,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/DataAnalytics.php">Data Analytics</a>
               </h3>
               <p>
@@ -276,7 +277,7 @@ include '../includes/header.php'
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3><a href="../services/Cloud.php">Cloud Solutions</a></h3>
+              <h3 class="contact-text"><a href="../services/Cloud.php">Cloud Solutions</a></h3>
               <p>
                 Enhance flexibility and scalability with our secure and reliable
                 cloud services.

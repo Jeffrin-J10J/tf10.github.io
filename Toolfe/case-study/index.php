@@ -34,7 +34,7 @@ include '../includes/header.php'
     <div class="custom-container">
       <div class="sticky-news d-flex card-h1">
         <div class="news-img-box">
-          <img src="../assets/imgs/casestudy/cs_colud_thum.png" alt="Case studies" />
+          <img src="../assets/imgs/casestudy/cloud_thumbnail_index.png" alt="Case studies" />
         </div>
         <div class="news-content">
           <h5 class="section-subtitle">Cloud Deployment</h5>
@@ -61,7 +61,7 @@ include '../includes/header.php'
       <div class="news-items align-items-start">
         <div class="news-item card-h1">
           <div class="news-img-box">
-            <img src="../assets/imgs/casestudy/cs_email_thumb.png" alt="Case Studie" />
+            <img src="../assets/imgs/casestudy/email_thumbnail_index.png" alt="Case Studie" />
           </div>
           <div class="news-item-body">
             <h5 class="section-subtitle">Robotic Process Automation</h5>
@@ -86,7 +86,7 @@ include '../includes/header.php'
         </div>
         <div class="news-item card-h1">
           <div class="news-img-box">
-            <img src="../assets/imgs/casestudy/cs_digital_thumb.png" alt="Case Studie" />
+            <img src="../assets/imgs/casestudy/digital_thumbnail_index.png" alt="Case Studie" />
           </div>
           <div class="news-item-body">
             <h5 class="section-subtitle">Automation And Marketing</h5>
@@ -140,12 +140,12 @@ include '../includes/header.php'
         </div>
         <div class="news-item card-h1">
           <div class="news-img-box">
-            <img src="../assets/imgs/casestudy/cs_idp_thumb.png" alt="Case Studie" />
+            <img src="../assets/imgs/casestudy/idp_thumbanail_index.png" alt="Case Studie" />
           </div>
           <div class="news-item-body">
             <h5 class="section-subtitle">NLP/Ai</h5>
             <h1 class="section-title">
-              <a href="case-studie-single.php">Smart Document Processing for Knowledge Management</a>
+              <a href="./intelligent_document_processing.php">Smart Document Processing for Knowledge Management</a>
             </h1>
             <p>
               Our IDP solution leverages AI and NLP to automate document
@@ -158,7 +158,7 @@ include '../includes/header.php'
               <li><i class="las la-check"></i>Information Accuracy</li>
               <li><i class="las la-check"></i>Handling more documents</li>
             </ul>
-            <a href="case-studie-single.php" class="theme-btn">
+            <a href="./intelligent_document_processing.php" class="theme-btn">
               <i class="icon-right iconoir-arrow-up-right"></i>
             </a>
           </div>

@@ -112,7 +112,7 @@ include '../includes/header.php'
 
                     <div class="portfolio-card portfolio-card-1 card-h">
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/cloudbento/1.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/cloudbento/test.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
                             <h2>Scalability and <br>
@@ -147,7 +147,7 @@ include '../includes/header.php'
 
                         </div>
                         <div class="portfolio-img">
-                            <img src="../assets/imgs/services/cloudbento/3.png" alt="Portfolio" />
+                            <img src="../assets/imgs/services/cloudbento/tool.png" alt="Portfolio" />
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-1 card-h">

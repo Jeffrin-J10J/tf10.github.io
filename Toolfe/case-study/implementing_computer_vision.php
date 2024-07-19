@@ -105,17 +105,19 @@ include '../includes/header.php'
                 <h3>
                   Developing Advanced CV Models for Fruit Ripeness Detection
                 </h3>
+                <br>
+                <h6 class="contact-text">Tailoring CNNs for Accurate Analysis</h6>
 
                 <p>
-                  Employ advanced convolutional neural networks (CNNs) tailored
-                  for accurate fruit analysis.<br /><br />Train models to detect
-                  subtle color changes and texture cues indicating ripeness with
-                  a minimum accuracy target of 90%.Utilize deep learning
-                  techniques to enhance model performance and reliability.<br /><br />Optimize
-                  algorithms iteratively to ensure robustness across different
-                  environmental conditions. Validate models extensively using
-                  diverse datasets to ensure generalizability and accuracy.
+                  Employ advanced convolutional neural networks (CNNs) tailored specifically for precise fruit analysis.
+                  This ensures that even subtle color changes and texture cues indicating ripeness are accurately
+                  detected.
                 </p>
+                <br>
+                <h6 class="contact-text">Enhancing Performance with Deep Learning</h6>
+                <p>Utilize cutting-edge deep learning techniques to improve model performance and reliability. The
+                  models are trained to achieve a minimum accuracy target of 90%, ensuring robust detection across
+                  diverse environmental conditions.</p>
               </div>
             </div>
           </div>
@@ -146,18 +148,20 @@ include '../includes/header.php'
                   Integrating Real-Time Data Processing for Enhanced
                   Agricultural Insights
                 </h3>
+                <br>
+                <h6 class="contact-text"> Seamless Integration of Real-Time Data</h6>
 
                 <p>
-                  Establish robust pipelines for seamless integration of
-                  real-time fruit images into the system. Implement efficient
-                  data preprocessing techniques to enhance the speed and
-                  accuracy of image analysis.<br /><br />Automate data ingestion
-                  to enable immediate evaluation and decision-making based on
-                  current agricultural conditions. Ensure scalability of data
-                  processing capabilities to handle increasing volumes of fruit
-                  images.<br /><br />Integrate data validation mechanisms to
-                  ensure the reliability and consistency of real-time insights.
+                  Establish robust pipelines that seamlessly integrate real-time fruit images into the system. This
+                  enables immediate evaluation and decision-making based on the current agricultural conditions,
+                  improving overall efficiency.
                 </p>
+                <br>
+                <h6 class="contact-text">Efficient Data Processing and Validation</h6>
+                <p>Implement efficient data preprocessing techniques to enhance the speed and accuracy of image
+                  analysis. Ensure scalability to handle increasing volumes of fruit images and integrate data
+                  validation mechanisms to maintain reliability and consistency of insights.</p>
+
                 <br />
               </div>
             </div>
@@ -182,7 +186,7 @@ include '../includes/header.php'
         </div>
         <div class="">
           <div class="img-box">
-            <img src="../assets/imgs/casestudy/cs4_tech_stack.png" alt="About" />
+            <img src="../assets/imgs/casestudy/techStack/cv.png" alt="About" />
           </div>
         </div>
       </div>
