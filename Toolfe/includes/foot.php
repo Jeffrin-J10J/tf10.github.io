@@ -22,7 +22,20 @@
                               </div>
                           </div>
                       </form>
-
+                      <div class="footer-clients d-flex align-items-center">
+                                <div class="footer-client-img">
+                                    <img src="../assets/imgs/cio.svg" alt="webflow">
+                                </div>
+                                <div class="footer-client-img">
+                                    <img src="../assets/imgs/best.svg" alt="Youtube">
+                                </div>
+                                <div class="footer-client-img">
+                                    <img src="../assets/imgs/img2.svg" alt="upwork">
+                                </div>
+                                <div class="footer-client-img">
+                                    <img src="../assets/imgs/payment.svg" alt="shopify">
+                                </div>
+                            </div>
                   </div>
 
                   <div class="right-content">
@@ -30,20 +43,9 @@
                           <h2>Let’s get started on something great</h2>
                           <p>Our team of IT experts looks forward to meeting with you <br>
                               and providing valuable insights tailored to your business.</p>
-                              <div href="contact.html" class="theme-simple-btn">Get an appointment now
+                              <div href="contact.html" data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace="" class="theme-simple-btn">Get an appointment now
                               <!-- Cal element-click embed code begins -->
-                                <script type="text/javascript">
-                                (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
-                                Cal("init",  {origin:"https://cal.com"});
 
-                                
-                                // Important: Please add the following attributes to the element that should trigger the calendar to open upon clicking.
-                                // `data-cal-link="toolfe/revolutionize-your-business"`
-                                // data-cal-namespace=""
-                                // `data-cal-config='{"layout":"week_view"}'`
-
-                                Cal("ui", {"styles":{"branding":{"brandColor":"#FF4E00"}},"hideEventTypeDetails":false,"layout":"week_view"});
-                                </script>
                             <!-- Cal element-click embed code ends -->
                             </div>
                           <div class="footer-experience d-flex align-items-center">
@@ -162,3 +164,16 @@
           </div>
       </div>
   </footer>
+
+  <script type="text/javascript">
+                                (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+                                Cal("init",  {origin:"https://cal.com"});
+
+                                
+                                // Important: Please add the following attributes to the element that should trigger the calendar to open upon clicking.
+                                // `data-cal-link="toolfe/revolutionize-your-business"`
+                                // data-cal-namespace=""
+                                // `data-cal-config='{"layout":"week_view"}'`
+
+                                Cal("ui", {"styles":{"branding":{"brandColor":"#FF4E00"}},"hideEventTypeDetails":false,"layout":"week_view"});
+                                </script>

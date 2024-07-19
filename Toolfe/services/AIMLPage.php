@@ -316,26 +316,27 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-<div class="custom-container">
+    <div class="custom-container">
 <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>40%</h1>
-                <h3>Increased Efficiency</h3>
-                <p>Businesses leveraging AI can significantly boost productivity.</p>
+                <h1 class="mb-5">40%</h1>
+                <h3><br> Increased <br> Efficiency </h3>
+                <p>Businesses leveraging AI can significantly 
+                    boost productivity.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>30%</h1>
-                <h3>Effective Cost Savings</h3>
+                <h1 class="mb-5" >30%</h1>
+                <h3><br>Effective Cost <br> Savings</h3>
                 <p>Implementing AI and Automation can reduce operational costs.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>Fraud Detection</h3>
+                <h1 class="mb-5" >95%</h1>
+                <h3><br> Fraud <br> Detection</h3>
                 <p>AI-powered fraud detection systems can increase detection.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>50%</h1>
-                <h3>User Engagement</h3>
+                <h1 class="mb-5" >50%</h1>
+                <h3><br>User <br> Engagement</h3>
                 <p>AI enhancements in user interfaces can boost user engagement.</p>
             </div>
         </div>

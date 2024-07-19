@@ -319,24 +319,26 @@ include '../includes/header.php'
 <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
                 <h1 class="mb-5">30%</h1>
-                <h3>Time <br> Saving</h3>
-                <p>Automate repetitive tasks to save time and
-                     boosts productivity.</p>
+                <h3><br> Time <br> Saving </h3>
+                <p>Automating repetitive tasks saves time 
+                    and boosts productivity.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1 class="mb-5" >50%</h1>
-                <h3>Cost <br> Reduction</h3>
-                <p>Improved efficiency by reducing email processing time.</p>
+                <h3><br>Cost <br> Reduction</h3>
+                <p>Robotic Process Automation significantly 
+                    cuts operational costs.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1 class="mb-5" >95%</h1>
-                <h3>Error Reduction</h3>
-                <p>Minimize human errors with automated processes.</p>
+                <h1 class="mb-5" >30%</h1>
+                <h3><br>Automation<br>Activities</h3>
+                <p>Around 30% of routine activities in approximately 60% of jobs are automatable.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1 class="mb-5" >24/7</h1>
-                <h3>Operations</h3>
-                <p>Ensure round-the-clock productivity with automation.</p>
+                <h1 class="mb-5" >40%</h1>
+                <h3><br>Error <br> Reduction</h3>
+                <p>Automation can significantly reduce 
+                    human error in processes.</p>
             </div>
         </div>
 </div>

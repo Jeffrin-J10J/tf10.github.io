@@ -324,24 +324,28 @@ Informs decisions through sentiment and feedback analysis.</p>
 <div class="custom-container">
 <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>50%</h1>
-                <h3>Efficiency Boost</h3>
-                <p>Automate repetitive tasks to save time and resources.</p>
+                <h1>97%</h1>
+                <h3><br>Big Data <br> Investment</h3>
+                <p>Companies are investing in big data and Al to 
+                    drive innovation and growth</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>30%</h1>
-                <h3>Cost Reduction</h3>
-                <p>Improved efficiency by reducing email processing time.</p>
+                <h1>66%</h1>
+                <h3><br>Increased <br>revenue</h3>
+                <p>Executives report increased revenue as a 
+                    result of data analytics.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>Error Reduction</h3>
-                <p>Minimize human errors with automated processes.</p>
+                <h1>61%</h1>
+                <h3><br>Reduced cyber <br> risks</h3>
+                <p>Enhancing Cybersecurity Through Data-Driven 
+                    Threat Analysis.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>24/7</h1>
-                <h3>Operations</h3>
-                <p>Ensure round-the-clock productivity with automation.</p>
+                <h1>96%</h1>
+                <h3><br>Risk <br> Management</h3>
+                <p>Improved risk management through proactive data analysis 
+                    and forecasting.</p>
             </div>
         </div>
 </div>

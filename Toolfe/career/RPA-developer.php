@@ -26,54 +26,16 @@ include '../includes/header.php'
   </section>
 
   <!-- Service Section -->
-  <section class="news-area">
+
+  <section class="career-area">
     <div class="custom-container">
-      <div class="section-header d-flex align-items-start justify-content-between">
-        <div class="news-content">
-          <h1 class="section-title">RPA Developer</h1>
-          <div class="custom-container">
-            <div class="hero-service-about">
-              <div class="hero-service-about-body">
-                <ul>
-                  <li>
-                    <div class="how-we-do-card">
-                      <div class="how-we-do-icon">
-                        <h3 class="">1</h3>
-                      </div>
-                      <div class="how-we-do-content mt-4">
-                        <h4>Location</h4>
-                        <p class="content border-0">Chennai</p>
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="how-we-do-card">
-                      <div class="how-we-do-icon">
-                        <h3 class="">1</h3>
-                      </div>
-                      <div class="how-we-do-content mt-4">
-                        <h4>Experience</h4>
-                        <p class="content border-0">2-4 yrs</p>
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="how-we-do-card">
-                      <div class="how-we-do-icon">
-                        <h3 class="">1</h3>
-                      </div>
-                      <div class="how-we-do-content mt-4">
-                        <h4>Job Type</h4>
-                        <p class="content border-0">Full Time</p>
-                      </div>
-                    </div>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <br />
-          <div class="left">
+      <div class="d-flex justify-content-between align-items-center mb-5">
+        <h1 class="section-title">RPA Developer</h1>
+        <button id="#" class="theme-btn" style="background-color:#fff; color: #000;">Apply Now</button>
+      </div>
+      <div class="career-body d-flex g-2 p-0" style="background-color: #fff;">
+        <div class="career-lists ps-3 pe-5">
+      <div class="left">
             <h2>Job Overview</h2>
             <p style="color: #141414">
               Seeking an RPA Developer to design, develop, and implement automation solutions using RPA technologies. Must have a strong background in software development and process analysis, with experience in tools like UiPath, Blue Prism, or Automation Anywhere.
@@ -165,7 +127,49 @@ include '../includes/header.php'
             </ul>
           </div>
         </div>
-        <button id="#" class="theme-btn" style="background-color:#fff; color: #000;">Apply Now</button>
+        <div class="career-left border-0">
+        <ul class="mt-5">
+                  <li>
+                    <div class="how-we-do-card">
+                      <div class="how-we-do-icon">
+                        <div class="">
+                          <img src="../assets/imgs/location.svg" alt="" class="">
+                        </div>
+                      </div>
+                      <div class="how-we-do-content mt-4">
+                        <h4>Location</h4>
+                        <p class="content border-0">Chennai</p>
+                      </div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="how-we-do-card">
+                      <div class="how-we-do-icon">
+                      <div class="">
+                          <img src="../assets/imgs/experience.svg" alt="" class="">
+                        </div>
+                      </div>
+                      <div class="how-we-do-content mt-4">
+                        <h4>Experience</h4>
+                        <p class="content border-0">2-4 yrs</p>
+                      </div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="how-we-do-card">
+                      <div class="how-we-do-icon">
+                      <div class="">
+                          <img src="../assets/imgs/jobtitle.svg" alt="" class="">
+                        </div>
+                      </div>
+                      <div class="how-we-do-content mt-4">
+                        <h4>Job Type</h4>
+                        <p class="content border-0">Full Time</p>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+        </div>
       </div>
     </div>
   </section>
@@ -173,6 +177,7 @@ include '../includes/header.php'
   <!-- Footer -->
   <?php include '../includes/foot.php';  ?>
 </main>
+
 <?php
 include '../includes/footer.php'
 ?>

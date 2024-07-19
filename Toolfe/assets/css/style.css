@@ -3161,9 +3161,9 @@ img {
   position: absolute;
   background: linear-gradient(
     93deg,
-    #f877083a 4.1%,
-    #fb4a563a 59.93%,
-    #e620af3a 98.17%
+    #FEE9DC 4.1%,
+    #FEE4E5 59.93%,
+    #FCDFF0 98.17%
   );
   width: 53px;
   height: 53px;
@@ -6925,7 +6925,7 @@ img {
   font-size: 16px;
   padding: 8px 15px;
   width: 260px;
-  color: #ffffff;
+  color: #ffffff; 
 }
 .footer-area .footer-top .left-content .subscribe-box input::placeholder {
   color: rgb(217 217 217 / 55%);
