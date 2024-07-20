@@ -356,7 +356,7 @@ early optimizes resources and reduces costs.</p>
                 </div>
                 <div class="right">
                     <div class="img-box">
-                        <img src="../assets/imgs/services/UIUX.png" alt="About" />
+                        <img src="../assets/imgs/services/techstack/UIUX.png" alt="About" />
                     </div>
                 </div>
             </div>

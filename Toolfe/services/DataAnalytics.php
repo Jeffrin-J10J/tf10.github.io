@@ -366,7 +366,7 @@ Informs decisions through sentiment and feedback analysis.</p>
                 </div>
                 <div class="right">
                     <div class="img-box">
-                        <img src="../assets/imgs/services/data analytics.png" alt="About" />
+                        <img src="../assets/imgs/services/techstack/data_analytics.png" alt="About" />
                     </div>
                 </div>
             </div>
