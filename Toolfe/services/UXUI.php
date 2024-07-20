@@ -313,29 +313,33 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-
-        <div class="hero-company-boxes">
+<div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>75%</h1>
-                <h3>Improved User Engagement</h3>
-                <p>Increased user engagement through improved interface designs.</p>
+                <h1>30%</h1>
+                <h3><br> Positive User <br> Experience</h3>
+                <p>Improved user experience
+through UX design influence.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>90%</h1>
-                <h3>Conversion Rates</h3>
-                <p> The postive feedback received from users on redesigned interfaces.</p>
+                <h1>50%</h1>
+                <h3><br> Cost <br> savings</h3>
+                <p> Integrating UX design
+early optimizes resources and reduces costs.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>68%</h1>
-                <h3>Conversion Rates</h3>
-                <p>Boosted conversion rates by optimized user interfaces.</p>
+                <h1>200%</h1>
+                <h3><br> Boost Conversion Rates</h3>
+                <p>Good UI design can improve website conversion rates.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>98%</h1>
-                <h3>Customer Satisfaction</h3>
-                <p>Higher user satisfaction achieved with our intuitive designs.</p>
+                <h1>50%</h1>
+                <h3><br> Higher Retention Rate</h3>
+                <p>Well-designed interfaces significantly increase user retention rates.</p>
             </div>
         </div>
+</div>
+
 
     </section>
 

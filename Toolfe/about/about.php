@@ -492,7 +492,7 @@ include '../includes/header.php'
         </div>
         <h2>Need any further assitance?</h2>
         <p>Feel free to reach out for any inquiries or assistance.</p>
-        <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/" class="theme-simple-btn">Book an appointment now</a>
+        <div  data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace=""  class="theme-simple-btn">Book an appointment now</d>
       </div>
     </div>
   </section>

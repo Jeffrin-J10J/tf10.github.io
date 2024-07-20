@@ -332,13 +332,14 @@ include '../includes/header.php'
             <div class="hero-company-box simple-shadow">
                 <h1 class="mb-5" >30%</h1>
                 <h3><br>Automation<br>Activities</h3>
-                <p>Around 30% of routine activities in approximately 60% of jobs are automatable.</p>
+                <p>30% of activities in 60% of jobs 
+                    are <br> automatable</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1 class="mb-5" >40%</h1>
                 <h3><br>Error <br> Reduction</h3>
-                <p>Automation can significantly reduce 
-                    human error in processes.</p>
+                <p>Automation can significantly reduce
+                     error in processes.</p>
             </div>
         </div>
 </div>

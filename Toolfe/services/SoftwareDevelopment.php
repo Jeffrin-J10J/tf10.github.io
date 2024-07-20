@@ -309,24 +309,24 @@ include '../includes/header.php'
 <div class="custom-container">
 <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>50%</h1>
-                <h3>Efficiency Boost</h3>
-                <p>Automate repetitive tasks to save time and resources.</p>
+                <h1>84%</h1>
+                <h3><br> Enhanced <br> Experience</h3>
+                <p>Overall improved experience with thoughtful design and functionality.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>30%</h1>
-                <h3>Cost Reduction</h3>
-                <p>Improved efficiency by reducing email processing time.</p>
+                <h1>88%</h1>
+                <h3><br> Positive <br> Brand Image</h3>
+                <p>Enhanced brand image with a modern, user- friendly web application.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>Error Reduction</h3>
-                <p>Minimize human errors with automated processes.</p>
+                <h1>85%</h1>
+                <h3><br> Improved Responsiveness</h3>
+                <p>Enhanced responsiveness of the web application across all devices and platforms.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>24/7</h1>
-                <h3>Operations</h3>
-                <p>Ensure round-the-clock productivity with automation.</p>
+                <h1>92%</h1>
+                <h3><br> Higher <br> Conversion Rates</h3>
+                <p>Improved rates with optimized user journeys in the web app.</p>
             </div>
         </div>
 </div>

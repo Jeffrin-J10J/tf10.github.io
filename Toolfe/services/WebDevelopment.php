@@ -331,29 +331,34 @@ include '../includes/header.php'
     <!-- stats -->
     <section class="our-team-area">
 
-
-        <div class="hero-company-boxes">
+    <div class="custom-container">
+<div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>99%</h1>
-                <h3>User Satisfaction</h3>
-                <p>Improved user experience with seamless website navigation and design.</p>
+                <h1 class="mb-5">92%</h1>
+                <h3><br>  Web<br>  Impression </h3>
+                <p>Automating repetitive tasks saves time 
+                    and boosts productivity.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>85%</h1>
-                <h3>Increased Traffic</h3>
-                <p>Enhanced SEO strategies leading to higher website visitor counts.</p>
+                <h1 class="mb-5" >87%</h1>
+                <h3><br> Intuitive<br>  Design</h3>
+                <p>Businesses consider a well-designed website crucial
+for brand perception and customer trust.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>90%</h1>
-                <h3>Faster Load Times</h3>
-                <p>Optimized website performance with efficient coding and server management.</p>
+                <h1 class="mb-5" >76%</h1>
+                <h3><br>Automation<br>Activities</h3>
+                <p>30% of activities in 60% of jobs 
+                    are <br> automatable</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>75%</h1>
-                <h3>Conversion Rate Boost</h3>
-                <p>Effective call-to-action strategies leading to higher conversion rates.</p>
+                <h1 class="mb-5" >40%</h1>
+                <h3><br>Error <br> Reduction</h3>
+                <p>Automation can significantly reduce
+                     error in processes.</p>
             </div>
         </div>
+</div>
 
     </section>
 
