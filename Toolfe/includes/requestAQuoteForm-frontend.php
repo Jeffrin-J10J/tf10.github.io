@@ -112,7 +112,7 @@
             <div class="input-row field">
                 <div class="input-group">
                     <label for="message">Message</label>
-                    <textarea name="message" id="message" placeholder="Leave us a message...."></textarea>
+                    <textarea name="message" id="alert-message" placeholder="Leave us a message...."></textarea>
                 </div>
             </div>
             <div class="input-row field">
