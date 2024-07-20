@@ -19,12 +19,12 @@
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->
                             <h1>
-                                We sincerely appreciate Toolfe for outstanding digital
+                                "We sincerely appreciate Toolfe for outstanding digital
                                 transformation services. Their skilled professionals
                                 provided exceptional solutions that helped optimize our
                                 business processes and enhance our digital presence. Their
                                 data analytics and automation expertise significantly
-                                improved our productivity.
+                                improved our productivity.""
                             </h1>
                             <div class="author-box d-flex align-items-center">
                                 <!-- <img src="assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
@@ -45,12 +45,12 @@
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->
                             <h1>
-                                Toolfe deserves our utmost gratitude for their exceptional
+                                "Toolfe deserves our utmost gratitude for their exceptional
                                 service in developing our e-commerce site and setting up
                                 our company. Their professionalism and remarkable
                                 understanding of our needs were second to none. If you are
                                 looking for top-notch services, Toolfe is undoubtedly the
-                                go-to solution for you.
+                                go-to solution for you."
                             </h1>
                             <div class="author-box d-flex align-items-center">
                                 <!-- <img src="assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
@@ -71,12 +71,12 @@
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->
                             <h1>
-                                We sincerely appreciate Toolfe for outstanding digital
+                               " We sincerely appreciate Toolfe for outstanding digital
                                 transformation services. Their skilled professionals
                                 provided exceptional solutions that helped optimize our
                                 business processes and enhance our digital presence. Their
                                 data analytics and automation expertise significantly
-                                improved our productivity.
+                                improved our productivity."
                             </h1>
                             <div class="author-box d-flex align-items-center">
                                 <!-- <img src="assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
