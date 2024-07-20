@@ -468,7 +468,7 @@ include '../includes/header.php'
                 <h1 class="section-title">
                   Leading Digital Transformation with Toolfe.
                 </h1>
-                <p>Contact us today to begin your journey</p>
+                <p>Don't get left behind. Partner with us for expert guidance & digital strategies to transform your bank for lasting success. Future-proof your financial institution for the digital age.</p>
               </div>
             </div>
 
@@ -848,7 +848,7 @@ include '../includes/header.php'
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/MarketResearch.php">Market Research
+                                  <h3 class="contact-text"><a href="../services/MarketResearch.php">Market Research
                                   </a></h3>
                                   <p> Gain insights to make informed strategic decisions.
                                   </p>
@@ -863,7 +863,7 @@ include '../includes/header.php'
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">

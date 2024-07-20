@@ -486,13 +486,7 @@ include '../includes/header.php'
             <img src="../assets/imgs/industry/lt7.png" alt="Service About" />
             <div class="hero-service-about-body">
               <p>
-                At Toolfe, we pride ourselves on being a dynamic force of
-                top-tier talent, innovative thinkers, and industry experts. Our
-                dedicated team brings a wealth of experience and a passion for
-                excellence to every project. We are committed to delivering
-                superior quality and impeccable craftsmanship from concept to
-                execution, ensuring your business achieves its full potential
-                without compromise.
+              At Toolfe, we bring together top talent and forward-thinking experts to transform logistics with innovative IT solutions. Our dedicated team ensures exceptional quality and efficiency, optimizing your logistics operations from start to finish.
               </p>
               <ul>
                 <li><i class="las la-check"></i> Industry Expertise</li>
@@ -835,23 +829,23 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                                  <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Automate workflows to enhance productivity.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Drive innovation with AI and ML technologies.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/MarketResearch.php">Market Research</a></h3>
+                                  <h3 class="contact-text"><a href="../services/MarketResearch.php">Market Research</a></h3>
                                   <p>Gain valuable market insights to make informed business decisions.
                                   </p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/UXUI.php">User Experience Design UI/UX
+                                  <h3 class="contact-text"><a href="../services/UXUI.php">User Experience Design UI/UX
                                   </a></h3>
                                   <p> Improve user satisfaction with our expert UI/UX design services.
                                   </p>
@@ -866,7 +860,7 @@ include '../includes/header.php'
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px;">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">

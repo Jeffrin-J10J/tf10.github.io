@@ -454,17 +454,14 @@ include '../includes/header.php'
                 <h1 class="section-title">
                   Why Choose Toolfe for Education IT?
                 </h1>
-                <p>Contact us today to begin your journey</p>
+                <p>Our team experts understands the unique challenges faced by the education sector. We are committed to providing innovation and reliable IT solutions that address these challenges effectively.</p>
               </div>
             </div>
 
             <img src="../assets/imgs/industry/edu7.png" alt="Service About" />
             <div class="hero-service-about-body">
               <p>
-                Our team of experts understands the unique challenges faced by
-                the education sector. We are committed to providing innovative
-                and reliable IT solutions that address these challenges
-                effectively.
+                At Toolfe, we provide customized, scalable IT solutions that enhance learning and ensure data security . Our cost-effective, user-friendly Technology keeps your institution ahead of the curve, with reliable ongoing support. Partner with us for innovation and tailored solutions in education. 
               </p>
               <ul>
                 <li><i class="las la-check"></i> Educational Expertise</li>
@@ -809,24 +806,24 @@ include '../includes/header.php'
                       <div class="right flex-1">
                           <div class="feature3-lists">
                               <div class="feature-box">
-                                  <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                                  <i class="icon-box las la-check "></i>
+                                  <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Automate complex processes to increase efficiency.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Implement AI and ML technologies for innovation.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/MobileAppDevelopment.php">Mobile Development</a></h3>
+                                  <h3 class="contact-text"><a href="../services/MobileAppDevelopment.php">Mobile Development</a></h3>
                                   <p>Develop high-quality mobile apps to engage your audience on the go.
                                   </p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/DataAnalytics.php">Data Analytics
+                                  <h3 class="contact-text"><a href="../services/DataAnalytics.php">Data Analytics
                                   </a></h3>
                                   <p>Analyze data for actionable business insights.
                                   </p>
@@ -841,7 +838,7 @@ include '../includes/header.php'
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px;">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">

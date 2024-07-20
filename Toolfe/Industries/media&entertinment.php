@@ -461,17 +461,17 @@ include '../includes/header.php'
               <div class="left">
                 <h5 class="section-subtitle">WHY CHOOSE US</h5>
                 <h1 class="section-title">Why Choose Toolfe for Media?</h1>
-                <p>Contact us today to begin your journey</p>
+                <p>COur team of experts understands the unique challenges faced by
+                the media and entertainment industry. We are committed to
+                providing innovative and reliable IT solutions that address
+                these challenges effectively.Here's why you should partner with us:</p>
               </div>
             </div>
 
             <img src="../assets/imgs/industry/me7.png" alt="Service About" />
             <div class="hero-service-about-body">
               <p>
-                Our team of experts understands the unique challenges faced by
-                the media and entertainment industry. We are committed to
-                providing innovative and reliable IT solutions that address
-                these challenges effectively.
+                At Toolfe, we harness the expertise of top professionals and innovative minds to drive advancements in media technology. Our team is dedicated to devlivering cutting-edge solutions and exceptional quality, ensuring your media projects achieve unmatched performance and impact from concept through execution.  
               </p>
               <ul>
                 <li><i class="las la-check"></i> Industry Savvy</li>
@@ -826,22 +826,22 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                                  <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Increase efficiency with our automation solutions.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Implement AI and ML solutions to stay ahead in the market.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/UXUI.php">User Experience Design UI/UX</a></h3>
+                                  <h3 class="contact-text"><a href="../services/UXUI.php">User Experience Design UI/UX</a></h3>
                                   <p>Design intuitive and user-friendly interfaces to enhance the user experience.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/SoftwareDevelopment.php">Software Development
+                                  <h3 class="contact-text"><a href="../services/SoftwareDevelopment.php">Software Development
                                   </a></h3>
                                   <p> Build custom software solutions to address your unique business challenges.
                                   </p>
@@ -858,7 +858,7 @@ include '../includes/header.php'
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px;">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">

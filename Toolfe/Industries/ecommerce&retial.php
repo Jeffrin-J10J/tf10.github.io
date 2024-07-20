@@ -485,17 +485,14 @@ include '../includes/header.php'
                 <h1 class="section-title">
                   Why Choose Toolfe for Your E-commerce IT Needs?
                 </h1>
-                <p>Contact us today to begin your journey</p>
+                <p>Supercharge your e-commerce success with our expert team and custom IT solutions. We keep your online store running flawlessly, so you can focus on what matters most - growing your business.</p>
               </div>
             </div>
 
             <img src="../assets/imgs/industry/ecom7.png" alt="Service About" />
             <div class="hero-service-about-body">
               <p>
-                Our team of experts understands the unique challenges faced by
-                the retail industry. We are committed to providing innovative
-                and reliable IT solutions that address these challenges
-                effectively.
+              Our team of experts understands the unique challenges faced by the retail industry. We are committed to providing innovative and reliable IT solutions that address these challenges effectively. We handle the tech headaches – inventory, payments, customer experience – so you can focus on growth and keep your customers happy.
               </p>
               <ul>
                 <li><i class="las la-check"></i> Industry Expertise</li>
@@ -839,23 +836,23 @@ Intelligent                 </button>
                     <div class="feature3-lists">
                         <div class="feature-box">
                             <i class="icon-box las la-check"></i>
-                            <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                            <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                             <p>Automate complex processes to increase efficiency.</p>
                         </div>
                         <div class="feature-box">
                             <i class="icon-box las la-check"></i>
-                            <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                            <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                             <p>Implement AI and ML technologies for innovation.</p>
                         </div>
                         <div class="feature-box">
                             <i class="icon-box las la-check"></i>
-                            <h3><a href="../services/UXUI.php">User Experience Design UI/UX</a></h3>
+                            <h3 class="contact-text"><a href="../services/UXUI.php">User Experience Design UI/UX</a></h3>
                             <p>Develop and Enhance user interaction with our UI/UX designs.
                             </p>
                         </div>
                         <div class="feature-box">
                             <i class="icon-box las la-check"></i>
-                            <h3><a href="../services/MobileAppDevelopment.php">Mobile Development
+                            <h3 class="contact-text"><a href="../services/MobileAppDevelopment.php">Mobile Development
                             </a></h3>
                             <p>Build intuitive and user-friendly mobile applications.
                             </p>
@@ -870,7 +867,7 @@ Intelligent                 </button>
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap"style="margin-top: 100px">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">

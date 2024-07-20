@@ -237,7 +237,7 @@ include '../includes/header.php'
                 <h1 class="section-title">
                   Choose Toolfe for Your Real Estate Tech Solutions
                 </h1>
-                <p>Contact us today to begin your journey</p>
+                <p>Our team of experts understands the unique challenges faced by the real estate industry. We are committed to providing innovative and reliable IT solutions that address these challenges effectively. Here's why you should partner with us</p>
               </div>
             </div>
 
@@ -598,22 +598,22 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                                  <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Automate complex processes to increase efficiency and accuracy.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Utilize advanced AI and ML technologies to innovate and excel.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/SoftwareDevelopment.php">Software development</a></h3>
+                                  <h3 class="contact-text"><a href="../services/SoftwareDevelopment.php">Software development</a></h3>
                                   <p>Develop robust and scalable web applications tailored to your business requirements.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/WebDevelopment.php">Website Development
+                                  <h3 class="contact-text"><a href="../services/WebDevelopment.php">Website Development
                                   </a></h3>
                                   <p> Create stunning and functional websites that engage your audience and drive conversions.
                                   </p>
@@ -628,7 +628,7 @@ include '../includes/header.php'
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px;">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">
