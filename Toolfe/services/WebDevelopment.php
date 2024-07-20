@@ -374,53 +374,8 @@ for brand perception and customer trust.</p>
                         Effortlessly manage your site with our seamless features.</p>
                 </div>
                 <div class="right">
-                    <div class="partners-list-wrap">
-
-                        <div class="partners-list-inner">
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo7.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo8.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo9.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo10.svg" alt="Client" />
-                            </div>
-                        </div>
-
-                        <div class="partners-list-inner">
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo11.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo2.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo12.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo13.svg" alt="Client" />
-                            </div>
-                        </div>
-
-                        <div class="partners-list-inner">
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo14.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/upwork.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo15.svg" alt="Client" />
-                            </div>
-                            <div class="partner-box">
-                                <img src="../../assets/imgs/client-logo16.svg" alt="Client" />
-                            </div>
-                        </div>
-
+                    <div class="img-box">
+                        <img src="../assets/imgs/services/techstack/website_dev.png" alt="About" />
                     </div>
                 </div>
             </div>

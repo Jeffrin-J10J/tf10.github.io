@@ -361,7 +361,7 @@
 </header>
 
     <!-- Hero Section -->
-    <section class="hero-empowerment-area">
+    <section class="hero-empowerment-area" style="background-image: url('./assets/imgs/section.png');">
       <div class="custom-container">
         <div class="custom-row align-items-center mt-5">
           <div class="hero-empowerment-left-content">
@@ -373,11 +373,10 @@
             From AI-driven insights to automated processes, we enhance efficiency and empower businesses to excel in a digital-first world.
             </p>
             <div class="btns-group d-flex">
-              <a href="./contact/index.php" class="theme-btn"> Discover More</a>
-              <a href="./contact/index.php" class="theme-btn2">Let's Connect
-
+              <a href="#services" class="theme-btn"> Discover More</a>
+              <div  data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace="" class="theme-btn2">Let's Connect
                 <i class="iconoir-arrow-up-right"></i>
-              </a>
+              </div>
             </div>
           </div>
 
@@ -734,7 +733,7 @@
       </div>
     </section>
     <!-- Case Studio -->
-    <section class="case-studio-area">
+    <section class="case-studio-area" id="services">
       <div class="custom-container">
         <div class="case-studio-header text-center">
           <h5 class="section-subtitle">Benefits</h5>
@@ -1346,7 +1345,8 @@
     </section>
 
     <!-- Footer -->
-    <footer class="footer-area">
+  <!-- Footer -->
+  <footer class="footer-area">
       <img src="./assets/imgs/bg-shape-4.svg" alt="Shape" class="animation-slide-right bg-shape" />
       <div class="footer-top">
           <div class="custom-container">
@@ -1369,7 +1369,20 @@
                               </div>
                           </div>
                       </form>
-
+                      <div class="footer-clients d-flex align-items-center">
+                                <div class="footer-client-img">
+                                    <img src="./assets/imgs/cio.svg" alt="webflow">
+                                </div>
+                                <div class="footer-client-img">
+                                    <img src="./assets/imgs/best.svg" alt="Youtube">
+                                </div>
+                                <div class="footer-client-img">
+                                    <img src="./assets/imgs/img2.svg" alt="upwork">
+                                </div>
+                                <div class="footer-client-img">
+                                    <img src="./assets/imgs/payment.svg" alt="shopify">
+                                </div>
+                            </div>
                   </div>
 
                   <div class="right-content">
@@ -1377,8 +1390,11 @@
                           <h2>Let’s get started on something great</h2>
                           <p>Our team of IT experts looks forward to meeting with you <br>
                               and providing valuable insights tailored to your business.</p>
-                          <a href="contact.php" class="theme-simple-btn" style="">Get an appointment now</a>
+                              <div  data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace="" class="theme-simple-btn">Get an appointment now
+                              <!-- Cal element-click embed code begins -->
 
+                            <!-- Cal element-click embed code ends -->
+                            </div>
                           <div class="footer-experience d-flex align-items-center">
 
                               <div class="footer-experience-item">
@@ -1408,29 +1424,29 @@
                       <div class="footer-links">
                           <h3>Industries</h3>
                           <ul>
-                              <li><a href="Industries/healthcare.php">Healthcare</a></li>
-                              <li><a href="Industries/finance&banking.php">Finance and Banking</a></li>
-                              <li><a href="Industries/ecommerce&retial.php">E-Commerce</a></li>
-                              <li><a href="Industries/education.php">Education<span class="new">Automate</span></a></li>
-                              <li><a href="Industries/realestate.php">Real Estate</a></li>
-                              <li><a href="Industries/Manufacturing.php">Manufacturing</a></li>
-                              <li><a href="Industries/media&entertinment.php">Media and Entertinment</a></li>
-                              <li><a href="Industries/logistics-transportation.php">Logistics</a></li>
-                              <li><a href="Industries/telecommunication.php">Telecommunications</a></li>
-                              <li><a href="Industries/energy&utilities.php">Energy and Utilities</a></li>
+                              <li><a href="../Industries/healthcare.php">Healthcare</a></li>
+                              <li><a href="../Industries/finance&banking.php">Finance and Banking</a></li>
+                              <li><a href="../Industries/ecommerce&retial.php">E-Commerce</a></li>
+                              <li><a href="../Industries/education.php">Education<span class="new">Automate</span></a></li>
+                              <li><a href="../Industries/realestate.php">Real Estate</a></li>
+                              <li><a href="../Industries/Manufacturing.php">Manufacturing</a></li>
+                              <li><a href="../Industries/media&entertinment.php">Media and Entertinment</a></li>
+                              <li><a href="../Industries/logistics-transportation.php">Logistics</a></li>
+                              <li><a href="../Industries/telecommunication.php">Telecommunications</a></li>
+                              <li><a href="../Industries/energy&utilities.php">Energy and Utilities</a></li>
                           </ul>
                       </div>
                       <div class="footer-links">
                           <h3>Services</h3>
                           <ul>
-                              <li><a href="services/ProcessAutomation.php">Process Automation</a></li>
-                              <li><a href="services/AIMLPage.php">Generative AI & ML</a></li>
-                              <li><a href="services/DataAnalytics.php">Data Analytics</a></li>
-                              <li><a href="services/MarketResearch.php">Market Research</a></li>
-                              <li><a href="services/Cloud.php">Cloud Solutions</a></li>
-                              <li><a href="services/SoftwareDevelopment.php">Web Application Development</a></li>
-                              <li><a href="services/WebDevelopment.php">Website Development</a></li>
-                              <li><a href="services/UXUI.php">User Experience Design UX/UI</a></li>
+                              <li><a href="../services/ProcessAutomation.php">Process Automation</a></li>
+                              <li><a href="../services/AIMLPage.php">Generative AI & ML</a></li>
+                              <li><a href="../services/DataAnalytics.php">Data Analytics</a></li>
+                              <li><a href="../services/MarketResearch.php">Market Research</a></li>
+                              <li><a href="../services/Cloud.php">Cloud Solutions</a></li>
+                              <li><a href="../services/SoftwareDevelopment.php">Web Application Development</a></li>
+                              <li><a href="../services/WebDevelopment.php">Website Development</a></li>
+                              <li><a href="../services/UXUI.php">User Experience Design UX/UI</a></li>
                               <li><a href="https://hourspark.com/">15 Hour Spark Tasks</a></li>
                           </ul>
                       </div>
@@ -1495,6 +1511,19 @@
           </div>
       </div>
   </footer>
+
+  <script type="text/javascript">
+                                (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+                                Cal("init",  {origin:"https://cal.com"});
+
+                                
+                                // Important: Please add the following attributes to the element that should trigger the calendar to open upon clicking.
+                                // `data-cal-link="toolfe/revolutionize-your-business"`
+                                // data-cal-namespace=""
+                                // `data-cal-config='{"layout":"week_view"}'`
+
+                                Cal("ui", {"styles":{"branding":{"brandColor":"#FF4E00"}},"hideEventTypeDetails":false,"layout":"week_view"});
+                                </script>
   </main>
 
   <!-- jQuery Frameworks

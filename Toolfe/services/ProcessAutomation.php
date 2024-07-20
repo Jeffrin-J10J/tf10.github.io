@@ -359,7 +359,7 @@ include '../includes/header.php'
                 </div>
                 <div class="right">
                     <div class="img-box">
-                        <img src="../assets/imgs/services/Process automation.png" alt="About" />
+                        <img src="../assets/imgs/services/techstack/Process_automation.png" alt="About" />
                     </div>
                 </div>
             </div>
