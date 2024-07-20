@@ -444,7 +444,7 @@
     </section>
 
     <!-- Service Area -->
-    <section class="service-area">
+    <section class="service-area" >
       <div class="custom-container">
         <div class="service-section-header section-header d-flex align-items-end justify-content-between">
           <div class="left">
@@ -733,7 +733,7 @@
       </div>
     </section>
     <!-- Case Studio -->
-    <section class="case-studio-area" id="services">
+    <section class="case-studio-area">
       <div class="custom-container">
         <div class="case-studio-header text-center">
           <h5 class="section-subtitle">Benefits</h5>
@@ -1021,11 +1021,6 @@
           <div class="testimonial-slider swiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide testimonial-item">
-                <div class="left">
-                  <h5 class="section-subtitle" style="margin-bottom: 20px">
-                    testimonial
-                  </h5>
-                </div>
                 <div class="testimonial-item-body">
                   <img class="animation-slide-right bg-shape" src="./assets/imgs/bg-shape-3.svg" alt="Shape" />
                   <!-- <span class="platform-name">
@@ -1049,11 +1044,6 @@
                 </div>
               </div>
               <div class="swiper-slide testimonial-item">
-                <div class="left">
-                  <h5 class="section-subtitle" style="margin-bottom: 20px">
-                    testimonial
-                  </h5>
-                </div>
                 <div class="testimonial-item-body" style="margin-bottom: 35px">
                   <img class="animation-slide-right bg-shape" src="./assets/imgs/bg-shape-3.svg" alt="Shape" />
                   <!-- <span class="platform-name">
@@ -1077,11 +1067,6 @@
                 </div>
               </div>
               <div class="swiper-slide testimonial-item">
-                <div class="left">
-                  <h5 class="section-subtitle" style="margin-bottom: 20px">
-                    testimonial
-                  </h5>
-                </div>
                 <div class="testimonial-item-body">
                   <img class="animation-slide-right bg-shape" src="./assets/imgs/bg-shape-3.svg" alt="Shape" />
                   <!-- <span class="platform-name">
