@@ -43,7 +43,7 @@
                           <h2>Let’s get started on something great</h2>
                           <p>Our team of IT experts looks forward to meeting with you <br>
                               and providing valuable insights tailored to your business.</p>
-                              <div href="contact.html" data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace="" class="theme-simple-btn">Get an appointment now
+                              <div  data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace="" class="theme-simple-btn">Get an appointment now
                               <!-- Cal element-click embed code begins -->
 
                             <!-- Cal element-click embed code ends -->
