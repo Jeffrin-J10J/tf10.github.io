@@ -819,7 +819,7 @@ include '../includes/header.php'
             </section>
 
             <section class="feature3-area">
-              <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" />
+              <!-- <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" /> -->
               <div class="custom-container">
                   <div class="custom-row align-items-center">
                       <div class="section-header">
@@ -832,17 +832,17 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                                  <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Automate complex processes to increase efficiency.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Implement AI and ML technologies for innovation.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/MobileAppDevelopment.php">Mobile Development</a></h3>
+                                  <h3 class="contact-text"><a href="../services/MobileAppDevelopment.php">Mobile Development</a></h3>
                                   <p>Develop high-quality mobile apps to engage your audience on the go.
                                   </p>
                               </div>

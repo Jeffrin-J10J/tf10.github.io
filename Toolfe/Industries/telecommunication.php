@@ -827,7 +827,7 @@ include '../includes/header.php'
 
 
             <section class="feature3-area">
-              <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" />
+              <!-- <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" /> -->
               <div class="custom-container">
                   <div class="custom-row align-items-center">
                       <div class="section-header">
@@ -840,22 +840,22 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                                  <h3 class="contact-text"><a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Streamline operations with advanced automation techniques to boost efficiency and reduce manual work.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Leverage AI and machine learning to create innovative solutions tailored to your specific needs.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/DataAnalytics.php">Data Analytics</a></h3>
+                                  <h3 class="contact-text"><a href="../services/DataAnalytics.php">Data Analytics</a></h3>
                                   <p>Transform data into actionable insights with our comprehensive analytics services.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/Cloud.php">Cloud Solutions</a></h3>
+                                  <h3 class="contact-text"><a href="../services/Cloud.php">Cloud Solutions</a></h3>
                                   <p>Enhance flexibility and scalability with our secure and reliable cloud services.
                                   </p>
                               </div>
@@ -869,7 +869,7 @@ include '../includes/header.php'
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">

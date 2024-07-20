@@ -816,7 +816,7 @@ include '../includes/header.php'
             </section>
 
             <section class="feature3-area">
-              <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" />
+              <!-- <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" /> -->
               <div class="custom-container">
                   <div class="custom-row align-items-center">
                       <div class="section-header">
