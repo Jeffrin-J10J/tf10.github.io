@@ -357,7 +357,7 @@ include '../includes/header.php'
                 </div>
                 <div class="right">
                     <div class="img-box">
-                        <img src="../assets/imgs/services/Market research.png" alt="About" />
+                        <img src="../assets/imgs/services/techstack/Market_research.png" alt="About" />
                     </div>
                 </div>
             </div>

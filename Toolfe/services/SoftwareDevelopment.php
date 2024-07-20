@@ -15,7 +15,7 @@ include '../includes/header.php'
             <div class="custom-container">
                 <div class="hero-section-content text-center">
                     <h5 class="section-subtitle">Software Strategy, Design Mastery, Development Success</h5>
-                    <h1 class="section-title fade-in">Software development</h1>
+                    <h1 class="section-title fade-in">Web application</h1>
                     <p>We offer full-stack web development services, utilizing the latest technologies and best practices to build responsive, scalable, and secure websites.</p>
                     <a href="#" class="theme-btn2">
                         Let’s talk to our team
@@ -346,7 +346,7 @@ include '../includes/header.php'
                 </div>
                 <div class="right">
                     <div class="img-box">
-                        <img src="../assets/imgs/services/software dev techstack.png" alt="About" />
+                        <img src="../assets/imgs/services/techstack/webapp_dev.png" alt="About" />
                     </div>
                 </div>
             </div>

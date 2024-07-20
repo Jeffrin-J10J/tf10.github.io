@@ -368,7 +368,7 @@ include '../includes/header.php'
 
                 <div class="right">
                     <div class="img-box">
-                        <img src="../assets/imgs/services/cloud.png" alt="About" />
+                        <img src="../assets/imgs/services/techstack/cloud.png" alt="About" />
                     </div>
 
                 </div>
