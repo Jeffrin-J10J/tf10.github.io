@@ -521,7 +521,7 @@
           </div>
           <div class="service-card simple-shadow">
             <img src="assets/imgs/Home/ourSolution/solution_icon7.svg" alt="Service Icon" class="service-icon" />
-            <h3><a href="services/WebDevelopment.php"> Website Development </a></h3>
+            <h3><a href="services/WebDevelopment.php"> Website <br>Development </a></h3>
             <p>
               Develop stunning, high-performance websites that captivate your
               audience and drive engagement.
@@ -1104,7 +1104,7 @@
       </div>
     </section>
 
-    <!-- News -->
+    <!-- Blogs -->
     <section class="news2-area">
       <div class="custom-container">
         <div class="section-header d-flex align-items-center justify-content-between">
@@ -1131,8 +1131,8 @@
                 <span class="date">Jun 24, 2024</span>
                 <span class="category">#AWS</span>
               </div>
-              <h2><span>How to Connect to an EC2 Instance Without Errors: A Step-by-Step Guide(For
-                  Linux and MacOS)</span></h2>
+              <h2><span> <a href="https://blog.toolfe.com/index.php/2024/06/24/how-to-connect-to-an-ec2-instance-without-errors-a-step-by-step-guidefor-linux-and-macos/">How to Connect to an EC2 Instance Without Errors: A Step-by-Step Guide(For
+                  Linux and MacOS)</a></span></h2>
               <p>Learn to connect flawlessly to EC2 instances on Linux and macOS with this straightforward guide.</p>
               <a href="https://blog.toolfe.com/index.php/2024/06/24/how-to-connect-to-an-ec2-instance-without-errors-a-step-by-step-guidefor-linux-and-macos/"
                 class="theme-btn">
@@ -1147,8 +1147,8 @@
                 <span class="date">May 22, 2024</span>
                 <span class="category">#Blockchain Technology</span>
               </div>
-              <h2><span href="blog-details.php">Essential Blockchain Testing Techniques: Ensuring Integrity and Security
-                  in Networks</span></h2>
+              <h2><span href="blog-details.php"> <a href="https://blog.toolfe.com/index.php/2024/05/22/essential-blockchain-testing-techniques-ensuring-integrity-and-security-in-networks/">Essential Blockchain Testing Techniques: Ensuring Integrity and Security
+                  in Networks</a></span></h2>
               <p>Blockchain testing is crucial to ensure that networks are secure and data integrity is maintained.</p>
               <a href="https://blog.toolfe.com/index.php/2024/05/22/essential-blockchain-testing-techniques-ensuring-integrity-and-security-in-networks/"
                 class="theme-btn">
@@ -1164,7 +1164,7 @@
                 <span class="date">May 15, 2024</span>
                 <span class="category">#UX Research</span>
               </div>
-              <h2><span>Best ux research methods and when to use them</span></h2>
+              <h2><span>  <a href="https://blog.toolfe.com/index.php/2024/05/15/best-ux-research-methods-and-when-to-use-them/">Best UX research methods and when to use them</a></span></h2>
               <p>Discover effective UX research methods like interviews and usability tests to enhance product
                 understanding and usability.</p>
               <a href="https://blog.toolfe.com/index.php/2024/05/15/best-ux-research-methods-and-when-to-use-them/"
@@ -1188,8 +1188,8 @@
           </div>
           <h2>Need any further assitance?</h2>
           <p>Feel free to reach out for any inquiries or assistance.</p>
-          <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
-            class="theme-simple-btn">Book an appointment now</a>
+          <div  data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace="" class="theme-simple-btn">Let's Connect
+
         </div>
       </div>
     </section>

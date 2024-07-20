@@ -10,7 +10,7 @@ include '../includes/header.php'
       <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" />
       <div class="custom-container">
         <div class="hero-portfolio-body">
-          <div class="hero-section-content text-center">
+          <div class="hero-section-content text-center" style="margin-top:100px;">
             <h5 class="section-subtitle">Career</h5>
             <h1 class="section-title fade-in">Join Our Innovative Team</h1>
             <p>Discover Exciting Career Opportunities</p>
@@ -247,16 +247,11 @@ include '../includes/header.php'
               <div class="testimonial-item-body">
                 <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
 
-                <h1>"Toolfe automation service has transformed our business operations, simplifying
-                  processes, and eliminating manual tasks. The service has significantly boosted
-                  our productivity and accuracy, allowing us to focus on more important aspects of
-                  our business. I would highly recommend their automation service to any business
-                  looking to increase efficiency."</h1>
-                <!-- <p>Toolfe automation service has transformed our business operations, simplifying processes, and eliminating manual tasks. The service has significantly boosted our productivity and accuracy, allowing us to focus on more important aspects of our business. I would highly recommend their automation service to any business looking to increase efficiency.</p> -->
+                <h1>"As a tester at Toolfe, I've found a supportive environment where my contributions truly matter. Our commitment to quality is evident in every project, and I've grown professionally through challenging yet rewarding experiences. I confidently endorse our products knowing they meet rigorous standards and reflect our dedication to excellence."</h1>
                 <div class="author-box d-flex align-items-center">
                   <div class="author-box-content">
-                    <h4>Vijay Kumar</h4>
-                    <p>CEO, OMAN</p>
+                    <h4>Monisha Manojkumar</h4>
+                    <p>Software Tester</p>
                   </div>
                 </div>
               </div>
@@ -265,16 +260,13 @@ include '../includes/header.php'
               <div class="testimonial-item-body">
                 <img class="bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
 
-                <h1>"Toolfe deserves our utmost gratitude for their exceptional service in
-                  developing our e-commerce site and setting up our company. Their professionalism
-                  and remarkable understanding of our needs were second to none. If you are
-                  looking for top-notch services, Toolfe is undoubtedly the go-to solution for
-                  you."</h1>
+                <h1>"My experience at Toolfe as a UX/UI Designer has been incredibly enriching. I've had the chance to develop user-friendly designs in a team-oriented environment that prioritizes user needs. The support from my colleagues has been instrumental in fostering creativity and delivering exceptional solutions.
+                  "</h1>
 
                 <div class="author-box d-flex align-items-center">
                   <div class="author-box-content">
-                    <h4>PRADEEP</h4>
-                    <p>MD, CHENNAI</p>
+                    <h4>Anisha MS</h4>
+                    <p>UI/UX Designers</p>
                   </div>
                 </div>
               </div>
@@ -282,15 +274,12 @@ include '../includes/header.php'
             <div class="swiper-slide testimonial-item">
               <div class="testimonial-item-body">
                 <img class="bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
-                <h1>"We sincerely appreciate Toolfe for outstanding digital transformation services.
-                  Their skilled professionals provided exceptional solutions that helped optimize
-                  our business processes and enhance our digital presence. Their data analytics
-                  and automation expertise significantly improved our productivity."</h1>
+                <h1>"Working as a full stack developer at Toolfe has been enriching. The company's commitment to innovation pushes me to expand my skills and explore new technologies. The supportive culture encourages collaboration and knowledge sharing. I've grown professionally, thanks to the mentorship and opportunities provided here. I'm privileged to contribute to a team that values personal growth and exceptional results."</h1>
 
                 <div class="author-box d-flex align-items-center">
                   <div class="author-box-content">
-                    <h4>JUSTIN</h4>
-                    <p>OWNER, CHENNAI</p>
+                    <h4>Dhanush</h4>
+                    <p>Full Stack Developer</p>
                   </div>
                 </div>
               </div>
@@ -312,10 +301,14 @@ include '../includes/header.php'
     <div class="custom-container">
       <div class="cta-body text-center">
         <img src="../assets/imgs/bg-shape-11.svg" alt="Shape" class="animation-slide-left bg-shape" />
+        <div class="our-expert-team-box">
+          <div class="our-expert-team-box-inner d-flex align-items-center">
 
-        <h2>Need any further assitance?</h2>
-        <p>Feel free to reach out for any inquiries or assistance.</p>
-        <a href="mailto:hr@toolfe.com" class="theme-btn">Book an appointment now</a>
+          </div>
+        </div>
+        <h2>Join Our Team and Shape the Future</h2>
+        <p>Advance your career with us today.</p>
+        <a href="mailto:hr@toolfe.com" class="theme-btn">Apply Now</a>
       </div>
     </div>
   </section>

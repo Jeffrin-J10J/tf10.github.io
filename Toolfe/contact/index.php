@@ -6,16 +6,16 @@ include '../includes/header.php'
 <main class="main-page service-details-page portfolio-details-page">
   <?php include '../includes/head.php' ?>
   <section class="hero-service-wrap hero-section-wrap hero-career-wrap hero-our-field-wrap">
-    <div class="hero-section-content-wrap">
+    <div class="hero-section-content-wrap" >
       <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" />
       <div class="custom-container">
         <div class="hero-portfolio-body">
-          <div class="hero-section-content text-center">
+          <div class="hero-section-content text-center" style="margin-top:100px;">
             <h5 class="section-subtitle">Contact us</h5>
             <h2 class="section-title fade-in">
               Your Vision + Our Expertise = Success!
             </h2>
-
+<br>
             <p>
               Let's build something amazing together. </p>
 
@@ -26,7 +26,7 @@ include '../includes/header.php'
   </section>
 
   <!-- Contact -->
-  <section class="contact-area">
+  <section class="contact-area" >
     <div class="custom-container">
       <div class="custom-row">
         <div class="contact-form-wrap">
@@ -190,7 +190,7 @@ include '../includes/header.php'
                   </button>
                 </h5>
 
-                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
                   <div class="card-body">
                     Toolfe specializes in AI/ML, RPA, Automation, and Digital Services. We provide customized solutions
                     to enhance efficiency, scalability, and innovation for businesses across various industries with our
@@ -250,7 +250,7 @@ include '../includes/header.php'
                   </button>
                 </h5>
 
-                <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordion2">
+                <div id="collapseFour" class="collapse " aria-labelledby="headingFour" data-parent="#accordion2">
                   <div class="card-body">
                     We adhere to industry best practices and employ a rigorous quality assurance process. Our team of
                     experts continuously monitors project progress and outcomes to ensure we deliver top-quality
@@ -350,8 +350,8 @@ include '../includes/header.php'
             success. Contact us today to learn more.
           </p>
         </div>
-        <a href="https://outlook.office365.com/owa/calendar/RevolutionizeYourBusinesswithToolfe@toolfe.com/bookings/"
-          class="theme-btn">Book an appointment now</a>
+        <div  data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace="" class="theme-btn">Let's Connect
+
       </div>
     </div>
   </section>

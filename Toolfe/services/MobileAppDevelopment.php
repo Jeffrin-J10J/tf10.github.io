@@ -18,8 +18,8 @@ include '../includes/header.php'
                     <h5 class="section-subtitle">Strategy Redefined, Design Excellence, Solution Development</h5>
                     <h1 class="section-title fade-in">Mobile App Development</h1>
                     <p>We're experts at creating tailored apps that perfectly fit your business needs.</p>
-                    <a href="#" class="theme-btn2">
-                        Let’s talk to our team
+                    <a href="#contact-us" class="theme-btn2">
+                        Let’s talk 
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
                 </div>
@@ -158,8 +158,7 @@ include '../includes/header.php'
                             <img src="../assets/imgs/services/Mobileappbento/5.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
-                            <h2>Wearable Device <br>
-                                Compatibility</a></h2>
+                            <h2>Wearable Sync</h2>
                             <p>Our apps work smoothly across various wearable devices..</p>
 
                         </div>
@@ -265,10 +264,10 @@ include '../includes/header.php'
                             <div class="line-shape"></div>
 
                             <div class="how-we-do-icon">
-                                <h3 class="">4</h3>
+                                <h3 class="">5</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Testing</h4>
+                                <h4>Deployment</h4>
                             </div>
                         </div>
 
@@ -277,10 +276,10 @@ include '../includes/header.php'
                             <div class="line-shape"></div>
 
                             <div class="how-we-do-icon">
-                                <h3 class="">5</h3>
+                                <h3 class="">4</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Deployment</h4>
+                                <h4>Testing</h4>
                                 <p></p>
                             </div>
                         </div>
@@ -587,7 +586,7 @@ include '../includes/header.php'
 
 
     <!-- Hero -->
-    <section class="hero-section-wrap hero-home2">
+    <section class="hero-section-wrap hero-home2" id="contact-us">
 
 
 

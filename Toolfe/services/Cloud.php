@@ -18,8 +18,8 @@ include '../includes/header.php'
                     <h1 class="section-title fade-in">Cloud &
                         On-Premises</h1>
                     <p>Explore our Cloud & On-premises IT Services, offering scalable cloud solutions and tailored on-premises infrastructure, backed by expertise and support.</p>
-                    <a href="#" class="theme-btn2">
-                        Let’s talk to our team
+                    <a href="#contact-us" class="theme-btn2">
+                        Let’s talk
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
                 </div>
@@ -277,24 +277,26 @@ include '../includes/header.php'
                             <div class="line-shape"></div>
 
                             <div class="how-we-do-icon">
-                                <h3 class="">4</h3>
+                                <h3 class="">5</h3>
                             </div>
                             <div class="how-we-do-content">
                                 <h4>Drawing conclusions</h4>
+
+
                             </div>
                         </div>
 
                         <div class="how-we-do-card">
                             <div class="circle-shape"></div>
                             <div class="line-shape"></div>
-
                             <div class="how-we-do-icon">
-                                <h3 class="">5</h3>
+                                <h3 class="">4</h3>
                             </div>
                             <div class="how-we-do-content">
                                 <h4>Analyzing information</h4>
-                                <p></p>
                             </div>
+
+
                         </div>
                     </div>
 
@@ -322,33 +324,33 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-<div class="custom-container">
-<div class="hero-company-boxes">
-            <div class="hero-company-box simple-shadow">
-                <h1>70%</h1>
-                <h3> <br> Enhanced Data <br>Security</h3>
-                <p>Securing data with cloud solutions for
-                     cyber threat protection.</p>
+        <div class="custom-container">
+            <div class="hero-company-boxes">
+                <div class="hero-company-box simple-shadow">
+                    <h1>70%</h1>
+                    <h3> <br> Enhanced Data <br>Security</h3>
+                    <p>Securing data with cloud solutions for
+                        cyber threat protection.</p>
+                </div>
+                <div class="hero-company-box simple-shadow">
+                    <h1>25%</h1>
+                    <h3> <br>Enhanced <br> productivity</h3>
+                    <p>Boosts productivity through
+                        remote collaboration</p>
+                </div>
+                <div class="hero-company-box simple-shadow">
+                    <h1>75%</h1>
+                    <h3> <br> Cost <br>savings</h3>
+                    <p>Cloud migration saves costs by leveraging
+                        scalable infrastructure.</p>
+                </div>
+                <div class="hero-company-box simple-shadow">
+                    <h1>55%</h1>
+                    <h3><br> Data storage <br> efficiency</h3>
+                    <p>Cloud adoption significantly enhances
+                        data storage efficiency.</p>
+                </div>
             </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>25%</h1>
-                <h3> <br>Enhanced <br> productivity</h3>
-                <p>Boosts productivity through 
-                    remote collaboration</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>75%</h1>
-                <h3> <br> Cost <br>savings</h3>
-                <p>Cloud migration saves costs by leveraging 
-                    scalable infrastructure.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>55%</h1>
-                <h3><br> Data storage <br> efficiency</h3>
-                <p>Cloud adoption significantly enhances 
-                    data storage efficiency.</p>
-            </div>
-        </div>
 
 
     </section>
@@ -454,7 +456,7 @@ include '../includes/header.php'
 
     <br><br><br><br><br><br>
     <!-- Hero -->
-    <section class="hero-section-wrap hero-home2">
+    <section class="hero-section-wrap hero-home2" id="contact-us">
 
         <div class="custom-container">
 

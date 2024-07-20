@@ -17,9 +17,10 @@ include '../includes/header.php'
                     <h5 class="section-subtitle">Design, Experience, Innovation</h5>
                     <h1 class="section-title fade-in">UXUI &
                         Graphics</h1>
-                    <p>Creating immersive digital experiences, our services ensure seamless interactions with innovative technology and industry-leading practices.</p>
-                    <a href="#" class="theme-btn2">
-                        Let’s talk to our team
+                    <p>Creating immersive digital experiences, our services ensure seamless interactions with innovative
+                        technology and industry-leading practices.</p>
+                    <a href="#contact-us" class="theme-btn2">
+                        Let’s talk
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
                 </div>
@@ -27,8 +28,6 @@ include '../includes/header.php'
         </div>
 
     </section>
-
-
 
     <section class="news2-area about2-area">
         <div class="custom-container">
@@ -38,39 +37,47 @@ include '../includes/header.php'
                     <div class="left">
                         <h5 class="section-subtitle">What we do</h5>
                         <h1 class="section-title">UXUI Design</h1>
-                        <p style="max-width: 100%;">Explore our UX/UI web services, where we craft, design, and maintain websites with seamless experiences, intuitive interfaces, and captivating designs across all platforms.</p>
+                        <p style="max-width: 100%;">Explore our UX/UI web services, where we craft, design, and maintain
+                            websites with seamless experiences, intuitive interfaces, and captivating designs across all
+                            platforms.</p>
                     </div>
                 </div>
 
                 <ul class="nav nav-tabs about2-tabs" role="tablist">
                     <li class="nav-item">
-                        <button class="nav-link" id="business_strategy-tab" href="#business_strategy" role="tab" aria-controls="business_strategy">
+                        <button class="nav-link" id="business_strategy-tab" href="#business_strategy" role="tab"
+                            aria-controls="business_strategy">
                             <span class="icon">1</span> User Research and Analysis
 
                         </button>
                     </li>
                     <li class="nav-item">
-                        <button class="nav-link" id="market_analysis-tab" href="#market_analysis" role="tab" aria-controls="market_analysis" aria-selected="false">
+                        <button class="nav-link" id="market_analysis-tab" href="#market_analysis" role="tab"
+                            aria-controls="market_analysis" aria-selected="false">
                             <span class="icon">2</span> UI Design
                         </button>
                     </li>
                     <li class="nav-item">
-                        <button class="nav-link" id="process_optimation-tab" href="#process_optimation" role="tab" aria-controls="process_optimation" aria-selected="false">
+                        <button class="nav-link" id="process_optimation-tab" href="#process_optimation" role="tab"
+                            aria-controls="process_optimation" aria-selected="false">
                             <span class="icon">3</span> Responsive Design
                         </button>
                     </li>
                     <li class="nav-item">
-                        <button class="nav-link" id="performance_improvement-tab" href="#performance_improvement" role="tab" aria-controls="performance_improvement" aria-selected="false">
+                        <button class="nav-link" id="performance_improvement-tab" href="#performance_improvement"
+                            role="tab" aria-controls="performance_improvement" aria-selected="false">
                             <span class="icon">4</span> Information Architecture (IA)
                         </button>
                     </li>
                     <li class="nav-item">
-                        <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance" role="tab" aria-controls="entrepreneurial_guidance" aria-selected="false">
+                        <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance"
+                            role="tab" aria-controls="entrepreneurial_guidance" aria-selected="false">
                             <span class="icon">5</span> Wireframing and Prototyping
                         </button>
                     </li>
                     <li class="nav-item">
-                        <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance" role="tab" aria-controls="entrepreneurial_guidance" aria-selected="false">
+                        <button class="nav-link" id="entrepreneurial_guidance-tab" href="#entrepreneurial_guidance"
+                            role="tab" aria-controls="entrepreneurial_guidance" aria-selected="false">
                             <span class="icon">6</span> Usability Testing
                         </button>
                     </li>
@@ -79,8 +86,6 @@ include '../includes/header.php'
             </div>
         </div>
     </section>
-
-
 
     <!-- Portfolio -->
     <section class="portoflio-area">
@@ -92,7 +97,8 @@ include '../includes/header.php'
                     <h1 class="section-title">Creative UIUX <br>Solutions</h1>
                 </div>
 
-                <p>Explore our UX/UI web services, where we craft, design, and maintain websites with seamless experiences, intuitive interfaces, and captivating designs across all platforms.</p>
+                <p>Explore our UX/UI web services, where we craft, design, and maintain websites with seamless
+                    experiences, intuitive interfaces, and captivating designs across all platforms.</p>
             </div>
 
             <div class="portfolio-lists d-flex w-full gap-24">
@@ -206,8 +212,6 @@ include '../includes/header.php'
         </div>
     </section>
 
-
-
     <!-- How We Do -->
     <section class="how-we-do-area">
         <div class="custom-container" style="margin-top: 100px;">
@@ -270,10 +274,10 @@ include '../includes/header.php'
                             <div class="line-shape"></div>
 
                             <div class="how-we-do-icon">
-                                <h3 class="">4</h3>
+                                <h3 class="">5</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Prototyping</h4>
+                                <h4>UI Design</h4>
                             </div>
                         </div>
 
@@ -281,10 +285,10 @@ include '../includes/header.php'
                             <div class="circle-shape"></div>
                             <div class="line-shape"></div>
                             <div class="how-we-do-icon">
-                                <h3 class="">5</h3>
+                                <h3 class="">4</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>UI Design</h4>
+                                <h4>Prototyping</h4>
                                 <p></p>
                             </div>
                         </div>
@@ -313,36 +317,34 @@ include '../includes/header.php'
 
     <section class="our-team-area">
 
-<div class="custom-container">
-<div class="hero-company-boxes">
-            <div class="hero-company-box simple-shadow">
-                <h1>30%</h1>
-                <h3><br> Positive User <br> Experience</h3>
-                <p>Improved user experience
-through UX design influence.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>50%</h1>
-                <h3><br> Cost <br> savings</h3>
-                <p> Integrating UX design
-early optimizes resources and reduces costs.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>200%</h1>
-                <h3><br> Boost Conversion Rates</h3>
-                <p>Good UI design can improve website conversion rates.</p>
-            </div>
-            <div class="hero-company-box simple-shadow">
-                <h1>50%</h1>
-                <h3><br> Higher Retention Rate</h3>
-                <p>Well-designed interfaces significantly increase user retention rates.</p>
+        <div class="custom-container">
+            <div class="hero-company-boxes">
+                <div class="hero-company-box simple-shadow">
+                    <h1>30%</h1>
+                    <h3><br> Positive User <br> Experience</h3>
+                    <p>Improved user experience
+                        through UX design influence.</p>
+                </div>
+                <div class="hero-company-box simple-shadow">
+                    <h1>50%</h1>
+                    <h3><br> Cost <br> savings</h3>
+                    <p> Integrating UX design
+                        early optimizes resources and reduces costs.</p>
+                </div>
+                <div class="hero-company-box simple-shadow">
+                    <h1>200%</h1>
+                    <h3><br> Boost Conversion Rates</h3>
+                    <p>Good UI design can improve website conversion rates.</p>
+                </div>
+                <div class="hero-company-box simple-shadow">
+                    <h1>50%</h1>
+                    <h3><br> Higher Retention Rate</h3>
+                    <p>Well-designed interfaces significantly increase user retention rates.</p>
+                </div>
             </div>
         </div>
-</div>
-
 
     </section>
-
 
     <!-- Partners -->
     <section class="partner-area">
@@ -351,8 +353,10 @@ early optimizes resources and reduces costs.</p>
                 <div class="partner-left-content">
                     <h5 class="section-subtitle">Expertise</h5>
                     <h1 class="section-title">Our Expertise in the Latest Technologies</h1>
-                    <p>Utilizing the latest technologies, we create intuitive and captivating interfaces that engage your
-                        audience like never before, redefining your digital presence and propelling your business forward.</p>
+                    <p>Utilizing the latest technologies, we create intuitive and captivating interfaces that engage
+                        your
+                        audience like never before, redefining your digital presence and propelling your business
+                        forward.</p>
                 </div>
                 <div class="right">
                     <div class="img-box">
@@ -362,8 +366,6 @@ early optimizes resources and reduces costs.</p>
             </div>
         </div>
     </section>
-
-
 
     <!-- blogs -->
     <section class="news2-area">
@@ -392,9 +394,12 @@ early optimizes resources and reduces costs.</p>
                             <span class="date">Jun 24, 2024</span>
                             <a href="blog-details.php" class="category">#AWS</a>
                         </div>
-                        <h2><a href="blog-details.php">How to Connect to an EC2 Instance Without Errors: A Step-by-Step Guide(For Linux and MacOS)</a></h2>
-                        <p>Learn to connect flawlessly to EC2 instances on Linux and macOS with this straightforward guide.</p>
-                        <a href="https://blog.toolfe.com/index.php/2024/06/24/how-to-connect-to-an-ec2-instance-without-errors-a-step-by-step-guidefor-linux-and-macos/" class="theme-btn">
+                        <h2><a href="blog-details.php">How to Connect to an EC2 Instance Without Errors: A Step-by-Step
+                                Guide(For Linux and MacOS)</a></h2>
+                        <p>Learn to connect flawlessly to EC2 instances on Linux and macOS with this straightforward
+                            guide.</p>
+                        <a href="https://blog.toolfe.com/index.php/2024/06/24/how-to-connect-to-an-ec2-instance-without-errors-a-step-by-step-guidefor-linux-and-macos/"
+                            class="theme-btn">
                             <i class="iconoir-arrow-up-right"></i>
                         </a>
                     </div>
@@ -406,9 +411,12 @@ early optimizes resources and reduces costs.</p>
                             <span class="date">May 22, 2024</span>
                             <a href="" class="category">#Blockchain Technology</a>
                         </div>
-                        <h2><a href="blog-details.php">Essential Blockchain Testing Techniques: Ensuring Integrity and Security in Networks</a></h2>
-                        <p>Blockchain testing is crucial to ensure that networks are secure and data integrity is maintained.</p>
-                        <a href="https://blog.toolfe.com/index.php/2024/05/22/essential-blockchain-testing-techniques-ensuring-integrity-and-security-in-networks/" class="theme-btn">
+                        <h2><a href="blog-details.php">Essential Blockchain Testing Techniques: Ensuring Integrity and
+                                Security in Networks</a></h2>
+                        <p>Blockchain testing is crucial to ensure that networks are secure and data integrity is
+                            maintained.</p>
+                        <a href="https://blog.toolfe.com/index.php/2024/05/22/essential-blockchain-testing-techniques-ensuring-integrity-and-security-in-networks/"
+                            class="theme-btn">
                             <i class="iconoir-arrow-up-right"></i>
                         </a>
                     </div>
@@ -418,23 +426,22 @@ early optimizes resources and reduces costs.</p>
 
                     <div class="news2-card-body">
                         <div class="meta">
-                            <span class="date">May 15,  2024</span>
+                            <span class="date">May 15, 2024</span>
                             <a href="blog-details.php" class="category">#UX Research</a>
                         </div>
                         <h2><a href="blog-details.php">Best ux research methods and when to use them</a></h2>
-                        <p>Discover effective UX research methods like interviews and usability tests to enhance product understanding and usability.</p>
-                        <a href="https://blog.toolfe.com/index.php/2024/05/15/best-ux-research-methods-and-when-to-use-them/" class="theme-btn">
+                        <p>Discover effective UX research methods like interviews and usability tests to enhance product
+                            understanding and usability.</p>
+                        <a href="https://blog.toolfe.com/index.php/2024/05/15/best-ux-research-methods-and-when-to-use-them/"
+                            class="theme-btn">
                             <i class="iconoir-arrow-up-right"></i>
                         </a>
                     </div>
                 </div>
             </div>
 
-
         </div>
     </section>
-
-
 
     <!-- Testimonial Section -->
     <?php include '../includes/testimonials.php' ?>
@@ -452,66 +459,66 @@ early optimizes resources and reduces costs.</p>
                         <div id="accordion">
                             <div class="faq-box">
                                 <h5 class="card-header" id="headingOne">
-                                    <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
+                                        aria-controls="collapseOne">
                                         <div class="icon">
-                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+
                                         </div> What is UX/UI design?
-
-
-
-
-
 
                                     </button>
                                 </h5>
 
-                                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                                <div id="collapseOne" class="collapse" aria-labelledby="headingOne"
+                                    data-parent="#accordion">
                                     <div class="card-body">
-                                        UX (User Experience) design focuses on the overall feel of the user experience, while UI (User Interface) design deals with the specific look and interactive elements of the product.
+                                        UX (User Experience) design focuses on the overall feel of the user experience,
+                                        while UI (User Interface) design deals with the specific look and interactive
+                                        elements of the product.
                                     </div>
                                 </div>
                             </div>
                             <div class="faq-box">
                                 <h5 class="card-header" id="headingTwo">
-                                    <button data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                        aria-expanded="false" aria-controls="collapseTwo">
                                         <div class="icon">
-                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+
                                         </div> Why is UX/UI design important for my business?
-
-
-
-
-
-
 
                                     </button>
                                 </h5>
 
-                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                    data-parent="#accordion">
                                     <div class="card-body">
-                                        Good UX/UI design enhances user satisfaction, increases engagement, and can significantly boost conversion rates, leading to better business outcomes.
+                                        Good UX/UI design enhances user satisfaction, increases engagement, and can
+                                        significantly boost conversion rates, leading to better business outcomes.
                                     </div>
                                 </div>
                             </div>
                             <div class="faq-box">
                                 <h5 class="card-header" id="headingThree">
-                                    <button data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                        aria-expanded="false" aria-controls="collapseThree">
                                         <div class="icon">
-                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+
                                         </div> What does the UX/UI design process involve?
-
-
-
-
-
-
 
                                     </button>
                                 </h5>
 
-                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                    data-parent="#accordion">
                                     <div class="card-body">
-                                        The process typically includes research, wireframing, prototyping, user testing, and iterative design based on feedback to ensure the final product meets user needs and expectations.
+                                        The process typically includes research, wireframing, prototyping, user testing,
+                                        and iterative design based on feedback to ensure the final product meets user
+                                        needs and expectations.
                                     </div>
                                 </div>
                             </div>
@@ -521,67 +528,64 @@ early optimizes resources and reduces costs.</p>
                         <div id="accordion2">
                             <div class="faq-box">
                                 <h5 class="card-header" id="headingFour">
-                                    <button data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                        aria-expanded="true" aria-controls="collapseFour">
                                         <div class="icon">
-                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+
                                         </div> How do you track UI/UX trends?
-
-
-
-
-
-
 
                                     </button>
                                 </h5>
 
-                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion2">
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                                    data-parent="#accordion2">
                                     <div class="card-body">
-                                        Stay connected through online communities, blogs, conferences, and continuous learning platforms like courses and workshops.
+                                        Stay connected through online communities, blogs, conferences, and continuous
+                                        learning platforms like courses and workshops.
                                     </div>
                                 </div>
                             </div>
                             <div class="faq-box">
                                 <h5 class="card-header" id="headingFive">
-                                    <button data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                                        aria-expanded="false" aria-controls="collapseFive">
                                         <div class="icon">
-                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
-                                        </div> How do you ensure your designs meet our needs?
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
 
-
-
-
-
-
-
+                                        </div> How do your designs meet our needs?
                                     </button>
                                 </h5>
 
-                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion2">
+                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                                    data-parent="#accordion2">
                                     <div class="card-body">
-                                        We start with a thorough discovery phase to understand your business goals and user needs. We involve stakeholders throughout the process and use iterative testing to refine designs.
+                                        We start with a thorough discovery phase to understand your business goals and
+                                        user needs. We involve stakeholders throughout the process and use iterative
+                                        testing to refine designs.
                                     </div>
                                 </div>
                             </div>
                             <div class="faq-box">
                                 <h5 class="card-header" id="headingSix">
-                                    <button data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                                        aria-expanded="false" aria-controls="collapseSix">
                                         <div class="icon">
-                                            <img src="../../assets/imgs/question-icon.svg" alt="Icon" />
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+
                                         </div> Can you redesign an existing app or website?
-
-
-
-
-
-
 
                                     </button>
                                 </h5>
 
-                                <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion2">
+                                <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                                    data-parent="#accordion2">
                                     <div class="card-body">
-                                        Yes, we can analyze your current product, identify areas for improvement, and provide a complete redesign to enhance user experience and interface.
+                                        Yes, we can analyze your current product, identify areas for improvement, and
+                                        provide a complete redesign to enhance user experience and interface.
                                     </div>
                                 </div>
                             </div>
@@ -589,17 +593,12 @@ early optimizes resources and reduces costs.</p>
                     </div>
                 </div>
 
-
             </div>
         </div>
     </section>
 
-
     <!-- Hero -->
-    <section class="hero-section-wrap hero-home2">
-
-
-
+    <section class="hero-section-wrap hero-home2" id="contact-us">
 
         <div class="custom-container">
 
@@ -627,7 +626,8 @@ early optimizes resources and reduces costs.</p>
                     </div>
 
                     <div class="hero-contact-form">
-                        <form action="https://wpriverthemes.com/HTML/synck/../assets/mail/contact2.php" method="POST" class="contact-form d-flex">
+                        <form action="https://wpriverthemes.com/HTML/synck/../assets/mail/contact2.php" method="POST"
+                            class="contact-form d-flex">
                             <div class="input-main-row">
                                 <div class="input-row">
                                     <div class="input-group">
@@ -664,7 +664,8 @@ early optimizes resources and reduces costs.</p>
                                                 <label for="saas">Healthcare</label>
                                             </div>
                                             <div class="radio-box">
-                                                <input type="radio" id="banking" name="choice_company" value="Banking" />
+                                                <input type="radio" id="banking" name="choice_company"
+                                                    value="Banking" />
                                                 <label for="banking">Banking</label>
                                             </div>
                                             <div class="radio-box">
@@ -672,7 +673,8 @@ early optimizes resources and reduces costs.</p>
                                                 <label for="agency">Finance</label>
                                             </div>
                                             <div class="radio-box">
-                                                <input type="radio" id="business" name="choice_company" value="Business" />
+                                                <input type="radio" id="business" name="choice_company"
+                                                    value="Business" />
                                                 <label for="business">Startup</label>
                                             </div>
                                             <div class="radio-box">
@@ -680,7 +682,8 @@ early optimizes resources and reduces costs.</p>
                                                 <label for="saas">Healthcare</label>
                                             </div>
                                             <div class="radio-box">
-                                                <input type="radio" id="banking" name="choice_company" value="Banking" />
+                                                <input type="radio" id="banking" name="choice_company"
+                                                    value="Banking" />
                                                 <label for="banking">Banking</label>
                                             </div>
                                             <div class="radio-box">
@@ -688,7 +691,8 @@ early optimizes resources and reduces costs.</p>
                                                 <label for="agency">Finance</label>
                                             </div>
                                             <div class="radio-box">
-                                                <input type="radio" id="business" name="choice_company" value="Business" />
+                                                <input type="radio" id="business" name="choice_company"
+                                                    value="Business" />
                                                 <label for="business">Startup</label>
                                             </div>
                                             <div class="radio-box">
@@ -703,23 +707,28 @@ early optimizes resources and reduces costs.</p>
                                         <label>What you need from us?</label>
                                         <div class="feedback-checkboxes d-flex flex-wrap">
                                             <div class="feedback-item">
-                                                <input type="checkbox" id="app_design" name="services[]" value="App design" />
+                                                <input type="checkbox" id="app_design" name="services[]"
+                                                    value="App design" />
                                                 <label for="app_design">Generative AI</label>
                                             </div>
                                             <div class="feedback-item">
-                                                <input type="checkbox" id="web_design" name="services[]" value="Web design" />
+                                                <input type="checkbox" id="web_design" name="services[]"
+                                                    value="Web design" />
                                                 <label for="web_design">Process Automation</label>
                                             </div>
                                             <div class="feedback-item">
-                                                <input type="checkbox" id="branding" name="services[]" value="Branding" />
+                                                <input type="checkbox" id="branding" name="services[]"
+                                                    value="Branding" />
                                                 <label for="branding">Data Analytics</label>
                                             </div>
                                             <div class="feedback-item">
-                                                <input type="checkbox" id="development" name="services[]" value="Development" />
+                                                <input type="checkbox" id="development" name="services[]"
+                                                    value="Development" />
                                                 <label for="development">Market Research</label>
                                             </div>
                                             <div class="feedback-item">
-                                                <input type="checkbox" id="cloud_service" name="services[]" value="Cloud service" />
+                                                <input type="checkbox" id="cloud_service" name="services[]"
+                                                    value="Cloud service" />
                                                 <label for="cloud_service">Web Development</label>
                                             </div>
                                             <div class="feedback-item">
@@ -734,14 +743,17 @@ early optimizes resources and reduces costs.</p>
                                 <div class="input-row">
                                     <div class="input-group">
                                         <label for="message">Message</label>
-                                        <textarea name="message" id="message" placeholder="Leave us a message...."></textarea>
+                                        <textarea name="message" id="message"
+                                            placeholder="Leave us a message...."></textarea>
                                     </div>
                                 </div>
                                 <div class="input-row">
                                     <div class="input-group">
                                         <label for="budget">Budget</label>
-                                        <input id="pi_input" type="range" min="0" max="500000" step="1" style="padding: 0;" name="budget" />
-                                        <div class="budget-values d-flex align-items-center justify-content-between w-full">
+                                        <input id="pi_input" type="range" min="0" max="500000" step="1"
+                                            style="padding: 0;" name="budget" />
+                                        <div
+                                            class="budget-values d-flex align-items-center justify-content-between w-full">
                                             <div class="left-value">$<span id="budget-value">200</span></div>
                                             <div class="right-value">$500k +</div>
                                         </div>
@@ -749,8 +761,11 @@ early optimizes resources and reduces costs.</p>
                                 </div>
                                 <div class="input-row">
                                     <div class="input-group input-checkbox">
-                                        <input type="checkbox" id="privacy_policy_accept" name="privacy_policy_accept" value="1">
-                                        <label for="privacy_policy_accept">Click the box and agree to our <a href="../trust-center/terms.php" target="_blank">terms and conditions.</a></a></label>
+                                        <input type="checkbox" id="privacy_policy_accept" name="privacy_policy_accept"
+                                            value="1">
+                                        <label for="privacy_policy_accept">Click the box and agree to our <a
+                                                href="../trust-center/terms.php" target="_blank">terms and
+                                                conditions.</a></a></label>
                                     </div>
                                 </div>
                                 <div class="input-row">

@@ -19,7 +19,7 @@ include '../includes/header.php'
                     <p>We specialize in Artificial Intelligence and Machine Learning technology, developing smart
                         systems that learn, adapt, and perform tasks, revolutionizing efficiency and decision-making
                         processes.</p>
-                    <a href="#" class="theme-btn2">
+                    <a href="#contact-us" class="theme-btn2">
                         Let’s talk
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
@@ -565,7 +565,7 @@ language processing tasks?
     </section>
 
     <!-- Hero -->
-    <section class="hero-section-wrap hero-home2">
+    <section class="hero-section-wrap hero-home2" id="contact-us">
 
         <div class="custom-container">
 

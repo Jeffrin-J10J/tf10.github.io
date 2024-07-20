@@ -246,7 +246,7 @@ img {
 .theme-btn2:hover,
 .theme-btn:hover,
 .theme-btn:hover {
- background: #000;
+  background: #000;
 }
 .theme-btn2 {
   background: transparent;
@@ -1400,11 +1400,7 @@ img {
   padding-top: 310px;
 }
 .hero-section-wrap .hero-section-content-wrap {
-  background: linear-gradient(
-    180deg,
-    rgba(243, 246, 253, 0.7) 0%,
-    rgba(243, 246, 253, 0) 86.26%
-  );
+  background:#ffffff
   padding-top: 310px;
   padding-bottom: 110px;
 }
@@ -1688,6 +1684,8 @@ img {
 }
 .hero-service-about {
   border-radius: 10px;
+  background:rgb(237, 234, 232);
+ 
   /* padding: 80px 80px 120px 80px;   */
 }
 .hero-service-about .section-header {
@@ -2588,7 +2586,7 @@ img {
 
 /* Case Studio */
 .case-studio-area {
-  background: var(--primary_light);
+  background: #f6f6f6;
   padding-top: 140px;
   padding-bottom: 140px;
 }
@@ -3161,9 +3159,9 @@ img {
   position: absolute;
   background: linear-gradient(
     93deg,
-    #FEE9DC 4.1%,
-    #FEE4E5 59.93%,
-    #FCDFF0 98.17%
+    #fee9dc 4.1%,
+    #fee4e5 59.93%,
+    #fcdff0 98.17%
   );
   width: 53px;
   height: 53px;
@@ -4225,7 +4223,7 @@ img {
 /* Project */
 .project-area {
   overflow: hidden;
-  background: rgb(19 81 216 / 5%);
+  background: white;
   position: relative;
   padding-top: 150px;
   padding-bottom: 106px;
@@ -4241,7 +4239,7 @@ img {
   position: absolute;
   width: 1500px;
   z-index: -1;
-  background: #f4f6fe;
+  background: #ffffff;
   right: 56%;
 }
 .project-area .project-left-details .section-subtitle {
@@ -6925,7 +6923,7 @@ img {
   font-size: 16px;
   padding: 8px 15px;
   width: 260px;
-  color: #ffffff; 
+  color: #ffffff;
 }
 .footer-area .footer-top .left-content .subscribe-box input::placeholder {
   color: rgb(217 217 217 / 55%);
@@ -7154,7 +7152,7 @@ img {
   border-bottom: 0px;
 }
 
-.contact-text{
+.contact-text {
   display: inline;
   background: linear-gradient(
     93deg,
@@ -7166,8 +7164,8 @@ img {
   -webkit-text-fill-color: transparent;
 }
 
-.theme-btn:hover{
+.theme-btn:hover {
   background: #fff;
-  color : #000 !important;
+  color: #000 !important;
   border: 1px solid #000 !important;
 }

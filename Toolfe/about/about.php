@@ -390,9 +390,9 @@ include '../includes/header.php'
         </div>
         <h2>Need any further assitance?</h2>
         <p>Feel free to reach out for any inquiries or assistance.</p>
-        <div  data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace=""  class="theme-simple-btn">Book an appointment now</d>
+        <div data-cal-link="toolfe/revolutionize-your-business" data-cal-config='{"layout":"week_view"}' data-cal-namespace="" class="theme-simple-btn">Let's Connect
+        </div>
       </div>
-    </div>
   </section>
 
 

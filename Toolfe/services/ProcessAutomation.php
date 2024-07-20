@@ -21,7 +21,7 @@ include '../includes/header.php'
                     <h1 class="section-title fade-in">Process Automation</h1>
                     <p>Elevate your enterprise’s efficiency with Toolfe’s Process Automation, where strategic digital
                         transformation meets purpose-driven innovation</p>
-                    <a href="#" class="theme-btn2">
+                    <a href="#contact-us" class="theme-btn2">
                         Let’s talk
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
@@ -113,7 +113,7 @@ include '../includes/header.php'
                         <div class="portfolio-body">
                             <h2>Automated <br>
                                 Proficiency.</a></h2>
-                            <p>Simplify your operations with seamless and effortless process automation solutions.</p>
+                            <p>Simplify your operations with seamless and effortless process automation.</p>
 
                         </div>
                     </div>
@@ -123,7 +123,7 @@ include '../includes/header.php'
                                 Automation <br>
                                 </a></h2>
                             <p>Deploy custom automation tools that fit perfectly with your organizational processes.</p>
-
+                            <br><br>
                         </div>
                         <div class="portfolio-img">
                             <img src="../assets/imgs/services/processautomationbento/2.png" alt="Portfolio" />
@@ -138,7 +138,7 @@ include '../includes/header.php'
                             <h2>Robotic<br>
                                 Innovation <br>
                                 </a></h2>
-                            <p>We integrate cutting-edge RPA solutions for seamless process automation.</p>
+                            <p>We integrate RPA solutions for seamless process automation needs.</p>
 
                         </div>
                         <div class="portfolio-img">
@@ -167,7 +167,7 @@ include '../includes/header.php'
                         <div class="portfolio-body">
                             <h2>Automation <br>
                                 Scalability</a></h2>
-                            <p>Our solutions grow with your business, ensuring long-term scalability.</p>
+                            <p>Our solutions ensure scalable growth for your business.</p>
 
                         </div>
                     </div>
@@ -596,7 +596,7 @@ include '../includes/header.php'
     </section>
 
     <!-- Hero -->
-    <section class="hero-section-wrap hero-home2">
+    <section class="hero-section-wrap hero-home2" id="contact-us">
 
         <div class="custom-container">
 

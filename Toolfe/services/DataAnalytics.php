@@ -18,7 +18,7 @@ include '../includes/header.php'
                     <h1 class="section-title fade-in">Data
                         Analytics</h1>
                     <p>Transform your business with customized data analytics solutions. Uncover growth opportunities and streamline operations for maximum efficiency.</p>
-                    <a href="#" class="theme-btn2">
+                    <a href="#contact-us" class="theme-btn2">
                         Let’s talk 
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
@@ -583,7 +583,7 @@ Informs decisions through sentiment and feedback analysis.</p>
 
 
     <!-- Hero -->
-    <section class="hero-section-wrap hero-home2">
+    <section class="hero-section-wrap hero-home2" id="contact-us">
 
 
 

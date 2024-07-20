@@ -14,11 +14,11 @@ include '../includes/header.php'
             <img class="bg-shape2 slide-right" src="../../assets//imgs/bg-shape-5.svg" alt="Shape" />
             <div class="custom-container">
                 <div class="hero-section-content text-center">
-                    <h5 class="section-subtitle">Software Strategy, Design Mastery, Development Success</h5>
-                    <h1 class="section-title fade-in">Web application</h1>
+                    <h5 class="section-subtitle">Application Strategy, Design Mastery, Development Success</h5>
+                    <h1 class="section-title fade-in">Web Application</h1>
                     <p>We offer full-stack web development services, utilizing the latest technologies and best practices to build responsive, scalable, and secure websites.</p>
-                    <a href="#" class="theme-btn2">
-                        Let’s talk to our team
+                    <a href="#contact-us" class="theme-btn2">
+                        Let’s talk 
                         <i class="iconoir-arrow-up-right"></i>
                     </a>
                 </div>
@@ -261,10 +261,10 @@ include '../includes/header.php'
                             <div class="line-shape"></div>
 
                             <div class="how-we-do-icon">
-                                <h3 class="">4</h3>
+                                <h3 class="">5</h3>
                             </div>
                             <div class="how-we-do-content">
-                                <h4>Testing</h4>
+                                 <h4>Testing</h4>
                             </div>
                         </div>
 
@@ -273,7 +273,7 @@ include '../includes/header.php'
                             <div class="line-shape"></div>
 
                             <div class="how-we-do-icon">
-                                <h3 class="">5</h3>
+                                <h3 class="">4</h3>
                             </div>
                             <div class="how-we-do-content">
                                 <h4>Development</h4>
@@ -570,7 +570,7 @@ include '../includes/header.php'
 
 
     <!-- Hero -->
-    <section class="hero-section-wrap hero-home2">
+    <section class="hero-section-wrap hero-home2" id="contact-us">
 
 
 
