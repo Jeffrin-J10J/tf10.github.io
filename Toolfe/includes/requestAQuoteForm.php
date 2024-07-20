@@ -16,7 +16,7 @@
 
     // Send a POST request to your Google Apps Script
     fetch(
-        "https://script.google.com/macros/s/AKfycbxSvAqujrM4cuYL4H8jWauAgU8Yl4Ogl6ZN-aTJBEi6Bf0t9m3iJslnjlokVFwTlOUA/exec", {
+        "https://script.google.com/macros/s/AKfycbxjmvfHZ8oKpRMLYxPkW49bvCLB7XHR1e_NW3I4SV0F-67nBIpge6Rsebg44T7EuAvyrg/exec", {
           redirect: "follow",
           method: "POST",
           body: formDataString,
