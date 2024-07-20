@@ -24,16 +24,16 @@
                       </form>
                       <div class="footer-clients d-flex align-items-center">
                                 <div class="footer-client-img">
-                                    <img src="../assets/imgs/cio.svg" alt="webflow">
+                                    <img src="../assets/imgs/footer/cio.svg" alt="cio">
                                 </div>
                                 <div class="footer-client-img">
-                                    <img src="../assets/imgs/best.svg" alt="Youtube">
+                                    <img src="../assets/imgs/footer/secure_ssl.svg" alt="securepayment">
                                 </div>
                                 <div class="footer-client-img">
-                                    <img src="../assets/imgs/img2.svg" alt="upwork">
+                                    <img src="../assets/imgs/footer/secure_payment.svg" alt="securessl">
                                 </div>
                                 <div class="footer-client-img">
-                                    <img src="../assets/imgs/payment.svg" alt="shopify">
+                                    <img src="../assets/imgs/footer/best_choice.svg" alt="bestchoice">
                                 </div>
                             </div>
                   </div>
