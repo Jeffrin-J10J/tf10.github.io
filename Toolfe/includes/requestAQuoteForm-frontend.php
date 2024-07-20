@@ -1,14 +1,14 @@
 <div class="hero-contact-form">
-    <form action="" method="POST" class="contact-form d-flex">
+    <form  id="form" method="POST" class="contact-form d-flex">
         <div class="input-main-row">
-            <div class="input-row">
+            <div class="input-row field">
                 <div class="input-group">
                     <label for="first_name">Name</label>
                     <input type="text" placeholder="First Name" id="first_name" name="fullname" />
                 </div>
 
             </div>
-            <div class="input-row">
+            <div class="input-row field">
                 <div class="input-group">
                     <label for="email">Email</label>
                     <input type="email" placeholder="Your Email" id="email" name="email" />
@@ -18,14 +18,14 @@
                     <input type="text" name="phone" placeholder="+1 912 323232" />
                 </div>
             </div>
-            <div class="input-row">
+            <div class="input-row field">
 
                 <div class="input-group">
                     <label for="last_name">Company Name</label>
                     <input type="text" placeholder="Eg. Microsoft" id="last_name" name="company" />
                 </div>
             </div>
-            <div class="input-row">
+            <div class="input-row field">
                 <div class="input-group">
                     <label>Select Your Industry</label>
                     <div class="choice-a-company flex-wrap d-flex">
@@ -76,7 +76,7 @@
                     </div>
                 </div>
             </div>
-            <div class="input-row">
+            <div class="input-row field">
                 <div class="input-group">
                     <label>What you need from us?</label>
                     <div class="feedback-checkboxes d-flex flex-wrap">
@@ -109,13 +109,13 @@
             </div>
         </div>
         <div class="input-main-row">
-            <div class="input-row">
+            <div class="input-row field">
                 <div class="input-group">
                     <label for="message">Message</label>
                     <textarea name="message" id="message" placeholder="Leave us a message...."></textarea>
                 </div>
             </div>
-            <div class="input-row">
+            <div class="input-row field">
                 <div class="input-group">
                     <label for="budget">Budget (Optional)</label>
                     <input id="pi_input" type="range" min="0" max="500000" step="1" style="padding: 0;" name="budget" />
@@ -125,7 +125,7 @@
                     </div>
                 </div>
             </div>
-            <div class="input-row">
+            <div class="input-row field">
                 <div class="input-group input-checkbox">
                     <input type="checkbox" id="privacy_policy_accept" name="privacy_policy_accept" value="1">
                     <label for="privacy_policy_accept">Click the box and agree to our <a
@@ -133,17 +133,13 @@
                             conditions.</a></a></label>
                 </div>
             </div>
-            <div class="input-row">
-                <div class="input-group">
-                    <button class="theme-btn" id="submit">Submit</button>
+            <div class="input-row field is-grouped">
+                <div class="input-group control">
+                    <button class="theme-btn" id="submit-button" type="submit">Submit</button>
                 </div>
             </div>
             <!-- Alert Message -->
-            <div class="input-row">
-                <div class="input-group alert-notification">
-                    <div id="alert-message" class="alert-msg"></div>
-                </div>
-            </div>
+            
         </div>
     </form>
 
