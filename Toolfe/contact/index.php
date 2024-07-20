@@ -41,41 +41,41 @@ include '../includes/header.php'
               <div class="input-row field">
                 <div class="input-row">
                   <div class="input-group">
-                    <label class="contact-text" for="name">Full Name</label>
+                    <label for="name">Full Name</label>
                     <input type="text" id="name" name="FullName" placeholder="Enter Your name" />
                   </div>
                 </div>
               </div>
               <div class="input-row field">
-                <div class="input-group ">
+                <div class="input-group">
 
-                  <label class="contact-text" for="email">Email</label>
+                  <label for="email">Email</label>
                   <input id="email" type="text" name="Email" placeholder="Enter Your Email" />
                 </div>
 
                 <div class="input-group field">
 
-                  <label class="contact-text" for="Phone">Phone</label>
+                  <label for="Phone">Phone</label>
                   <input id="Phone" type="text" name="Phone" placeholder="Eg: +1 12123232" />
                 </div>
               </div>
               <div class="input-row field">
                 <div class="input-group ">
 
-                  <label class="contact-text" for="organization">Company Name</label>
+                  <label for="organization">Company Name</label>
                   <input id="organization" type="text" name="Company" placeholder="Eg. Microsoft" />
                 </div>
               </div>
               <div class="input-row field">
                 <div class="input-group">
-                  <label class="contact-text" for="message">Message</label>
+                  <label for="message">Message</label>
                   <textarea name="Message" id="alert-message" placeholder="Leave us a message...."></textarea>
                 </div>
               </div>
               <div class="input-row field">
                 <div class="input-group input-checkbox">
                   <input type="checkbox" name="Agree To Terms" value="yes" id="privacy_policy_accept" />
-                  <label class="contact-text" for="privacy_policy_accept">You agree to our
+                  <label for="privacy_policy_accept">You agree to our
                     <a href="../trust-center/terms.php" target="_blank">terms and conditions.</a></label>
                 </div>
               </div>
@@ -101,8 +101,6 @@ include '../includes/header.php'
         border-color: aquamarine;
       "></div>
 
-
-
           </div>
         </div>
 
@@ -110,22 +108,22 @@ include '../includes/header.php'
           <ul>
 
             <li>
-              <h1>Client <span>Portal</span></h1>
-              <p><a href="mailto:support@toolfe.com">support@toolfe.com</a></p>
+              <h1 >Client <span>Portal</span></h1>
+              <p class="contact-text" ><a href="mailto:support@toolfe.com">support@toolfe.com</a></p>
             </li>
             <li>
               <h1>15 <span>Mins</span></h1>
-              <p>Response Time</p>
+              <p class="contact-text" >Response Time</p>
             </li>
 
             <li>
               <h1>15 <span>Min Free</span></h1>
-              <p>Consultation</p>
+              <p class="contact-text" >Consultation</p>
             </li>
 
             <li>
               <h1>15 <span>Hour Task Delivery</span></h1>
-              <p><a href="https://www.hourspark.com">www.hourspark.com</a></p>
+              <p class="contact-text" ><a href="https://www.hourspark.com">www.hourspark.com</a></p>
             </li>
 
           </ul>
