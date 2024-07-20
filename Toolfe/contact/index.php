@@ -41,7 +41,7 @@ include '../includes/header.php'
               <div class="input-row field">
                 <div class="input-row">
                   <div class="input-group">
-                    <label for="name">Full Name</label>
+                    <label class="contact-text" for="name">Full Name</label>
                     <input type="text" id="name" name="FullName" placeholder="Enter Your name" />
                   </div>
                 </div>
@@ -49,35 +49,33 @@ include '../includes/header.php'
               <div class="input-row field">
                 <div class="input-group ">
 
-                  <label for="email">Email</label>
+                  <label class="contact-text" for="email">Email</label>
                   <input id="email" type="text" name="Email" placeholder="Enter Your Email" />
                 </div>
 
                 <div class="input-group field">
 
-                  <label for="Phone">Phone</label>
+                  <label class="contact-text" for="Phone">Phone</label>
                   <input id="Phone" type="text" name="Phone" placeholder="Eg: +1 12123232" />
                 </div>
               </div>
               <div class="input-row field">
                 <div class="input-group ">
 
-                  <label for="organization">Company Name</label>
+                  <label class="contact-text" for="organization">Company Name</label>
                   <input id="organization" type="text" name="Company" placeholder="Eg. Microsoft" />
                 </div>
-
-
               </div>
               <div class="input-row field">
                 <div class="input-group">
-                  <label for="message">Message</label>
+                  <label class="contact-text" for="message">Message</label>
                   <textarea name="Message" id="alert-message" placeholder="Leave us a message...."></textarea>
                 </div>
               </div>
               <div class="input-row field">
                 <div class="input-group input-checkbox">
                   <input type="checkbox" name="Agree To Terms" value="yes" id="privacy_policy_accept" />
-                  <label for="privacy_policy_accept">You agree to our
+                  <label class="contact-text" for="privacy_policy_accept">You agree to our
                     <a href="../trust-center/terms.php" target="_blank">terms and conditions.</a></label>
                 </div>
               </div>
