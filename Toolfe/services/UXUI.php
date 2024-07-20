@@ -418,7 +418,7 @@ early optimizes resources and reduces costs.</p>
 
                     <div class="news2-card-body">
                         <div class="meta">
-                            <span class="date">May 15, 2024</span>
+                            <span class="date">May 15,  2024</span>
                             <a href="blog-details.php" class="category">#UX Research</a>
                         </div>
                         <h2><a href="blog-details.php">Best ux research methods and when to use them</a></h2>
