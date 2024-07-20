@@ -1,6 +1,6 @@
 <section class="testimonial-area">
     <div class="custom-container">
-        <div class="case-studio-header text-center">
+        <div class="case-studio-header text-center" style="margin-top: 100px">
             <h5 class="section-subtitle mb-2">Testimonial</h5>
             <h1 class="section-title">Here's what our clients are saying about us</h1>
 
@@ -14,7 +14,7 @@
 
                         </div>
                         <div class="testimonial-item-body">
-                            <img class="animation-slide-right bg-shape" src="./assets/imgs/bg-shape-3.svg" alt="Shape" />
+                            <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
                             <!-- <span class="platform-name">
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->
@@ -40,7 +40,7 @@
 
                         </div>
                         <div class="testimonial-item-body" style="margin-bottom: 35px">
-                            <img class="animation-slide-right bg-shape" src="assets/imgs/bg-shape-1.svg" alt="Shape" />
+                            <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
                             <!-- <span class="platform-name">
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->
@@ -66,7 +66,7 @@
 
                         </div>
                         <div class="testimonial-item-body">
-                            <img class="animation-slide-right bg-shape" src="./assets/imgs/bg-shape-3.svg" alt="Shape" />
+                            <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
                             <!-- <span class="platform-name">
                                       <img src="assets/imgs/icon-linkedin.svg" alt="Icon"/>
                                   </span> -->

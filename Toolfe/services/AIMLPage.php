@@ -438,76 +438,7 @@ include '../includes/header.php'
     </section>
 
     <!-- Testimonial Section -->
-    <section class="testimonial-area">
-        <div class="custom-container">
-
-            <div class="testimonial-slider-wrap">
-                <div class="testimonial-slider swiper">
-
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide testimonial-item">
-                            <div class="testimonial-item-body">
-                                <img class="animation-slide-right bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
-
-                                <h1>"Toolfe automation service has transformed our business operations, simplifying
-                                    processes, and eliminating manual tasks. The service has significantly boosted
-                                    our productivity and accuracy, allowing us to focus on more important aspects of
-                                    our business. I would highly recommend their automation service to any business
-                                    looking to increase efficiency."</h1>
-                                <!-- <p>Toolfe automation service has transformed our business operations, simplifying processes, and eliminating manual tasks. The service has significantly boosted our productivity and accuracy, allowing us to focus on more important aspects of our business. I would highly recommend their automation service to any business looking to increase efficiency.</p> -->
-                                <div class="author-box d-flex align-items-center">
-                                    <div class="author-box-content">
-                                        <h4>Vijay Kumar</h4>
-                                        <p>CEO, OMAN</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide testimonial-item">
-                            <div class="testimonial-item-body">
-                                <img class="bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
-
-                                <h1>"Toolfe deserves our utmost gratitude for their exceptional service in
-                                    developing our e-commerce site and setting up our company. Their professionalism
-                                    and remarkable understanding of our needs were second to none. If you are
-                                    looking for top-notch services, Toolfe is undoubtedly the go-to solution for
-                                    you."</h1>
-
-                                <div class="author-box d-flex align-items-center">
-                                    <div class="author-box-content">
-                                        <h4>PRADEEP</h4>
-                                        <p>MD, CHENNAI</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide testimonial-item">
-                            <div class="testimonial-item-body">
-                                <img class="bg-shape" src="../assets/imgs/bg-shape-3.svg" alt="Shape" />
-                                <h1>"We sincerely appreciate Toolfe for outstanding digital transformation services.
-                                    Their skilled professionals provided exceptional solutions that helped optimize
-                                    our business processes and enhance our digital presence. Their data analytics
-                                    and automation expertise significantly improved our productivity."</h1>
-
-                                <div class="author-box d-flex align-items-center">
-                                    <div class="author-box-content">
-                                        <h4>JUSTIN</h4>
-                                        <p>OWNER, CHENNAI</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <!-- navigation buttons -->
-                <div class="swiper-button-prev"><i class="iconoir-arrow-left"></i></div>
-                <div class="swiper-button-next"><i class="iconoir-arrow-right"></i></div>
-            </div>
-
-        </div>
-    </section>
+    <?php include '../includes/testimonials.php' ?>
 
     <!-- Faq -->
     <section class="faq-area  faq-style-2-area">

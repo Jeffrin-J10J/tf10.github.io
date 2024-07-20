@@ -444,7 +444,7 @@
     </section>
 
     <!-- Service Area -->
-    <section class="service-area" >
+    <section class="service-area" id="services">
       <div class="custom-container">
         <div class="service-section-header section-header d-flex align-items-end justify-content-between">
           <div class="left">
