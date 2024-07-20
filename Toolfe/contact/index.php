@@ -35,68 +35,76 @@ include '../includes/header.php'
             <h1 class="fw-bold mb-2">Supercharge Your Business?</h1>
             <p>
               Get the Results You Deserve. Contact Us Today. <br>
-              <a class="section-subtitle" href="mailto:support@toolfe.com">support@toolfe.com</a>
+              <!-- <a class="section-subtitle" href="mailto:support@toolfe.com">support@toolfe.com</a> -->
             </p>
-            <form action="" method="POST" class="contact-form">
-              <div class="input-row">
+            <form id="form" method="POST" class="contact-form">
+              <div class="input-row field">
                 <div class="input-row">
                   <div class="input-group">
-                    <label for="email">Full Name</label>
-                    <input type="text" id="email" name="email" placeholder="Enter Your name" />
+                    <label for="name">Full Name</label>
+                    <input type="text" id="name" name="FullName" placeholder="Enter Your name" />
                   </div>
                 </div>
               </div>
-              <div class="input-row">
+              <div class="input-row field">
                 <div class="input-group ">
 
                   <label for="email">Email</label>
-                  <input id="email" type="text" name="email" placeholder="Enter Your Email" />
+                  <input id="email" type="text" name="Email" placeholder="Enter Your Email" />
                 </div>
 
-                <div class="input-group ">
+                <div class="input-group field">
 
-                  <label for="phone_number">Phone Number</label>
-                  <input id="phone_number" type="text" name="phone_number" placeholder="Eg: +91 1233****" />
-                </div>
-              </div>
-              <div class="input-row">
-                <div class="input-group ">
-
-                  <label for="organization">Organization Name</label>
-                  <input id="organization" type="text" name="organization" placeholder="Enter organization name" />
-                </div>
-
-                <div class="input-group">
-                  <label for="country">Country</label>
-                  <input type="text" id="homeland" name="country" placeholder="Your Country" />
+                  <label for="Phone">Phone</label>
+                  <input id="Phone" type="text" name="Phone" placeholder="Eg: +1 12123232" />
                 </div>
               </div>
-              <div class="input-row">
+              <div class="input-row field">
+                <div class="input-group ">
+
+                  <label for="organization">Company Name</label>
+                  <input id="organization" type="text" name="Company" placeholder="Eg. Microsoft" />
+                </div>
+
+
+              </div>
+              <div class="input-row field">
                 <div class="input-group">
                   <label for="message">Message</label>
-                  <textarea name="message" id="message" placeholder="Leave us a message...."></textarea>
+                  <textarea name="Message" id="alert-message" placeholder="Leave us a message...."></textarea>
                 </div>
               </div>
-              <div class="input-row">
+              <div class="input-row field">
                 <div class="input-group input-checkbox">
-                  <input type="checkbox" id="privacy_policy_accept" />
+                  <input type="checkbox" name="Agree To Terms" value="yes" id="privacy_policy_accept" />
                   <label for="privacy_policy_accept">You agree to our
                     <a href="../trust-center/terms.php" target="_blank">terms and conditions.</a></label>
                 </div>
               </div>
 
-              <div class="input-row">
-                <div class="input-group">
-                  <button id="submit" class="theme-btn">Submit</button>
+              <div class="input-row field is-grouped">
+                <div class="input-group control">
+                  <button id="submit-button" type="submit" class="theme-btn">Submit</button>
                 </div>
               </div>
-              <!-- Alert Message -->
-              <div class="input-row">
-                <div class="input-group alert-notification">
-                  <div id="alert-message" class="alert-msg"></div>
-                </div>
-              </div>
+
+     
+
             </form>
+
+            <div id="alert-message" style="
+        display: none;
+        margin: 20px;
+        font-weight: bold;
+        color: linear-gradient(93deg, #f87708 4.1%, #fb4a55 59.93%, #e620af 98.17%);
+        padding: 8px;
+        background-color: beige;
+        border-radius: 4px;
+        border-color: aquamarine;
+      "></div>
+
+
+
           </div>
         </div>
 
@@ -134,13 +142,9 @@ include '../includes/header.php'
               <!-- <img src="../assets/imgs/contact_us/location.svg" alt="Map" /> -->
               <h5 class="contact-text text-uppercase">INDIA</h5>
               <p>
-                12, HP Complex , Habibullah Road, T-Nagar, Chennai-600017, India.
-                +91 8217 460 923 </p><br>
+                12, HP Complex , Habibullah Road, T-Nagar, Chennai-600017, India. <br>+91 8217 460 923 </p><br>
               <h5 class="contact-text text-uppercase">United States</h5>
-              <p>
-                270 E 1st Ave,
-                Vancouver, BC V5T
-                1A6, Canada, USA.
+              <p>270 E 1st Ave, Vancouver, BC V5T 1A6, Canada, USA. <br>
                 +1 232 212 233</p>
             </div>
 
@@ -165,7 +169,7 @@ include '../includes/header.php'
   </section>
 
   <!-- Faq -->
-  <section class="faq-area  faq-style-2-area">
+  <section class="faq-area faq-style-2-area">
     <div class="custom-container">
       <div class="faq-inner">
 
@@ -358,3 +362,63 @@ include '../includes/header.php'
 <?php 
 include '../includes/footer.php'
 ?>
+
+<script>
+  document.getElementById("form").addEventListener("submit", function (e) {
+    e.preventDefault(); // Prevent the default form submission
+    document.getElementById("alert-message").textContent = "Submitting..";
+    document.getElementById("alert-message").style.display = "block";
+    document.getElementById("submit-button").disabled = true;
+
+    // Collect the form data
+    var formData = new FormData(this);
+    var keyValuePairs = [];
+    for (var pair of formData.entries()) {
+      keyValuePairs.push(pair[0] + "=" + pair[1]);
+    }
+
+    var formDataString = keyValuePairs.join("&");
+
+    // Send a POST request to your Google Apps Script
+    fetch(
+        "https://script.google.com/macros/s/AKfycbxSvAqujrM4cuYL4H8jWauAgU8Yl4Ogl6ZN-aTJBEi6Bf0t9m3iJslnjlokVFwTlOUA/exec", {
+          redirect: "follow",
+          method: "POST",
+          body: formDataString,
+          headers: {
+            "Content-Type": "text/plain;charset=utf-8",
+          },
+        }
+      )
+      .then(function (response) {
+        // Check if the request was successful
+        if (response) {
+          return response; // Assuming your script returns JSON response
+        } else {
+          throw new Error("Failed to submit the form.");
+        }
+      })
+      .then(function (data) {
+        // Display a success message
+        document.getElementById("alert-message").textContent =
+          "Your request has been submitted successfully!";
+        document.getElementById("alert-message").style.display = "block";
+        document.getElementById("alert-message").style.background = "white";
+        document.getElementById("alert-message").style.color = "#198754";
+        document.getElementById("submit-button").disabled = false;
+        document.getElementById("form").reset();
+
+        setTimeout(function () {
+          document.getElementById("alert-message").textContent = "";
+          // document.getElementById("alert-message").style.display = "none";
+        }, 2600);
+      })
+      .catch(function (error) {
+        // Handle errors, you can display an error message here
+        console.error(error);
+        document.getElementById("alert-message").textContent =
+          "An error occurred while submitting the form.";
+        document.getElementById("alert-message").style.display = "block";
+      });
+  });
+</script>
