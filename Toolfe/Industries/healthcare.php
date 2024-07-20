@@ -43,7 +43,6 @@ include '../includes/header.php'
             <div class="img-box">
               <img src="../assets/imgs/industry/hc1.png" alt="About" />
             </div>
-
             <div class="content-box">
               <h1>Transforming Healthcare for a Better Tomorrow</h1>
               <p>
@@ -830,23 +829,23 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                                  <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Automate complex processes to increase efficiency.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Drive innovation with AI and ML technologies.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/SoftwareDevelopment.php">Software Development</a></h3>
+                                  <h3 class="contact-text"><a href="../services/SoftwareDevelopment.php">Software Development</a></h3>
                                   <p>Develop custom software tailored to your needs.
                                   </p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/WebDevelopment.php">Web Development
+                                  <h3 class="contact-text"><a href="../services/WebDevelopment.php">Web Development
                                   </a></h3>
                                   <p> Create stunning and functional websites that engage your audience and drive conversions.
                                   </p>
@@ -861,7 +860,7 @@ include '../includes/header.php'
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px;">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">

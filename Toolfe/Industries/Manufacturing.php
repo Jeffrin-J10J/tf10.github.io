@@ -461,17 +461,17 @@ include '../includes/header.php'
                 <h1 class="section-title">
                   Why Choose Toolfe for Manufacturing IT?
                 </h1>
-                <p>Contact us today to begin your journey</p>
+                <p>Our team of experts understands the unique challenges faced by
+                the manufacturing industry. We are committed to providing
+                innovative and reliable IT solutions that address these
+                challenges effectively.</p>
               </div>
             </div>
 
             <img src="../assets/imgs/industry/mf7.png" alt="Service About" />
             <div class="hero-service-about-body">
               <p>
-                Our team of experts understands the unique challenges faced by
-                the manufacturing industry. We are committed to providing
-                innovative and reliable IT solutions that address these
-                challenges effectively.
+                At Toolfe, we bring together top experts and innovative thinkers to tackle the unique challenges of the manufacturing industry. Our experienced team is dedicated to providing high-quality, precise solutions, ensuring your manufacturing operations are optimized for peak performance and efficiency. 
               </p>
               <ul>
                 <li>
@@ -819,23 +819,23 @@ include '../includes/header.php'
                           <div class="feature3-lists">
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                                  <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                                   <p>Automate workflows to enhance productivity.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                                   <p>Drive innovation with AI and ML technologies.</p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/Cloud.php">Cloud Solutions</a></h3>
+                                  <h3 class="contact-text"><a href="../services/Cloud.php">Cloud Solutions</a></h3>
                                   <p>Move to the cloud for enhanced scalability and security.
                                   </p>
                               </div>
                               <div class="feature-box">
                                   <i class="icon-box las la-check"></i>
-                                  <h3><a href="../services/DataAnalytics.php">Data Analytics
+                                  <h3 class="contact-text"><a href="../services/DataAnalytics.php">Data Analytics
                                   </a></h3>
                                   <p> Unlock the full potential of your data with our expert analytics services.
                                   </p>
@@ -850,7 +850,7 @@ include '../includes/header.php'
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px;">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">

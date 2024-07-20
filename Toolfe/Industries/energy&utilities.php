@@ -455,17 +455,14 @@ include '../includes/header.php'
                 <h1 class="section-title">
                   Trusted Energy & Utilities Solutions
                 </h1>
-                <p>Contact us today to begin your journey</p>
+                <p>Don't let complex energy decisions slow you down. Trusted Energy & Utilities Solutions is your one-stop shop for navigating the ever-changing energy landscape.</p>
               </div>
             </div>
 
             <img src="../assets/imgs/industry/eu7.png" alt="Service About" />
             <div class="hero-service-about-body">
               <p>
-                Our team specializes in overcoming the unique challenges within
-                the energy and utilities sector. We are dedicated to delivering
-                innovative IT solutions that effectively address these
-                challenges.
+              From identifying the best rates to implementing sustainable solutions, our team of experts will become your trusted partner. Our team specializes in overcoming the unique challenges within the energy and utilities sector. We are dedicated to delivering innovative IT solutions that effectively address these challenges.
               </p>
               <ul>
                 <li><i class="las la-check"></i> Industry knowledge</li>
@@ -817,23 +814,23 @@ Intelligent                 </button>
                     <div class="feature3-lists">
                         <div class="feature-box">
                             <i class="icon-box las la-check"></i>
-                            <h3> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+                            <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
                             <p>Automate complex processes to increase efficiency.</p>
                         </div>
                         <div class="feature-box">
                             <i class="icon-box las la-check"></i>
-                            <h3><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+                            <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
                             <p>Implement AI and ML technologies for innovation.</p>
                         </div>
                         <div class="feature-box">
                             <i class="icon-box las la-check"></i>
-                            <h3><a href="../services/MobileAppDevelopment.php">Mobile Development</a></h3>
+                            <h3 class="contact-text"><a href="../services/MobileAppDevelopment.php">Mobile Development</a></h3>
                             <p>Develop high-quality mobile apps to engage your audience on the go.
                             </p>
                         </div>
                         <div class="feature-box">
                             <i class="icon-box las la-check"></i>
-                            <h3><a href="../services/Cloud.php">Cloud Solutions
+                            <h3 class="contact-text"><a href="../services/Cloud.php">Cloud Solutions
                             </a></h3>
                             <p> Harness the power of the cloud for better business agility.
                             </p>
@@ -848,7 +845,7 @@ Intelligent                 </button>
       <!-- Testimonial Section -->
       <section class="testimonial-area">
         <div class="custom-container">
-          <div class="testimonial-slider-wrap">
+          <div class="testimonial-slider-wrap" style="margin-top: 100px">
             <div class="testimonial-slider swiper">
               <div class="swiper-wrapper">
                 <div class="swiper-slide testimonial-item">
