@@ -122,7 +122,12 @@ include '../includes/header.php'
             </li>
 
             <li>
-              <h1>15 <span>Hour Task Delivery</span></h1>
+              <h1>15 <span>Hours</span></h1>
+              <p class="contact-text" >Client Onboarding</p>
+            </li>
+
+            <li>
+              <h1>15 <span>Hours Delivery</span></h1>
               <p class="contact-text" ><a href="https://www.hourspark.com">www.hourspark.com</a></p>
             </li>
 
