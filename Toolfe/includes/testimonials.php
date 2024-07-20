@@ -24,7 +24,7 @@
                                 provided exceptional solutions that helped optimize our
                                 business processes and enhance our digital presence. Their
                                 data analytics and automation expertise significantly
-                                improved our productivity.""
+                                improved our productivity."
                             </h1>
                             <div class="author-box d-flex align-items-center">
                                 <!-- <img src="assets/imgs/testimonial-1.jpg" alt="Testimonial"/> -->
