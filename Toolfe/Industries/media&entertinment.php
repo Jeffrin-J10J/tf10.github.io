@@ -4,248 +4,239 @@ include '../includes/header.php'
 
 <!-- Main -->
 <main class="main-page service-details-page portfolio-details-page">
-    <!-- Header Bar -->
-    <?php include '../includes/head.php'; ?>
+  <!-- Header Bar -->
+  <?php include '../includes/head.php'; ?>
 
-      <!-- Our Field Hero -->
-      <section
-        class="hero-service-wrap hero-section-wrap hero-career-wrap hero-our-field-wrap"
-      >
-        <div class="hero-section-content-wrap">
-          <img
-            src="../assets/imgs/bg-shape-1.svg"
-            alt="Shape"
-            class="animation-slide-left bg-shape"
-          />
-          <div class="custom-container">
-            <div class="hero-portfolio-body">
-              <div class="hero-section-content text-center">
-                <h5 class="section-subtitle">Media and Entertainment</h5>
-                <h1 class="section-title fade-in">
-                  Elevating Entertainment: Innovations in Media Technology
-                </h1>
-                <p>Enriching User Experiences and Content Delivery</p>
-                <a href="../contact/index.php" class="theme-simple-btn">
-                  Contact Us Todays
-                </a>
-              </div>
-            </div>
+  <!-- Our Field Hero -->
+  <section class="hero-service-wrap hero-section-wrap hero-career-wrap hero-our-field-wrap">
+    <div class="hero-section-content-wrap">
+      <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" />
+      <div class="custom-container">
+        <div class="hero-portfolio-body">
+          <div class="hero-section-content text-center" style="margin-top:100px">
+            <h5 class="section-subtitle">Media and Entertainment</h5>
+            <h1 class="section-title fade-in">
+              Elevating Entertainment: Innovations in Media Technology
+            </h1>
+            <p>Enriching User Experiences and Content Delivery</p>
+            <a href="../contact/index.php" class="theme-simple-btn">
+              Contact Us Todays
+            </a>
           </div>
         </div>
-      </section>
+      </div>
+    </div>
+  </section>
 
-      <!-- intro section -->
-      <section class="about-service3-area about-service5-area">
-        <div class="custom-container">
-          <div class="custom-row align-items-center">
-            <div class="img-box">
-              <img src="../assets/imgs/industry/me1.jpg" alt="About" />
-            </div>
+  <!-- intro section -->
+  <section class="about-service3-area about-service5-area">
+    <div class="custom-container">
+      <div class="custom-row align-items-center">
+        <div class="img-box">
+          <img src="../assets/imgs/industry/me1.jpg" alt="About" />
+        </div>
 
-            <div class="content-box">
-              <h1>Revolutionizing Media and Entertainment <br /></h1>
-              <p>
-                In the digital age, captivating audiences and delivering
-                immersive experiences require cutting-edge media technologies.
-                Our firm specializes in providing innovative solutions that
-                transform content creation, distribution, and audience
-                engagement across various platforms.
-              </p>
-              <p>
-                Partner with us to harness the power of content management
-                systems, OTT platforms, AI-driven content personalization, and
-                digital rights management.
-              </p>
-              <!-- <ul>
+        <div class="content-box">
+          <h1>Revolutionizing Media and Entertainment <br /></h1>
+          <p>
+            In the digital age, captivating audiences and delivering
+            immersive experiences require cutting-edge media technologies.
+            Our firm specializes in providing innovative solutions that
+            transform content creation, distribution, and audience
+            engagement across various platforms.
+          </p>
+          <p>
+            Partner with us to harness the power of content management
+            systems, OTT platforms, AI-driven content personalization, and
+            digital rights management.
+          </p>
+          <!-- <ul>
                 <li><i class="las la-check"></i> PPD Development</li>
                 <li><i class="las la-check"></i> Quick Response</li>
               </ul> -->
-            </div>
-          </div>
         </div>
-      </section>
+      </div>
+    </div>
+  </section>
 
-      <!-- Service Section -->
-      <section class="news-area">
-        <div class="custom-container">
-          <div
-            class="section-header d-flex align-items-end justify-content-between"
-          >
-            <div class="left">
-              <h5 class="section-subtitle">
-                Our Media and Entertainment Solutions
-              </h5>
-              <h1 class="section-title">
-                Redefining Content Creation and Distribution
-              </h1>
-            </div>
-          </div>
-
-          <div class="sticky-news d-flex card-h">
-            <div class="news-img-box">
-              <img src="../assets/imgs/industry/me2.jpg" alt="News" />
-            </div>
-            <div class="news-content">
-              <h5 class="section-subtitle section-subtitle1">
-                Media & Entertainment
-              </h5>
-              <h1 class="section-title">
-                <a href="blog-details.php">Content Management Systems </a>
-              </h1>
-              <p>
-                Centralized Content Creation and Distribution with Streamlined
-                Workflow Automation and Seamless Collaboration Tools
-              </p>
-              <ul>
-                <li>
-                  <i class="las la-check"></i> Centralized content creation and
-                  distribution
-                </li>
-                <li>
-                  <i class="las la-check"></i>Workflow automation and
-                  collaboration tools
-                </li>
-                <li>
-                  <i class="las la-check"></i>Multi-channel content delivery
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="sticky-news d-flex card-h">
-            <div class="news-content">
-              <h5 class="section-subtitle section-subtitle1">
-                Media & Entertainment
-              </h5>
-              <h1 class="section-title">
-                <a href="blog-details.php">OTT Platforms </a>
-              </h1>
-              <p>
-                Dynamic Streaming and On-Demand Solutions with Tailored
-                Recommendations and Subscription Management Strategies
-              </p>
-              <ul>
-                <li>
-                  <i class="las la-check"></i> Streaming services and
-                  video-on-demand solutions
-                </li>
-                <li>
-                  <i class="las la-check"></i>Personalized content
-                  recommendations
-                </li>
-                <li>
-                  <i class="las la-check"></i>Monetization strategies and
-                  subscription management
-                </li>
-              </ul>
-            </div>
-
-            <div class="news-img-box">
-              <img src="../assets/imgs/industry/me3.jpg" alt="News" />
-            </div>
-          </div>
-
-          <div class="sticky-news d-flex card-h">
-            <div class="news-img-box">
-              <img src="../assets/imgs/industry/me4.jpg" alt="News" />
-            </div>
-            <div class="news-content">
-              <h5 class="section-subtitle section-subtitle1">
-                Media & Entertainment
-              </h5>
-              <h1 class="section-title">
-                <a href="blog-details.php"
-                  >AI-Driven Content Personalization
-                </a>
-              </h1>
-              <p>
-                Intelligent Audience Segmentation and Predictive Insights for
-                Maximum Viewer Engagement and Retention
-              </p>
-              <ul>
-                <li>
-                  <i class="las la-check"></i> Audience segmentation and
-                  targeted content delivery
-                </li>
-
-                <li>
-                  <i class="las la-check"></i>Predictive analytics for content
-                  consumption patterns
-                </li>
-                <li>
-                  <i class="las la-check"></i> Enhancing viewer engagement and
-                  retention
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="sticky-news d-flex card-h">
-            <div class="news-content">
-              <h5 class="section-subtitle section-subtitle1">
-                Media & Entertainment
-              </h5>
-              <h1 class="section-title">
-                <a href="blog-details.php">AI-Optimized Ad Campaigns </a>
-              </h1>
-              <p>Enhancing Ad Effectiveness through Intelligent Targeting</p>
-              <ul>
-                <li>
-                  <i class="las la-check"></i>AI algorithms optimize ad
-                  placement and targeting.
-                </li>
-                <li>
-                  <i class="las la-check"></i> Measure and improve ad campaign
-                  effectiveness with AI analytics.
-                </li>
-                <li>
-                  <i class="las la-check"></i>Enhance return on investment
-                  through AI-driven ad strategies.
-                </li>
-              </ul>
-            </div>
-
-            <div class="news-img-box">
-              <img src="../assets/imgs/industry/me5.jpg" alt="News" />
-            </div>
-          </div>
-
-          <div class="sticky-news d-flex card-h">
-            <div class="news-img-box">
-              <img src="../assets/imgs/industry/me6.jpg" alt="News" />
-            </div>
-            <div class="news-content">
-              <h5 class="section-subtitle section-subtitle1">
-                Media & Entertainment
-              </h5>
-              <h1 class="section-title">
-                <a href="blog-details.php">Digital Rights Management </a>
-              </h1>
-              <p>
-                Robust Content Security, Licensing Solutions, and Advanced
-                Anti-Piracy Strategies for Copyright Protection.
-              </p>
-              <ul>
-                <li>
-                  <i class="las la-check"></i> Anti-piracy measures and content
-                  monetization strategies
-                </li>
-                <li>
-                  <i class="las la-check"></i>Secure content distribution and
-                  copyright protection
-                </li>
-                <li>
-                  <i class="las la-check"></i>Access control and content
-                  licensing
-                </li>
-              </ul>
-            </div>
-          </div>
+  <!-- Service Section -->
+  <section class="news-area">
+    <div class="custom-container">
+      <div class="section-header d-flex align-items-end justify-content-between">
+        <div class="left">
+          <h5 class="section-subtitle">
+            Our Media and Entertainment Solutions
+          </h5>
+          <h1 class="section-title">
+            Redefining Content Creation and Distribution
+          </h1>
         </div>
-      </section>
+      </div>
 
-      <!-- blog -->
-      <!-- <section class="news-area">
+      <div class="sticky-news d-flex card-h">
+        <div class="news-img-box">
+          <img src="../assets/imgs/industry/me2.jpg" alt="News" />
+        </div>
+        <div class="news-content">
+          <h5 class="section-subtitle section-subtitle1">
+            Media & Entertainment
+          </h5>
+          <h1 class="section-title">
+            <a href="blog-details.php">Content Management Systems </a>
+          </h1>
+          <p>
+            Centralized Content Creation and Distribution with Streamlined
+            Workflow Automation and Seamless Collaboration Tools
+          </p>
+          <ul>
+            <li>
+              <i class="las la-check"></i> Centralized content creation and
+              distribution
+            </li>
+            <li>
+              <i class="las la-check"></i>Workflow automation and
+              collaboration tools
+            </li>
+            <li>
+              <i class="las la-check"></i>Multi-channel content delivery
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="sticky-news d-flex card-h">
+        <div class="news-content">
+          <h5 class="section-subtitle section-subtitle1">
+            Media & Entertainment
+          </h5>
+          <h1 class="section-title">
+            <a href="blog-details.php">OTT Platforms </a>
+          </h1>
+          <p>
+            Dynamic Streaming and On-Demand Solutions with Tailored
+            Recommendations and Subscription Management Strategies
+          </p>
+          <ul>
+            <li>
+              <i class="las la-check"></i> Streaming services and
+              video-on-demand solutions
+            </li>
+            <li>
+              <i class="las la-check"></i>Personalized content
+              recommendations
+            </li>
+            <li>
+              <i class="las la-check"></i>Monetization strategies and
+              subscription management
+            </li>
+          </ul>
+        </div>
+
+        <div class="news-img-box">
+          <img src="../assets/imgs/industry/me3.jpg" alt="News" />
+        </div>
+      </div>
+
+      <div class="sticky-news d-flex card-h">
+        <div class="news-img-box">
+          <img src="../assets/imgs/industry/me4.jpg" alt="News" />
+        </div>
+        <div class="news-content">
+          <h5 class="section-subtitle section-subtitle1">
+            Media & Entertainment
+          </h5>
+          <h1 class="section-title">
+            <a href="blog-details.php">AI-Driven Content Personalization
+            </a>
+          </h1>
+          <p>
+            Intelligent Audience Segmentation and Predictive Insights for
+            Maximum Viewer Engagement and Retention
+          </p>
+          <ul>
+            <li>
+              <i class="las la-check"></i> Audience segmentation and
+              targeted content delivery
+            </li>
+
+            <li>
+              <i class="las la-check"></i>Predictive analytics for content
+              consumption patterns
+            </li>
+            <li>
+              <i class="las la-check"></i> Enhancing viewer engagement and
+              retention
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="sticky-news d-flex card-h">
+        <div class="news-content">
+          <h5 class="section-subtitle section-subtitle1">
+            Media & Entertainment
+          </h5>
+          <h1 class="section-title">
+            <a href="blog-details.php">AI-Optimized Ad Campaigns </a>
+          </h1>
+          <p>Enhancing Ad Effectiveness through Intelligent Targeting</p>
+          <ul>
+            <li>
+              <i class="las la-check"></i>AI algorithms optimize ad
+              placement and targeting.
+            </li>
+            <li>
+              <i class="las la-check"></i> Measure and improve ad campaign
+              effectiveness with AI analytics.
+            </li>
+            <li>
+              <i class="las la-check"></i>Enhance return on investment
+              through AI-driven ad strategies.
+            </li>
+          </ul>
+        </div>
+
+        <div class="news-img-box">
+          <img src="../assets/imgs/industry/me5.jpg" alt="News" />
+        </div>
+      </div>
+
+      <div class="sticky-news d-flex card-h">
+        <div class="news-img-box">
+          <img src="../assets/imgs/industry/me6.jpg" alt="News" />
+        </div>
+        <div class="news-content">
+          <h5 class="section-subtitle section-subtitle1">
+            Media & Entertainment
+          </h5>
+          <h1 class="section-title">
+            <a href="blog-details.php">Digital Rights Management </a>
+          </h1>
+          <p>
+            Robust Content Security, Licensing Solutions, and Advanced
+            Anti-Piracy Strategies for Copyright Protection.
+          </p>
+          <ul>
+            <li>
+              <i class="las la-check"></i> Anti-piracy measures and content
+              monetization strategies
+            </li>
+            <li>
+              <i class="las la-check"></i>Secure content distribution and
+              copyright protection
+            </li>
+            <li>
+              <i class="las la-check"></i>Access control and content
+              licensing
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- blog -->
+  <!-- <section class="news-area">
         <div class="custom-container">
 
             <div class="sticky-news d-flex card-h1">
@@ -450,617 +441,298 @@ include '../includes/header.php'
         </div>
     </section> -->
 
-      <!-- why choose us -->
+  <!-- why choose us -->
 
-      <section class="company-service-area">
-        <div class="custom-container">
-          <div class="hero-service-about">
-            <div
-              class="section-header d-flex align-items-center justify-content-between w-full"
-            >
-              <div class="left">
-                <h5 class="section-subtitle">WHY CHOOSE US</h5>
-                <h1 class="section-title">Why Choose Toolfe for Media?</h1>
-                <p>COur team of experts understands the unique challenges faced by
-                the media and entertainment industry. We are committed to
-                providing innovative and reliable IT solutions that address
-                these challenges effectively.Here's why you should partner with us:</p>
-              </div>
+  <section class="company-service-area">
+    <div class="custom-container">
+      <div class="hero-service-about">
+        <div class="section-header d-flex align-items-center justify-content-between w-full">
+          <div class="left">
+            <h5 class="section-subtitle">WHY CHOOSE US</h5>
+            <h1 class="section-title">Why Choose Toolfe for Media?</h1>
+            <p>COur team of experts understands the unique challenges faced by
+              the media and entertainment industry. We are committed to
+              providing innovative and reliable IT solutions that address
+              these challenges effectively.Here's why you should partner with us:</p>
+          </div>
+        </div>
+
+        <img src="../assets/imgs/industry/me7.png" alt="Service About" />
+        <div class="hero-service-about-body">
+          <p>
+            At Toolfe, we harness the expertise of top professionals and innovative minds to drive advancements in media
+            technology. Our team is dedicated to devlivering cutting-edge solutions and exceptional quality, ensuring
+            your media projects achieve unmatched performance and impact from concept through execution.
+          </p>
+          <ul>
+            <li><i class="las la-check"></i> Industry Savvy</li>
+            <li><i class="las la-check"></i>Advanced Tech</li>
+            <li><i class="las la-check"></i>Tailored Excellence</li>
+            <li><i class="las la-check"></i>Proven Success</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- case studies -->
+
+  <section class="service2-area">
+    <img class="bg-shape" src="../assets/imgs/bg-shape-7.svg" alt="Shape" />
+    <div class="custom-container">
+      <div class="custom-row">
+        <div class="service2-header d-flex align-items-center justify-content-between w-full">
+          <div class="left">
+            <h5 class="section-subtitle">INDUSTRIAL USE CASES</h5>
+            <h1 class="section-title">
+              Advanced IT Solutions for Media & Entertainment
+            </h1>
+            <p>
+              Tailored technology solutions for seamless media production
+              and distribution workflows.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex gap-24 service2-bottom-2-col">
+        <div class="service3-card d-flex flex-1 card-h">
+          <img src="../assets/imgs/industry/me8.jpg" alt="Service" />
+          <div class="service3-body">
+            <div class="service3-content">
+              <h3>Content Recommenders</h3>
+              <p>AI suggests personalized content for users.</p>
+              <ul>
+                <li><i class="las la-check"></i> User Engagement</li>
+                <li>
+                  <i class="las la-check"></i> Content Personalization
+                </li>
+              </ul>
             </div>
-
-            <img src="../assets/imgs/industry/me7.png" alt="Service About" />
-            <div class="hero-service-about-body">
+          </div>
+        </div>
+        <div class="service3-card d-flex flex-1 card-h">
+          <img src="../assets/imgs/industry/me9.jpg" alt="Service" />
+          <div class="service3-body">
+            <div class="service3-content">
+              <h3>Sentiment Analysis</h3>
               <p>
-                At Toolfe, we harness the expertise of top professionals and innovative minds to drive advancements in media technology. Our team is dedicated to devlivering cutting-edge solutions and exceptional quality, ensuring your media projects achieve unmatched performance and impact from concept through execution.  
+                NLP analyzes audience sentiment for better content
+                strategies.
               </p>
               <ul>
-                <li><i class="las la-check"></i> Industry Savvy</li>
-                <li><i class="las la-check"></i>Advanced Tech</li>
-                <li><i class="las la-check"></i>Tailored Excellence</li>
-                <li><i class="las la-check"></i>Proven Success</li>
+                <li><i class="las la-check"></i> Audience Insight</li>
+                <li>
+                  <i class="las la-check"></i> Marketing Effectiveness
+                </li>
               </ul>
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    </div>
+  </section>
 
-      <!-- case studies -->
+  <!-- Case Studio -->
+  <?php include '../includes/case_study.php';  ?>
 
-      <section class="service2-area">
-        <img class="bg-shape" src="../assets/imgs/bg-shape-7.svg" alt="Shape" />
-        <div class="custom-container">
-          <div class="custom-row">
-            <div
-              class="service2-header d-flex align-items-center justify-content-between w-full"
-            >
-              <div class="left">
-                <h5 class="section-subtitle">INDUSTRIAL USE CASES</h5>
-                <h1 class="section-title">
-                  Advanced IT Solutions for Media & Entertainment
-                </h1>
-                <p>
-                  Tailored technology solutions for seamless media production
-                  and distribution workflows.
-                </p>
-              </div>
-            </div>
-          </div>
+  <section class="feature3-area">
+    <!-- <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" /> -->
+    <div class="custom-container">
+      <div class="custom-row align-items-center">
+        <div class="section-header">
+          <h5 class="section-subtitle">Our Services</h5>
+          <h1 class="section-title">Transformative Technology Services for You</h1>
+          <p>Our expertise spans across multiple domains, offering solutions that transform the way you do business.</p>
+        </div>
 
-          <div class="d-flex gap-24 service2-bottom-2-col">
-            <div class="service3-card d-flex flex-1 card-h">
-              <img src="../assets/imgs/industry/me8.jpg" alt="Service" />
-              <div class="service3-body">
-                <div class="service3-content">
-                  <h3>Content Recommenders</h3>
-                  <p>AI suggests personalized content for users.</p>
-                  <ul>
-                    <li><i class="las la-check"></i> User Engagement</li>
-                    <li>
-                      <i class="las la-check"></i> Content Personalization
-                    </li>
-                  </ul>
-                </div>
-              </div>
+        <div class="right flex-1">
+          <div class="feature3-lists">
+            <div class="feature-box">
+              <i class="icon-box las la-check"></i>
+              <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
+              <p>Increase efficiency with our automation solutions.</p>
             </div>
-            <div class="service3-card d-flex flex-1 card-h">
-              <img src="../assets/imgs/industry/me9.jpg" alt="Service" />
-              <div class="service3-body">
-                <div class="service3-content">
-                  <h3>Sentiment Analysis</h3>
-                  <p>
-                    NLP analyzes audience sentiment for better content
-                    strategies.
-                  </p>
-                  <ul>
-                    <li><i class="las la-check"></i> Audience Insight</li>
-                    <li>
-                      <i class="las la-check"></i> Marketing Effectiveness
-                    </li>
-                  </ul>
-                </div>
-              </div>
+            <div class="feature-box">
+              <i class="icon-box las la-check"></i>
+              <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
+              <p>Implement AI and ML solutions to stay ahead in the market.</p>
             </div>
+            <div class="feature-box">
+              <i class="icon-box las la-check"></i>
+              <h3 class="contact-text"><a href="../services/UXUI.php">User Experience Design UI/UX</a></h3>
+              <p>Design intuitive and user-friendly interfaces to enhance the user experience.</p>
+            </div>
+            <div class="feature-box">
+              <i class="icon-box las la-check"></i>
+              <h3 class="contact-text"><a href="../services/SoftwareDevelopment.php">Software Development
+                </a></h3>
+              <p> Build custom software solutions to address your unique business challenges.
+              </p>
+            </div>
+
           </div>
         </div>
-      </section>
+      </div>
+    </div>
+  </section>
 
-            <!-- Case Studio -->
-            <section class="case-studio-area">
-              <div class="custom-container">
-                <div class="case-studio-header text-center">
-                  <h5 class="section-subtitle">CASE STUDIES</h5>
-                  <h1 class="section-title">Proven Results Through Innovation</h1>
+  <!-- Testimonial Section -->
+  <!-- Testimonial Section -->
+  <?php include '../includes/testimonials.php' ?>
+
+  <!-- Contact -->
+  <section class="contact-area">
+    <div class="custom-container">
+      <div class="custom-row">
+        <div class="contact-form-wrap">
+          <div class="contact-form-body">
+            <h5 class="section-subtitle">Contact</h5>
+            <h1 class="section-title">Lets get in touch</h1>
+            <p>
+              You can reach us anytime via
+              <a href="mailto:bluebase@mail.com">support@toolfe.com</a>
+            </p>
+            <form action="https://wpriverthemes.com/HTML/synck/../assets/mail/contact.php" method="POST"
+              class="contact-form">
+              <div class="input-row">
+                <div class="input-group">
+                  <label for="first_name">First Name</label>
+                  <input id="first_name" type="text" name="first_name" placeholder="First Name" />
                 </div>
-      
-                <div class="case-studio">
-                  <ul
-                    class="nav nav-pills case-studio-tabs"
-                    id="myTab"
-                    role="tablist"
-                  >
-                    <li class="nav-item">
-                      <button
-                        class="nav-link active"
-                        id="development-tab"
-                        data-bs-toggle="tab"
-                        href="#development"
-                        role="tab"
-                        aria-controls="development"
-                        aria-selected="true"
-                      >
-                        Automation
-                      </button>
-                    </li>
-                    <li class="nav-item">
-                      <button
-                        class="nav-link"
-                        id="woo_commerce-tab"
-                        data-bs-toggle="tab"
-                        href="#woo_commerce"
-                        role="tab"
-                        aria-controls="woo_commerce"
-                        aria-selected="false"
-                      >
-                        AI/Computer Vision
-                      </button>
-                    </li>
-                    <li class="nav-item">
-                      <button
-                        class="nav-link"
-                        id="crm_solutions-tab"
-                        data-bs-toggle="tab"
-                        href="#crm_solutions"
-                        role="tab"
-                        aria-controls="crm_solutions"
-                        aria-selected="false"
-                      >
-                        Cloud Deployment
-                      </button>
-                    </li>
-                    <li class="nav-item">
-                      <button
-                        class="nav-link"
-                        id="web_designing-tab"
-                        data-bs-toggle="tab"
-                        href="#web_designing"
-                        role="tab"
-                        aria-controls="web_designing"
-                        aria-selected="false"
-                      >
-                        Digital Transformation
-                      </button>
-                    </li>
-                    <li class="nav-item">
-                      <button
-                        class="nav-link"
-                        id="it_support-tab"
-                        data-bs-toggle="tab"
-                        href="#it_support"
-                        role="tab"
-                        aria-controls="it_support"
-                        aria-selected="false"
-                      >
-      Intelligent                 </button>
-                    </li>
-                  </ul>
-                  <div class="tab-content case-studio-tab-content">
-                    <div
-                      class="tab-pane fade show active"
-                      id="development"
-                      role="tabpanel"
-                      aria-labelledby="development-tab"
-                    >
-                      <div class="case-studio-body d-flex">
-                        <div class="left d-flex flex-1">
-                          <div class="img-box">
-                            <img src="../assets/imgs/casestudy/cs_section1.png" alt="About" />
-                          </div>
-                        </div>
-                        <div class="right">
-                          <div class="case-studio-contents service-card card-h">
-                            <h5 class="section-subtitle">Security</h5>
-                            <br />
-      
-                            <h3><a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.php">
-                              Automating Email Management for a Security Department
-                            </h3></a>
-                            <p>
-                              Revolutionizing security operations, we implemented
-                              advanced NLP to automate email assignment within a
-                              leading security department. This solution streamlined
-                              response times and enhanced operational efficiency,
-                              ensuring faster incident resolution and improved
-                              resource allocation.
-                            </p>
-                            <a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.php" class="theme-btn">
-                              <i class="iconoir-arrow-up-right"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="tab-pane fade"
-                      id="woo_commerce"
-                      role="tabpanel"
-                      aria-labelledby="woo_commerce-tab"
-                    >
-                      <div class="case-studio-body d-flex">
-                        <div class="left d-flex flex-1">
-                          <div class="img-box">
-                            <img src="../assets/imgs/casestudy/cs_section2.png" alt="About" />
-                          </div>
-                        </div>
-                        <div class="right">
-                          <div class="case-studio-contents service-card card-h">
-                            <h5 class="section-subtitle">Agriculture</h5>
-                            <br />
-      
-                            <h3>
-                              <a href="../case-study/implementing_computer_vision.php">
-                              Developing Advanced CV Models for Fruit Ripeness
-                              Detection<a/>
-                            </h3>
-      
-                            <p>
-                              Leveraging computer vision technology, we enabled
-                              precise fruit ripeness detection for agricultural
-                              applications. This innovation empowered farmers to
-                              optimize harvest times, minimize waste, and maximize
-                              crop yield, marking a significant advancement in
-                              agricultural automation and sustainability.
-                            </p>
-                            <a href="../case-study/implementing_computer_vision.php" class="theme-btn">
-                              <i class="iconoir-arrow-up-right"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="tab-pane fade"
-                      id="crm_solutions"
-                      role="tabpanel"
-                      aria-labelledby="crm_solutions-tab"
-                    >
-                      <div class="case-studio-body d-flex">
-                        <div class="left d-flex flex-1">
-                          <div class="img-box">
-                            <img src="../assets/imgs/casestudy/cs_section3.png" alt="About" />
-                          </div>
-                        </div>
-                        <div class="right">
-                          <div class="case-studio-contents service-card card-h">
-                            <h5 class="section-subtitle">Information Technology</h5>
-                            <br />
-                            <h3>
-                              <a href="../case-study/automating_cloud_deployment.php">
-                              Automating Cloud Deployment for Workflow Management
-                              </a>
-                            </h3>
-      
-                            <p>
-                              Facilitating seamless workflow management, our automated
-                              cloud deployment solution simplified the process for a
-                              leading software provider. By automating deployment
-                              tasks, we enhanced scalability, reduced downtime, and
-                              improved overall operational efficiency, enabling our
-                              client to focus more on innovation and growth.
-                            </p>
-                            <a href="../case-study/automating_cloud_deployment.php" class="theme-btn">
-                              <i class="iconoir-arrow-up-right"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    
-                    </div>
-                    <div
-                      class="tab-pane fade"
-                      id="web_designing"
-                      role="tabpanel"
-                      aria-labelledby="web_designing-tab"
-                    >
-                      <div class="case-studio-body d-flex">
-                        <div class="left d-flex flex-1">
-                          <div class="img-box">
-                            <img src="../assets/imgs/casestudy/cs_section4.png" alt="About" />
-                          </div>
-                        </div>
-                        <div class="right">
-                          <div class="case-studio-contents service-card card-h">
-                            <h5 class="section-subtitle">Construction</h5>
-                            <br />
-                            <h3>
-                              <a href="../case-study/digital_transformation_initiative.php"></a>
-                              Digital Transformation Initiative for an construction
-                              Company
-                            </h3>
-                            <p>
-                              Partnering with an construction company, we spearheaded
-                              a comprehensive digital transformation initiative. By
-                              integrating cutting-edge technologies and enhancing
-                              digital capabilities, we modernized their operations,
-                              improved customer engagement, and positioned them as
-                              industry leaders in interior design innovation.
-                            </p>
-                            <a href="../case-study/digital_transformation_initiative.php" class="theme-btn">
-                              <i class="iconoir-arrow-up-right"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      class="tab-pane fade"
-                      id="it_support"
-                      role="tabpanel"
-                      aria-labelledby="it_support-tab"
-                    >
-                      <div class="case-studio-body d-flex">
-                        <div class="left d-flex flex-1">
-                          <div class="img-box">
-                            <img src="../assets/imgs/casestudy/cs_section5.png" alt="About" />
-                          </div>
-                        </div>
-                        <div class="right">
-                          <div class="case-studio-contents service-card card-h">
-                            <h5 class="section-subtitle">Knowledge Management</h5>
-                            <br />
-                            <h3 class="section-title"><a
-                              href="../case-study/intelligent_document_processing.php"
-                              >Smart Document Processing for Knowledge Management<a/></h3>
-                            <p>
-                              By integrating intelligent document processing, we
-                              transformed knowledge management for a prominent client.
-                              Our solution automated data extraction and
-                              classification, significantly reducing manual effort and
-                              enabling faster access to critical information, thereby
-                              boosting productivity and decision-making capabilities.
-                            </p>
-                            <a href="../case-study/intelligent_document_processing.php" class="theme-btn">
-                              <i class="iconoir-arrow-up-right"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                <div class="input-group">
+                  <label for="last_name">Last Name</label>
+                  <input id="last_name" type="text" name="last_name" placeholder="Last Name" />
                 </div>
               </div>
-            </section>
-
-
-            
-            <section class="feature3-area">
-              <!-- <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" /> -->
-              <div class="custom-container">
-                  <div class="custom-row align-items-center">
-                      <div class="section-header">
-                          <h5 class="section-subtitle">Our Services</h5>
-                          <h1 class="section-title">Transformative Technology Services for You</h1>
-                          <p>Our expertise spans across multiple domains, offering solutions that transform the way you do business.</p>
-                      </div>
-  
-                      <div class="right flex-1">
-                          <div class="feature3-lists">
-                              <div class="feature-box">
-                                  <i class="icon-box las la-check"></i>
-                                  <h3 class="contact-text"> <a href="../services/ProcessAutomation.php">Process Automation</a></h3>
-                                  <p>Increase efficiency with our automation solutions.</p>
-                              </div>
-                              <div class="feature-box">
-                                  <i class="icon-box las la-check"></i>
-                                  <h3 class="contact-text"><a href="../services/AIMLPage.php"> Generative AI & ML</a></h3>
-                                  <p>Implement AI and ML solutions to stay ahead in the market.</p>
-                              </div>
-                              <div class="feature-box">
-                                  <i class="icon-box las la-check"></i>
-                                  <h3 class="contact-text"><a href="../services/UXUI.php">User Experience Design UI/UX</a></h3>
-                                  <p>Design intuitive and user-friendly interfaces to enhance the user experience.</p>
-                              </div>
-                              <div class="feature-box">
-                                  <i class="icon-box las la-check"></i>
-                                  <h3 class="contact-text"><a href="../services/SoftwareDevelopment.php">Software Development
-                                  </a></h3>
-                                  <p> Build custom software solutions to address your unique business challenges.
-                                  </p>
-                              </div>
-                             
-                          </div>
-                      </div>
-                  </div>
+              <div class="input-row">
+                <div class="input-group">
+                  <label for="email">Email</label>
+                  <input type="email" id="email" name="email" placeholder="Your Email" />
+                </div>
               </div>
-          </section>
+              <div class="input-row">
+                <div class="input-group">
+                  <label for="phone_number">Phone Number</label>
+                  <input id="phone_number" type="text" name="phone_number" placeholder="Eg: +91 1233****" />
+                </div>
 
-
-      <!-- Testimonial Section -->
-      <!-- Testimonial Section -->
-      <?php include '../includes/testimonials.php' ?>
-
-      <!-- Contact -->
-      <section class="contact-area">
-        <div class="custom-container">
-          <div class="custom-row">
-            <div class="contact-form-wrap">
-              <div class="contact-form-body">
-                <h5 class="section-subtitle">Contact</h5>
-                <h1 class="section-title">Lets get in touch</h1>
-                <p>
-                  You can reach us anytime via
-                  <a href="mailto:bluebase@mail.com">support@toolfe.com</a>
-                </p>
-                <form
-                  action="https://wpriverthemes.com/HTML/synck/../assets/mail/contact.php"
-                  method="POST"
-                  class="contact-form"
-                >
-                  <div class="input-row">
-                    <div class="input-group">
-                      <label for="first_name">First Name</label>
-                      <input
-                        id="first_name"
-                        type="text"
-                        name="first_name"
-                        placeholder="First Name"
-                      />
-                    </div>
-                    <div class="input-group">
-                      <label for="last_name">Last Name</label>
-                      <input
-                        id="last_name"
-                        type="text"
-                        name="last_name"
-                        placeholder="Last Name"
-                      />
-                    </div>
-                  </div>
-                  <div class="input-row">
-                    <div class="input-group">
-                      <label for="email">Email</label>
-                      <input
-                        type="email"
-                        id="email"
-                        name="email"
-                        placeholder="Your Email"
-                      />
-                    </div>
-                  </div>
-                  <div class="input-row">
-                    <div class="input-group">
-                      <label for="phone_number">Phone Number</label>
-                      <input
-                        id="phone_number"
-                        type="text"
-                        name="phone_number"
-                        placeholder="Eg: +91 1233****"
-                      />
-                    </div>
-
-                    <div class="input-group">
-                      <label for="country">Country</label>
-                      <input
-                        type="text"
-                        id="homeland"
-                        name="country"
-                        placeholder="Your Country"
-                      />
-                    </div>
-                  </div>
-                  <div class="input-row">
-                    <div class="input-group">
-                      <label for="email">Organization Name</label>
-                      <input
-                        type="text"
-                        id="email"
-                        name="email"
-                        placeholder="Enter organization name"
-                      />
-                    </div>
-                  </div>
-                  <div class="input-row">
-                    <div class="input-group">
-                      <label for="message">Message</label>
-                      <textarea
-                        name="message"
-                        id="message"
-                        placeholder="Leave us a message...."
-                      ></textarea>
-                    </div>
-                  </div>
-                  <div class="input-row">
-                    <div class="input-group input-checkbox">
-                      <input type="checkbox" id="privacy_policy_accept" />
-                      <label for="privacy_policy_accept"
-                        >You agree to our
-                        <a href="#">terms and conditions.</a></label
-                      >
-                    </div>
-                  </div>
-
-                  <div class="input-row">
-                    <div class="input-group">
-                      <button id="submit" class="theme-btn">Get Started</button>
-                    </div>
-                  </div>
-                  <!-- Alert Message -->
-                  <div class="input-row">
-                    <div class="input-group alert-notification">
-                      <div id="alert-message" class="alert-msg"></div>
-                    </div>
-                  </div>
-                </form>
+                <div class="input-group">
+                  <label for="country">Country</label>
+                  <input type="text" id="homeland" name="country" placeholder="Your Country" />
+                </div>
               </div>
+              <div class="input-row">
+                <div class="input-group">
+                  <label for="email">Organization Name</label>
+                  <input type="text" id="email" name="email" placeholder="Enter organization name" />
+                </div>
+              </div>
+              <div class="input-row">
+                <div class="input-group">
+                  <label for="message">Message</label>
+                  <textarea name="message" id="message" placeholder="Leave us a message...."></textarea>
+                </div>
+              </div>
+              <div class="input-row">
+                <div class="input-group input-checkbox">
+                  <input type="checkbox" id="privacy_policy_accept" />
+                  <label for="privacy_policy_accept">You agree to our
+                    <a href="#">terms and conditions.</a></label>
+                </div>
+              </div>
+
+              <div class="input-row">
+                <div class="input-group">
+                  <button id="submit" class="theme-btn">Get Started</button>
+                </div>
+              </div>
+              <!-- Alert Message -->
+              <div class="input-row">
+                <div class="input-group alert-notification">
+                  <div id="alert-message" class="alert-msg"></div>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <div class="contact-experience">
+          <ul>
+            <li>
+              <h1>22+ <span>Years</span></h1>
+              <p>Field Experience</p>
+            </li>
+            <li>
+              <h1>950+ <span>Projects</span></h1>
+              <p>Done Around World</p>
+            </li>
+            <li>
+              <h1>99%</h1>
+              <p>Client Satisfaction</p>
+            </li>
+            <li>
+              <h1>1995+ <span>Year</span></h1>
+              <p>Established On</p>
+            </li>
+            <li>
+              <h1>2 <span>Mins</span></h1>
+              <p>Response Time</p>
+            </li>
+          </ul>
+        </div>
+
+        <div class="contact-infos">
+          <div class="contact-infos-inner">
+            <div class="contact-info">
+              <img src="../assets/imgs/support-icon.svg" alt="Support" />
+              <h3>Contact Info</h3>
+              <p>
+                +91 8217460923 <br />
+                support@toolfe.com
+              </p>
             </div>
-
-            <div class="contact-experience">
-              <ul>
-                <li>
-                  <h1>22+ <span>Years</span></h1>
-                  <p>Field Experience</p>
-                </li>
-                <li>
-                  <h1>950+ <span>Projects</span></h1>
-                  <p>Done Around World</p>
-                </li>
-                <li>
-                  <h1>99%</h1>
-                  <p>Client Satisfaction</p>
-                </li>
-                <li>
-                  <h1>1995+ <span>Year</span></h1>
-                  <p>Established On</p>
-                </li>
-                <li>
-                  <h1>2 <span>Mins</span></h1>
-                  <p>Response Time</p>
-                </li>
-              </ul>
-            </div>
-
-            <div class="contact-infos">
-              <div class="contact-infos-inner">
-                <div class="contact-info">
-                  <img src="../assets/imgs/support-icon.svg" alt="Support" />
-                  <h3>Contact Info</h3>
-                  <p>
-                    +91 8217460923 <br />
-                    support@toolfe.com
-                  </p>
-                </div>
-                <div class="contact-office-info contact-info">
-                  <img src="../assets/imgs/map-icon.svg" alt="Map" />
-                  <h3>Visit our office</h3>
-                  <p>
-                    12, HP Complex , Habibullah Road, T Nagar, Chennai - 600017<
-                    /p>
-                  </p>
-                </div>
-
-                <ul class="contact-social-links">
+            <div class="contact-office-info contact-info">
+              <img src="../assets/imgs/map-icon.svg" alt="Map" />
+              <h3>Visit our office</h3>
+              <p>
+                12, HP Complex , Habibullah Road, T Nagar, Chennai - 600017< /p> </p> </div> <ul
+                  class="contact-social-links">
                   <li>
                     <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i
-                        class="la-mail"
-                      ></i>
+                      <?xml version="1.0" encoding="UTF-8"?><i class="la-mail"></i>
                       Dribbble
                     </a>
                   </li>
                   <li>
                     <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i
-                        class="iconoir-twitter"
-                      ></i>
+                      <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-twitter"></i>
                       Twitter
                     </a>
                   </li>
                   <li>
                     <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i
-                        class="iconoir-instagram"
-                      ></i>
+                      <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-instagram"></i>
                       Instagram
                     </a>
                   </li>
                   <li>
                     <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i
-                        class="iconoir-linkedin"
-                      ></i>
+                      <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-linkedin"></i>
                       linkedin
                     </a>
                   </li>
-                </ul>
-              </div>
+                  </ul>
             </div>
           </div>
         </div>
-      </section>
+      </div>
+  </section>
 
-     <!-- Footer -->
-     <?php include '../includes/foot.php';  ?>
+  <!-- Footer -->
+  <?php include '../includes/foot.php';  ?>
 
-    </main>
-    <?php
+</main>
+<?php
     include '../includes/footer.php'
     ?>

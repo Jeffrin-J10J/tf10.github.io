@@ -112,7 +112,7 @@ include '../includes/header.php'
         </div>
         <div class="news-item card-h1">
           <div class="news-img-box">
-            <img src="../assets/imgs/casestudy/cs_cv_thumb.png" alt="Case Studie" />
+            <img src="../assets/imgs/casestudy/cv_thumbnail_index.png" alt="Case Studie" />
           </div>
           <div class="news-item-body">
             <h5 class="section-subtitle">Computer Vision</h5>

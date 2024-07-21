@@ -28,7 +28,7 @@ include '../includes/header.php'
           </p>
         </div>
         <div class="img-box">
-          <img src="../assets/imgs/casestudy/cs4_hero1.png" alt="Blog" />
+          <img src="../assets/imgs/casestudy/cv_thumbnail_hero.png" alt="Blog" />
         </div>
       </div>
     </div>
