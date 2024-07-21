@@ -22,7 +22,7 @@
 
                 <div class="input-group">
                     <label for="last_name">Company Name</label>
-                    <input type="text" placeholder="Eg. Microsoft" id="last_name" name="company" />
+                    <input type="text" placeholder="Eg. Microsoft" id="company_name" name="company" />
                 </div>
             </div>
             <div class="input-row field">
