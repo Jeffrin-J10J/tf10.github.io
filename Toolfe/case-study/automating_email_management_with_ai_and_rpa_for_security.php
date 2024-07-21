@@ -185,7 +185,7 @@ include '../includes/header.php'
     </div>
   </section>
 
-  <section class="our-team-area">
+  <section style="margin-top: 100px;">
     <div class="custom-container">
       <div class="section-header d-flex align-items-end justify-content-between w-full">
         <div class="left">

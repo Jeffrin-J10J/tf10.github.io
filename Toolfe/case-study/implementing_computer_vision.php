@@ -193,7 +193,7 @@ include '../includes/header.php'
     </div>
   </section>
 
-  <section class="our-team-area">
+  <section style="margin-top: 100px;">
     <div class="custom-container">
       <div class="section-header d-flex align-items-end justify-content-between w-full">
         <div class="left">
@@ -259,28 +259,28 @@ include '../includes/header.php'
           <div class="feature3-lists">
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/ProcessAutomation.php">Process Automation</a>
               </h3>
               <p>Automate complex processes to increase efficiency.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/AIMLPage.php"> Generative AI & ML</a>
               </h3>
               <p>Drive innovation with AI and ML technologies.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/SoftwareDevelopment.php">Software Development</a>
               </h3>
               <p>Develop custom software tailored to your needs.</p>
             </div>
             <div class="feature-box">
               <i class="icon-box las la-check"></i>
-              <h3>
+              <h3 class="contact-text">
                 <a href="../services/WebDevelopment.php">Web Development </a>
               </h3>
               <p>
