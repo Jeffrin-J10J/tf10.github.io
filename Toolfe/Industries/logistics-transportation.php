@@ -585,133 +585,7 @@ include '../includes/header.php'
   <?php include '../includes/testimonials.php' ?>
 
   <!-- Contact -->
-  <section class="contact-area">
-    <div class="custom-container">
-      <div class="custom-row">
-        <div class="contact-form-wrap">
-          <div class="contact-form-body">
-            <h5 class="section-subtitle">Contact</h5>
-            <h1 class="section-title">Lets get in touch</h1>
-            <p>
-              You can reach us anytime via
-              <a href="mailto:bluebase@mail.com">support@toolfe.com</a>
-            </p>
-            <form action="https://wpriverthemes.com/HTML/synck/../assets/mail/contact.php" method="POST"
-              class="contact-form">
-              <div class="input-row">
-                <div class="input-group">
-                  <label for="first_name">First Name</label>
-                  <input id="first_name" type="text" name="first_name" placeholder="First Name" />
-                </div>
-                <div class="input-group">
-                  <label for="last_name">Last Name</label>
-                  <input id="last_name" type="text" name="last_name" placeholder="Last Name" />
-                </div>
-              </div>
-              <div class="input-row">
-                <div class="input-group">
-                  <label for="email">Email</label>
-                  <input type="email" id="email" name="email" placeholder="Your Email" />
-                </div>
-              </div>
-              <div class="input-row">
-                <div class="input-group">
-                  <label for="phone_number">Phone Number</label>
-                  <input id="phone_number" type="text" name="phone_number" placeholder="Eg: +91 1233****" />
-                </div>
-
-                <div class="input-group">
-                  <label for="country">Country</label>
-                  <input type="text" id="homeland" name="country" placeholder="Your Country" />
-                </div>
-              </div>
-              <div class="input-row">
-                <div class="input-group">
-                  <label for="email">Organization Name</label>
-                  <input type="text" id="email" name="email" placeholder="Enter organization name" />
-                </div>
-              </div>
-              <div class="input-row">
-                <div class="input-group">
-                  <label for="message">Message</label>
-                  <textarea name="message" id="message" placeholder="Leave us a message...."></textarea>
-                </div>
-              </div>
-              <div class="input-row">
-                <div class="input-group input-checkbox">
-                  <input type="checkbox" id="privacy_policy_accept" />
-                  <label for="privacy_policy_accept">You agree to our
-                    <a href="#">terms and conditions.</a></label>
-                </div>
-              </div>
-
-              <div class="input-row">
-                <div class="input-group">
-                  <button id="submit" class="theme-btn">Get Started</button>
-                </div>
-              </div>
-              <!-- Alert Message -->
-              <div class="input-row">
-                <div class="input-group alert-notification">
-                  <div id="alert-message" class="alert-msg"></div>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-
-        <div class="contact-experience">
-          <ul>
-            <li>
-              <h1>22+ <span>Years</span></h1>
-              <p>Field Experience</p>
-            </li>
-            <li>
-              <h1>950+ <span>Projects</span></h1>
-              <p>Done Around World</p>
-            </li>
-            <li>
-              <h1>99%</h1>
-              <p>Client Satisfaction</p>
-            </li>
-            <li>
-              <h1>1995+ <span>Year</span></h1>
-              <p>Established On</p>
-            </li>
-            <li>
-              <h1>2 <span>Mins</span></h1>
-              <p>Response Time</p>
-            </li>
-          </ul>
-        </div>
-
-<<<<<<< Updated upstream
-        <div class="contact-infos">
-          <div class="contact-infos-inner">
-            <div class="contact-info">
-              <img src="../assets/imgs/support-icon.svg" alt="Support" />
-              <h3>Contact Info</h3>
-              <p>
-                +91 8217460923 <br />
-                support@toolfe.com
-              </p>
-            </div>
-            <div class="contact-office-info contact-info">
-              <img src="../assets/imgs/map-icon.svg" alt="Map" />
-              <h3>Visit our office</h3>
-              <p>
-                12, HP Complex , Habibullah Road, T Nagar, Chennai - 600017< /p> </p> </div> <ul
-                  class="contact-social-links">
-                  <li>
-                    <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i class="la-mail"></i>
-                      Dribbble
-=======
-      <!-- Testimonial Section -->
-      <?php include '../includes/testimonials.php' ?>
-
-      <!-- Contact -->
-      <section class="contact-area" >
+  <section class="contact-area" >
         <div class="custom-container">
           <div class="custom-row">
             <div class="contact-form-wrap">
@@ -839,38 +713,20 @@ include '../includes/header.php'
                     <a href="mailto:support@toolfe.com">
                       <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-mail"></i>
                       Email
->>>>>>> Stashed changes
                     </a>
                   <li>
-<<<<<<< Updated upstream
-                    <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-twitter"></i>
-                      Twitter
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-instagram"></i>
-                      Instagram
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-=======
                     <a href="https://in.linkedin.com/company/toolfe">
->>>>>>> Stashed changes
                       <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-linkedin"></i>
                       linkedin
                     </a>
                   </li>
-                  </ul>
+                </ul>
+              </div>
             </div>
 
           </div>
         </div>
-      </div>
-  </section>
-
+      </section>
   <!-- Footer -->
   <?php include '../includes/foot.php';  ?>
 
