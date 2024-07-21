@@ -125,7 +125,7 @@ include '../includes/header.php'
                             <p>AI Solutions Crafted for Your Specific Requirements.</p>
 
                         </div>
-                        <div class="portfolio-img">
+                        <div class="portfolio-img" style="height: 330px;">
                             <img src="../assets/imgs/services/aibento/aibento4.png" alt="Portfolio" />
                         </div>
                     </div>
@@ -145,7 +145,7 @@ include '../includes/header.php'
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-1 card-h">
-                        <div class="portfolio-img">
+                        <div class="portfolio-img" style="height: 220px">
                             <img src="../assets/imgs/services/aibento/aibento5.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
@@ -178,7 +178,7 @@ include '../includes/header.php'
                             <p>Enhancing AI for seamless operational assistance.</p>
 
                         </div>
-                        <div class="portfolio-img" style="height: 200px;">
+                        <div class="portfolio-img" style="height: 280px;">
                             <img src="../assets/imgs/services/aibento/aibento6.png" alt="Portfolio" />
                         </div>
                     </div>

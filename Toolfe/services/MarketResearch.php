@@ -147,7 +147,7 @@ include '../includes/header.php'
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-1 card-h">
-                        <div class="portfolio-img">
+                        <div class="portfolio-img" style="height: 250px">
                             <img src="../assets/imgs/services/marketbento/4.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">
@@ -324,24 +324,24 @@ include '../includes/header.php'
         <div class="custom-container">
             <div class="hero-company-boxes">
                 <div class="hero-company-box simple-shadow">
-                    <h1>50%</h1>
-                    <h3>Efficiency Boost</h3>
+                    <h1>94%</h1>
+                    <h3><br>Market Driven Sucess</h3>
                     <p>Automate repetitive tasks to save time and resources.</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
-                    <h1>30%</h1>
-                    <h3>Cost Reduction</h3>
-                    <p>Improved efficiency by reducing email processing time.</p>
+                    <h1>89%</h1>
+                    <h3><br>Research Validation</h3>
+                    <p>Executes rely on market research to validate businesss trategies</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
-                    <h1>95%</h1>
-                    <h3>Error Reduction</h3>
-                    <p>Minimize human errors with automated processes.</p>
+                    <h1>82%</h1>
+                    <h3><br>Decision Enhancement</h3>
+                    <p>Business say strategic maegt research helps them make better decisions</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
-                    <h1>24/7</h1>
-                    <h3>Operations</h3>
-                    <p>Ensure round-the-clock productivity with automation.</p>
+                    <h1>76%</h1>
+                    <h3><br>Growth Through Research</h3>
+                    <p>Companies report increased profitability after implmenting market research</p>
                 </div>
             </div>
         </div>

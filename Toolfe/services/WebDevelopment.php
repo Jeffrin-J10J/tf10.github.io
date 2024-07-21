@@ -191,8 +191,8 @@ include '../includes/header.php'
                             <p>We provide continuous support to ensure your website evolves seamlessly.</p>
 
                         </div>
-                        <div class="portfolio-img" style="height: 192px;">
-                            <img src="../assets/imgs/services/website bento/6.png" alt="Portfolio" />
+                        <div class="portfolio-img" style="height: 240px;">
+                            <img src="../assets/imgs/services/web6.png" alt="Portfolio" />
                         </div>
                     </div>
 

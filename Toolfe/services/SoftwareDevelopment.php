@@ -135,7 +135,7 @@ include '../includes/header.php'
                         </div>
                     </div>
                     <div class="portfolio-card portfolio-card-1 card-h">
-                        <div class="portfolio-img" style="height: 280px" ;>
+                        <div class="portfolio-img" style="height: 260px" ;>
                             <img src="../assets/imgs/services/software devbento/4.png" alt="Portfolio" />
                         </div>
                         <div class="portfolio-body">

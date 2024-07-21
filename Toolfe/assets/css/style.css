@@ -3099,7 +3099,7 @@ img {
   content: "";
   height: calc(100% + 68px);
   /* border-left: 1px dashed var(--primary_color); */
-  background: url(../imgs/line-shape-4.png) no-repeat;
+  background: url(../imgs/linet.svg) no-repeat;
   background-size: cover;
   width: 1px;
   position: absolute;

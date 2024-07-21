@@ -120,10 +120,9 @@ include '../includes/header.php'
                     <div class="portfolio-card portfolio-card-2 card-h">
                         <div class="portfolio-body">
                             <h2>Customized<br>
-                                Automation <br>
+                                Automation
                                 </a></h2>
-                            <p>Deploy custom automation tools that fit perfectly with your organizational processes.</p>
-                            <br><br>
+                            <p>Deploy custom tools that perfectly fit with your processes</p>
                         </div>
                         <div class="portfolio-img">
                             <img src="../assets/imgs/services/processautomationbento/2.png" alt="Portfolio" />

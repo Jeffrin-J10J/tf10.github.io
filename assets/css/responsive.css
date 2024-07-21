@@ -4292,7 +4292,7 @@
     .how-we-do-card
     .line-shape {
     height: 131px;
-    background-image: url(../imgs/line-shape-3.png);
+    background-image: url(../imgs/line-shape-3.png\);
     background-repeat: round;
     width: 200px;
     right: -30px;
