@@ -202,7 +202,7 @@ Informs decisions through sentiment and feedback analysis.</p>
                 </div>
 
                 <div class="slide-btn" id="slide-btn">
-                    <div  class="ball" id="ball"></div>
+                    <div  class="ball" id="ball"></div>x    
                     <h4>Slide to book an appointment</h4>
                 </div>
 
@@ -344,8 +344,7 @@ Informs decisions through sentiment and feedback analysis.</p>
             <div class="hero-company-box simple-shadow">
                 <h1>96%</h1>
                 <h3><br>Risk <br> Management</h3>
-                <p>Improved risk management through proactive data analysis 
-                    and forecasting.</p>
+                <p>Improved risk management through proactive analysis and forecast</p>
             </div>
         </div>
 </div>

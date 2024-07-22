@@ -340,25 +340,23 @@ include '../includes/header.php'
                 <div class="hero-company-box simple-shadow">
                     <h1 class="mb-5">92%</h1>
                     <h3><br> Web<br> Impression </h3>
-                    <p>Automating repetitive tasks saves time
-                        and boosts productivity.</p>
+                    <p>Consumers base their initial impression of a company on its website's design.</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
                     <h1 class="mb-5">87%</h1>
                     <h3><br> Intuitive<br> Design</h3>
-                    <p>Well-Designed websites boost brand perception and trust.</p>
+                    <p> Businesses consider a well-designed website crucial for perception and trust.</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
                     <h1 class="mb-5">76%</h1>
-                    <h3><br>Automation<br>Activities</h3>
-                    <p>30% of activities in 60% of jobs
-                        are <br> automatable</p>
+                    <h3><br>Ease of <br>  Use</h3>
+                    <p>Users say ease of navigation is the most important
+feature of a website.</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
-                    <h1 class="mb-5">40%</h1>
-                    <h3><br>Error <br> Reduction</h3>
-                    <p>Automation can significantly reduce
-                        error in processes.</p>
+                    <h1 class="mb-5">68%</h1>
+                    <h3><br>User <br>  Friendly</h3>
+                    <p>Users prefer websites that are mobile-friendly and responsive.</p>
                 </div>
             </div>
         </div>
