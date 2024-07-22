@@ -185,9 +185,8 @@ include '../includes/header.php'
           <h5 class="section-subtitle">Tech Stack</h5>
           <h1 class="section-title">Technology Behind Our Solutions</h1>
           <p>
-            We leverage a diverse and powerful technology stack to deliver
-            robust, efficient, and scalable solutions for our clients. Our
-            expertise spans across various cutting-edge tools and platforms.
+            We use a diverse and powerful technology stack to provide robust, efficient, and scalable solutions for our
+            clients. Our expertise covers various advanced tools and platforms
           </p>
         </div>
         <div class="right">
@@ -205,41 +204,39 @@ include '../includes/header.php'
         <div class="left">
           <h5 class="section-subtitle">RESULTS</h5>
           <h1 class="section-title">
-            Transforming Deployment Efficiency with Automated Solutions
+            Enhancing Deployment Efficiency with Automation
           </h1>
         </div>
 
         <p>
-          Our automated deployment system revolutionizes cloud operations by
-          streamlining processes, reducing deployment times by up to 80%,
-          optimizing resource allocation, and enhancing scalability for
-          seamless business growth.
+          Our automated system revolutionizes cloud operations, cutting deployment times by 80%, optimizing resources,
+          and enhancing scalability for growth.
         </p>
       </div>
 
-      <div class="hero-company-boxes">
-        <div class="hero-company-box simple-shadow">
-          <h1>80%</h1>
-          <h3><br>Reduction in Deployment Time</h3>
-          <p>
-            Achieved significant accuracy enhancement in fruit ripeness
-            detection.
-          </p>
-        </div>
-        <div class="hero-company-box simple-shadow">
-          <h1>30%</h1>
-          <h3><br>Cost Savings</h3>
-          <p>Reduces operational costs related to deployment activities.</p>
-        </div>
-        <div class="hero-company-box simple-shadow">
-          <h1>40%</h1>
-          <h3><br>Enhanced Productivity</h3>
-          <p>reduction in time spent on routine deployment tasks</p>
-        </div>
+      <div class="hero-company-boxes" style="margin-top: 50px;">
         <div class="hero-company-box simple-shadow">
           <h1>99%</h1>
-          <h3><br>Accuracy in Deployment</h3>
-          <p>Ensures consistent and error-free deployments.</p>
+          <h3><br>Automating Cloud Deployment</h3>
+          <p>
+            Achieved accurate automated feature deployments.
+          </p>
+        </div>
+
+        <div class="hero-company-box simple-shadow">
+          <h1>4X</h1>
+          <h3><br>Faster Portal Access</h3>
+          <p>Increased speed of accessing user and admin portals efficiently.</p>
+        </div>
+        <div class="hero-company-box simple-shadow">
+          <h1>80%</h1>
+          <h3><br>Deployment Error Reduction</h3>
+          <p>Reduced errors in the deployment process with automation.</p>
+        </div>
+        <div class="hero-company-box simple-shadow">
+          <h1>10X</h1>
+          <h3><br>Faster Client Onboarding</h3>
+          <p>Accelerated onboarding process for new clients with automation.</p>
         </div>
       </div>
     </div>
@@ -387,35 +384,34 @@ include '../includes/header.php'
 
     <div class="custom-container">
 
-        <div class="hero-contact-form-wrap">
+      <div class="hero-contact-form-wrap">
 
-            <div class="hero-contact-form-inner-wrap">
-                <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
+        <div class="hero-contact-form-inner-wrap">
+          <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
 
+          </div>
+
+          <h5 class="section-subtitle text-center">Contact us</h5><br>
+          <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+
+          <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
+            <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
+            </p>
+
+            <a href="#" class="our-expert-team-box d-flex align-items-center">
+              <div class="our-expert-team-box-inner d-flex align-items-center">
+                <div class="imgs d-flex align-items-center">
+                  <img src="../assets/imgs/small-img-4.png" alt="team" />
                 </div>
+                <p><span>We will reachout to you in less than</span> 15 Hours</p>
+              </div>
+            </a>
+          </div>
 
-                <h5 class="section-subtitle text-center">Contact us</h5><br>
-                <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+          <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
 
-                <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
-                    <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
-                    </p>
-
-                    <a href="#" class="our-expert-team-box d-flex align-items-center">
-                        <div class="our-expert-team-box-inner d-flex align-items-center">
-                            <div class="imgs d-flex align-items-center">
-                                <img src="../assets/imgs/small-img-4.png" alt="team" />
-                            </div>
-                            <p><span>We will reachout to you in less than</span> 15 Hours</p>
-                        </div>
-                    </a>
-                </div>
-
-                <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
-
-
-            </div>
         </div>
+      </div>
     </div>
   </section>
 

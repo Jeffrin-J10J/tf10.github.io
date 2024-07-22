@@ -21,7 +21,7 @@ include '../includes/header.php'
                 color: #141414;
                 text-decoration: underline;
                 font-weight: bolder;
-              ">Challenges:</span>
+              ">Challenges: </span>
             The Security Department's five FTEs were inundated by hundreds of
             daily emails, requiring manual processing, causing inefficiencies
             and delays due to workload and human errors.
@@ -171,9 +171,8 @@ include '../includes/header.php'
           <h5 class="section-subtitle">Tech Stack</h5>
           <h1 class="section-title">Technology Behind Our Solutions</h1>
           <p>
-            We leverage a diverse and powerful technology stack to deliver
-            robust, efficient, and scalable solutions for our clients. Our
-            expertise spans across various cutting-edge tools and platforms.
+            We use a diverse and powerful technology stack to provide robust, efficient, and scalable solutions for our
+            clients. Our expertise covers various advanced tools and platforms
           </p>
         </div>
         <div class="right">
@@ -194,36 +193,33 @@ include '../includes/header.php'
             Quantifiable Benefits of <br />Automated Email Management
           </h1>
         </div>
-
         <p>
-          Discover how advanced technologies optimize workflows and boost
-          efficiency through innovative AI model development and RPA
-          implementations, delivering transformative results.
+          Explore the quantifiable benefits of automated email management, optimizing workflows and boosting efficiency
+          through innovative AI model development.
         </p>
       </div>
 
-      <div class="hero-company-boxes">
+      <div class="hero-company-boxes" style="margin-top: 50px;">
         <div class="hero-company-box simple-shadow">
-          <h1>60%</h1>
-          <h3>Workload Reduction</h3>
-          <p>Reduced manual workload by automating email assignment.</p>
+          <h1>65%</h1>
+          <h3><br>Workload Reduction</h3>
+          <p>Reduced manual workload by automating email reading and assignment.</p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>80%</h1>
-          <h3>Email Processing Time</h3>
-          <p>Improved efficiency by reducing email processing time.</p>
+          <h1>75%</h1>
+          <h3><br>Faster Response Time</h3>
+          <p>Improved response time by automating the email handling process</p>
         </div>
         <div class="hero-company-box simple-shadow">
           <h1>96%</h1>
-          <h3>Accuracy of Cases</h3>
-          <p>Enhanced operational accuracy in assigning cases.</p>
+          <h3><br>Case Assignment Accuracy</h3>
+          <p>Enhanced accuracy in assigning cases to the appropriate departments.</p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>60%</h1>
-          <h3>Scalability Efficiency</h3>
+          <h1>85%</h1>
+          <h3><br>Reduction in<br> Errors</h3>
           <p>
-            Enhanced scalability handling increased email volumes without more
-            staff.
+            Reduced errors from manual email processing and case assignment.
           </p>
         </div>
       </div>
@@ -373,35 +369,34 @@ include '../includes/header.php'
 
     <div class="custom-container">
 
-        <div class="hero-contact-form-wrap">
+      <div class="hero-contact-form-wrap">
 
-            <div class="hero-contact-form-inner-wrap">
-                <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
+        <div class="hero-contact-form-inner-wrap">
+          <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
 
+          </div>
+
+          <h5 class="section-subtitle text-center">Contact us</h5><br>
+          <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+
+          <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
+            <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
+            </p>
+
+            <a href="#" class="our-expert-team-box d-flex align-items-center">
+              <div class="our-expert-team-box-inner d-flex align-items-center">
+                <div class="imgs d-flex align-items-center">
+                  <img src="../assets/imgs/small-img-4.png" alt="team" />
                 </div>
+                <p><span>We will reachout to you in less than</span> 15 Hours</p>
+              </div>
+            </a>
+          </div>
 
-                <h5 class="section-subtitle text-center">Contact us</h5><br>
-                <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+          <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
 
-                <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
-                    <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
-                    </p>
-
-                    <a href="#" class="our-expert-team-box d-flex align-items-center">
-                        <div class="our-expert-team-box-inner d-flex align-items-center">
-                            <div class="imgs d-flex align-items-center">
-                                <img src="../assets/imgs/small-img-4.png" alt="team" />
-                            </div>
-                            <p><span>We will reachout to you in less than</span> 15 Hours</p>
-                        </div>
-                    </a>
-                </div>
-
-                <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
-
-
-            </div>
         </div>
+      </div>
     </div>
   </section>
   <!-- Footer -->

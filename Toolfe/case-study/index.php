@@ -95,7 +95,7 @@ include '../includes/header.php'
                 Company</a>
             </h1>
             <p>
-              branding strategies and enhanced customer portals for
+              Branding strategies and enhanced customer portals for
               streamlined interactions and efficient<br />
               project management.
             </p>
@@ -190,35 +190,35 @@ include '../includes/header.php'
 
     <div class="custom-container">
 
-        <div class="hero-contact-form-wrap">
+      <div class="hero-contact-form-wrap">
 
-            <div class="hero-contact-form-inner-wrap">
-                <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
+        <div class="hero-contact-form-inner-wrap">
+          <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
 
+          </div>
+
+          <h5 class="section-subtitle text-center">Contact us</h5><br>
+          <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+
+          <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
+            <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
+            </p>
+
+            <a href="#" class="our-expert-team-box d-flex align-items-center">
+              <div class="our-expert-team-box-inner d-flex align-items-center">
+                <div class="imgs d-flex align-items-center">
+                  <img src="../assets/imgs/small-img-4.png" alt="team" />
                 </div>
+                <p><span>We will reachout to you in less than</span> 15 Hours</p>
+              </div>
+            </a>
+          </div>
 
-                <h5 class="section-subtitle text-center">Contact us</h5><br>
-                <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
-
-                <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
-                    <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
-                    </p>
-
-                    <a href="#" class="our-expert-team-box d-flex align-items-center">
-                        <div class="our-expert-team-box-inner d-flex align-items-center">
-                            <div class="imgs d-flex align-items-center">
-                                <img src="../assets/imgs/small-img-4.png" alt="team" />
-                            </div>
-                            <p><span>We will reachout to you in less than</span> 15 Hours</p>
-                        </div>
-                    </a>
-                </div>
-
-                <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
+          <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
 
 
-            </div>
         </div>
+      </div>
     </div>
   </section>
 

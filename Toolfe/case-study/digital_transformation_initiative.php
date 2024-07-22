@@ -185,9 +185,7 @@ include '../includes/header.php'
           <h5 class="section-subtitle">Tech Stack</h5>
           <h1 class="section-title">Technology Behind Our Solutions</h1>
           <p>
-            We leverage a diverse and powerful technology stack to deliver
-            robust, efficient, and scalable solutions for our clients. Our
-            expertise spans across various cutting-edge tools and platforms.
+            We use a diverse and powerful technology stack to provide robust, efficient, and scalable solutions for our clients. Our expertise covers various advanced tools and platforms.
           </p>
         </div>
         <div class="right">
@@ -211,33 +209,30 @@ include '../includes/header.php'
         </div>
 
         <p>
-          Our automated deployment system revolutionizes cloud operations by
-          streamlining processes, reducing deployment times by up to 80%,
-          optimizing resource allocation, and enhancing scalability for
-          seamless business growth.
+          Our digital transformation initiative for a construction company focuses on digitizing operations, enhancing the brand, delivering cost-effective solutions, and increasing customer engagement.
         </p>
       </div>
 
-      <div class="hero-company-boxes">
+      <div class="hero-company-boxes" style="margin-top: 50px;">
         <div class="hero-company-box simple-shadow">
-          <h1>80%</h1>
-          <h3>Process Digitization</h3>
-          <p>Streamlined operations through digital transformation..</p>
+          <h1>90%</h1>
+          <h3><br>Process<br> Digitization</h3>
+          <p>Successfully digitized a large portion of operational processes.</p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>30%</h1>
-          <h3>Improved Efficiency</h3>
-          <p>Enhanced operational efficiency with automated solutions.</p>
+          <h1>3X</h1>
+          <h3><br>Faster Invoice Processing</h3>
+          <p>Accelerated invoice processing time with advanced automation.</p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>45%</h1>
-          <h3>Customer Success</h3>
-          <p>Improved client interactions and satisfaction.</p>
+          <h1>84%</h1>
+          <h3><br>Increase in Online Engagement</h3>
+          <p>Boosted online engagement through a responsive website</p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>40%</h1>
-          <h3>Cost Reduction</h3>
-          <p>Decreased costs and time spent on invoice processing.</p>
+          <h1>78%</h1>
+          <h3><br>Enhanced Brand Visibility</h3>
+          <p>Increased brand visibility through targeted digital campaigns.</p>
         </div>
       </div>
     </div>
@@ -385,35 +380,35 @@ include '../includes/header.php'
 
     <div class="custom-container">
 
-        <div class="hero-contact-form-wrap">
+      <div class="hero-contact-form-wrap">
 
-            <div class="hero-contact-form-inner-wrap">
-                <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
+        <div class="hero-contact-form-inner-wrap">
+          <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
 
+          </div>
+
+          <h5 class="section-subtitle text-center">Contact us</h5><br>
+          <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+
+          <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
+            <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
+            </p>
+
+            <a href="#" class="our-expert-team-box d-flex align-items-center">
+              <div class="our-expert-team-box-inner d-flex align-items-center">
+                <div class="imgs d-flex align-items-center">
+                  <img src="../assets/imgs/small-img-4.png" alt="team" />
                 </div>
+                <p><span>We will reachout to you in less than</span> 15 Hours</p>
+              </div>
+            </a>
+          </div>
 
-                <h5 class="section-subtitle text-center">Contact us</h5><br>
-                <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
-
-                <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
-                    <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
-                    </p>
-
-                    <a href="#" class="our-expert-team-box d-flex align-items-center">
-                        <div class="our-expert-team-box-inner d-flex align-items-center">
-                            <div class="imgs d-flex align-items-center">
-                                <img src="../assets/imgs/small-img-4.png" alt="team" />
-                            </div>
-                            <p><span>We will reachout to you in less than</span> 15 Hours</p>
-                        </div>
-                    </a>
-                </div>
-
-                <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
+          <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
 
 
-            </div>
         </div>
+      </div>
     </div>
   </section>
 
