@@ -98,7 +98,7 @@
 
                                                 <p>
                                                     Discover your future
-                                                    <a href="../career">We're hiring</a>
+                                                    <a href="../career"><span><b>We're hiring</b></span></a>
                                                 </p>
                                             </div>
                                         </div>
@@ -183,7 +183,7 @@
 
                                                 <p>
                                                     Discover your future
-                                                    <a href="../career">We're hiring</a>
+                                                    <a href="../career"><span><b>We're hiring</b></span></a>
                                                 </p>
                                             </div>
                                         </div>
@@ -258,7 +258,7 @@
 
                                                         <p>
                                                     Discover your future
-                                                    <a href="../career">We're hiring</a>
+                                                    <a href="../career"><span><b>We're hiring</b></span></a>
                                                 </p>
                                                     </div>
                                                 </div>
