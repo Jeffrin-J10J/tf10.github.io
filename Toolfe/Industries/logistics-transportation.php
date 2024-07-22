@@ -196,8 +196,7 @@ include '../includes/header.php'
               operational optimization
             </li>
             <li>
-              <i class="las la-check"></i> Predictive models for demand
-              forecasting and capacity planning
+              <i class="las la-check"></i> Predictive models for demand forecasting and planning
             </li>
             <li>
               <i class="las la-check"></i>Improved decision-making through
@@ -236,8 +235,7 @@ include '../includes/header.php'
               growing logistics needs
             </li>
             <li>
-              <i class="las la-check"></i> Enhanced collaboration and data
-              sharing among logistics professionals
+              <i class="las la-check"></i>Enhanced collaboration and data sharing in logistics.
             </li>
           </ul>
         </div>

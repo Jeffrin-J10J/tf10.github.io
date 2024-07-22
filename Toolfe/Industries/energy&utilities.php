@@ -128,8 +128,7 @@ include '../includes/header.php'
                   maintenance needs.
                 </li>
                 <li>
-                  <i class="las la-check"></i> Minimize downtime through
-                  proactive strategies.
+                  <i class="las la-check"></i> Minimize downtime through proactive  maintenance strategies.
                 </li>
                 <li>
                   <i class="las la-check"></i> Optimize asset performance with
@@ -192,8 +191,7 @@ include '../includes/header.php'
                   reporting.
                 </li>
                 <li>
-                  <i class="las la-check"></i>Reduce manual labor and associated
-                  errors.
+                  <i class="las la-check"></i>Reduce manual labor and minimize associated operational errors.
                 </li>
               </ul>
             </div>
