@@ -36,7 +36,7 @@ include '../includes/header.php'
               <h2>RPA Developer - <span>Automation</span></h2>
             </a>
             <p>Develop RPA solutions</p>
-            <div class="career-time">
+            <div class="career-time d-flex flex-column flex-md-row justify-content-start align-items-start">
               <span><i class="las la-clock"></i> 3 to 5 Years</span>
               <span><i class="las la-users"></i> 1 Open Positions </span>
               <span><i class="las la-calendar-week"></i> Valid till 10-08-2024
@@ -50,7 +50,7 @@ include '../includes/header.php'
               <h2>Data Scientist - <span>Data Analytics</span></h2>
             </a>
             <p>Analyze and interpret data</p>
-            <div class="career-time">
+            <div class="career-time d-flex flex-column flex-md-row justify-content-start align-items-start">
               <span><i class="las la-clock"></i> 1 to 3 Year</span>
               <span><i class="las la-users"></i> 1 Open Positions </span>
               <span><i class="las la-calendar-week"></i> Valid till 10-08-2024
@@ -64,7 +64,7 @@ include '../includes/header.php'
               <h2>MERN Stack Developer - <span>Web Development</span></h2>
             </a>
             <p>Build and maintain web apps</p>
-            <div class="career-time">
+            <div class="career-time d-flex flex-column flex-md-row justify-content-start align-items-start">
               <span><i class="las la-clock"></i> 2 to 4 Year</span>
               <span><i class="las la-users"></i> 1 Open Positions </span>
               <span><i class="las la-calendar-week"></i> Valid till 10-08-2024
@@ -78,7 +78,7 @@ include '../includes/header.php'
               <h2>SEO Intern - <span>Marketing</span></h2>
             </a>
             <p>Enhance search rankings</p>
-            <div class="career-time">
+            <div class="career-time d-flex flex-column flex-md-row justify-content-start align-items-start">
               <span><i class="las la-clock"></i> 0 to 1 Year</span>
               <span><i class="las la-users"></i> 1 Open Positions </span>
               <span><i class="las la-calendar-week"></i> Valid till 10-08-2024
