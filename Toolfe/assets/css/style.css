@@ -1162,7 +1162,7 @@ img {
 .hero-empowerment-area .custom-row {
   gap: 75px;
   padding-bottom: 124px;
-  border-bottom: 1px solid var(--gray);
+  /* border-bottom: 1px solid var(--gray); */
 }
 .hero-empowerment-area .custom-row * {
   margin: 0;
@@ -2995,7 +2995,7 @@ img {
 
 /* About */
 .about-area {
-  padding-top: 220px;
+  /* padding-top: 220px; */
   padding-bottom: 110px;
 }
 .about-area .custom-row {
