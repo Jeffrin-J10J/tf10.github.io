@@ -47,7 +47,7 @@ include '../includes/header.php'
           <h1 class="section-title">What We Aim to Achieve</h1>
           <ul>
             <li>
-              <h5>Automate Document Processing:</h5>
+              <h5>Automate Document Processing</h5>
             </li>
             <li>
               <h5>Integrate with Knowledge Base</h5>
@@ -173,9 +173,8 @@ include '../includes/header.php'
           <h5 class="section-subtitle">Tech Stack</h5>
           <h1 class="section-title">Technology Behind Our Solutions</h1>
           <p>
-            We leverage a diverse and powerful technology stack to deliver
-            robust, efficient, and scalable solutions for our clients. Our
-            expertise spans across various cutting-edge tools and platforms.
+            We use a diverse and powerful technology stack to provide robust, efficient, and scalable solutions for our
+            clients. Our expertise covers various advanced tools and platforms.
           </p>
         </div>
         <div class="right">
@@ -205,34 +204,33 @@ include '../includes/header.php'
         </p>
       </div>
 
-      <div class="hero-company-boxes">
+      <div class="hero-company-boxes" style="margin-top: 50px;">
         <div class="hero-company-box simple-shadow">
-          <h1>60%</h1>
-          <h3>Workload Reduction</h3>
-          <p>Reduced manual workload by automating document processing.</p>
-        </div>
-        <div class="hero-company-box simple-shadow">
-          <h1>75%</h1>
-          <h3>Query Response Time</h3>
-          <p>
-            mproved efficiency by reducing the time needed to answer
-            queries.
+          <h1>90%</h1>
+          <h3><br>Doc Processing Accuracy</h3>
+          <p>Achieved Superior Accuracy in Document Content Integration Solutions
+
           </p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>98%</h1>
-          <h3>Information Accuracy</h3>
+          <h1>78%</h1>
+          <h3><br>Decrease in Query Resolution Time</h3>
           <p>
-            Enhanced accuracy in retrieving and presenting document
-            information.
+            Reduced time taken to resolve employee queries with automated responses.
           </p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>63%</h1>
-          <h3>Scalability Efficiency</h3>
+          <h1>70%</h1>
+          <h3><br>Reduction in Support Costs</h3>
           <p>
-            Increased scalability handling more documents without additional
-            staff.
+            Lowered support costs by automating document processing and query responses
+          </p>
+        </div>
+        <div class="hero-company-box simple-shadow">
+          <h1>83%</h1>
+          <h3><br>Scalability Improvement</h3>
+          <p>
+            Managed increasing volumes of documents and queries without extra resources.
           </p>
         </div>
       </div>
@@ -380,35 +378,34 @@ include '../includes/header.php'
 
     <div class="custom-container">
 
-        <div class="hero-contact-form-wrap">
+      <div class="hero-contact-form-wrap">
 
-            <div class="hero-contact-form-inner-wrap">
-                <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
+        <div class="hero-contact-form-inner-wrap">
+          <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
 
+          </div>
+
+          <h5 class="section-subtitle text-center">Contact us</h5><br>
+          <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+
+          <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
+            <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
+            </p>
+
+            <a href="#" class="our-expert-team-box d-flex align-items-center">
+              <div class="our-expert-team-box-inner d-flex align-items-center">
+                <div class="imgs d-flex align-items-center">
+                  <img src="../assets/imgs/small-img-4.png" alt="team" />
                 </div>
+                <p><span>We will reachout to you in less than</span> 15 Hours</p>
+              </div>
+            </a>
+          </div>
 
-                <h5 class="section-subtitle text-center">Contact us</h5><br>
-                <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+          <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
 
-                <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
-                    <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
-                    </p>
-
-                    <a href="#" class="our-expert-team-box d-flex align-items-center">
-                        <div class="our-expert-team-box-inner d-flex align-items-center">
-                            <div class="imgs d-flex align-items-center">
-                                <img src="../assets/imgs/small-img-4.png" alt="team" />
-                            </div>
-                            <p><span>We will reachout to you in less than</span> 15 Hours</p>
-                        </div>
-                    </a>
-                </div>
-
-                <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
-
-
-            </div>
         </div>
+      </div>
     </div>
   </section>
 

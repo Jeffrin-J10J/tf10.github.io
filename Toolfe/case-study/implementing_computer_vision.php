@@ -179,9 +179,8 @@ include '../includes/header.php'
           <h5 class="section-subtitle">Tech Stack</h5>
           <h1 class="section-title">Technology Behind Our Solutions</h1>
           <p>
-            We leverage a diverse and powerful technology stack to deliver
-            robust, efficient, and scalable solutions for our clients. Our
-            expertise spans across various cutting-edge tools and platforms.
+            We use a diverse and powerful technology stack to provide robust, efficient, and scalable solutions for our
+            clients. Our expertise covers various advanced tools and platforms.
           </p>
         </div>
         <div class="">
@@ -212,29 +211,29 @@ include '../includes/header.php'
         </p>
       </div>
 
-      <div class="hero-company-boxes">
+      <div class="hero-company-boxes" style="margin-top: 50px;">
         <div class="hero-company-box simple-shadow">
-          <h1>70%</h1>
-          <h3>Accuracy Improvement</h3>
+          <h1>92%</h1>
+          <h3><br>Detection<br> Accuracy</h3>
           <p>
-            Achieved significant accuracy enhancement in fruit ripeness
-            detection.
+            Achieved precise identification of fruit ripeness accurately.
           </p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>50%</h1>
-          <h3>Reduction in Manual Inspection</h3>
-          <p>Streamlined fruit inspection processes, cutting labor costs.</p>
+          <h1>70%</h1>
+          <h3><br>Productivity<br> Boost</h3>
+          <p>Increased productivity by reallocating labor resources effectively.
+          </p>
         </div>
         <div class="hero-company-box simple-shadow">
           <h1>80%</h1>
-          <h3>Faster Decision-Making</h3>
-          <p>Improved efficiency with real-time data insights.</p>
+          <h3><br>Processing Time Reduction</h3>
+          <p>Reduced processing time significantly using computer vision.</p>
         </div>
         <div class="hero-company-box simple-shadow">
-          <h1>3X</h1>
-          <h3>Increased Scalability</h3>
-          <p>Handles 3x more inspections with no extra staff.</p>
+          <h1>65%</h1>
+          <h3><br>Manual Labor Reduction</h3>
+          <p>Cut down manual labor required for ripeness checks.</p>
         </div>
       </div>
     </div>
@@ -372,35 +371,34 @@ include '../includes/header.php'
 
     <div class="custom-container">
 
-        <div class="hero-contact-form-wrap">
+      <div class="hero-contact-form-wrap">
 
-            <div class="hero-contact-form-inner-wrap">
-                <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
+        <div class="hero-contact-form-inner-wrap">
+          <div class="mac-btns-wrap d-flex align-items-center justify-content-between">
 
+          </div>
+
+          <h5 class="section-subtitle text-center">Contact us</h5><br>
+          <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+
+          <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
+            <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
+            </p>
+
+            <a href="#" class="our-expert-team-box d-flex align-items-center">
+              <div class="our-expert-team-box-inner d-flex align-items-center">
+                <div class="imgs d-flex align-items-center">
+                  <img src="../assets/imgs/small-img-4.png" alt="team" />
                 </div>
+                <p><span>We will reachout to you in less than</span> 15 Hours</p>
+              </div>
+            </a>
+          </div>
 
-                <h5 class="section-subtitle text-center">Contact us</h5><br>
-                <h1 class="section-title text-center">Let's make AI work for you!</h1> <br><br>
+          <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
 
-                <div class="hero-contact-form-header d-flex align-items-center justify-content-between">
-                    <p>You can reach us anytime via <a href="mailto:support@toolfe.com">support@toolfe.com</a>
-                    </p>
-
-                    <a href="#" class="our-expert-team-box d-flex align-items-center">
-                        <div class="our-expert-team-box-inner d-flex align-items-center">
-                            <div class="imgs d-flex align-items-center">
-                                <img src="../assets/imgs/small-img-4.png" alt="team" />
-                            </div>
-                            <p><span>We will reachout to you in less than</span> 15 Hours</p>
-                        </div>
-                    </a>
-                </div>
-
-                <?php include '../includes/requestAQuoteForm-frontend.php';  ?>
-
-
-            </div>
         </div>
+      </div>
     </div>
   </section>
 
