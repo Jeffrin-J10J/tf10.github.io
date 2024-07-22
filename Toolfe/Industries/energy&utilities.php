@@ -19,10 +19,10 @@ include '../includes/header.php'
           />
           <div class="custom-container">
             <div class="hero-portfolio-body">
-              <div class="hero-section-content text-center">
+              <div class="hero-section-content text-center"style="margin-top:100px">
                 <h5 class="section-subtitle">Energy and Utilities</h5>
                 <h1 class="section-title fade-in">
-                  Innovations in Energy and Utilities
+                  Innovations in Energy <br>and Utilities
                 </h1>
                 <p>Enhancing Efficiency and Sustainability Across the Grid</p>
                 <a href="../contact/index.php" class="theme-simple-btn">
@@ -236,212 +236,6 @@ include '../includes/header.php'
         </div>
       </section>
 
-      <!-- blog -->
-      <!-- <section class="news-area">
-        <div class="custom-container">
-
-            <div class="sticky-news d-flex card-h1">
-                <div class="news-img-box">
-                    <img src="../../assets/imgs/case-studie-1.jpg" alt="Case Studie"/>
-                </div>
-                <div class="news-content">
-                    <h5 class="section-subtitle">MOBILE DEVELOPMENT</h5>
-                    <h1 class="section-title">
-                        <a href="case-studie-single.php">New software development for online
-                            E-commerce website</a>
-                    </h1>
-                    <p>The makers of AI have announced the company will be dedicating 20% of its compute processing power over the next four years</p>
-                    <ul>
-                        <li>
-                            <i class="las la-check"></i> Collaboration Tools
-                        </li>
-                        <li>
-                            <i class="las la-check"></i> Smart Reminders
-                        </li>
-                    </ul>
-                    <a href="case-studie-single.php" class="theme-btn">
-                        <i class="icon-right iconoir-arrow-up-right"></i>
-                    </a>
-                </div>
-            </div>
-
-            <div class="news-items align-items-start">
-
-                <div class="news-item card-h1">
-                    <div class="news-img-box">
-                        <img src="../../assets/imgs/case-studie-2.jpg" alt="Case Studie"/>
-                    </div>
-                    <div class="news-item-body">
-                        <h5 class="section-subtitle">CLOUD COMPUTING</h5>
-                        <h1 class="section-title">
-                            <a href="case-studie-single.php">Our cloud services are familiar in all ways 
-                                and we provide everywhere</a>
-                        </h1>
-                        <p>Small UK merchants, businesses, and other enterprises can now use  Tap to Pay on service to replace payment terminals at point of sale.</p>
-                        <ul>
-                            <li>
-                                <i class="las la-check"></i> Collaboration Tools
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Smart Reminders
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Requirement
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Task Management
-                            </li>
-                        </ul>
-                        <a href="case-studie-single.php" class="theme-btn">
-                            <i class="icon-right iconoir-arrow-up-right"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="news-item card-h1">
-                    <div class="news-img-box">
-                        <img src="../../assets/imgs/case-studie-3.jpg" alt="Case Studie"/>
-                    </div>
-                    <div class="news-item-body">
-                        <h5 class="section-subtitle">APP DEVELOPMENT</h5>
-                        <h1 class="section-title">
-                            <a href="case-studie-single.php">A new app for a samsung galaxy mobiles
-                                by bluebase</a>
-                        </h1>
-                        <p>Small UK merchants, businesses, and other enterprises can now use  Tap to Pay on service to replace payment terminals at point of sale.</p>
-                        <ul>
-                            <li>
-                                <i class="las la-check"></i> Collaboration Tools
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Smart Reminders
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Requirement
-                            </li>
-                        </ul>
-                        <a href="case-studie-single.php" class="theme-btn">
-                            <i class="icon-right iconoir-arrow-up-right"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="news-item card-h1">
-                    <div class="news-img-box">
-                        <img src="../../assets/imgs/case-studie-4.jpg" alt="Case Studie"/>
-                    </div>
-                    <div class="news-item-body">
-                        <h5 class="section-subtitle">WEB DEVELOPMENT</h5>
-                        <h1 class="section-title">
-                            <a href="case-studie-single.php">Bluebase launches Tap to Pay on smartphone for international and domestic business</a>
-                        </h1>
-                        <p>But employees say whether the layoffs are fresh or previously announced, they’re still losing their jobs.</p>
-                        <ul>
-                            <li>
-                                <i class="las la-check"></i> Collaboration Tools
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Smart Reminders
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Requirement
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Task Management
-                            </li>
-                        </ul>
-                        <a href="case-studie-single.php" class="theme-btn">
-                            <i class="icon-right iconoir-arrow-up-right"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="news-item card-h1">
-                    <div class="news-img-box">
-                        <img src="../../assets/imgs/case-studie-5.jpg" alt="Case Studie"/>
-                    </div>
-                    <div class="news-item-body">
-                        <h5 class="section-subtitle">SAAS SOLUTIONS</h5>
-                        <h1 class="section-title">
-                            <a href="case-studie-single.php">Google Bard launches in EU, overcoming data privacy concerns in the region</a>
-                        </h1>
-                        <p>The UN Security Council met with two artificial intelligence experts this week to debate the benefit</p>
-                        <ul>
-                            <li>
-                                <i class="las la-check"></i> Collaboration Tools
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Smart Reminders
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Requirement
-                            </li>
-                        </ul>
-                        <a href="case-studie-single.php" class="theme-btn">
-                            <i class="icon-right iconoir-arrow-up-right"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="news-item card-h1">
-                    <div class="news-img-box">
-                        <img src="../../assets/imgs/case-studie-6.jpg" alt="Case Studie"/>
-                    </div>
-                    <div class="news-item-body">
-                        <h5 class="section-subtitle">VR DEVELOPMENT</h5>
-                        <h1 class="section-title">
-                            <a href="case-studie-single.php">Virtual reality development for a worldwide
-                                platform by studio nine</a>
-                        </h1>
-                        <p>Small UK merchants, businesses, and other enterprises can now use  Tap to Pay on service to replace payment terminals at point of sale.</p>
-                        <ul>
-                            <li>
-                                <i class="las la-check"></i> Collaboration Tools
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Smart Reminders
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Requirement
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Task Management
-                            </li>
-                        </ul>
-                        <a href="case-studie-single.php" class="theme-btn">
-                            <i class="icon-right iconoir-arrow-up-right"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="news-item card-h1">
-                    <div class="news-img-box">
-                        <img src="../../assets/imgs/case-studie-7.jpg" alt="Case Studie"/>
-                    </div>
-                    <div class="news-item-body">
-                        <h5 class="section-subtitle">MOBILE APP DEVELOPMENT</h5>
-                        <h1 class="section-title">
-                            <a href="case-studie-single.php">We launches a new software service for a 
-                                mobile app development</a>
-                        </h1>
-                        <p>Five months after Google announced it was launching its own chatbot, the company has addressed the data issues had previously made.</p>
-                        <ul>
-                            <li>
-                                <i class="las la-check"></i> Collaboration Tools
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Smart Reminders
-                            </li>
-                            <li>
-                                <i class="las la-check"></i> Requirement
-                            </li>
-                        </ul>
-                        <a href="case-studie-single.php" class="theme-btn">
-                            <i class="icon-right las iconoir-arrow-up-right"></i>
-                        </a>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </section> -->
-
       <!-- why choose us -->
 
       <section class="company-service-area">
@@ -534,271 +328,7 @@ include '../includes/header.php'
         </div>
       </section>
 
-      <!-- Case Studio -->
-      <section class="case-studio-area">
-        <div class="custom-container">
-          <div class="case-studio-header text-center">
-            <h5 class="section-subtitle">CASE STUDIES</h5>
-            <h1 class="section-title">Proven Results Through Innovation</h1>
-          </div>
-
-          <div class="case-studio">
-            <ul
-              class="nav nav-pills case-studio-tabs"
-              id="myTab"
-              role="tablist"
-            >
-              <li class="nav-item">
-                <button
-                  class="nav-link active"
-                  id="development-tab"
-                  data-bs-toggle="tab"
-                  href="#development"
-                  role="tab"
-                  aria-controls="development"
-                  aria-selected="true"
-                >
-                  Automation
-                </button>
-              </li>
-              <li class="nav-item">
-                <button
-                  class="nav-link"
-                  id="woo_commerce-tab"
-                  data-bs-toggle="tab"
-                  href="#woo_commerce"
-                  role="tab"
-                  aria-controls="woo_commerce"
-                  aria-selected="false"
-                >
-                  AI/Computer Vision
-                </button>
-              </li>
-              <li class="nav-item">
-                <button
-                  class="nav-link"
-                  id="crm_solutions-tab"
-                  data-bs-toggle="tab"
-                  href="#crm_solutions"
-                  role="tab"
-                  aria-controls="crm_solutions"
-                  aria-selected="false"
-                >
-                  Cloud Deployment
-                </button>
-              </li>
-              <li class="nav-item">
-                <button
-                  class="nav-link"
-                  id="web_designing-tab"
-                  data-bs-toggle="tab"
-                  href="#web_designing"
-                  role="tab"
-                  aria-controls="web_designing"
-                  aria-selected="false"
-                >
-                  Digital Transformation
-                </button>
-              </li>
-              <li class="nav-item">
-                <button
-                  class="nav-link"
-                  id="it_support-tab"
-                  data-bs-toggle="tab"
-                  href="#it_support"
-                  role="tab"
-                  aria-controls="it_support"
-                  aria-selected="false"
-                >
-Intelligent                 </button>
-              </li>
-            </ul>
-            <div class="tab-content case-studio-tab-content">
-              <div
-                class="tab-pane fade show active"
-                id="development"
-                role="tabpanel"
-                aria-labelledby="development-tab"
-              >
-                <div class="case-studio-body d-flex">
-                  <div class="left d-flex flex-1">
-                    <div class="img-box">
-                      <img src="../assets/imgs/casestudy/cs_section1.png" alt="About" />
-                    </div>
-                  </div>
-                  <div class="right">
-                    <div class="case-studio-contents service-card card-h">
-                      <h5 class="section-subtitle">Security</h5>
-                      <br />
-
-                      <h3><a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.php">
-                        Automating Email Management for a Security Department
-                      </h3></a>
-                      <p>
-                        Revolutionizing security operations, we implemented
-                        advanced NLP to automate email assignment within a
-                        leading security department. This solution streamlined
-                        response times and enhanced operational efficiency,
-                        ensuring faster incident resolution and improved
-                        resource allocation.
-                      </p>
-                      <a href="../case-study/automating_email_management_with_ai_and_rpa_for_security.php" class="theme-btn">
-                        <i class="iconoir-arrow-up-right"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="tab-pane fade"
-                id="woo_commerce"
-                role="tabpanel"
-                aria-labelledby="woo_commerce-tab"
-              >
-                <div class="case-studio-body d-flex">
-                  <div class="left d-flex flex-1">
-                    <div class="img-box">
-                      <img src="../assets/imgs/casestudy/cs_section2.png" alt="About" />
-                    </div>
-                  </div>
-                  <div class="right">
-                    <div class="case-studio-contents service-card card-h">
-                      <h5 class="section-subtitle">Agriculture</h5>
-                      <br />
-
-                      <h3>
-                        <a href="../case-study/implementing_computer_vision.php">
-                        Developing Advanced CV Models for Fruit Ripeness
-                        Detection<a/>
-                      </h3>
-
-                      <p>
-                        Leveraging computer vision technology, we enabled
-                        precise fruit ripeness detection for agricultural
-                        applications. This innovation empowered farmers to
-                        optimize harvest times, minimize waste, and maximize
-                        crop yield, marking a significant advancement in
-                        agricultural automation and sustainability.
-                      </p>
-                      <a href="../case-study/implementing_computer_vision.php" class="theme-btn">
-                        <i class="iconoir-arrow-up-right"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="tab-pane fade"
-                id="crm_solutions"
-                role="tabpanel"
-                aria-labelledby="crm_solutions-tab"
-              >
-                <div class="case-studio-body d-flex">
-                  <div class="left d-flex flex-1">
-                    <div class="img-box">
-                      <img src="../assets/imgs/casestudy/cs_section3.png" alt="About" />
-                    </div>
-                  </div>
-                  <div class="right">
-                    <div class="case-studio-contents service-card card-h">
-                      <h5 class="section-subtitle">Information Technology</h5>
-                      <br />
-                      <h3>
-                        <a href="../case-study/automating_cloud_deployment.php">
-                        Automating Cloud Deployment for Workflow Management
-                        </a>
-                      </h3>
-
-                      <p>
-                        Facilitating seamless workflow management, our automated
-                        cloud deployment solution simplified the process for a
-                        leading software provider. By automating deployment
-                        tasks, we enhanced scalability, reduced downtime, and
-                        improved overall operational efficiency, enabling our
-                        client to focus more on innovation and growth.
-                      </p>
-                      <a href="../case-study/automating_cloud_deployment.php" class="theme-btn">
-                        <i class="iconoir-arrow-up-right"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              
-              </div>
-              <div
-                class="tab-pane fade"
-                id="web_designing"
-                role="tabpanel"
-                aria-labelledby="web_designing-tab"
-              >
-                <div class="case-studio-body d-flex">
-                  <div class="left d-flex flex-1">
-                    <div class="img-box">
-                      <img src="../assets/imgs/casestudy/cs_section4.png" alt="About" />
-                    </div>
-                  </div>
-                  <div class="right">
-                    <div class="case-studio-contents service-card card-h">
-                      <h5 class="section-subtitle">Construction</h5>
-                      <br />
-                      <h3>
-                        <a href="../case-study/digital_transformation_initiative.php"></a>
-                        Digital Transformation Initiative for an construction
-                        Company
-                      </h3>
-                      <p>
-                        Partnering with an construction company, we spearheaded
-                        a comprehensive digital transformation initiative. By
-                        integrating cutting-edge technologies and enhancing
-                        digital capabilities, we modernized their operations,
-                        improved customer engagement, and positioned them as
-                        industry leaders in interior design innovation.
-                      </p>
-                      <a href="../case-study/digital_transformation_initiative.php" class="theme-btn">
-                        <i class="iconoir-arrow-up-right"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                class="tab-pane fade"
-                id="it_support"
-                role="tabpanel"
-                aria-labelledby="it_support-tab"
-              >
-                <div class="case-studio-body d-flex">
-                  <div class="left d-flex flex-1">
-                    <div class="img-box">
-                      <img src="../assets/imgs/casestudy/cs_section5.png" alt="About" />
-                    </div>
-                  </div>
-                  <div class="right">
-                    <div class="case-studio-contents service-card card-h">
-                      <h5 class="section-subtitle">Knowledge Management</h5>
-                      <br />
-                      <h3 class="section-title"><a
-                        href="../case-study/intelligent_document_processing.php"
-                        >Smart Document Processing for Knowledge Management<a/></h3>
-                      <p>
-                        By integrating intelligent document processing, we
-                        transformed knowledge management for a prominent client.
-                        Our solution automated data extraction and
-                        classification, significantly reducing manual effort and
-                        enabling faster access to critical information, thereby
-                        boosting productivity and decision-making capabilities.
-                      </p>
-                      <a href="../case-study/intelligent_document_processing.php" class="theme-btn">
-                        <i class="iconoir-arrow-up-right"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <?php include '../includes/case_study.php';  ?>
 
       <section class="feature3-area">
         <!-- <img src="../assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left bg-shape" /> -->
@@ -846,200 +376,145 @@ Intelligent                 </button>
       <?php include '../includes/testimonials.php' ?>
 
       <!-- Contact -->
-      <section class="contact-area">
+      <section class="contact-area" >
         <div class="custom-container">
           <div class="custom-row">
             <div class="contact-form-wrap">
               <div class="contact-form-body">
                 <h5 class="section-subtitle">Contact</h5>
-                <h1 class="section-title">Lets get in touch</h1>
+                <h1 class="fw-bold mb-2">Supercharge Your Business?</h1>
                 <p>
-                  You can reach us anytime via
-                  <a href="mailto:bluebase@mail.com">support@toolfe.com</a>
+                  Get the Results You Deserve. Contact Us Today. <br>
+                  <!-- <a class="section-subtitle" href="mailto:support@toolfe.com">support@toolfe.com</a> -->
                 </p>
-                <form
-                  action="https://wpriverthemes.com/HTML/synck/../assets/mail/contact.php"
-                  method="POST"
-                  class="contact-form"
-                >
-                  <div class="input-row">
-                    <div class="input-group">
-                      <label for="first_name">First Name</label>
-                      <input
-                        id="first_name"
-                        type="text"
-                        name="first_name"
-                        placeholder="First Name"
-                      />
-                    </div>
-                    <div class="input-group">
-                      <label for="last_name">Last Name</label>
-                      <input
-                        id="last_name"
-                        type="text"
-                        name="last_name"
-                        placeholder="Last Name"
-                      />
+                <form id="form" method="POST" class="contact-form">
+                  <div class="input-row field">
+                    <div class="input-row">
+                      <div class="input-group">
+                        <label for="name">Full Name</label>
+                        <input type="text" id="name" name="FullName" placeholder="Enter Your name" />
+                      </div>
                     </div>
                   </div>
-                  <div class="input-row">
+                  <div class="input-row field">
                     <div class="input-group">
+
                       <label for="email">Email</label>
-                      <input
-                        type="email"
-                        id="email"
-                        name="email"
-                        placeholder="Your Email"
-                      />
-                    </div>
-                  </div>
-                  <div class="input-row">
-                    <div class="input-group">
-                      <label for="phone_number">Phone Number</label>
-                      <input
-                        id="phone_number"
-                        type="text"
-                        name="phone_number"
-                        placeholder="Eg: +91 1233****"
-                      />
+                      <input id="email" type="text" name="Email" placeholder="Enter Your Email" />
                     </div>
 
-                    <div class="input-group">
-                      <label for="country">Country</label>
-                      <input
-                        type="text"
-                        id="homeland"
-                        name="country"
-                        placeholder="Your Country"
-                      />
+                    <div class="input-group field">
+
+                      <label for="Phone">Phone</label>
+                      <input id="Phone" type="text" name="Phone" placeholder="Eg: +1 12123232" />
                     </div>
                   </div>
-                  <div class="input-row">
-                    <div class="input-group">
-                      <label for="email">Organization Name</label>
-                      <input
-                        type="text"
-                        id="email"
-                        name="email"
-                        placeholder="Enter organization name"
-                      />
+                  <div class="input-row field">
+                    <div class="input-group ">
+
+                      <label for="organization">Company Name</label>
+                      <input id="organization" type="text" name="Company" placeholder="Eg. Microsoft" />
                     </div>
                   </div>
-                  <div class="input-row">
+                  <div class="input-row field">
                     <div class="input-group">
                       <label for="message">Message</label>
-                      <textarea
-                        name="message"
-                        id="message"
-                        placeholder="Leave us a message...."
-                      ></textarea>
+                      <textarea name="Message" id="alert-message" placeholder="Leave us a message...."></textarea>
                     </div>
                   </div>
-                  <div class="input-row">
+                  <div class="input-row field">
                     <div class="input-group input-checkbox">
-                      <input type="checkbox" id="privacy_policy_accept" />
-                      <label for="privacy_policy_accept"
-                        >You agree to our
-                        <a href="#">terms and conditions.</a></label
-                      >
+                      <input type="checkbox" name="Agree To Terms" value="yes" id="privacy_policy_accept" />
+                      <label for="privacy_policy_accept">You agree to our
+                        <a href="../trust-center/terms.php" target="_blank">terms and conditions.</a></label>
                     </div>
                   </div>
 
-                  <div class="input-row">
-                    <div class="input-group">
-                      <button id="submit" class="theme-btn">Get Started</button>
+                  <div class="input-row field is-grouped">
+                    <div class="input-group control">
+                      <button id="submit-button" type="submit" class="theme-btn">Submit</button>
                     </div>
                   </div>
-                  <!-- Alert Message -->
-                  <div class="input-row">
-                    <div class="input-group alert-notification">
-                      <div id="alert-message" class="alert-msg"></div>
-                    </div>
-                  </div>
+
+        
+
                 </form>
+
+                <div id="alert-message" style="
+            display: none;
+            margin: 20px;
+            font-weight: bold;
+            color: linear-gradient(93deg, #f87708 4.1%, #fb4a55 59.93%, #e620af 98.17%);
+            padding: 8px;
+            background-color: beige;
+            border-radius: 4px;
+            border-color: aquamarine;
+          "></div>
+
               </div>
             </div>
 
             <div class="contact-experience">
               <ul>
+
                 <li>
-                  <h1>22+ <span>Years</span></h1>
-                  <p>Field Experience</p>
+                  <h1 >Client <span>Portal</span></h1>
+                  <p class="contact-text" ><a href="mailto:support@toolfe.com">support@toolfe.com</a></p>
                 </li>
                 <li>
-                  <h1>950+ <span>Projects</span></h1>
-                  <p>Done Around World</p>
+                  <h1>15 <span>Mins</span></h1>
+                  <p class="contact-text" >Response Time</p>
                 </li>
+
                 <li>
-                  <h1>99%</h1>
-                  <p>Client Satisfaction</p>
+                  <h1>15 <span>Min Free</span></h1>
+                  <p class="contact-text" >Consultation</p>
                 </li>
+
                 <li>
-                  <h1>1995+ <span>Year</span></h1>
-                  <p>Established On</p>
+                  <h1>15 <span>Hours</span></h1>
+                  <p class="contact-text" >Client Onboarding</p>
                 </li>
+
                 <li>
-                  <h1>2 <span>Mins</span></h1>
-                  <p>Response Time</p>
+                  <h1>15 <span>Hours Delivery</span></h1>
+                  <p class="contact-text" ><a href="https://www.hourspark.com">www.hourspark.com</a></p>
                 </li>
+
               </ul>
             </div>
-
             <div class="contact-infos">
               <div class="contact-infos-inner">
-                <div class="contact-info">
-                  <img src="../../assets/imgs/support-icon.svg" alt="Support" />
+                <div class="contact-info mb-0 border-0">
+                  <img src="../assets/imgs/contact_us/location.svg" alt="Map" />
                   <h3>Contact Info</h3>
-                  <p>
-                    +91 8217460923 <br />
-                    support@toolfe.com
-                  </p>
                 </div>
-                <div class="contact-office-info contact-info">
-                  <img src="../../assets/imgs/map-icon.svg" alt="Map" />
-                  <h3>Visit our office</h3>
+                <div class="contact-office-info contact-info mb-0 border-0">
+                  <!-- <img src="../assets/imgs/contact_us/location.svg" alt="Map" /> -->
+                  <h5 class="contact-text text-uppercase">INDIA</h5>
                   <p>
-                    12, HP Complex , Habibullah Road, T Nagar, Chennai - 600017<
-                    /p>
-                  </p>
+                    12, HP Complex , Habibullah Road, T-Nagar, Chennai-600017, India. <br>+91 8217 460 923 </p><br>
+                  <h5 class="contact-text text-uppercase">United States</h5>
+                  <p>270 E 1st Ave, Vancouver, BC V5T 1A6, Canada, USA. <br>
+                    +1 232 212 233</p>
                 </div>
 
                 <ul class="contact-social-links">
                   <li>
-                    <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i
-                        class="la-mail"
-                      ></i>
-                      Dribbble
+                    <a href="mailto:support@toolfe.com">
+                      <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-mail"></i>
+                      Email
                     </a>
-                  </li>
                   <li>
-                    <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i
-                        class="iconoir-twitter"
-                      ></i>
-                      Twitter
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i
-                        class="iconoir-instagram"
-                      ></i>
-                      Instagram
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <?xml version="1.0" encoding="UTF-8"?><i
-                        class="iconoir-linkedin"
-                      ></i>
+                    <a href="https://in.linkedin.com/company/toolfe">
+                      <?xml version="1.0" encoding="UTF-8"?><i class="iconoir-linkedin"></i>
                       linkedin
                     </a>
                   </li>
                 </ul>
               </div>
             </div>
+
           </div>
         </div>
       </section>

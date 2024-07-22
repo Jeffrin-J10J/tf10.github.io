@@ -124,7 +124,7 @@
                       <div class="footer-links">
                           <h3>Trust Center</h3>
                           <ul>
-                              <li><a href="#">Terms and Conditions</a></li>
+                              <li><a href="../terms/index.php">Terms and Conditions</a></li>
                               <li><a href="#">Privacy Policy</a></li>
                               <li><a href="#">Cookie Policy</a></li>
                           </ul>
