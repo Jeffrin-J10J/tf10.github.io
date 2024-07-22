@@ -1,4 +1,70 @@
 <script>
+        var $ball = document.querySelector("#ball");
+        var dragFlg = false;
+        var prevTime = 0;
+        var prevPos = { x: 0, y: 0 };
+        var prevVelocity = { x: 0, y: 0 };
+        var myVelocity = { x: 0, y: 0 };
+        var position = { x: 0, y: 0 };
+        var timer;
+
+        $ball.addEventListener("mousedown", dragStart);
+        window.addEventListener("mouseup", dragOut);
+        window.addEventListener("mousemove", mousemove);
+
+        function dragStart(e) {
+            var mouse = { x: e.pageX, y: e.pageY };
+            dragFlg = true;
+            prevTime = Date.now();
+            prevPos = { x: e.pageX, y: e.pageY };
+        }
+
+        function dragOut(e) {
+            if (dragFlg) {
+                dragFlg = false;
+
+                // Check position and adjust
+                if (position.x < 150) {
+                    position.x = 5;
+                } else {
+                    position.x = 250;
+                    window.location.href = '../contact/index.php';
+                    position.x = 5;
+                }
+
+                $ball.style.left = position.x + "px";
+            }
+        }
+
+        function mousemove(e) {
+            var mouse = { x: e.pageX, y: e.pageY };
+
+            if (dragFlg) {
+                var now = Date.now();
+                var deltaTime = now - prevTime;
+                var eventPos = { x: e.pageX, y: e.pageY };
+                var deltaPos = { x: eventPos.x - prevPos.x, y: 0 }; // Only update x position
+                deltaTime = deltaTime || 0;
+                var velocity = { x: deltaPos.x / deltaTime, y: 0 }; // Only update x velocity
+                var deltaVelocity = { x: velocity.x - prevVelocity.x, y: 0 };
+                myVelocity.x += deltaVelocity.x;
+                position.x += deltaPos.x;
+
+                // Boundary check
+                if (position.x < 0) position.x = 0;
+                if (position.x > 250) position.x = 250;
+
+                $ball.style.left = position.x + "px";
+
+                prevTime = now;
+                prevPos = eventPos;
+                prevVelocity = velocity;
+            }
+        }
+</script>
+
+
+<script>
   document.getElementById("form").addEventListener("submit", function (e) {
     e.preventDefault(); // Prevent the default form submission
     document.getElementById("alert-message").textContent = "Submitting..";
