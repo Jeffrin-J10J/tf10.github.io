@@ -4,7 +4,6 @@
 <?php
 include '../includes/header.php'
 ?>
-
 <!-- Main -->
 <main class="main-page service-details-page portfolio-details-page">
     <!-- Header Bar -->
@@ -185,6 +184,7 @@ include '../includes/header.php'
 
                 </div>
             </div>
+            
 
             <div class="portfolio-footer d-flex align-items-center justify-content-between w-full">
 
@@ -198,7 +198,7 @@ include '../includes/header.php'
                 </div>
 
                 <div class="slide-btn" id="slide-btn">
-                        <div id="slide-ball" class="ui-draggable ui-draggable-handle"></div>
+                        <div  class="ball" id="ball"></div>
                         <h4>Slide to book an appointment</h4>
                     </div>
 
@@ -635,6 +635,7 @@ include '../includes/header.php'
     <?php include '../includes/foot.php';  ?>
 
 </main>
+
 <?php
 include '../includes/footer.php'
 ?>

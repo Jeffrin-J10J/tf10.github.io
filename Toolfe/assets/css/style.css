@@ -7168,3 +7168,14 @@ img {
   color: #000 !important;
   border: 1px solid #000 !important;
 }
+
+.ball {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background: #ffffff;
+  position: absolute;
+  cursor: pointer;
+  left: 5px;
+  top: 5px;
+}

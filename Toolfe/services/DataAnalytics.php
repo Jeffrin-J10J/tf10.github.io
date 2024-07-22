@@ -202,7 +202,7 @@ Informs decisions through sentiment and feedback analysis.</p>
                 </div>
 
                 <div class="slide-btn" id="slide-btn">
-                    <div id="slide-ball"></div>
+                    <div  class="ball" id="ball"></div>
                     <h4>Slide to book an appointment</h4>
                 </div>
 
