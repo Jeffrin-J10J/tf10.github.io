@@ -81,8 +81,7 @@
                               <li><a href="../Industries/healthcare.php">Healthcare</a></li>
                               <li><a href="../Industries/finance&banking.php">Finance and Banking</a></li>
                               <li><a href="../Industries/ecommerce&retial.php">E-Commerce</a></li>
-                              <li><a href="../Industries/education.php">Education<span class="new">Automate</span></a>
-                              </li>
+                              <li><a href="../Industries/education.php">Education</a></li>
                               <li><a href="../Industries/realestate.php">Real Estate</a></li>
                               <li><a href="../Industries/Manufacturing.php">Manufacturing</a></li>
                               <li><a href="../Industries/media&entertinment.php">Media and Entertinment</a></li>
@@ -102,7 +101,7 @@
                               <li><a href="../services/SoftwareDevelopment.php">Web Application Development</a></li>
                               <li><a href="../services/WebDevelopment.php">Website Development</a></li>
                               <li><a href="../services/UXUI.php">User Experience Design UX/UI</a></li>
-                              <li><a href="https://hourspark.com/">15 Hour Spark Tasks</a></li>
+                              <li><a href="https://hourspark.com/">15 Hour Spark Tasks<span class="new">Hot</span></a></li>
                           </ul>
                       </div>
 
