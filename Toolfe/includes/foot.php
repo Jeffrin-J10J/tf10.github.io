@@ -124,9 +124,9 @@
                       <div class="footer-links">
                           <h3>Trust Center</h3>
                           <ul>
-                              <li><a href="../terms/index.php">Terms and Conditions</a></li>
-                              <li><a href="#">Privacy Policy</a></li>
-                              <li><a href="#">Cookie Policy</a></li>
+                              <li><a href="../trust-center/terms-and-conditions.php">Terms and Conditions</a></li>
+                              <li><a href="../trust-center/privacy-policy.php">Privacy Policy</a></li>
+                              <li><a href="../trust-center/cookie-policy.php">Cookie Policy</a></li>
                           </ul>
                       </div>
 
@@ -136,15 +136,14 @@
                       <div class="footer-contact-info-item">
                           <h4>Phone</h4>
                           <p>
-                              <a href="tel:8217460923">+91-821-746-0923</a> <br>
-                              <a href="tel:+1-938-740-75556">+1-938-740-7555</a>
+                              <a href="tel:8217460923">+91 8217 460 923</a> <br>
+                              <a href="tel:+1-938-740-75556">+1 938 740 7555</a>
                           </p>
                       </div>
                       <div class="footer-contact-info-item">
                           <h4>Mail</h4>
                           <p>
                               <a href="mailto:bluebase@mail.com">support@toolfe.com</a> <br>
-                              <!-- <a href="mailto:mandrodio@mail.com">mandrodio@mail.com</a> -->
                           </p>
                       </div>
                   </div>
@@ -161,8 +160,7 @@
                               <i class="iconoir-linkedin"></i>
                           </a></li>
                   </ul>
-
-                  <p>&copy; 2024 Toolfe All rights reserved by <a href="#">Zotork Private Limited</a></p>
+                  <p>&copy; 2024 Toolfe, All rights reserved by <a href=""><b>Zotork Private Limited</b></a></p>
               </div>
           </div>
       </div>

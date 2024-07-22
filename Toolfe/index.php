@@ -9,7 +9,7 @@
 
   <!-- ========== Page Title ========== -->
   <title>
-    Synck - New IT Services and Business Consulting HTML5 Template
+    Toolfe - New IT Services and Business Consulting HTML5 Template
   </title>
 
   <!-- ========== Start Fonts Style ========== -->
@@ -50,7 +50,7 @@
             <div class="right">
               <p>
                 Level up your business with
-                <a href="about.php" data-word="SYNCK." id="dataWord">SYNCK.</a>
+                <a href="about.php" data-word="Toolfe." id="dataWord">Toolfe.</a>
               </p>
             </div>
           </div>
@@ -1538,6 +1538,6 @@
   <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.0/build/spline-viewer.js"></script>
 </body>
 
-<!-- Mirrored from wpriverthemes.com/HTML/synck/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Jul 2024 19:00:29 GMT -->
+<!-- Mirrored from wpriverthemes.com/HTML/Toolfe/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Jul 2024 19:00:29 GMT -->
 
 </html>
