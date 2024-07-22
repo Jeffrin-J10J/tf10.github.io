@@ -325,20 +325,17 @@ include '../includes/header.php'
             <div class="hero-company-box simple-shadow">
                 <h1 class="mb-5" >50%</h1>
                 <h3><br>Cost <br> Reduction</h3>
-                <p>Robotic Process Automation significantly 
-                    cuts operational costs.</p>
+                <p>Robotic Process Automation significantly cuts operational costs.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1 class="mb-5" >30%</h1>
                 <h3><br>Automation<br>Activities</h3>
-                <p>30% of activities in 60% of jobs 
-                    are <br> automatable</p>
+                <p>Around 30% of current activities in 60% of jobs are automatable.</p>
             </div>
             <div class="hero-company-box simple-shadow">
                 <h1 class="mb-5" >40%</h1>
                 <h3><br>Error <br> Reduction</h3>
-                <p>Automation can significantly reduce
-                     error in processes.</p>
+                <p>Automation can significantly reduce human error in repetitive processes.</p>
             </div>
         </div>
 </div>

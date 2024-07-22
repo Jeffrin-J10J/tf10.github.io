@@ -312,24 +312,24 @@ include '../includes/header.php'
 <div class="custom-container">
 <div class="hero-company-boxes">
             <div class="hero-company-box simple-shadow">
-                <h1>50%</h1>
-                <h3>Efficiency Boost</h3>
-                <p>Automate repetitive tasks to save time and resources.</p>
+                <h1>85%</h1>
+                <h3><br> Mobile <br> User Experience</h3>
+                <p>Users value a smooth mobile app experience for better engagement and retention.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>30%</h1>
-                <h3>Cost Reduction</h3>
-                <p>Improved efficiency by reducing email processing time.</p>
+                <h1>79%</h1>
+                <h3><br>Mobile <br> Usage</h3>
+                <p>Consumers prefer using mobile apps over websites for convenience and speed.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>95%</h1>
-                <h3>Error Reduction</h3>
-                <p>Minimize human errors with automated processes.</p>
+                <h1>64%</h1>
+                <h3><br> App <br> Performance</h3>
+                <p>Users expect apps to load within 2 seconds, slower apps can lead to abandonment.</p>
             </div>
             <div class="hero-company-box simple-shadow">
-                <h1>24/7</h1>
-                <h3>Operations</h3>
-                <p>Ensure round-the-clock productivity with automation.</p>
+                <h1>78%</h1>
+                <h3><br> App <br> Design</h3>
+                <p>App design significantly influences user engagement and retention</p>
             </div>
         </div>
 </div>

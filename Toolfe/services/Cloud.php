@@ -335,7 +335,7 @@ include '../includes/header.php'
                 <div class="hero-company-box simple-shadow">
                     <h1>25%</h1>
                     <h3> <br>Enhanced <br> productivity</h3>
-                    <p>Boosts productivity through
+                    <p>Boosts productivity through seamless
                         remote collaboration</p>
                 </div>
                 <div class="hero-company-box simple-shadow">

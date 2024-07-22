@@ -323,7 +323,7 @@ include '../includes/header.php'
                     <h1>30%</h1>
                     <h3><br> Positive User <br> Experience</h3>
                     <p>Improved user experience
-                        through UX design influence.</p>
+                        through UX design influence and research.</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
                     <h1>50%</h1>
@@ -333,12 +333,12 @@ include '../includes/header.php'
                 </div>
                 <div class="hero-company-box simple-shadow">
                     <h1>200%</h1>
-                    <h3><br> Boost Conversion Rates</h3>
-                    <p>Good UI design can improve website conversion rates.</p>
+                    <h3><br> Boost Conversion Rate</h3>
+                    <p>Good UI design can significantly improve website conversion rates.</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
                     <h1>50%</h1>
-                    <h3><br> Higher Retention Rate</h3>
+                    <h3><br> Higher Retention <br> Rate</h3>
                     <p>Well-designed interfaces significantly increase user retention rates.</p>
                 </div>
             </div>

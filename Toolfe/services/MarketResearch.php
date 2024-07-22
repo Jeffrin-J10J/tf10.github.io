@@ -325,12 +325,12 @@ include '../includes/header.php'
             <div class="hero-company-boxes">
                 <div class="hero-company-box simple-shadow">
                     <h1>94%</h1>
-                    <h3><br>Market Driven Sucess</h3>
-                    <p>Automate repetitive tasks to save time and resources.</p>
+                    <h3><br>Market-Driven <br> Sucess</h3>
+                    <p>Successful product launches are backed by thorough market research.</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
                     <h1>89%</h1>
-                    <h3><br>Research Validation</h3>
+                    <h3><br>Research <br> Validation</h3>
                     <p>Executes rely on market research to validate businesss trategies</p>
                 </div>
                 <div class="hero-company-box simple-shadow">
@@ -341,7 +341,7 @@ include '../includes/header.php'
                 <div class="hero-company-box simple-shadow">
                     <h1>76%</h1>
                     <h3><br>Growth Through Research</h3>
-                    <p>Companies report increased profitability after implmenting market research</p>
+                    <p>Companies report increased profitability after implementing insights.</p>
                 </div>
             </div>
         </div>
