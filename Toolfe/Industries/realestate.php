@@ -151,8 +151,7 @@ include '../includes/header.php'
               <p>Streamlining Tenant Relations with Advanced Automation</p>
               <ul>
                 <li>
-                  <i class="las la-check"></i>Automate tenant onboarding
-                  processes for seamless integration.
+                  <i class="las la-check"></i>Automate tenant onboarding for seamless integration.
                 </li>
 
                 <li>

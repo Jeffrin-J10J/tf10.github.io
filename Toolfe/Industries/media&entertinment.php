@@ -450,7 +450,7 @@ include '../includes/header.php'
           <div class="left">
             <h5 class="section-subtitle">WHY CHOOSE US</h5>
             <h1 class="section-title">Why Choose Toolfe for Media?</h1>
-            <p>COur team of experts understands the unique challenges faced by
+            <p>Our team of experts understands the unique challenges faced by
               the media and entertainment industry. We are committed to
               providing innovative and reliable IT solutions that address
               these challenges effectively.Here's why you should partner with us:</p>
