@@ -26,7 +26,7 @@
                             </span>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="../about/about.php">about us</a>
+                                    <a href="../about/about.php">About us</a>
                                 </li>
                                 <li>
                                     <a href="https://blog.toolfe.com/">Blog</a>
@@ -236,7 +236,7 @@
                                                                 <img src="../assets/imgs/case3.svg" alt="Portfolio">
                                                             </div>
                                                             <div class="content-box">
-                                                                <h3><a href="portfolio-details.html"> Digital Transformation Initiative for <br> an constructionCompany</a></h3>
+                                                                <h3><a href="portfolio-details.html"> Digital Transformation Initiative <br> for an constructionCompany</a></h3>
                                                                 
                                                             </div>
                                                         </div>

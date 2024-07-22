@@ -549,7 +549,7 @@
     </section>
 
     <!-- Service -->
-    <section class="company-service-area">
+    <section class="">
       <div class="custom-container">
         <div class="hero-service-about">
           <div class="section-header d-flex align-items-center justify-content-between w-full">
@@ -593,7 +593,7 @@
             </ul>
           </div>
         </div>
-        <div class="hero-company-boxes" style="margin-top: 20px;">
+        <div class="hero-company-boxes" style="margin-top: 50px;">
           <div class="hero-company-box simple-shadow ">
             <h1 class="">100+</h1>
             <h3><br>Projects</h3>
@@ -623,7 +623,7 @@
 
     <section class="how-we-do-area">
       <div class="custom-container">
-        <div class="custom-row">
+        <div class="custom-row" style="margin-bottom: 80px">
           <img src="assets/imgs/bg-shape-1.svg" alt="Shape" class="animation-slide-left how-we-do-bg" />
           <div class="how-we-do-left-content">
             <div class="top">
