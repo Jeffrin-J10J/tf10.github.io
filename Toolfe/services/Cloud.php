@@ -450,6 +450,140 @@ include '../includes/header.php'
     </section>
 
 
+    <!-- Faq -->
+    <section class="faq-area  faq-style-2-area">
+        <div class="custom-container">
+            <div class="faq-inner">
+
+                <h5 class="section-subtitle">FAQ SECTION</h5>
+                <h1 class="section-title">Frequently asked questions</h1>
+
+                <div class="faq-items-box">
+                    <div class="faq-col">
+                        <div id="accordion">
+                            <div class="faq-box">
+                                <h5 class="card-header" id="headingOne">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
+                                        aria-controls="collapseOne">
+                                        <div class="icon">
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+                                        </div> What is cloud computing and <br> its benefits?
+                                    </button>
+                                </h5>
+
+                                <div id="collapseOne" class="collapse" aria-labelledby="headingOne"
+                                    data-parent="#accordion">
+                                    <div class="card-body">
+                                    Cloud computing offers scalable resources, cost efficiency, and flexibility.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="faq-box">
+                                <h5 class="card-header" id="headingTwo">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                        aria-expanded="false" aria-controls="collapseTwo">
+                                        <div class="icon">
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+                                        </div> How does cloud storage ensure data security?
+                                    </button>
+                                </h5>
+
+                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                    data-parent="#accordion">
+                                    <div class="card-body">
+                                    Cloud storage uses encryption, access controls, and regular backups.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="faq-box">
+                                <h5 class="card-header" id="headingThree">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                        aria-expanded="false" aria-controls="collapseThree">
+                                        <div class="icon">
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+                                        </div>Can cloud services reduce operational IT costs?
+
+                                    </button>
+                                </h5>
+
+                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                    data-parent="#accordion">
+                                    <div class="card-body">
+                                    Yes, cloud services minimize hardware costs and maintenance expenses.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="faq-col">
+                        <div id="accordion2">
+                            <div class="faq-box">
+                                <h5 class="card-header" id="headingFour">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                        aria-expanded="true" aria-controls="collapseFour">
+                                        <div class="icon">
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+                                        </div> How does cloud computing support business growth?
+                                    </button>
+                                </h5>
+
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                                    data-parent="#accordion2">
+                                    <div class="card-body">
+                                    It provides scalable resources and enhances collaboration and innovation.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="faq-box">
+                                <h5 class="card-header" id="headingFive">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                                        aria-expanded="false" aria-controls="collapseFive">
+                                        <div class="icon">
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+                                        </div> How reliable are cloud service providers’ infrastructures?
+
+                                    </button>
+                                </h5>
+
+                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                                    data-parent="#accordion2">
+                                    <div class="card-body">
+                                    Providers offer high availability, redundancy, and disaster recovery.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="faq-box">
+                                <h5 class="card-header" id="headingSix">
+                                    <button data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                                        aria-expanded="false" aria-controls="collapseSix">
+                                        <div class="icon">
+                                            <?xml version="1.0" encoding="UTF-8"?><i
+                                                class="iconoir-chat-bubble-check"></i>
+                                        </div>Can cloud computing integrate with existing systems?
+
+                                    </button>
+                                </h5>
+
+                                <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                                    data-parent="#accordion2">
+                                    <div class="card-body">
+                                    Yes, it supports various integration tools and APIs.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
 
     <!-- Testimonial Section -->
     <?php include '../includes/testimonials.php' ?>

@@ -361,7 +361,7 @@
 </header>
 
     <!-- Hero Section -->
-    <section class="hero-empowerment-area" style="background-image: url('./assets/imgs/section.png');">
+    <section class="hero-empowerment-area" style="background-image: url('./assets/imgs/section.png');background-repeat: no-repeat; background-size: cover;background-position: center;">
       <div class="custom-container">
         <div class="custom-row align-items-center mt-5">
           <div class="hero-empowerment-left-content">
